@@ -45,3 +45,6 @@ data/raw/
 
 # Release APK built by scripts/build-apk.ps1
 dist-apk/
+
+# AI assistant settings (from the Expo template)
+.claude/

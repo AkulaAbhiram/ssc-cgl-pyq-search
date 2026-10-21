@@ -1,5 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native';
-import { Link } from 'expo-router';
+import { Linking, Platform, StyleSheet, Text, View } from 'react-native';
 import type { GenerateMetadataFunction } from 'expo-router/server';
 import { Card, Screen, text } from '@/components/ui';
 import { meta } from '@/data/store';
@@ -24,9 +23,17 @@ export default function Download() {
         Search all {meta.count.toLocaleString('en-IN')} questions offline, on any Android phone. Free, no sign-up.
       </Text>
 
-      <Link href={APK_PATH as never} style={styles.button}>
+      {/* A plain browser link, not a router Link: the router would treat the
+          .apk path as a page and show "Topic not found". */}
+      <Text
+        style={styles.button}
+        accessibilityRole="link"
+        // react-native-web renders href as a real <a href download>.
+        {...({ href: APK_PATH, hrefAttrs: { download: 'ssc-cgl-pyq.apk' } } as object)}
+        onPress={Platform.OS === 'web' ? undefined : () => Linking.openURL(`${SITE_URL}${APK_PATH}`)}
+      >
         Download APK
-      </Link>
+      </Text>
 
       <Text style={text.h2}>How to install</Text>
       <Card>
