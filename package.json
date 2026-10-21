@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@types/react": "~19.3.0",
+    "cheerio": "^1.0.0",
     "typescript": "~6.0.3"
   },
   "scripts": {
@@ -30,7 +31,8 @@
     "build:index": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/build-index.mjs",
     "try-search": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/try-search.mjs",
     "build:web": "npm run build:index && expo export --platform web",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "import": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/import-response-sheets.mjs"
   },
   "private": true
 }
