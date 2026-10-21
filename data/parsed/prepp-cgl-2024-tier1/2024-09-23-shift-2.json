@@ -1,0 +1,1958 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-23",
+  "time": "12:30 PM - 1:30 PM",
+  "shift": 2,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_23_Tier_1_English_Question_Paper_and_Answer_Key_Shift_2__e0458fa6d3978a92c12f75f2723446a7.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged? 6408 × 8 + 27 – 15 ÷ 10 = ?",
+   "options": [
+    "922",
+    "923",
+    "924",
+    "921"
+   ],
+   "answer": 2,
+   "qid": "630680411728",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following numbers will replace the question mark (?) in the given series? 81, 65, 50, ?, 23, 11",
+   "options": [
+    "37",
+    "34",
+    "35",
+    "36"
+   ],
+   "answer": 3,
+   "qid": "630680411916",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, X + Y means ‘X is the sister of Y’, X − Y means ‘X is the son of Y’, X × Y means ‘X is the husband of Y’, X ÷ Y means ‘X is the mother of Y’. Based on the above, how is T related to X if ‘T + U − V × W ÷ X’?",
+   "options": [
+    "Sister",
+    "Father’s sister",
+    "Mother’s sister",
+    "Father’s mother"
+   ],
+   "answer": 0,
+   "qid": "630680261887",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: All crows are parrots. All eagles are parrots. All parrots are birds. Conclusions: I. No crow is a bird. II. Some birds are eagles. III. All birds are crows.",
+   "options": [
+    "All conclusions follow.",
+    "Both conclusions I and III follow.",
+    "Either conclusion II or III follows.",
+    "Only conclusion II follows."
+   ],
+   "answer": 3,
+   "qid": "630680416455",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different. The odd one out is not based on the number of consonants/vowels or their position in the letter cluster",
+   "options": [
+    "RTTUWW",
+    "NOPPSS",
+    "ACCDFF",
+    "IKKLNN"
+   ],
+   "answer": 1,
+   "qid": "63068062108",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "A square sheet of paper is folded along the dotted line successively along the directions shown and is then punched in the last as shown. How would the paper look when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680324726",
+   "figures": [
+    {
+     "file": "76cfd54dddb92313.png",
+     "w": 323,
+     "h": 100
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "2114701493fd9103.png",
+     "w": 100,
+     "h": 100
+    },
+    "1": {
+     "file": "fb47ce17ee0f1c9f.png",
+     "w": 100,
+     "h": 100
+    },
+    "2": {
+     "file": "df236f61563437fd.png",
+     "w": 101,
+     "h": 100
+    },
+    "3": {
+     "file": "7771ab2c1028ace6.png",
+     "w": 100,
+     "h": 100
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680318349",
+   "figures": [
+    {
+     "file": "1dc02b9ed38f7c00.png",
+     "w": 124,
+     "h": 151
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "eefe1c1d57bf5cd2.png",
+     "w": 64,
+     "h": 155
+    },
+    "1": {
+     "file": "80d0336e61f1a837.png",
+     "w": 64,
+     "h": 154
+    },
+    "2": {
+     "file": "536b355b15ab55f7.png",
+     "w": 65,
+     "h": 155
+    },
+    "3": {
+     "file": "f2780c524569f9bb.png",
+     "w": 65,
+     "h": 153
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘FLAKE’ is written as ‘&2348’ and ‘LAKES’ is written as ‘23@84’. How will ‘S’ be written in that language?",
+   "options": [
+    "4",
+    "3",
+    "&",
+    "@"
+   ],
+   "answer": 3,
+   "qid": "630680339164",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged if each of the letter in the word ‘IMPROVE’ is arranged in English alphabetical order?",
+   "options": [
+    "One",
+    "Three",
+    "Two",
+    "Zero"
+   ],
+   "answer": 3,
+   "qid": "630680349934",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of ? will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680524393",
+   "figures": [
+    {
+     "file": "8e3b0dc73f907368.png",
+     "w": 321,
+     "h": 70
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "148409861ffd8779.png",
+     "w": 69,
+     "h": 72
+    },
+    "1": {
+     "file": "666122ad86fcf27f.png",
+     "w": 69,
+     "h": 71
+    },
+    "2": {
+     "file": "c4a0afc50646113d.png",
+     "w": 70,
+     "h": 70
+    },
+    "3": {
+     "file": "c7b8e4e9e4f4fe73.png",
+     "w": 70,
+     "h": 71
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the option figure that when put in place of the question mark (?) will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680488556",
+   "figures": [
+    {
+     "file": "bcecfa93287c1416.png",
+     "w": 328,
+     "h": 71
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "e11e276c2c1b2fa1.png",
+     "w": 79,
+     "h": 77
+    },
+    "1": {
+     "file": "4317a77c2f853483.png",
+     "w": 77,
+     "h": 77
+    },
+    "2": {
+     "file": "94f0d09177f404e5.png",
+     "w": 76,
+     "h": 77
+    },
+    "3": {
+     "file": "fe348ee6abfb5e11.png",
+     "w": 78,
+     "h": 77
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three Statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: All peas are vegetables. All carrots are vegetables. All vegetables are greens. Conclusions: I. All peas are greens. II. All greens are carrots. III. Some greens are peas.",
+   "options": [
+    "Both conclusions II and III follow.",
+    "All conclusions follow.",
+    "Both conclusions I and III follow.",
+    "Both conclusions I and II follow."
+   ],
+   "answer": 2,
+   "qid": "630680416456",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "The same operation(s) are followed in all the given number pairs except one. Find that odd number pair. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "12 : 8",
+    "24 : 4",
+    "72 : 48",
+    "36 : 24"
+   ],
+   "answer": 1,
+   "qid": "630680412041",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−‘ are interchanged and ‘×’ and ‘÷’ are interchanged? 15 − 7 ÷ 4 + 36 × 9 = ?",
+   "options": [
+    "42",
+    "39",
+    "34",
+    "40"
+   ],
+   "answer": 1,
+   "qid": "630680336512",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘BAKE’ is coded as ‘FDMF’ and ‘TURN’ is coded as ‘XXTO’. How will ‘MOCK’ be coded in the given language?",
+   "options": [
+    "RQGL",
+    "QREL",
+    "QSEL",
+    "RRFL"
+   ],
+   "answer": 1,
+   "qid": "630680222583",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the term from among the given options that can replace the question mark (?) in the following series. MY 84, KW 80, IU 76, GS 72, ?",
+   "options": [
+    "FP 69",
+    "EQ 68",
+    "ER 70",
+    "FQ 71"
+   ],
+   "answer": 1,
+   "qid": "630680416231",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six letters V, C, R, E, X and Z are written on different faces of a dice. Two positions of this dice are shown in the figures below. Find the letter on the face opposite to C.",
+   "options": [
+    "R",
+    "Z",
+    "V",
+    "X"
+   ],
+   "answer": 3,
+   "qid": "630680222368",
+   "figures": [
+    {
+     "file": "3c4bba9154169e23.png",
+     "w": 101,
+     "h": 48
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the given sets. (3, 9, 27) (4, 16, 64) (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "(6, 36, 84)",
+    "(9, 81, 731)",
+    "(7, 49, 343)",
+    "(5, 25, 120)"
+   ],
+   "answer": 2,
+   "qid": "630680309755",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? XJUM, VLSO, TNQQ, RPOS, ?",
+   "options": [
+    "PRMT",
+    "QRMT",
+    "PRNU",
+    "PRMU"
+   ],
+   "answer": 3,
+   "qid": "630680416900",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option in which the numbers share the same relationship as that shared by the given pair of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) 4 : 32 7 : 98",
+   "options": [
+    "12 : 144",
+    "10 : 1000",
+    "8 : 192",
+    "3 : 18"
+   ],
+   "answer": 3,
+   "qid": "630680326570",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set. (84, 63, 42) (79, 47, 64) (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "(71, 53, 36)",
+    "(64, 51, 52)",
+    "(67, 48, 57)",
+    "(75, 33, 48)"
+   ],
+   "answer": 0,
+   "qid": "630680329210",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below. (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word) Frequency : Hertz",
+   "options": [
+    "Power : Newton",
+    "Resistance : Candela",
+    "Illuminance : Lux",
+    "Force : Volt"
+   ],
+   "answer": 2,
+   "qid": "630680417417",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many circles are there in the given figure?",
+   "options": [
+    "12",
+    "10",
+    "11",
+    "13"
+   ],
+   "answer": 2,
+   "qid": "630680296583",
+   "figures": [
+    {
+     "file": "dc674e9d2187af80.png",
+     "w": 100,
+     "h": 100
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680356655",
+   "figures": [
+    {
+     "file": "8a2f2ef01fe1ce9e.png",
+     "w": 77,
+     "h": 79
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "22dcdcba0475aad1.png",
+     "w": 73,
+     "h": 20
+    },
+    "1": {
+     "file": "8c2d62034ce2b87c.png",
+     "w": 73,
+     "h": 19
+    },
+    "2": {
+     "file": "1bd9c789f534cc89.png",
+     "w": 72,
+     "h": 18
+    },
+    "3": {
+     "file": "466470cc53b4b858.png",
+     "w": 67,
+     "h": 17
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. X _ _ Y_X X _ _ X _ _",
+   "options": [
+    "Y X X Y Y X X",
+    "X X Y Y A A X",
+    "X X X Y X X Y",
+    "Y Y X Y A X X"
+   ],
+   "answer": 2,
+   "qid": "630680296795",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Who among the following Indian classical dancers is associated with Kuchipudi?",
+   "options": [
+    "Meenakshi Medhi",
+    "Sanjukta Panigrahi",
+    "Malavika Sarkar",
+    "Vempati Chinna Satyam"
+   ],
+   "answer": 3,
+   "qid": "630680512084",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "How many ICC World Cups has India won in ODI?",
+   "options": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "answer": 1,
+   "qid": "630680510823",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "With reference of Ajivikas, consider the following statements. a) Makkhali Gosala was the prominent teacher of this sect. b) Ajivikas believed in fatalism. Which of the above statements is/are correct?",
+   "options": [
+    "Both a and b",
+    "Neither a or b",
+    "Only b",
+    "Only a"
+   ],
+   "answer": 0,
+   "qid": "630680412356",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Who first stated the principle of refraction that postulates that every substance has a specific bending ratio – ‘refractive index’?",
+   "options": [
+    "Dennis Gabor",
+    "Thomas Young",
+    "David Brewster",
+    "Willebrord Snellius"
+   ],
+   "answer": 3,
+   "qid": "630680295291",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "Who among the following was appointed as the Chief Economic Advisor (CEA) to the Indian government in 2022?",
+   "options": [
+    "Raghuram Rajan",
+    "Kaushik Basu",
+    "TV Somanathan",
+    "Venkatramanan Anantha Nageswaran"
+   ],
+   "answer": 3,
+   "qid": "630680413022",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Which Article in the fundamental duty is invoked when you see in a private party that the Indian flag has been used as a covering for the speaker’s desk?",
+   "options": [
+    "Article 51A (b)",
+    "Article 51A (c)",
+    "Article 51A (d)",
+    "Article 51A (a)"
+   ],
+   "answer": 3,
+   "qid": "630680229956",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Kati Bihu is celebrated in which of the following months in Assam?",
+   "options": [
+    "March",
+    "November",
+    "January",
+    "October"
+   ],
+   "answer": 3,
+   "qid": "630680216072",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Coir conductor Coomi Nariman Wadia was awarded with which of the following awards by the Government of India in 2023?",
+   "options": [
+    "Padma Vibhushan",
+    "Bharat Ratna",
+    "Padma Bhushan",
+    "Padma Shri"
+   ],
+   "answer": 3,
+   "qid": "630680415817",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "What is the gas evolved when zinc reacts with sulphuric acid?",
+   "options": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Hydrogen sulphide",
+    "Hydrogen"
+   ],
+   "answer": 3,
+   "qid": "63068074773",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Name the pension scheme that seeks to ensure old age protection for unorganised workers.",
+   "options": [
+    "Pradhan Mantri Mudra Yojna",
+    "Pradhan Mantri Shram Yogi Maandhan",
+    "Pradhan Mantri Suraksha Bhima Yojna",
+    "Atal Pension Yojana"
+   ],
+   "answer": 1,
+   "qid": "630680183658",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Who published Systema Naturae in 1735 classifying the three kingdoms of nature and outlining the sexual system for the classification of plants?",
+   "options": [
+    "Carolus Linnaeus",
+    "Robert Whittaker",
+    "Ernst Haeckel",
+    "Carl Woese"
+   ],
+   "answer": 0,
+   "qid": "630680407432",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "In 2022, who has been appointed as new Attorney General of India?",
+   "options": [
+    "R Venkatramani",
+    "Mukul Rohatgi",
+    "Niren De",
+    "KK Venugopal"
+   ],
+   "answer": 0,
+   "qid": "630680195356",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "The most common rainfall measurement is the total rainfall depth during a given period, which is expressed in ________.",
+   "options": [
+    "millimetres (mm)",
+    "hectopascal (hPa)",
+    "millibar (mbar)",
+    "kilopascal (kPa)"
+   ],
+   "answer": 0,
+   "qid": "63068094173",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT a kharif crop?",
+   "options": [
+    "Cotton",
+    "Paddy",
+    "Wheat",
+    "Soyabean"
+   ],
+   "answer": 2,
+   "qid": "63068091578",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "Which of the following statements about the second five-year plan is INCORRECT?",
+   "options": [
+    "The plan was based on the Keynesian Model.",
+    "Electricity, Railway, Steel etc. industries were established during the plan.",
+    "The plan stressed the rapid industrialisation of heavy and basic industries.",
+    "The socialist pattern of the society was reflected in the plan."
+   ],
+   "answer": 0,
+   "qid": "630680410438",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "Being the President of the Indian National Congress, who among the following had called for complete independence from the British Raj in 1929?",
+   "options": [
+    "Subhas Chandra Bose",
+    "Sardar Vallabhbhai Patel",
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi"
+   ],
+   "answer": 2,
+   "qid": "630680511500",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT a tributary of Ganga?",
+   "options": [
+    "Yamuna",
+    "Kosi",
+    "Lohit",
+    "Gandak"
+   ],
+   "answer": 2,
+   "qid": "630680309104",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Which of the following ministries launched the PM Daksh scheme?",
+   "options": [
+    "Ministry of Electronics and Information Technology",
+    "Ministry of Education",
+    "Ministry of Social Justice and Empowerment",
+    "Ministry of Food Processing Industries"
+   ],
+   "answer": 2,
+   "qid": "630680113585",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "When a person is NOT paying anything for public goods, it is known as _________.",
+   "options": [
+    "private good",
+    "rivalrous",
+    "non-excludable",
+    "free rider"
+   ],
+   "answer": 3,
+   "qid": "630680324424",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "Which of the following team events is included in the Target Olympic Podium Scheme?",
+   "options": [
+    "Hockey",
+    "Cricket",
+    "Football",
+    "Tennis"
+   ],
+   "answer": 0,
+   "qid": "630680309511",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "__________ is often touted as Tansen of the 20th century, this musical genius blended the best of classical music and created a unique style of his own.",
+   "options": [
+    "Ustad Ali Baksh Khan",
+    "Bade Ghulam Ali Khan",
+    "Barkat Ali Khan",
+    "Mubarak Ali Khan"
+   ],
+   "answer": 1,
+   "qid": "630680409223",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "In 1936, The Independent Labour Party was founded by _______.",
+   "options": [
+    "BR Ambedkar",
+    "Bhagat Singh",
+    "Bal Gangadhar Tilak",
+    "Mohan Singh Bhakhna"
+   ],
+   "answer": 0,
+   "qid": "630680412313",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "Which of the following is another name of vitamin C?",
+   "options": [
+    "Pyridoxal",
+    "Pyridoxine",
+    "Pyridoxamine",
+    "Ascorbic acid"
+   ],
+   "answer": 3,
+   "qid": "630680305636",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Articles 214 to 231 in Part VI of the Indian Constitution deal with the __________.",
+   "options": [
+    "High Courts",
+    "Supreme Court",
+    "Subordinate Courts",
+    "District Courts"
+   ],
+   "answer": 0,
+   "qid": "630680326515",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "Which of the following Sultans of Delhi primarily adopted a policy of consolidation rather than expansion?",
+   "options": [
+    "Bahlol Lodi",
+    "Ibrahim Lodi",
+    "Balban",
+    "Alauddin Khalji"
+   ],
+   "answer": 2,
+   "qid": "630680412430",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "1600",
+    "2000",
+    "2200",
+    "1800"
+   ],
+   "answer": 1,
+   "qid": "630680428113",
+   "figures": [
+    {
+     "file": "0b8e467333140891.png",
+     "w": 328,
+     "h": 138
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "XAB and XCD are two secants to a circle. If XA = 18 cm, AB = 22 cm and XC = 24 cm, then find the value of XD (in cm).",
+   "options": [
+    "28",
+    "34",
+    "30",
+    "21"
+   ],
+   "answer": 2,
+   "qid": "630680403924",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "The given pie-chart shows the percentage distribution of the expenditure incurred in publishing a book. What is the central angle of the sector corresponding to the expenditure incurred on binding?",
+   "options": [
+    "82.8°",
+    "48.8°",
+    "78.8°",
+    "61.8°"
+   ],
+   "answer": 0,
+   "qid": "630680428005",
+   "figures": [
+    {
+     "file": "6b514b5f973ae4f7.png",
+     "w": 169,
+     "h": 163
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "Find the fourth proportional to 4, 9 and 16.",
+   "options": [
+    "36",
+    "18",
+    "16",
+    "27"
+   ],
+   "answer": 0,
+   "qid": "630680428636",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680526475",
+   "figures": [
+    {
+     "file": "54ef7eb2d7a0266e.png",
+     "w": 291,
+     "h": 38
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "be40d9b701d5c237.png",
+     "w": 54,
+     "h": 41
+    },
+    "1": {
+     "file": "c08749992a2caa76.png",
+     "w": 43,
+     "h": 36
+    },
+    "2": {
+     "file": "98cd20f19105990b.png",
+     "w": 41,
+     "h": 32
+    },
+    "3": {
+     "file": "84fee8401c7e45e8.png",
+     "w": 46,
+     "h": 38
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "If the medians of a triangle are equal, then the triangle will be:",
+   "options": [
+    "right angled triangle",
+    "obtuse angle triangle",
+    "scalene triangle",
+    "equilateral triangle"
+   ],
+   "answer": 3,
+   "qid": "630680526579",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680357977",
+   "figures": [
+    {
+     "file": "7fe28d0dfceba7b7.png",
+     "w": 228,
+     "h": 37
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "e66da6a8de9c6fab.png",
+     "w": 46,
+     "h": 23
+    },
+    "1": {
+     "file": "8ca9641b72fe853c.png",
+     "w": 39,
+     "h": 22
+    },
+    "2": {
+     "file": "9678532e047a1ab6.png",
+     "w": 52,
+     "h": 22
+    },
+    "3": {
+     "file": "ea15374c156f964c.png",
+     "w": 38,
+     "h": 20
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "The length, breadth and height of a room is 15 m, 9 m, and 5 m, respectively. From each can of paint 40 square metre of area is painted. How many cans of paint will be needed to paint only the walls of the room?",
+   "options": [
+    "6",
+    "12",
+    "8",
+    "4"
+   ],
+   "answer": 0,
+   "qid": "630680421511",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "A motorboat, whose speed in 15 km/h in still water goes 50 km downstream and comes back in a total of 7 hours 30 minutes. The speed of the stream (in km/h) is:",
+   "options": [
+    "5",
+    "11",
+    "9",
+    "7"
+   ],
+   "answer": 0,
+   "qid": "630680428631",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "The simple interest on a sum for 8 years is three-fifth of the sum. The rate of interest per annum is:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680349023",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "75bc652931ac59c8.png",
+     "w": 22,
+     "h": 17
+    },
+    "1": {
+     "file": "c75ddb0eeae32148.png",
+     "w": 32,
+     "h": 24
+    },
+    "2": {
+     "file": "58aadd3937a40f86.png",
+     "w": 22,
+     "h": 17
+    },
+    "3": {
+     "file": "e210037ff2d624be.png",
+     "w": 32,
+     "h": 25
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "The marked price of a bed sheet is ₹500. At the time of its sale, two successive discounts of 10% and 5% are available. Find the selling price (in ₹) of the bed sheet.",
+   "options": [
+    "427.50",
+    "430.00",
+    "445.00",
+    "432.50"
+   ],
+   "answer": 0,
+   "qid": "630680216679",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "Hema is 20 years old and her sister Neha is 30 years old. How many years ago were their ages in the ratio of 3 : 5?",
+   "options": [
+    "5",
+    "3",
+    "2",
+    "7"
+   ],
+   "answer": 0,
+   "qid": "630680285562",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680413486",
+   "figures": [
+    {
+     "file": "f8cf4e7197763adf.png",
+     "w": 324,
+     "h": 21
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "7d2eb98615cbb6da.png",
+     "w": 16,
+     "h": 11
+    },
+    "1": {
+     "file": "7a7cbdb055433639.png",
+     "w": 13,
+     "h": 15
+    },
+    "2": {
+     "file": "ed4dbb56f24a5a02.png",
+     "w": 13,
+     "h": 13
+    },
+    "3": {
+     "file": "3479cd1893bfc055.png",
+     "w": 19,
+     "h": 13
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "1",
+    "5",
+    "2",
+    "0"
+   ],
+   "answer": 3,
+   "qid": "630680428168",
+   "figures": [
+    {
+     "file": "8eaa9aa6d701af3c.png",
+     "w": 328,
+     "h": 134
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "Three pipes, P, Q and R, together take four hours to fill a tank. All the three pipes were opened at the same time. After three hours, P was closed, and Q and R filled the remaining tank in two hours. How many hours will P alone take to fill the tank?",
+   "options": [
+    "10",
+    "12",
+    "8",
+    "9"
+   ],
+   "answer": 2,
+   "qid": "630680395097",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "AB is the chord of the circle with centre O. A line segment DOC originating from a point D on the circumference of the circle in major segment meets AB produced at C such that BC = OD. If angle BCO = 30°, then angle AOD is:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680358080",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "1afd2402b14e0cbb.png",
+     "w": 25,
+     "h": 17
+    },
+    "1": {
+     "file": "359e63843b7ac356.png",
+     "w": 28,
+     "h": 15
+    },
+    "2": {
+     "file": "21b38f7a553c5388.png",
+     "w": 23,
+     "h": 17
+    },
+    "3": {
+     "file": "02de0219eeeee9b6.png",
+     "w": 22,
+     "h": 17
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "The distance between the longest chord and the centre of a circle is:",
+   "options": [
+    "equal to the diameter",
+    "equal to the radius",
+    "equal to the half of the radius",
+    "equal to zero unit"
+   ],
+   "answer": 3,
+   "qid": "630680401694",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "If cos A + cos2A = 1 then sin2A + sin4A is equal to:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680397694",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "27da52881c7ae2fc.png",
+     "w": 6,
+     "h": 9
+    },
+    "1": {
+     "file": "c3f378e5d2f104c9.png",
+     "w": 6,
+     "h": 9
+    },
+    "2": {
+     "file": "47b767c24da5d2f5.png",
+     "w": 36,
+     "h": 25
+    },
+    "3": {
+     "file": "62c0f6b19ffd68a8.png",
+     "w": 33,
+     "h": 26
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "A mango juice is made by mixing water and mango concentrate in the ratio 9 : 7. If x litres of water and 3x litres of mango concentrate is mixed in 160 litres of mango juice, then the new ratio becomes 13 : 14. What is the quantity of the new mango juice (in litres)?",
+   "options": [
+    "206",
+    "216",
+    "197",
+    "212"
+   ],
+   "answer": 1,
+   "qid": "630680397523",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "19",
+    "33",
+    "-31",
+    "-17"
+   ],
+   "answer": 0,
+   "qid": "630680427991",
+   "figures": [
+    {
+     "file": "64a25100f6a3f7ca.png",
+     "w": 127,
+     "h": 50
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680421298",
+   "figures": [
+    {
+     "file": "e9c4ec7cc1e4e6ff.png",
+     "w": 328,
+     "h": 196
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "678a0255a2f62724.png",
+     "w": 42,
+     "h": 10
+    },
+    "1": {
+     "file": "2a5374a4baeb8238.png",
+     "w": 42,
+     "h": 10
+    },
+    "2": {
+     "file": "b8fcbb0be4ae2571.png",
+     "w": 42,
+     "h": 10
+    },
+    "3": {
+     "file": "3a4d7ec0fa7e0340.png",
+     "w": 42,
+     "h": 10
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "The marked price of 55 items was equal to the cost price of 99 items. The selling price of 56 items was equal to the marked price of 35 items. Calculate the profit or loss percentage from the sale of each item.",
+   "options": [
+    "12.5% profit",
+    "15% profit",
+    "12.25% profit",
+    "12.5% loss"
+   ],
+   "answer": 0,
+   "qid": "630680429016",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "The least number which must be subtracted from 7278745 so as to obtain a sum that is divisible by 11 is:",
+   "options": [
+    "1",
+    "3",
+    "5",
+    "2"
+   ],
+   "answer": 0,
+   "qid": "630680125132",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "Ten chairs and six tables together cost ₹5,140; three chairs and two tables together cost ₹1,635. The cost of 1 chair and 1 table is:",
+   "options": [
+    "₹800",
+    "₹700",
+    "₹900",
+    "₹600"
+   ],
+   "answer": 1,
+   "qid": "630680378014",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "In an election between two candidates, P received 42% of the valid votes and Q won by 45,360 votes. 20% people did not cast their vote. If 10% of the votes cast were found invalid, what is the total number of votes registered in the poll booth?",
+   "options": [
+    "3,59,000",
+    "3,53,790",
+    "3,93,750",
+    "3,93,600"
+   ],
+   "answer": 2,
+   "qid": "630680395381",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Obstinate",
+   "options": [
+    "Submissive",
+    "Stubborn",
+    "Adaptive",
+    "Obedient"
+   ],
+   "answer": 1,
+   "qid": "630680214315",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the correctly spelt word to fill in the blank. My grandmother ________________ the preparation of every festival celebration in my house.",
+   "options": [
+    "inetiates",
+    "initiates",
+    "enitiates",
+    "enetiates"
+   ],
+   "answer": 1,
+   "qid": "630680374779",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. Aesthetic value is specifically a way in which we can get positive conclude value from the world at large.",
+   "options": [
+    "can get positive convalescent value",
+    "can get positive contrastive value",
+    "can get positive conclusive value",
+    "can get positive convulsive value"
+   ],
+   "answer": 2,
+   "qid": "630680176813",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. P. and has also created a wide gap between them Q. laid too much stress on R. teachers and students S. online mode of education has",
+   "options": [
+    "SQRP",
+    "PSQR",
+    "RQPS",
+    "SRPQ"
+   ],
+   "answer": 0,
+   "qid": "630680134974",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A thing that can be easily carried by hands",
+   "options": [
+    "Import",
+    "Portable",
+    "Potable",
+    "Export"
+   ],
+   "answer": 1,
+   "qid": "630680414626",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "In the question, four alternatives are given for the underlined word in the sentence. Choose the alternative which best expresses the opposite meaning of the word. It was as if the newer hybrids had an insatiable appetite for chemicals.",
+   "options": [
+    "Curbed",
+    "Urgent",
+    "Pressing",
+    "Satisfiable"
+   ],
+   "answer": 3,
+   "qid": "630680517301",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Left out in the cold",
+   "options": [
+    "To be in hiding",
+    "To be ignored",
+    "To go underground",
+    "To be extremely negative"
+   ],
+   "answer": 1,
+   "qid": "630680129573",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Parts of the following sentence have been given as options. Select the option that contains an error. He always wants to be in the company of those who are intellectually superior than him.",
+   "options": [
+    "those who are intellectually",
+    "superior than him.",
+    "He always wants to",
+    "be in the company of"
+   ],
+   "answer": 1,
+   "qid": "630680297406",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Break the ice",
+   "options": [
+    "Nervousness before a performance",
+    "To say or do something that makes people feel more relaxed, especially at the beginning of a meeting, party",
+    "Respect for someone’s achievements",
+    "Ill-feeling carried by a person over a period of time"
+   ],
+   "answer": 1,
+   "qid": "630680375530",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Parts of the following sentence have been given as options. Select the option that contains an error. I have sing ‘Let It Go’ before a crowd of thousands of people.",
+   "options": [
+    "thousands of people",
+    "a crowd of",
+    "I have sing",
+    "‘Let It Go’ before"
+   ],
+   "answer": 2,
+   "qid": "630680319122",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Identify the most appropriate ANTONYM of the underlined word in the given sentence. Lady Stranleigh continued to smile at him brilliantly.",
+   "options": [
+    "Brightly",
+    "Dimly",
+    "Cunningly",
+    "Strangely"
+   ],
+   "answer": 1,
+   "qid": "630680395157",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. O. want P. movie tonight Q. do you R. to watch S. the",
+   "options": [
+    "OSPQR",
+    "RSPQO",
+    "OSQPR",
+    "QORSP"
+   ],
+   "answer": 3,
+   "qid": "630680374393",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the option that correctly expresses the given sentence in passive voice. Mr. Amar refused him admittance.",
+   "options": [
+    "Admittance would be refused to him by Mr. Amar.",
+    "Admittance shall be refused to him by Mr. Amar.",
+    "Admittance was refused to him by Mr. Amar.",
+    "Admittance will be refused to him by Mr. Amar."
+   ],
+   "answer": 2,
+   "qid": "630680206763",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. P) always favours Q) only the R) fortune S) bold",
+   "options": [
+    "RPQS",
+    "SQPR",
+    "SRQP",
+    "PQRS"
+   ],
+   "answer": 0,
+   "qid": "630680377252",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate homophone to fill in the blank. The summer was ______ hot this year.",
+   "options": [
+    "to",
+    "tow",
+    "two",
+    "too"
+   ],
+   "answer": 3,
+   "qid": "630680131808",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. A. Only for themselves B. Is full of C. People who live D. The world",
+   "options": [
+    "BCAD",
+    "ABCD",
+    "DBAC",
+    "DBCA"
+   ],
+   "answer": 3,
+   "qid": "630680360806",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the bracketed word in the following sentence to fill in the blank. The mothers, who suffer from postpartum depression, feel ______ by their children. (vexed)",
+   "options": [
+    "delighted",
+    "pacific",
+    "annoyed",
+    "recovered"
+   ],
+   "answer": 2,
+   "qid": "630680332774",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the correct spelling of the underlined word in the sentence. Can you please come back to reality from the fectitious world you live in?",
+   "options": [
+    "factional",
+    "fractional",
+    "fictitious",
+    "factitious"
+   ],
+   "answer": 2,
+   "qid": "630680409967",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Purify",
+   "options": [
+    "Chant",
+    "Invite",
+    "Pollute",
+    "Wash"
+   ],
+   "answer": 2,
+   "qid": "630680517559",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in active voice. Trigonometry has been taught by him for donkey’s years.",
+   "options": [
+    "He has been teaching trigonometry for donkey’s years.",
+    "He had been teaching trigonometry for donkey’s years.",
+    "He is teaching trigonometry for donkey’s years.",
+    "He has been trigonometry teaching for donkey’s years."
+   ],
+   "answer": 0,
+   "qid": "630680415250",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Music is perhaps the most popular and widely practised (1)______ of fine arts, transcending all kinds of cultural and linguistic barriers. Any form of fine art is (2)________ to master and almost impossible to perfect, and music is no exception. Nature, it is learnt, has blessed almost two-thirds of the human race with musical ability of some sort. Music has the power to (3)______ out the deepest emotions. In fact, it is a magic medicine, and many seek refuge in it when they are depressed or stressed. It is this intimacy that makes us listen to music (4)______ even hum or sing sometimes. This singing, or realistically speaking, expressing one’s emotion musically sometimes takes a serious turn. The desire to sing before an audience is innocent and beautiful, and indeed, it is perfectly alright to have such a genuine desire. But it is also important to understand that singing is an (5)________ art—a highly refined one at that, which requires systematic, prolonged and strict training to be acceptable.\n\nChoose the most appropriate option to fill in blank no. 1.",
+   "options": [
+    "form",
+    "design",
+    "format",
+    "substance"
+   ],
+   "answer": 0,
+   "qid": "630680160893",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Music is perhaps the most popular and widely practised (1)______ of fine arts, transcending all kinds of cultural and linguistic barriers. Any form of fine art is (2)________ to master and almost impossible to perfect, and music is no exception. Nature, it is learnt, has blessed almost two-thirds of the human race with musical ability of some sort. Music has the power to (3)______ out the deepest emotions. In fact, it is a magic medicine, and many seek refuge in it when they are depressed or stressed. It is this intimacy that makes us listen to music (4)______ even hum or sing sometimes. This singing, or realistically speaking, expressing one’s emotion musically sometimes takes a serious turn. The desire to sing before an audience is innocent and beautiful, and indeed, it is perfectly alright to have such a genuine desire. But it is also important to understand that singing is an (5)________ art—a highly refined one at that, which requires systematic, prolonged and strict training to be acceptable.\n\nChoose the most appropriate option to fill in blank no. 2.",
+   "options": [
+    "difficult",
+    "easy",
+    "irksome",
+    "serious"
+   ],
+   "answer": 0,
+   "qid": "630680160894",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Music is perhaps the most popular and widely practised (1)______ of fine arts, transcending all kinds of cultural and linguistic barriers. Any form of fine art is (2)________ to master and almost impossible to perfect, and music is no exception. Nature, it is learnt, has blessed almost two-thirds of the human race with musical ability of some sort. Music has the power to (3)______ out the deepest emotions. In fact, it is a magic medicine, and many seek refuge in it when they are depressed or stressed. It is this intimacy that makes us listen to music (4)______ even hum or sing sometimes. This singing, or realistically speaking, expressing one’s emotion musically sometimes takes a serious turn. The desire to sing before an audience is innocent and beautiful, and indeed, it is perfectly alright to have such a genuine desire. But it is also important to understand that singing is an (5)________ art—a highly refined one at that, which requires systematic, prolonged and strict training to be acceptable.\n\nChoose the most appropriate option to fill in blank no. 3.",
+   "options": [
+    "catalyse",
+    "yield",
+    "bring",
+    "effect"
+   ],
+   "answer": 2,
+   "qid": "630680160895",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Music is perhaps the most popular and widely practised (1)______ of fine arts, transcending all kinds of cultural and linguistic barriers. Any form of fine art is (2)________ to master and almost impossible to perfect, and music is no exception. Nature, it is learnt, has blessed almost two-thirds of the human race with musical ability of some sort. Music has the power to (3)______ out the deepest emotions. In fact, it is a magic medicine, and many seek refuge in it when they are depressed or stressed. It is this intimacy that makes us listen to music (4)______ even hum or sing sometimes. This singing, or realistically speaking, expressing one’s emotion musically sometimes takes a serious turn. The desire to sing before an audience is innocent and beautiful, and indeed, it is perfectly alright to have such a genuine desire. But it is also important to understand that singing is an (5)________ art—a highly refined one at that, which requires systematic, prolonged and strict training to be acceptable.\n\nChoose the most appropriate option to fill in blank no. 4.",
+   "options": [
+    "neither",
+    "nor",
+    "or",
+    "either"
+   ],
+   "answer": 2,
+   "qid": "630680160896",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Music is perhaps the most popular and widely practised (1)______ of fine arts, transcending all kinds of cultural and linguistic barriers. Any form of fine art is (2)________ to master and almost impossible to perfect, and music is no exception. Nature, it is learnt, has blessed almost two-thirds of the human race with musical ability of some sort. Music has the power to (3)______ out the deepest emotions. In fact, it is a magic medicine, and many seek refuge in it when they are depressed or stressed. It is this intimacy that makes us listen to music (4)______ even hum or sing sometimes. This singing, or realistically speaking, expressing one’s emotion musically sometimes takes a serious turn. The desire to sing before an audience is innocent and beautiful, and indeed, it is perfectly alright to have such a genuine desire. But it is also important to understand that singing is an (5)________ art—a highly refined one at that, which requires systematic, prolonged and strict training to be acceptable.\n\nChoose the most appropriate option to fill in blank no. 5.",
+   "options": [
+    "uncomplicated",
+    "uniform",
+    "mixed",
+    "intricate"
+   ],
+   "answer": 3,
+   "qid": "630680160897",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

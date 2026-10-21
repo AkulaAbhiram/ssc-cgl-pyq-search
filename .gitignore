@@ -38,4 +38,10 @@ yarn-error.*
 
 # generated native folders
 /ios
-/android
+# android/ is committed: it carries the release signing setup (see scripts/build-apk.ps1)
+
+# Downloaded source PDFs (re-fetch with npm run fetch-papers)
+data/raw/
+
+# Release APK built by scripts/build-apk.ps1
+dist-apk/

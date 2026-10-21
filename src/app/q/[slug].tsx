@@ -5,6 +5,7 @@ import type { GenerateMetadataFunction } from 'expo-router/server';
 import { Breadcrumbs, Card, Screen, Tag, text } from '@/components/ui';
 import { QuestionRow } from '@/components/QuestionRow';
 import { JsonLd } from '@/components/JsonLd';
+import { Figure } from '@/components/Figure';
 import {
   neighbours,
   paperLabel,
@@ -27,8 +28,10 @@ export async function generateStaticParams() {
 export const generateMetadata: GenerateMetadataFunction = async (_request, params) => {
   const q = questionBySlug(String(params?.slug));
   if (!q) return { title: SITE_NAME };
-  const title = `${q.q.length > 70 ? `${q.q.slice(0, 67)}…` : q.q} | SSC CGL ${q.year} PYQ`;
-  const description = `SSC CGL ${paperLabel(q)} ${q.topic} question. Answer: ${q.options[q.answer]}. ${q.solution}`.slice(0, 160);
+  const name = q.q || `${q.topic} figure question`;
+  const title = `${name.length > 70 ? `${name.slice(0, 67)}…` : name} | SSC CGL ${q.year} PYQ`;
+  const answer = q.answer === null ? '' : ` Answer: ${q.options[q.answer]}.`;
+  const description = `SSC CGL ${paperLabel(q)} ${q.topic} question.${answer} ${q.solution}`.trim().slice(0, 160);
   return {
     title,
     description,
@@ -77,20 +80,39 @@ export default function QuestionScreen() {
         <Text style={text.meta}>SSC CGL {paperLabel(q)}</Text>
       </View>
 
-      <Text style={[text.body, styles.question]} accessibilityRole="header">
-        {q.q}
-      </Text>
+      {!!q.q && (
+        <Text style={[text.body, styles.question]} accessibilityRole="header">
+          {q.q}
+        </Text>
+      )}
+      {q.figures.map((f) => (
+        <View key={f.file} style={styles.figure}>
+          <Figure figure={f} />
+        </View>
+      ))}
 
       {q.options.map((opt, i) => {
         const correct = i === q.answer;
+        const fig = q.optionFigures[String(i)];
         return (
           <View key={i} style={[styles.option, correct && styles.correct]}>
             <Text style={[styles.letter, correct && styles.correctText]}>{LETTERS[i]}</Text>
-            <Text style={[styles.optionText, correct && styles.correctText]}>{opt}</Text>
+            <View style={styles.optionBody}>
+              {!!opt && <Text style={[styles.optionText, correct && styles.correctText]}>{opt}</Text>}
+              {fig && <Figure figure={fig} maxWidth={260} />}
+            </View>
             {correct && <Text style={[styles.correctText, styles.tick]}>✓ Answer</Text>}
           </View>
         );
       })}
+
+      <Text style={[text.meta, styles.answerNote]}>
+        {q.answer === null
+          ? 'Answer not confirmed yet'
+          : q.answerSource === 'ssc-key'
+            ? "Answer from SSC's official answer key"
+            : null}
+      </Text>
 
       {!!q.solution && (
         <Card style={styles.solution}>
@@ -133,7 +155,19 @@ export default function QuestionScreen() {
 }
 
 // schema.org Quiz markup (Google's education Q&A format) plus breadcrumbs.
+// The Quiz needs an accepted answer, so unanswered questions get breadcrumbs only.
 function structuredData(q: Question) {
+  const breadcrumbs = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: sectionLabel(q.section), item: `${SITE_URL}/${q.section}` },
+      { '@type': 'ListItem', position: 3, name: q.topic, item: `${SITE_URL}/${q.section}/${q.topicSlug}` },
+    ],
+  };
+  if (q.answer === null) return [breadcrumbs];
+  const answer = q.answer;
   return [
     {
       '@context': 'https://schema.org',
@@ -147,25 +181,17 @@ function structuredData(q: Question) {
           eduQuestionType: 'Multiple choice',
           text: q.q,
           suggestedAnswer: q.options
-            .filter((_, i) => i !== q.answer)
+            .filter((_, i) => i !== answer)
             .map((o) => ({ '@type': 'Answer', text: o })),
           acceptedAnswer: {
             '@type': 'Answer',
-            text: q.options[q.answer],
+            text: q.options[answer],
             ...(q.solution ? { answerExplanation: { '@type': 'Comment', text: q.solution } } : {}),
           },
         },
       ],
     },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
-        { '@type': 'ListItem', position: 2, name: sectionLabel(q.section), item: `${SITE_URL}/${q.section}` },
-        { '@type': 'ListItem', position: 3, name: q.topic, item: `${SITE_URL}/${q.section}/${q.topicSlug}` },
-      ],
-    },
+    breadcrumbs,
   ];
 }
 
@@ -175,9 +201,12 @@ const styles = StyleSheet.create({
   option: { flexDirection: 'row', alignItems: 'center', gap: 10, borderWidth: 1, borderColor: colors.border, borderRadius: 10, paddingVertical: 10, paddingHorizontal: 12, marginBottom: 8 },
   correct: { backgroundColor: colors.successBg, borderColor: colors.successBorder },
   letter: { fontSize: 14, fontWeight: '600', color: colors.muted, width: 16 },
-  optionText: { fontSize: 15, color: colors.text, flex: 1 },
+  optionBody: { flex: 1, gap: 6 },
+  optionText: { fontSize: 15, color: colors.text },
+  figure: { marginBottom: 12, alignItems: 'flex-start' },
   correctText: { color: colors.success },
   tick: { fontSize: 13, fontWeight: '600' },
+  answerNote: { marginTop: 2, marginBottom: 6 },
   solution: { marginTop: 6 },
   solutionTitle: { fontSize: 14, fontWeight: '600', color: colors.text, marginBottom: 4 },
   actions: { flexDirection: 'row', alignItems: 'center', gap: 12, marginTop: 16 },

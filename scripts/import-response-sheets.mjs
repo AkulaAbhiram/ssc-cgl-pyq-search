@@ -1,13 +1,14 @@
-// Imports SSC CGL response sheets (saved from the candidate's login on
-// ssc.gov.in, which shows the full shift paper with the final answer key)
-// into the question bank, data/questions.json.
+// Imports SSC CGL papers into the question bank, data/questions.json. Takes:
+//   - response sheets saved as HTML from a candidate's login on ssc.gov.in
+//   - papers parsed from PDFs by scripts/pdf/parse_paper.py (.json, see fetch-papers.mjs)
 //
-//   npm run import -- path/to/sheet.html [more.html | a-folder ...] [--dry-run] [--out file.json]
+//   npm run import -- <sheet.html | paper.json | a-folder> [...] [--dry-run] [--out file.json]
 //
-// Each sheet is one shift paper. Questions already in the bank (same SSC
-// question ID, or same text and options) are skipped, so the same paper saved
-// by two candidates imports once. Questions that need an image (figures,
-// typeset maths) are skipped and counted until the app can show images.
+// Each file is one shift paper. Questions already in the bank (same SSC
+// question ID, or same text and options) are skipped, so the same paper from
+// two sources imports once. Questions that need an image (figures, typeset
+// maths) are skipped and counted until the app can show images. Questions
+// without a known answer are kept, with answer null.
 // Then run: npm run build:index
 import fs from 'node:fs';
 import path from 'node:path';
@@ -42,29 +43,31 @@ const compiled = Object.fromEntries(
 const files = inputs.flatMap((p) => {
   const abs = path.resolve(p);
   if (fs.statSync(abs).isDirectory()) {
-    return fs.readdirSync(abs).filter((f) => /\.html?$/i.test(f)).map((f) => path.join(abs, f));
+    return fs.readdirSync(abs).filter((f) => /\.(html?|json)$/i.test(f)).map((f) => path.join(abs, f));
   }
   return [abs];
 });
 
 const bank = fs.existsSync(outPath) ? JSON.parse(fs.readFileSync(outPath, 'utf8')) : [];
-const seen = new Set(bank.flatMap((q) => [q.qid && `id:${q.qid}`, `tx:${fingerprint(q.question, q.options)}`]).filter(Boolean));
+const seen = new Set(bank.flatMap((q) => [q.qid && `id:${q.qid}`, `tx:${fingerprint(q.question, q.options, q)}`]).filter(Boolean));
 
-const report = { added: 0, duplicate: 0, image: 0, hindiOnly: 0, noAnswer: 0, otherSection: 0, untagged: [] };
+const report = { added: 0, duplicate: 0, image: 0, hindiOnly: 0, unanswered: 0, otherSection: 0, untagged: [] };
 for (const file of files) {
-  const sheet = parseSheet(fs.readFileSync(file, 'utf8'), file);
+  const content = fs.readFileSync(file, 'utf8');
+  const sheet = /\.json$/i.test(file) ? readParsedPaper(JSON.parse(content), file) : parseSheet(content, file);
   console.log(`${path.basename(file)}: ${sheet.label}, ${sheet.questions.length} questions found`);
   for (const q of sheet.questions) {
     if (q.skip) {
       report[q.skip]++;
       continue;
     }
-    const keys = [q.qid && `id:${q.qid}`, `tx:${fingerprint(q.question, q.options)}`].filter(Boolean);
+    const keys = [q.qid && `id:${q.qid}`, `tx:${fingerprint(q.question, q.options, q)}`].filter(Boolean);
     if (keys.some((k) => seen.has(k))) {
       report.duplicate++;
       continue;
     }
     keys.forEach((k) => seen.add(k));
+    if (q.answer === null) report.unanswered++;
     if (q.topic === 'Miscellaneous') report.untagged.push(`[${q.section}] ${q.question.slice(0, 90)}`);
     bank.push(q);
     report.added++;
@@ -79,7 +82,8 @@ if (!dryRun && report.added) {
 console.log(
   `\n${dryRun ? 'Dry run: would add' : 'Added'} ${report.added} question(s) → ${path.relative(root, outPath)} (${bank.length} in bank)\n` +
     `Skipped: ${report.duplicate} already in bank, ${report.image} need an image, ${report.hindiOnly} Hindi-only, ` +
-    `${report.noAnswer} with no marked answer, ${report.otherSection} outside the four sections`
+    `${report.otherSection} outside the four sections\n` +
+    `Added without a known answer: ${report.unanswered}`
 );
 if (report.untagged.length) {
   console.log(`\n${report.untagged.length} tagged "Miscellaneous" — set their topic by hand or add a rule to data/topic-rules.json:`);
@@ -134,9 +138,8 @@ function parseSheet(html, file) {
 
     let skip = null;
     if (!section) skip = 'otherSection';
-    else if (needsImage || !question) skip = 'image';
+    else if (needsImage || !question || options.length < 2) skip = 'image';
     else if (isMostlyHindi(question)) skip = 'hindiOnly';
-    else if (answer === -1 || options.length < 2) skip = 'noAnswer';
 
     questions.push({
       skip,
@@ -149,11 +152,55 @@ function parseSheet(html, file) {
       time: info.time || null,
       question,
       options,
-      answer,
+      answer: answer === -1 ? null : answer,
+      answerSource: answer === -1 ? null : 'ssc-key',
       solution: '',
       qid: qid || null,
       source: `SSC CGL ${year} Tier ${tier === 2 ? 'II' : 'I'}, ${info.date} ${info.time}, final answer key`.replace(/\s+,/g, ','),
     });
+  });
+  return { label, questions };
+}
+
+// A paper parsed from PDF by scripts/pdf/parse_paper.py.
+function readParsedPaper(paper, file) {
+  const m = paper.meta ?? {};
+  if (!m.year) throw new Error(`${path.basename(file)}: no exam year in meta`);
+  const label = `SSC CGL ${m.year} Tier ${m.tier} shift ${m.shift ?? '?'} (${m.date ?? 'no date'}, ${m.layout})`;
+  const questions = paper.questions.map((q) => {
+    const section = SECTION_MAP.find(([re]) => re.test(q.section ?? ''))?.[1];
+    const question = clean(q.question);
+    const options = q.options.map(clean);
+    const figures = q.figures ?? [];
+    const optionFigures = q.optionFigures ?? {};
+    let skip = null;
+    if (!section) skip = 'otherSection';
+    else if (q.incomplete) skip = 'image';
+    else if (isMostlyHindi(question)) skip = 'hindiOnly';
+    const answered = Number.isInteger(q.answer) && q.answer < options.length;
+    let topic = section ? tagTopic(section, `${question} ${options.join(' ')}`) : null;
+    if (topic === 'Miscellaneous' && section === 'reasoning' && (figures.length || Object.keys(optionFigures).length)) {
+      topic = 'Non-verbal reasoning';
+    }
+    return {
+      skip,
+      section,
+      topic,
+      figures,
+      optionFigures,
+      year: m.year,
+      tier: m.tier ?? 1,
+      shift: m.shift ?? null,
+      date: m.date ?? null,
+      time: m.time ?? null,
+      question,
+      options,
+      answer: answered ? q.answer : null,
+      answerSource: answered ? m.answerSource ?? null : null,
+      solution: '',
+      qid: q.qid || null,
+      source: `SSC CGL ${m.year} Tier ${m.tier === 2 ? 'II' : 'I'}, ${m.date ?? ''} shift ${m.shift ?? '?'}${m.site ? ` (paper via ${m.site})` : ''}`,
+    };
   });
   return { label, questions };
 }
@@ -193,8 +240,10 @@ function tagTopic(section, text) {
   return compiled[section]?.find((r) => r.re.test(text))?.topic ?? 'Miscellaneous';
 }
 
+// Also drops the "(+2, -0.5)" marking note typed papers print, which lands
+// mid-question when a question runs across a page break.
 function clean(s) {
-  return String(s).replace(/[✔✘✓✗]/g, '').replace(/\s+/g, ' ').trim();
+  return String(s).replace(/[✔✘✓✗]/g, '').replace(/\(\+2,\s*-0\.5\)/g, ' ').replace(/\s+/g, ' ').trim();
 }
 
 function isMostlyHindi(s) {
@@ -203,6 +252,9 @@ function isMostlyHindi(s) {
   return devanagari > latin;
 }
 
-function fingerprint(question, options = []) {
-  return `${question} | ${options.join(' | ')}`.toLowerCase().replace(/[^a-z0-9|]+/g, '');
+// Figure questions often share their wording ("Select the correct mirror
+// image..."), so the figures' content hashes are part of the fingerprint.
+function fingerprint(question, options = [], q = {}) {
+  const figs = [...(q.figures ?? []), ...Object.values(q.optionFigures ?? {})].map((f) => f.file).join(',');
+  return `${question} | ${options.join(' | ')} | ${figs}`.toLowerCase().replace(/[^a-z0-9|,]+/g, '');
 }

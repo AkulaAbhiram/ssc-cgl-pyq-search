@@ -1,0 +1,1928 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-18",
+  "time": "9:00 AM - 10:00 AM",
+  "shift": 1,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_18_Tier_1_English_Question_Paper_and_Answer_Key_Shift_1__c23785827c76bfa9feddf8445c9572dc.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged if all the letters in the word MENTOR are arranged in English alphabetical order?",
+   "options": [
+    "Three",
+    "One",
+    "Two",
+    "None"
+   ],
+   "answer": 1,
+   "qid": "630680348538",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster. JAP: BSH :: NDZ: FVR ::LCX:?",
+   "options": [
+    "DUP",
+    "DVP",
+    "EUP",
+    "EVP"
+   ],
+   "answer": 0,
+   "qid": "630680416752",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set. 3 — 20 — 7 5 — 26 — 8 NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "8 — 28 — 6",
+    "17 — 20 — 13",
+    "18 — 70 — 6",
+    "5 — 20 — 8"
+   ],
+   "answer": 0,
+   "qid": "630680313541",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "A square sheet of paper is folded along the dotted line successively along the directions shown and is then punched in the last as shown. How would the paper look when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680324727",
+   "figures": [
+    {
+     "file": "61f1ddd2d84b8837.png",
+     "w": 322,
+     "h": 99
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "0e3a241e3348fc0f.png",
+     "w": 101,
+     "h": 99
+    },
+    "1": {
+     "file": "e4e415dee2277af2.png",
+     "w": 100,
+     "h": 99
+    },
+    "2": {
+     "file": "3103eb76bad7a4e3.png",
+     "w": 101,
+     "h": 99
+    },
+    "3": {
+     "file": "5e80cc042b428f45.png",
+     "w": 101,
+     "h": 99
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "51 is related to 256 by certain logic. Following the same logic, 53 is related to 266. To which of the following is 55 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "276",
+    "213",
+    "249",
+    "290"
+   ],
+   "answer": 0,
+   "qid": "630680326555",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following letter-clusters will replace the question mark (?) in the given series to make it logically complete? WIX, VHW, UGV, TFU, ?",
+   "options": [
+    "TEU",
+    "SFT",
+    "SEU",
+    "SET"
+   ],
+   "answer": 3,
+   "qid": "630680416941",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "The question contains pairs of words that are related to each other in a certain way. Three of the following four word pairs are alike as these have the same relationship and thus form a group. Which word pair is the one that DOES NOT belong to that group? (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)",
+   "options": [
+    "Loud - noisy",
+    "Honest - truthful",
+    "Tired - exhausted",
+    "Close - open"
+   ],
+   "answer": 3,
+   "qid": "630680798722",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word) Sugar : Sweet :: Habanero : ?",
+   "options": [
+    "Sour",
+    "Spicy",
+    "Salty",
+    "Bitter"
+   ],
+   "answer": 1,
+   "qid": "630680416453",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘DRIVE’ is coded as ‘62749’ and ‘RIDES’ is coded as ‘76284’. What is the code for ‘V’ in that language?",
+   "options": [
+    "6",
+    "8",
+    "9",
+    "7"
+   ],
+   "answer": 2,
+   "qid": "630680127832",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged? 1064 × 2 – 653 ÷ 2 + 89 = ?",
+   "options": [
+    "1749",
+    "1497",
+    "1974",
+    "1947"
+   ],
+   "answer": 0,
+   "qid": "630680411723",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘she is girl’ is coded as ‘7 3 9’; ‘he is boy’ is coded as ‘9 6 5’ and ‘girl is tall’ is coded as ‘9 3 8’. How is ‘she’ coded in that language?",
+   "options": [
+    "9",
+    "8",
+    "3",
+    "7"
+   ],
+   "answer": 3,
+   "qid": "630680189115",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘A + B’ means ‘A is the mother of B’; ‘A − B’ means ‘A is the brother of B’; ‘A × B’ means ‘A is the wife of B’ and ‘A ÷ B’ means ‘A is the father of B’. Based on the above, how is S related to P if ‘P × Q ÷ R − S × A’?",
+   "options": [
+    "Mother",
+    "Son",
+    "Daughter",
+    "Father"
+   ],
+   "answer": 2,
+   "qid": "630680300382",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in the place of ‘?’ in the following equation, if ‘÷’ and ‘–‘ are interchanged and ‘×’ and ‘+’ are interchanged? 37 ÷ 56 – 7 × 2 + 6 = ?",
+   "options": [
+    "41",
+    "55",
+    "47",
+    "37"
+   ],
+   "answer": 0,
+   "qid": "630680339258",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options, which when put in place of the question mark (?) will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680488559",
+   "figures": [
+    {
+     "file": "6f6ce768eab2de0e.png",
+     "w": 328,
+     "h": 69
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "5f28e904b931e63b.png",
+     "w": 89,
+     "h": 89
+    },
+    "1": {
+     "file": "7c015fbbcfa35d34.png",
+     "w": 83,
+     "h": 82
+    },
+    "2": {
+     "file": "d53792a178398dd1.png",
+     "w": 84,
+     "h": 87
+    },
+    "3": {
+     "file": "09734c2c61376fb7.png",
+     "w": 85,
+     "h": 87
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that when placed from left to right in the blanks below will complete the letter series. _ Y Z K X K X _ Z K X _ X Y _ K X K X Y Z _ X K X Y",
+   "options": [
+    "KXYKZ",
+    "XYKZK",
+    "XYZKK",
+    "KYXZK"
+   ],
+   "answer": 1,
+   "qid": "630680416268",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: Some pineapples are oranges. All oranges are bananas. All bananas are plums. Conclusions: I. Some pineapples are plums. II. All oranges are plums. III. No pineapple is a banana.",
+   "options": [
+    "Only conclusions I and III follow",
+    "Only conclusions II and III follow",
+    "Only conclusions I and II follow",
+    "Only conclusion III follows"
+   ],
+   "answer": 2,
+   "qid": "630680416383",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the figure shown below?",
+   "options": [
+    "11",
+    "9",
+    "12",
+    "14"
+   ],
+   "answer": 3,
+   "qid": "630680296653",
+   "figures": [
+    {
+     "file": "c641b94c55f4ddaa.png",
+     "w": 124,
+     "h": 118
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'TABU' is written as 'SBAV' and 'TANK’ is written as 'SBML'. How will 'TAIL’ be written in that language?",
+   "options": [
+    "SMBH",
+    "SBMH",
+    "SBHM",
+    "SMHB"
+   ],
+   "answer": 2,
+   "qid": "630680416246",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six letters A, B, C, D, E and F are written on different faces of a dice. Three positions of this dice are shown in the figure. Find the letter on the face opposite to A.",
+   "options": [
+    "D",
+    "C",
+    "E",
+    "F"
+   ],
+   "answer": 2,
+   "qid": "630680296576",
+   "figures": [
+    {
+     "file": "c3a272cea1c951d5.png",
+     "w": 170,
+     "h": 64
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (5, 80, 16) (18, 108, 6)",
+   "options": [
+    "(15, 185, 14)",
+    "(17, 8, 135)",
+    "(13, 91, 7)",
+    "(9, 81, 8)"
+   ],
+   "answer": 2,
+   "qid": "630680338902",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680389696",
+   "figures": [
+    {
+     "file": "93cb761c0b87ce78.png",
+     "w": 186,
+     "h": 106
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d98e6eaaa8beb4de.png",
+     "w": 153,
+     "h": 32
+    },
+    "1": {
+     "file": "d32c3cde580cb144.png",
+     "w": 156,
+     "h": 35
+    },
+    "2": {
+     "file": "278c317c661348c7.png",
+     "w": 156,
+     "h": 34
+    },
+    "3": {
+     "file": "b4dba6e3a9a8c434.png",
+     "w": 153,
+     "h": 32
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following numbers are alike in a certain way and one is different. Pick the odd one out. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "16 – 9 – 139",
+    "12 – 7 – 79",
+    "17 – 5 – 80",
+    "25 – 7 – 175"
+   ],
+   "answer": 3,
+   "qid": "630680389582",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 300, 152, 80, 48, 40, 52, ?",
+   "options": [
+    "60",
+    "100",
+    "80",
+    "90"
+   ],
+   "answer": 3,
+   "qid": "630680411849",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure in which the given figure (X) is embedded (rotation is NOT allowed).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680296893",
+   "figures": [
+    {
+     "file": "baf28dfedf46987a.png",
+     "w": 82,
+     "h": 97
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "522ba392d90fa343.png",
+     "w": 82,
+     "h": 82
+    },
+    "1": {
+     "file": "c3a8705eaf47b41f.png",
+     "w": 82,
+     "h": 82
+    },
+    "2": {
+     "file": "1cdb1a05e9f4fd31.png",
+     "w": 82,
+     "h": 82
+    },
+    "3": {
+     "file": "c2210b2f8d4af84f.png",
+     "w": 82,
+     "h": 82
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of ? will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680524391",
+   "figures": [
+    {
+     "file": "bf6778827b60ed60.png",
+     "w": 321,
+     "h": 69
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "328a358419fd6603.png",
+     "w": 69,
+     "h": 69
+    },
+    "1": {
+     "file": "8f47a16de84c9ec3.png",
+     "w": 72,
+     "h": 67
+    },
+    "2": {
+     "file": "58e5b4d0a0ec2a69.png",
+     "w": 74,
+     "h": 74
+    },
+    "3": {
+     "file": "4bedc07177a73f9b.png",
+     "w": 68,
+     "h": 68
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "According to the Varna system that was prevalent in the Vedic period, which of the following was NOT a Varna?",
+   "options": [
+    "Kshatriyas",
+    "Vaishyas",
+    "Brahmanas",
+    "Samiti"
+   ],
+   "answer": 3,
+   "qid": "630680412490",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "Sido and Kanhu were leaders of which of the following tribal rebellions?",
+   "options": [
+    "Munda Rebellion",
+    "Santhal Rebellion",
+    "Moplah Rebellion",
+    "Kol Rebellion"
+   ],
+   "answer": 1,
+   "qid": "630680412328",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Who founded the Brahmo Samaj in Calcutta in 1828?",
+   "options": [
+    "Ramabai Ranade",
+    "Ram Mohan Roy",
+    "Swami Vivekanand",
+    "Gopal Krishna Gokhale"
+   ],
+   "answer": 1,
+   "qid": "630680158736",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "According to the Ministry of Road Transport and Highways’ annual report (2020-2021), which position does India have in terms of road networks in the world?",
+   "options": [
+    "Third",
+    "First",
+    "Second",
+    "Fourth"
+   ],
+   "answer": 2,
+   "qid": "630680216371",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "The outermost part of the Earth is known as __________.",
+   "options": [
+    "the core",
+    "the mantle",
+    "the crust",
+    "volcano"
+   ],
+   "answer": 2,
+   "qid": "63068091123",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Who among the following is one of the Deputy Chief Ministers of Uttar Pradesh as of July 2023?",
+   "options": [
+    "Keshav Prasad Maurya",
+    "Manoj Sinha",
+    "Narottam Mishra",
+    "Yogi Adityanath"
+   ],
+   "answer": 0,
+   "qid": "630680413038",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Find out why white silver chloride turns grey in sunlight.",
+   "options": [
+    "Due to rusting of silver in presence of oxygen",
+    "Due to redox reaction",
+    "Due to the decomposition of silver chloride into silver and chlorine by light",
+    "Due to the displacement of silver chloride to silver oxide"
+   ],
+   "answer": 2,
+   "qid": "630680113085",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Why does the milkman add a very small amount of baking soda to fresh milk?",
+   "options": [
+    "To maintain the pH of the fresh milk at 6 for a longer time",
+    "To reduce the pH of the fresh milk from 6 to slightly alkaline",
+    "To increase the pH of the fresh milk from 6 to slightly alkaline",
+    "To reduce the pH of the fresh milk from 6 to slightly more acidic"
+   ],
+   "answer": 2,
+   "qid": "630680517189",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "Under which of the following Acts, the Board of Control was established in England to control and supervise the administration of British India?",
+   "options": [
+    "Charter Act of 1793",
+    "Regulating Act of 1773",
+    "Charter Act of 1813",
+    "Pitt’s India Act of 1784"
+   ],
+   "answer": 3,
+   "qid": "630680511534",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "The ________ of every state unfurls the flag in its capital on the Republic Day.",
+   "options": [
+    "Judge of High Court",
+    "Speaker",
+    "Governor",
+    "Chief Minister"
+   ],
+   "answer": 2,
+   "qid": "630680216053",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Which marine carotenoid is abundant in brown seaweed, macroalgae and diatoms?",
+   "options": [
+    "β-cryptoxanthin",
+    "Neoxanthin",
+    "Astaxanthin",
+    "Fucoxanthin"
+   ],
+   "answer": 3,
+   "qid": "630680407471",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "Harrod Domar model was the main idea behind the __________ Five Year Plan.",
+   "options": [
+    "First",
+    "Third",
+    "Fourth",
+    "Second"
+   ],
+   "answer": 0,
+   "qid": "630680410433",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Which of the following are west flowing rivers?",
+   "options": [
+    "Godavari and Mahanadi",
+    "Ganga and Yamuna",
+    "Mahi and Sabarmati",
+    "Krishna and Kaveri"
+   ],
+   "answer": 2,
+   "qid": "630680362626",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "The Upper House of a State Legislature is known as the ____________.",
+   "options": [
+    "Lok Sabha",
+    "Vidhan Parishad",
+    "Vidhan Sabha",
+    "Rajya Sabha"
+   ],
+   "answer": 1,
+   "qid": "630680326519",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "When was the Rashtriya Swasthya Bima Yojana introduced to provide health insurance to people below the poverty line?",
+   "options": [
+    "2014",
+    "2008",
+    "2017",
+    "2009"
+   ],
+   "answer": 1,
+   "qid": "630680209253",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "Part IV A of the Indian Constitution was inserted in the Indian Constitution through _____________ Constitutional Amendment Act.",
+   "options": [
+    "44th",
+    "46th",
+    "42nd",
+    "48th"
+   ],
+   "answer": 2,
+   "qid": "630680282982",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Which of the following states was the overall champion in both men and women categories in the first Janjatiya Khel Mahotsav?",
+   "options": [
+    "Jharkhand",
+    "Odisha",
+    "Chhattisgarh",
+    "Maharashtra"
+   ],
+   "answer": 1,
+   "qid": "630680510804",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Money supply is a _____ concept.",
+   "options": [
+    "flow",
+    "stock",
+    "non-measurable",
+    "measurable"
+   ],
+   "answer": 1,
+   "qid": "63068071461",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "The Parliament passed the Essential Defence Services Bill, 2021 in August 2021. Which of the following is an objective behind passing it?",
+   "options": [
+    "To prohibit strikes, lockouts and layoffs in units engaged in essential defence services",
+    "To appoint more women in defence services",
+    "To encourage more FDI in defence services",
+    "To implement one rank one pension"
+   ],
+   "answer": 0,
+   "qid": "630680158397",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "In the context of periodicity, a unit called picometre is used to measure the __________.",
+   "options": [
+    "molar mass",
+    "atomic radius",
+    "atomic density",
+    "spin quantum number"
+   ],
+   "answer": 1,
+   "qid": "63068076945",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "Who among the following was the Former Secretary (HRD), Information and Broadcasting (I&B) and has been appointed as the advisor to the Prime Minister of India in October 2021?",
+   "options": [
+    "Amit Khare",
+    "PK Sinha",
+    "Amarjeet Sinha",
+    "Shri Apurva Chandra"
+   ],
+   "answer": 0,
+   "qid": "630680394950",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "Who among the following is/was a famous sitarist?",
+   "options": [
+    "Pandit Bhimsen Joshi",
+    "Ravi Shankar",
+    "Zakir Hussain",
+    "Ustad Bismillah Khan"
+   ],
+   "answer": 1,
+   "qid": "630680512250",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "Three Poets Pampa, Ponna and Ranna are called as the ‘Three Jewels’ of:",
+   "options": [
+    "Kannada Literature",
+    "Sanskrit Literature",
+    "Telugu Literature",
+    "Tamil Literature"
+   ],
+   "answer": 0,
+   "qid": "630680412280",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Who was the first Indian woman wrestler to represent the country at the 2012 London Olympic Games?",
+   "options": [
+    "Sakshi Malik",
+    "Vinesh Phogat",
+    "Babita Phogat",
+    "Geeta Phogat"
+   ],
+   "answer": 3,
+   "qid": "630680510751",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "Indian classical violinist Annavarapu Rama Swamy was awarded with the _____________ in 2021.",
+   "options": [
+    "Sangeet Natak Akademi",
+    "Padma Vibhushan",
+    "Padma Bhushan",
+    "Padma Shri"
+   ],
+   "answer": 3,
+   "qid": "630680415818",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "The following table shows the expenditures (in thousands of rupees) of a company in different categories from 2015 to 2019. What is the average amount (in ₹) paid by the company on fuel and transport per year from 2015 to 2019?",
+   "options": [
+    "1,15,200",
+    "1,17,200",
+    "1,16,500",
+    "1,18,200"
+   ],
+   "answer": 1,
+   "qid": "630680523690",
+   "figures": [
+    {
+     "file": "2033b23c3ad58695.png",
+     "w": 328,
+     "h": 124
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "3",
+    "6",
+    "8",
+    "5"
+   ],
+   "answer": 1,
+   "qid": "630680523758",
+   "figures": [
+    {
+     "file": "100984c7609ffc68.png",
+     "w": 328,
+     "h": 128
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given pie chart and select the most appropriate option to fill in the blank. The given pie chart shows the sales of different fruits in a day for a shop. If the total number of fruits sold by a fruit seller in a day is 1200, then the number of bananas sold is ___.",
+   "options": [
+    "520",
+    "360",
+    "480",
+    "240"
+   ],
+   "answer": 2,
+   "qid": "630680405088",
+   "figures": [
+    {
+     "file": "87358a96cc1428ee.png",
+     "w": 328,
+     "h": 191
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "A circular arc whose radius is 24 cm makes an angle of 60° at the centre. The perimeter of the sector formed is: (Use π = 3.14)",
+   "options": [
+    "73.22 cm",
+    "63.12 cm",
+    "73.12 cm",
+    "74.32 cm"
+   ],
+   "answer": 2,
+   "qid": "630680194641",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "If three cubes of volume 512 cm3 each are joined end to end, find the surface area of the resulting cuboid.",
+   "options": [
+    "986 cm2",
+    "895 cm2",
+    "869 cm2",
+    "896 cm2"
+   ],
+   "answer": 3,
+   "qid": "630680421532",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "A shopkeeper offers the following discount schemes for buyers. I. Two successive discounts of 15% and 20% II. Successive discount of 25 % and 10% III. A discount of 33% The selling price will be minimum under the scheme:",
+   "options": [
+    "II",
+    "I or II",
+    "III",
+    "I"
+   ],
+   "answer": 2,
+   "qid": "630680103714",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "At what angle θ, the value of sin (θ) and cos (θ) will have the same value?",
+   "options": [
+    "60°",
+    "45°",
+    "30°",
+    "75°"
+   ],
+   "answer": 1,
+   "qid": "630680526449",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "188",
+    "194",
+    "186",
+    "196"
+   ],
+   "answer": 1,
+   "qid": "630680413472",
+   "figures": [
+    {
+     "file": "678f34f0d4c09349.png",
+     "w": 250,
+     "h": 28
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "A number r when divided by 8 leaves remainder 3. What will be the remainder when (r2+6r+7) is divided by 8?",
+   "options": [
+    "4",
+    "3",
+    "1",
+    "2"
+   ],
+   "answer": 3,
+   "qid": "630680122759",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "Simplify the following:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680397184",
+   "figures": [
+    {
+     "file": "675587abf32afe10.png",
+     "w": 213,
+     "h": 29
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "27da52881c7ae2fc.png",
+     "w": 6,
+     "h": 9
+    },
+    "1": {
+     "file": "dffed21cbe1d9474.png",
+     "w": 17,
+     "h": 24
+    },
+    "2": {
+     "file": "3e5892f67a99d95f.png",
+     "w": 16,
+     "h": 9
+    },
+    "3": {
+     "file": "2b85c960d33bdb43.png",
+     "w": 17,
+     "h": 24
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "If ∆ABC and ∆QPR are congruent triangles such that AB = 7 cm, AC = 8 cm, ∠B = 65° and ∠C = 75°, then which of the following is true?",
+   "options": [
+    "AC = PR and ∠P = 65°",
+    "PQ = 7 cm and ∠R = 75°",
+    "∠Q = 40° and RQ = 7 cm",
+    "∠R = 75° and PQ = 8 cm"
+   ],
+   "answer": 1,
+   "qid": "630680382143",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680344823",
+   "figures": [
+    {
+     "file": "fec1f978cc9b53e4.png",
+     "w": 262,
+     "h": 18
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "0b25ebee2c998a61.png",
+     "w": 15,
+     "h": 30
+    },
+    "1": {
+     "file": "5a59b82ca77ed0ba.png",
+     "w": 18,
+     "h": 33
+    },
+    "2": {
+     "file": "48ba1dc848f376de.png",
+     "w": 12,
+     "h": 30
+    },
+    "3": {
+     "file": "085f5b221457be83.png",
+     "w": 15,
+     "h": 31
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680526462",
+   "figures": [
+    {
+     "file": "38e9e692846fd852.png",
+     "w": 197,
+     "h": 29
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "085e1fac3bc2a186.png",
+     "w": 42,
+     "h": 30
+    },
+    "1": {
+     "file": "f21a3fd44a47dd1e.png",
+     "w": 42,
+     "h": 30
+    },
+    "2": {
+     "file": "d33b0ade90e0f8f8.png",
+     "w": 43,
+     "h": 30
+    },
+    "3": {
+     "file": "bc8a4158decdd593.png",
+     "w": 45,
+     "h": 28
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "The sum of five consecutive numbers is 80. Find the largest number.",
+   "options": [
+    "18",
+    "19",
+    "15",
+    "14"
+   ],
+   "answer": 0,
+   "qid": "630680397014",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "A certain sum of money is given at a certain rate of simple interest for 6 years. Had it been given at 7% higher rate, it would have fetched ₹1,512 more. Find the sum (in ₹).",
+   "options": [
+    "3,600",
+    "3,100",
+    "3,200",
+    "4,200"
+   ],
+   "answer": 0,
+   "qid": "630680358026",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "₹32 lakh",
+    "₹42 lakh",
+    "₹35 lakh",
+    "₹30 lakh"
+   ],
+   "answer": 2,
+   "qid": "630680428179",
+   "figures": [
+    {
+     "file": "36c27a1eaa0f013d.png",
+     "w": 328,
+     "h": 136
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "If the system of the following equations has the value of the variables as three consecutive integers, then the value of a is ____. x - y + z = 2a x + 4y - 2z = 3(4 - a) 2x - 3y + 4z = 6 - 2a",
+   "options": [
+    "2",
+    "1",
+    "4",
+    "3"
+   ],
+   "answer": 1,
+   "qid": "630680285458",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "In a constituency, 45% of the total number of voters are males and the rest are females. If 60% of the males are illiterate and 60% of the females are literate, then by what per cent is the number of illiterate females more than that of literate males? (Rounded off to 2 decimal places)",
+   "options": [
+    "30.24%",
+    "19.11%",
+    "27.23%",
+    "22.22%"
+   ],
+   "answer": 3,
+   "qid": "630680428061",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "A motorboat travelling at some speed can cover 24 km upstream and 40 km downstream in 17 hours. At the same speed it can travel 32 km downstream and 12 km upstream in 10 hours. The speed of the stream is:",
+   "options": [
+    "5 km/h",
+    "2 km/h",
+    "3 km/h",
+    "4 km/h"
+   ],
+   "answer": 2,
+   "qid": "630680428673",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "Pipe X can fill a tank in 60 hours while pipe Y can fill the tank in 72 hours. Both pipes are opened together for 20 hours. How much of the tank is left empty ?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680387339",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "dea98017b974aecd.png",
+     "w": 20,
+     "h": 26
+    },
+    "1": {
+     "file": "51ae21ea0ef78e6e.png",
+     "w": 22,
+     "h": 26
+    },
+    "2": {
+     "file": "56d3e03b1b9a52bc.png",
+     "w": 32,
+     "h": 28
+    },
+    "3": {
+     "file": "36aed6364d9227bc.png",
+     "w": 24,
+     "h": 28
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "The perimeter of a rectangular garden is 48 m. If the length is 6 m more than the breadth, the area (in m2) of the garden is:",
+   "options": [
+    "135",
+    "84",
+    "96",
+    "112"
+   ],
+   "answer": 0,
+   "qid": "630680325029",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680428898",
+   "figures": [
+    {
+     "file": "073072d49158576d.png",
+     "w": 328,
+     "h": 34
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "860bc0293016a574.png",
+     "w": 36,
+     "h": 24
+    },
+    "1": {
+     "file": "52ec935c8e998afb.png",
+     "w": 38,
+     "h": 23
+    },
+    "2": {
+     "file": "1c013f28e09bbacb.png",
+     "w": 38,
+     "h": 27
+    },
+    "3": {
+     "file": "19a01d352359a26a.png",
+     "w": 38,
+     "h": 25
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "120°",
+    "80°",
+    "30°",
+    "150°"
+   ],
+   "answer": 3,
+   "qid": "630680421390",
+   "figures": [
+    {
+     "file": "fbe161c5f39b412f.png",
+     "w": 328,
+     "h": 30
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "Find the mean proportional of 36 and 100.",
+   "options": [
+    "55",
+    "70",
+    "65",
+    "60"
+   ],
+   "answer": 3,
+   "qid": "630680428478",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "A chord of length 32 cm is drawn at a distance of 12 cm from the centre of a circle. Find the radius of the circle.",
+   "options": [
+    "18 cm",
+    "22 cm",
+    "28 cm",
+    "20 cm"
+   ],
+   "answer": 3,
+   "qid": "630680405661",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence. The appearance of most of the animals in jungle is deceptive in nature.",
+   "options": [
+    "honest",
+    "ugly",
+    "illusive",
+    "beautiful"
+   ],
+   "answer": 0,
+   "qid": "630680380478",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate homophone to fill in the blank. He ________ his bike as fast as he could to reach home.",
+   "options": [
+    "rote",
+    "rowed",
+    "rode",
+    "road"
+   ],
+   "answer": 2,
+   "qid": "630680158493",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. One who eats the flesh of his own species",
+   "options": [
+    "Vegan",
+    "Non-vegetarian",
+    "Mammal",
+    "Cannibal"
+   ],
+   "answer": 3,
+   "qid": "630680414629",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Forsake",
+   "options": [
+    "Abandon",
+    "Accelerate",
+    "Reveal",
+    "Clutch"
+   ],
+   "answer": 0,
+   "qid": "630680310016",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the idiom in the given brackets. His PhD degree seems to be (Penelope’s web).",
+   "options": [
+    "An endless task",
+    "A difficult task",
+    "An important task",
+    "A secret task"
+   ],
+   "answer": 0,
+   "qid": "63068067061",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word. The long-standing feud between the two villages was settled due to the intervention of the two chiefs.",
+   "options": [
+    "Harmony",
+    "Humility",
+    "Honesty",
+    "Humble"
+   ],
+   "answer": 0,
+   "qid": "630680395707",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate idiom to fill the blank in the given situation. I thought Sadhna would always stick by me, but when I got into trouble, she turned out to be a/an ___________.",
+   "options": [
+    "white elephant",
+    "fair-weather friend",
+    "hard nut to crack",
+    "open secret"
+   ],
+   "answer": 1,
+   "qid": "630680374774",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined word in the given sentence. An intense wish to learn something keeps the nerves active.",
+   "options": [
+    "lazy",
+    "half-hearted",
+    "fixed",
+    "powerful"
+   ],
+   "answer": 3,
+   "qid": "630680147076",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Autonomy",
+   "options": [
+    "Dependence",
+    "Permanence",
+    "Economical",
+    "Independence"
+   ],
+   "answer": 0,
+   "qid": "630680517494",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Accommodate",
+    "Conscientious",
+    "Mischievious",
+    "Ostentatious"
+   ],
+   "answer": 2,
+   "qid": "630680409926",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the underlined group of words. Humour that describes the weaknesses of the other person is itself a crime among peer groups.",
+   "options": [
+    "Satire",
+    "Attire",
+    "A curse",
+    "A joke"
+   ],
+   "answer": 0,
+   "qid": "630680158619",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the sentence in which the ‘-ing’ form of verb expresses the continuity of an action/event.",
+   "options": [
+    "I am fond of reading science fiction.",
+    "The optician advised me to use reading glasses.",
+    "Reading novels is my favourite pastime.",
+    "Please do not disturb me. I am preparing for exams."
+   ],
+   "answer": 3,
+   "qid": "630680415165",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Exceptional",
+   "options": [
+    "Emotional",
+    "Trivial",
+    "Outstanding",
+    "Total"
+   ],
+   "answer": 2,
+   "qid": "630680162155",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the correctly spelt word to fill in the blank. Helium is used with oxygen for asthma treatment because it ____________ very easily.",
+   "options": [
+    "difusez",
+    "difuses",
+    "diffuses",
+    "diffuzes"
+   ],
+   "answer": 2,
+   "qid": "630680374784",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. Sivamani is working as an electrician for the past 22 years.",
+   "options": [
+    "had been worked",
+    "has been working",
+    "have been working",
+    "would work"
+   ],
+   "answer": 1,
+   "qid": "630680176603",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. Dipesh will send Rakesh away to college for certain reasons.",
+   "options": [
+    "Rakesh would have been sent away to college for certain reasons by Dipesh.",
+    "Rakesh will be sent away to college for certain reasons by Dipesh.",
+    "Rakesh will have to be sent away to college for certain reasons by Dipesh.",
+    "Rakesh would be sent away to college for certain reasons by Dipesh."
+   ],
+   "answer": 1,
+   "qid": "630680374298",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the underlined segment. My father always tells amusing and true stories from his childhood at bedtime.",
+   "options": [
+    "anecdotes",
+    "fables",
+    "sonnets",
+    "allegories"
+   ],
+   "answer": 0,
+   "qid": "630680283538",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined word segment in the given sentence. Her thinning grey hair was hanging on her bony forehead.",
+   "options": [
+    "urging ahead",
+    "straggling over",
+    "sinking from",
+    "falling about"
+   ],
+   "answer": 1,
+   "qid": "630680168516",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the option that spots the error in the use of preposition in the given sentence. Deepa and Seema are both good with running, but Deepa is also good at catching the ball and throwing it to the right corner in time.",
+   "options": [
+    "in time",
+    "at catching the ball",
+    "to the right corner.",
+    "good with running"
+   ],
+   "answer": 3,
+   "qid": "630680512932",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in active voice. Why are you repeatedly called by her?",
+   "options": [
+    "Why she calls you repeatedly?",
+    "Why had she called you repeatedly?",
+    "Why was she calling you repeatedly?",
+    "Why does she call you repeatedly?"
+   ],
+   "answer": 3,
+   "qid": "630680415282",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The limbs of the flying squirrel are interlinked with a membrane. When the creature (1)________ into the air, the membrane opens and the squirrel seems to (2)_______ swiftly downwards. This movement gives the (3)_______ of flight. However, it is not flying really. It is a (4)_______ in the air from a higher level. It is also noteworthy that a squirrel cannot (5)_____ its direction while it is in flying mode.\n\nSelect the most appropriate option to fill in blank number 1.",
+   "options": [
+    "cross",
+    "leaps",
+    "hurdle",
+    "spring"
+   ],
+   "answer": 1,
+   "qid": "630680166479",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The limbs of the flying squirrel are interlinked with a membrane. When the creature (1)________ into the air, the membrane opens and the squirrel seems to (2)_______ swiftly downwards. This movement gives the (3)_______ of flight. However, it is not flying really. It is a (4)_______ in the air from a higher level. It is also noteworthy that a squirrel cannot (5)_____ its direction while it is in flying mode.\n\nSelect the most appropriate option to fill in blank number 2.",
+   "options": [
+    "skate",
+    "skim",
+    "glide",
+    "wheel"
+   ],
+   "answer": 2,
+   "qid": "630680166480",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The limbs of the flying squirrel are interlinked with a membrane. When the creature (1)________ into the air, the membrane opens and the squirrel seems to (2)_______ swiftly downwards. This movement gives the (3)_______ of flight. However, it is not flying really. It is a (4)_______ in the air from a higher level. It is also noteworthy that a squirrel cannot (5)_____ its direction while it is in flying mode.\n\nSelect the most appropriate option to fill in blank number 3.",
+   "options": [
+    "fancy",
+    "suspicion",
+    "affect",
+    "impression"
+   ],
+   "answer": 3,
+   "qid": "630680166481",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The limbs of the flying squirrel are interlinked with a membrane. When the creature (1)________ into the air, the membrane opens and the squirrel seems to (2)_______ swiftly downwards. This movement gives the (3)_______ of flight. However, it is not flying really. It is a (4)_______ in the air from a higher level. It is also noteworthy that a squirrel cannot (5)_____ its direction while it is in flying mode.\n\nSelect the most appropriate option to fill in blank number 4.",
+   "options": [
+    "motion",
+    "wave",
+    "sign",
+    "progress"
+   ],
+   "answer": 0,
+   "qid": "630680166482",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The limbs of the flying squirrel are interlinked with a membrane. When the creature (1)________ into the air, the membrane opens and the squirrel seems to (2)_______ swiftly downwards. This movement gives the (3)_______ of flight. However, it is not flying really. It is a (4)_______ in the air from a higher level. It is also noteworthy that a squirrel cannot (5)_____ its direction while it is in flying mode.\n\nSelect the most appropriate option to fill in blank number 5.",
+   "options": [
+    "adept",
+    "replace",
+    "adopt",
+    "swap"
+   ],
+   "answer": 3,
+   "qid": "630680166483",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

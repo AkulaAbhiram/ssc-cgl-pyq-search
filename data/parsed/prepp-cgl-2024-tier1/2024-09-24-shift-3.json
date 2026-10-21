@@ -1,0 +1,1848 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-24",
+  "time": "4:00 PM - 5:00 PM",
+  "shift": 3,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_24_Tier_1_English_Question_Paper_and_Answer_Key_Shift_3__8c6a115aeb6e124275747bdcad4b366b.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680325837",
+   "figures": [
+    {
+     "file": "e33d5cbe97dbe912.png",
+     "w": 61,
+     "h": 53
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "a5b891d5d3ea5023.png",
+     "w": 54,
+     "h": 14
+    },
+    "1": {
+     "file": "5303e9d300dff3a9.png",
+     "w": 50,
+     "h": 13
+    },
+    "2": {
+     "file": "1755e502d3f60f57.png",
+     "w": 54,
+     "h": 14
+    },
+    "3": {
+     "file": "e6c4f9ad1ddd7206.png",
+     "w": 50,
+     "h": 13
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "7 is related to 40 by certain logic. Following the same logic, 5 is related to 16. To which of the following is 9 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "48",
+    "72",
+    "54",
+    "70"
+   ],
+   "answer": 1,
+   "qid": "630680326550",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "64 is related to 4 following a certain logic. Following the same logic, 216 is related to 6. To which of the following is 729 related, following the same logic? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "11",
+    "7",
+    "9",
+    "13"
+   ],
+   "answer": 2,
+   "qid": "630680344659",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. B_DE_GDGBK_IB_DK",
+   "options": [
+    "CBDP",
+    "OCBD",
+    "CODB",
+    "CBDO"
+   ],
+   "answer": 3,
+   "qid": "630680325789",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘ZCJV’ is coded as ‘YBIU’ and ‘GKMD’ is coded as ‘FJLC’. How will ‘EYOR’ be coded in that language?",
+   "options": [
+    "DWMP",
+    "DXNQ",
+    "CXNQ",
+    "QWMP"
+   ],
+   "answer": 1,
+   "qid": "630680172182",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Q is the mother of T. R is the husband of P. S is the father of Q. T is the brother of P. How is P related to S?",
+   "options": [
+    "Daughter’s daughter",
+    "Mother’s father",
+    "Brother’s wife",
+    "Mother’s mother"
+   ],
+   "answer": 0,
+   "qid": "630680216627",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the one that DOES NOT belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+   "options": [
+    "HKI",
+    "MPN",
+    "RUS",
+    "QUR"
+   ],
+   "answer": 3,
+   "qid": "630680812277",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many squares are there in the figure shown below?",
+   "options": [
+    "14",
+    "12",
+    "13",
+    "11"
+   ],
+   "answer": 2,
+   "qid": "630680296651",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "5349c34445879ac2.png",
+     "w": 108,
+     "h": 112
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two different positions of the same dice are given below. Which is the number on the face opposite the face containing 5?",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "6"
+   ],
+   "answer": 2,
+   "qid": "630680313768",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "6d72fd6e7cfbb587.png",
+     "w": 104,
+     "h": 61
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "In this question, three statements are given, followed by two conclusions numbered I and II. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusion(s) logically follows/follow from the statements. Statements: All grains are cereals. Some cereals are fruits. No fruit is a vegetable. Conclusions: I. All cereals can be vegetables. II. All grains are fruits.",
+   "options": [
+    "Only Conclusion I follows.",
+    "Neither Conclusion I nor II follow.",
+    "Only Conclusion II follows.",
+    "Both Conclusions I and II follow."
+   ],
+   "answer": 1,
+   "qid": "630680416395",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (26, 114) (47, 198)",
+   "options": [
+    "(22, 88)",
+    "(15, 70)",
+    "(18, 74)",
+    "(25, 105)"
+   ],
+   "answer": 1,
+   "qid": "630680338904",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the word pair that best represents a similar relationship to the one expressed in the pair of words given below. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word) Love : Harmony",
+   "options": [
+    "Calm : Sad",
+    "Peace : Bliss",
+    "Rage : Cool",
+    "Anger : Excitement"
+   ],
+   "answer": 1,
+   "qid": "630680416651",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged if each of the letters in the word ‘SIGNATURE’ is re-arranged in the English alphabetical order from left to right?",
+   "options": [
+    "One",
+    "Two",
+    "Four",
+    "Three"
+   ],
+   "answer": 0,
+   "qid": "630680106897",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following numbers will replace the question marks (?) in the given series? 61, ?, ?, 73, 79, 83, 89",
+   "options": [
+    "67, 69",
+    "63, 65",
+    "63, 67",
+    "67, 71"
+   ],
+   "answer": 3,
+   "qid": "630680411867",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘BLEACHERS’ is coded as ‘63’ and ‘ABACAS’ is coded as ‘42’. How will ‘FIZZY’ be coded in the same language?",
+   "options": [
+    "52",
+    "45",
+    "44",
+    "35"
+   ],
+   "answer": 3,
+   "qid": "630680416229",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680294960",
+   "figures": [
+    {
+     "file": "5943758108f0175a.png",
+     "w": 237,
+     "h": 74
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d14c30986023df62.png",
+     "w": 76,
+     "h": 76
+    },
+    "1": {
+     "file": "6ff556c39cef6254.png",
+     "w": 76,
+     "h": 76
+    },
+    "2": {
+     "file": "e41cc3404de63dee.png",
+     "w": 76,
+     "h": 75
+    },
+    "3": {
+     "file": "c8c99fd3b6c818f6.png",
+     "w": 76,
+     "h": 77
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which number will come in the place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 7 ÷ 5 − 30 × 6 + 4 = ?",
+   "options": [
+    "32",
+    "36",
+    "30",
+    "34"
+   ],
+   "answer": 1,
+   "qid": "630680328467",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure from among the given options which when put in place of the question mark (?) will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680296884",
+   "figures": [
+    {
+     "file": "0d3804a14502bd23.png",
+     "w": 248,
+     "h": 53
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "a0c4e4ea977878be.png",
+     "w": 62,
+     "h": 62
+    },
+    "1": {
+     "file": "d09ef1207352adf1.png",
+     "w": 64,
+     "h": 64
+    },
+    "2": {
+     "file": "1de9d559582d3c59.png",
+     "w": 62,
+     "h": 62
+    },
+    "3": {
+     "file": "927307a4b2b96c81.png",
+     "w": 62,
+     "h": 62
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the figure from among the given options that can replace the question mark (?) in the following series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680366398",
+   "figures": [
+    {
+     "file": "96880d5c5395737a.png",
+     "w": 248,
+     "h": 53
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "a1f32536d24d4b7f.png",
+     "w": 61,
+     "h": 61
+    },
+    "1": {
+     "file": "3149931d497a7172.png",
+     "w": 61,
+     "h": 62
+    },
+    "2": {
+     "file": "ab23b9e76e84dbf4.png",
+     "w": 62,
+     "h": 62
+    },
+    "3": {
+     "file": "e1253c531dbb91d2.png",
+     "w": 59,
+     "h": 60
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Study the given diagram carefully and answer the question that follows. The numbers in different sections indicate the number of persons who can drive different vehicles. What is the difference between the number of persons who can drive all the three vehicles and that of persons who can drive any two of these vehicles?",
+   "options": [
+    "15",
+    "12",
+    "27",
+    "21"
+   ],
+   "answer": 3,
+   "qid": "630680195791",
+   "figures": [
+    {
+     "file": "2216210c7e296f73.png",
+     "w": 89,
+     "h": 120
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged? 1604 × 4 + 87 – 16 ÷ 16 = ?",
+   "options": [
+    "770",
+    "870",
+    "570",
+    "670"
+   ],
+   "answer": 2,
+   "qid": "630680411729",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word) Botany : Plants : : Conchology : ?",
+   "options": [
+    "Fossils",
+    "Names",
+    "Shells",
+    "Soil"
+   ],
+   "answer": 2,
+   "qid": "630680416117",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following letter-clusters will replace the question mark (?) in the given series to make it logically complete? JAL, MDO, PGR, SJU, ?",
+   "options": [
+    "WNX",
+    "WMX",
+    "VMY",
+    "VMX"
+   ],
+   "answer": 3,
+   "qid": "630680416937",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following numbers are alike in a certain way and one is different. Pick the odd one out. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "829",
+    "237",
+    "643",
+    "821"
+   ],
+   "answer": 1,
+   "qid": "630680412028",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680325832",
+   "figures": [
+    {
+     "file": "e35dd485edb09825.png",
+     "w": 49,
+     "h": 13
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d3c18ca677c59646.png",
+     "w": 60,
+     "h": 52
+    },
+    "1": {
+     "file": "6b3bb28fca1f9dee.png",
+     "w": 49,
+     "h": 13
+    },
+    "2": {
+     "file": "b4c579bb529f404b.png",
+     "w": 49,
+     "h": 13
+    },
+    "3": {
+     "file": "3cd3351da9ff00ae.png",
+     "w": 49,
+     "h": 13
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Gangubai Hangal belonged to the ________.",
+   "options": [
+    "Banaras gharana",
+    "Kirana gharana",
+    "Gwalior gharana",
+    "Agra gharana"
+   ],
+   "answer": 1,
+   "qid": "630680512251",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "In India, Teachers’ Day is celebrated annually on September 5 to mark the birthday of:",
+   "options": [
+    "APJ Abdul Kalam",
+    "Sardar Vallabhbhai Patel",
+    "Subash Chandra Bose",
+    "Sarvepalli Radhakrishnan"
+   ],
+   "answer": 3,
+   "qid": "630680164572",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Which of the following articles of the Indian constitution deals with the parliament and it's proceedings?",
+   "options": [
+    "Article 36 to 51",
+    "Article 12 to 35",
+    "Article 51A",
+    "Article 79 to 122"
+   ],
+   "answer": 3,
+   "qid": "630680329459",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Which of the following Rajiv Gandhi National Sadbhavana Awards was conferred on Ustad Amjad Ali Khan?",
+   "options": [
+    "18th",
+    "21st",
+    "20th",
+    "19th"
+   ],
+   "answer": 1,
+   "qid": "6306801048037",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "The Pratiharas who first had their capital at Bhinmal gained prominence during the rule of:",
+   "options": [
+    "Kanishka",
+    "Nagabhatta I",
+    "Devpala",
+    "Nagarjuna"
+   ],
+   "answer": 1,
+   "qid": "630680412292",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "In which state of India is the Chandra Prabha Wildlife Sanctuary located?",
+   "options": [
+    "Bihar",
+    "Gujarat",
+    "Madhya Pradesh",
+    "Uttar Pradesh"
+   ],
+   "answer": 3,
+   "qid": "630680362629",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Which Committee identified the existence of legal provisions for implementation of some of the Fundamental Duties?",
+   "options": [
+    "Justice Mulla Committee",
+    "Justice Verma Committee",
+    "Justice Sapre Committee",
+    "Justice VR Krishna Iyer Committee"
+   ],
+   "answer": 1,
+   "qid": "630680309212",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Which of the following is a correct statement?",
+   "options": [
+    "National Income is NNP at FC.",
+    "National Income is GDP at MP.",
+    "National Income is GNP at FC.",
+    "National Income is NDP at MP."
+   ],
+   "answer": 0,
+   "qid": "630680145290",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "The final match of IPL 2023 was hosted by which of the following cities?",
+   "options": [
+    "Mumbai",
+    "Bengaluru",
+    "Chennai",
+    "Ahmedabad"
+   ],
+   "answer": 3,
+   "qid": "630680510789",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Which among the following is NOT a classification criterion of drugs?",
+   "options": [
+    "Behavioural condition",
+    "Molecular target",
+    "Pharmacological effect",
+    "Chemical structure"
+   ],
+   "answer": 0,
+   "qid": "630680517219",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "What is iGOT launched by the Government of India in April 2020?",
+   "options": [
+    "Online portal for digital payments",
+    "Online portal for social security schemes",
+    "Online training portal for COVID-19 management",
+    "Online portal for scholarships to single girl child"
+   ],
+   "answer": 2,
+   "qid": "630680112081",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "The _________ portal is a platform provided by the Govt. of India for famers to attain any information related to agriculture.",
+   "options": [
+    "Agricultural",
+    "Farmer’s",
+    "Cultivation",
+    "Cropland"
+   ],
+   "answer": 1,
+   "qid": "630680409602",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "The name of the strait between the Pacific and Arctic oceans, separating the Chukchi Peninsula of the Russian Far East from the Seward Peninsula of Alaska, is the:",
+   "options": [
+    "Davis Strait",
+    "Bering Strait",
+    "Messina Strait",
+    "Florida Strait"
+   ],
+   "answer": 1,
+   "qid": "63068076887",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "‘Ungalil Oruvan’ (One Among You) is the autobiography of which of the following chief ministers?",
+   "options": [
+    "K Chandrashekhar Rao",
+    "Pinarayi Vijayan",
+    "Basavaraj Bommai",
+    "MK Stalin"
+   ],
+   "answer": 3,
+   "qid": "630680195362",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "What happens when two forces act in the opposite directions on an object?",
+   "options": [
+    "The net force acting on the object is the total of the two forces.",
+    "The net force acting on the object is the difference between the two objects.",
+    "The net force acting on the object is the sum of the two objects.",
+    "The net force acting on the object is the difference between the two forces."
+   ],
+   "answer": 3,
+   "qid": "630680134714",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "The first Indian woman to hold the Under-20 World Wrestling Championship is _________.",
+   "options": [
+    "Hina Khalifa",
+    "Pranati Nayak",
+    "Swati Sanjay",
+    "Antim Panghal"
+   ],
+   "answer": 3,
+   "qid": "630680329492",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Which industrial policy marked the beginning of liberalisation in the Indian industry, reducing the restrictions on private companies?",
+   "options": [
+    "Industrial Policy 1956",
+    "Industrial Policy 1977",
+    "Industrial Policy 1980",
+    "Industrial Policy 1991"
+   ],
+   "answer": 3,
+   "qid": "630680411084",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Which of the following is a saturated hydrocarbon?",
+   "options": [
+    "C2H4",
+    "C3H8",
+    "C6H6",
+    "C4H8"
+   ],
+   "answer": 1,
+   "qid": "630680517161",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Who among the following famous badminton players won Swiss Open 2022?",
+   "options": [
+    "PV Sindhu",
+    "Aparna Popat",
+    "Jwala Gutta",
+    "Saina Nehwal"
+   ],
+   "answer": 0,
+   "qid": "630680310840",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "The Kuchipudi dance belongs to which of the following states?",
+   "options": [
+    "Tamil Nadu",
+    "Madhya Pradesh",
+    "Manipur",
+    "Andhra Pradesh"
+   ],
+   "answer": 3,
+   "qid": "630680402052",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "With reference to Ishwar Chandra Vidyasagar, consider the following statements. a) He protested child marriage and polygamy. b) Due to his efforts, the first Hindu Widow Remarriage Act, 1856, was introduced. c) He was primarily known for his scholarship in Persian language. Which of the above statements is/are correct?",
+   "options": [
+    "b, c",
+    "a, c",
+    "a, b, c",
+    "a, b"
+   ],
+   "answer": 3,
+   "qid": "630680412308",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "A large number of words are derived from the word ‘Go’ meaning cow. A wealthy person was known as ________ in Vedic times.",
+   "options": [
+    "Gotra",
+    "Gabaksha",
+    "Gomat",
+    "Gaveshana"
+   ],
+   "answer": 2,
+   "qid": "630680412440",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "What was India's annual exponential growth rate as per the 2011 Census?",
+   "options": [
+    "1.64%",
+    "3.54%",
+    "1.10%",
+    "4.34%"
+   ],
+   "answer": 0,
+   "qid": "630680314147",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Which of the following districts of India is an example of an industrial district?",
+   "options": [
+    "Faridabad",
+    "Meerut",
+    "Jaipur",
+    "Kota"
+   ],
+   "answer": 3,
+   "qid": "630680209259",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "The Non-Cooperation Movement was called off after which of the following incidents?",
+   "options": [
+    "Kakori train robbery",
+    "Komagata Maru incident",
+    "Outbreak of the First World War",
+    "Chauri-Chaura incident"
+   ],
+   "answer": 3,
+   "qid": "630680511508",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "Which composite number can divide the sum of the first 12 natural numbers?",
+   "options": [
+    "12",
+    "8",
+    "6",
+    "4"
+   ],
+   "answer": 2,
+   "qid": "630680108457",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "Let ABC be a triangle. If the mid-points of AB, BC and AC are D, E and F, respectively, then ∆DEF is NOT congruent to _____.",
+   "options": [
+    "∆BDE",
+    "∆ADF",
+    "∆ECF",
+    "∆ABC"
+   ],
+   "answer": 3,
+   "qid": "630680297311",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "The angles of a triangle are in the ratio 1 : 2 : 3. The difference in the largest and smallest angle is (in degrees):",
+   "options": [
+    "15",
+    "30",
+    "45",
+    "60"
+   ],
+   "answer": 3,
+   "qid": "630680421360",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "The income of a person is ₹16,500, and his expenditure is ₹12,000. Next year, his income increases by 24% but his expenditure decreases by 10%. The percentage increase (rounded off to the nearest integer) in his savings is:",
+   "options": [
+    "115%",
+    "120%",
+    "95%",
+    "90%"
+   ],
+   "answer": 0,
+   "qid": "630680427955",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "If two straight lines are coinciding with each other, then the number of points of intersection is/are:",
+   "options": [
+    "infinitely many points of intersection",
+    "unique point of intersection",
+    "finite number of point of intersection",
+    "no points of intersection"
+   ],
+   "answer": 0,
+   "qid": "630680194606",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "One year ago, the age of B was twice that of A. After 9 years, if the ratio of the ages of B and A would be 4 ∶ 3, then the sum of their present ages is _____ years.",
+   "options": [
+    "17",
+    "15",
+    "21",
+    "30"
+   ],
+   "answer": 0,
+   "qid": "630680297288",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "Pipe A can fill a cistern in 4 hours and Pipe B can fill the same cistern in 5 hours. Pipe C can empty a full cistern in 3 hours. If all three pipes are opened together, then the time (in minutes) taken to fill the tank is: (round to the nearest minute)",
+   "options": [
+    "625",
+    "445",
+    "514",
+    "800"
+   ],
+   "answer": 2,
+   "qid": "630680397521",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "0",
+    "1",
+    "3",
+    "2"
+   ],
+   "answer": 0,
+   "qid": "630680413519",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "86b2c77ae835223a.png",
+     "w": 248,
+     "h": 15
+    }
+   },
+   "incomplete": true
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given pie chart carefully and answer the question that follows. The given pie chart depicts the expenditure incurred towards different hobby classes of an institute. If the total expenditure is ₹10,70,000, then find the central angle of the sector representing ‘drawing’.",
+   "options": [
+    "70°",
+    "68.4°",
+    "19°",
+    "90°"
+   ],
+   "answer": 1,
+   "qid": "630680427996",
+   "figures": [
+    {
+     "file": "5f1c2dda295c6afb.png",
+     "w": 238,
+     "h": 142
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "A policeman is chasing a thief at a speed of 82 km/h. The thief is 1300 m away and is running at a speed of 64 km/h. In how much time will the policeman catch the thief if both are riding on bikes?",
+   "options": [
+    "300 sec",
+    "350 sec",
+    "260 sec",
+    "250 sec"
+   ],
+   "answer": 2,
+   "qid": "630680428431",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680402352",
+   "figures": [
+    {
+     "file": "77734d8fcfd848ca.png",
+     "w": 242,
+     "h": 25
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d0cfdca119f696fe.png",
+     "w": 13,
+     "h": 18
+    },
+    "1": {
+     "file": "5fda2495d86aac36.png",
+     "w": 13,
+     "h": 18
+    },
+    "2": {
+     "file": "8bef7bca6a782fd5.png",
+     "w": 13,
+     "h": 18
+    },
+    "3": {
+     "file": "bd48f99a54a1995a.png",
+     "w": 13,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "Ramu lent ₹3,000 to Raju and a certain sum to Ravi at the same time and at the same rate of simple interest of 8% per annum. After 5 years, he received a sum of ₹1,600 from Raju and Ravi together as interest. Find the sum lent to Ravi.",
+   "options": [
+    "₹1,000",
+    "₹1,250",
+    "₹1,200",
+    "₹1,500"
+   ],
+   "answer": 0,
+   "qid": "630680349819",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "The ratio of two numbers is 2 : 5 and their difference is 210. The smaller number is ____________.",
+   "options": [
+    "60",
+    "150",
+    "350",
+    "140"
+   ],
+   "answer": 3,
+   "qid": "630680428776",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "5.75",
+    "5.25",
+    "6.75",
+    "6.25"
+   ],
+   "answer": 2,
+   "qid": "630680428173",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "e9c88cd94c4db572.png",
+     "w": 248,
+     "h": 87
+    }
+   },
+   "incomplete": true
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "A line cuts two concentric circles. The length of chords formed by this line on the circles is 6 cm and 18 cm. Find the difference in the squares of the radii of two circles.",
+   "options": [
+    "72",
+    "90",
+    "120",
+    "60"
+   ],
+   "answer": 0,
+   "qid": "630680358079",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "The ratio of the length, the breadth, and the height of a solid cuboid is given as 3 : 2 : 1, and the breadth of this cuboid is given as 12 cm. Find the volume (in cm3) of the cuboid.",
+   "options": [
+    "1500",
+    "1250",
+    "1200",
+    "1296"
+   ],
+   "answer": 3,
+   "qid": "630680421492",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 78. What is the average score of the class?",
+   "options": [
+    "69.6",
+    "71.6",
+    "70.6",
+    "72.6"
+   ],
+   "answer": 1,
+   "qid": "630680566264",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "If the market price of a bag is 25% above the cost price, and a discount of 18% is declared on it, then find the gain percentage.",
+   "options": [
+    "1.5%",
+    "3.0%",
+    "2.5%",
+    "2.0%"
+   ],
+   "answer": 2,
+   "qid": "630680428064",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "The given pie-chart shows the data on A, B, O, and AB blood groups of 240 donors. Study the chart and answer the question that follows. What is the ratio of the average donors of blood groups ‘A’, ‘O’, and ‘AB’ to the donors of blood group ‘B’?",
+   "options": [
+    "4 : 3",
+    "3 : 4",
+    "1 : 3",
+    "2 : 3"
+   ],
+   "answer": 3,
+   "qid": "630680387735",
+   "figures": [
+    {
+     "file": "9fe8d78e2c7f24ce.png",
+     "w": 158,
+     "h": 137
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680383493",
+   "figures": [
+    {
+     "file": "b95223e212392456.png",
+     "w": 91,
+     "h": 19
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "ac98facfa240e7e2.png",
+     "w": 24,
+     "h": 24
+    },
+    "1": {
+     "file": "f84128115c00ac20.png",
+     "w": 24,
+     "h": 24
+    },
+    "2": {
+     "file": "0ab96b6f1c7d5d51.png",
+     "w": 24,
+     "h": 22
+    },
+    "3": {
+     "file": "b2ce973bc391ced4.png",
+     "w": 21,
+     "h": 23
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "14.63%",
+    "15.78%",
+    "15.63%",
+    "14.34%"
+   ],
+   "answer": 2,
+   "qid": "630680428109",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "b52972a0d1810395.png",
+     "w": 248,
+     "h": 89
+    }
+   },
+   "incomplete": true
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "If 436P5 is divisible by 3, then the largest value of P is:",
+   "options": [
+    "8",
+    "12",
+    "9",
+    "6"
+   ],
+   "answer": 2,
+   "qid": "630680136692",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680526459",
+   "figures": [
+    {
+     "file": "81c0066bf74cd296.png",
+     "w": 12,
+     "h": 13
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "48da74687968d979.png",
+     "w": 248,
+     "h": 18
+    },
+    "1": {
+     "file": "23f2654a684e1ce5.png",
+     "w": 18,
+     "h": 13
+    },
+    "2": {
+     "file": "1c5708f4b4b0b485.png",
+     "w": 12,
+     "h": 24
+    },
+    "3": {
+     "file": "b4febe6b7179b21a.png",
+     "w": 16,
+     "h": 26
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate idiom to fill in the blank. After months of dedication and effort, I finally completed the marathon. I can really _______________ for this accomplishment.",
+   "options": [
+    "up a creek without a paddle",
+    "eat like a horse",
+    "pat myself on the back",
+    "blow hot and cold"
+   ],
+   "answer": 2,
+   "qid": "630680374410",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Grotesque",
+   "options": [
+    "Shameful",
+    "Comely",
+    "Ugly",
+    "Spontaneous"
+   ],
+   "answer": 2,
+   "qid": "630680145488",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the underlined group of words. We, as human beings, have a tendency of believing in the things that can be seen and touched.",
+   "options": [
+    "tangible",
+    "inexpressible",
+    "impalpable",
+    "spiritual"
+   ],
+   "answer": 0,
+   "qid": "630680158620",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Select the correctly spelled sentence.",
+   "options": [
+    "The resteraunt serves delicious meals.",
+    "The resturant serves deliscious meals.",
+    "The restaurant serves delicious meals.",
+    "The resturaunt serves delisious meals."
+   ],
+   "answer": 2,
+   "qid": "630680377272",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Loving",
+   "options": [
+    "Offish",
+    "Rejuvenate",
+    "Affectionate",
+    "Subordinate"
+   ],
+   "answer": 2,
+   "qid": "630680168487",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the word which means the same as the group of words given. Essence or main point of any passage, lecture or book",
+   "options": [
+    "Meaning",
+    "Gist",
+    "Significance",
+    "Heart"
+   ],
+   "answer": 1,
+   "qid": "630680414697",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. Arushya purchased the most good of all the suits kept in the shop.",
+   "options": [
+    "the more good",
+    "the goods",
+    "the best",
+    "the good"
+   ],
+   "answer": 2,
+   "qid": "630680153521",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. The chef prepares the meal with great care.",
+   "options": [
+    "The meal has been prepared with great care by the chef.",
+    "The meal will be prepared with great care by the chef.",
+    "The meal is prepared with great care by the chef.",
+    "The meal was prepared with great care by the chef."
+   ],
+   "answer": 2,
+   "qid": "630680415202",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the following sentence in active voice. The novels of Dickens are being read by Mayank.",
+   "options": [
+    "Mayank had been reading the novels of Dickens.",
+    "Mayank is reading the novels of Dickens.",
+    "Mayank was reading the novels of Dickens.",
+    "Mayank has been reading the novels of Dickens."
+   ],
+   "answer": 1,
+   "qid": "630680415243",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the word in brackets to fill in the blanks. The soldiers spent long period ________ (convalescing).",
+   "options": [
+    "travelling",
+    "attacking",
+    "ailing",
+    "recovering"
+   ],
+   "answer": 3,
+   "qid": "630680186689",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. Even if you’ve never heard his name, you’ve probably met someone with his words tattooed in their skin or heard them sung at a music concert.",
+   "options": [
+    "tattooed on their skin",
+    "tattooed through their skin",
+    "tattooed until their skin",
+    "tattooed overdoing their skin"
+   ],
+   "answer": 0,
+   "qid": "630680147488",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "The following sentence has been divided into four segments. Identify the segment that contains a grammatical error. The lions became violently / when the visitors / started throwing / stones at them.",
+   "options": [
+    "The lions became violently",
+    "when the visitors",
+    "started throwing",
+    "stones at them."
+   ],
+   "answer": 0,
+   "qid": "630680317347",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Necessary",
+   "options": [
+    "Essential",
+    "Spatial",
+    "Existential",
+    "Potential"
+   ],
+   "answer": 0,
+   "qid": "630680168489",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Intelligible",
+   "options": [
+    "Incoherent",
+    "Deliberate",
+    "Scriptable",
+    "Embezzle"
+   ],
+   "answer": 0,
+   "qid": "630680517358",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Possession",
+    "Referred",
+    "Weather",
+    "Unfourseen"
+   ],
+   "answer": 3,
+   "qid": "630680409966",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Fear of snakes",
+   "options": [
+    "Claustrophobia",
+    "Ophidiophobia",
+    "Xenophobia",
+    "Syngenesophobia"
+   ],
+   "answer": 1,
+   "qid": "630680414665",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Evoke",
+   "options": [
+    "Induce",
+    "Abandon",
+    "Reduce",
+    "Divert"
+   ],
+   "answer": 0,
+   "qid": "630680295953",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. A. at the same time giving happiness to the poor B. by providing them with food, clothes, money or grain C. festivals in India are celebrated to share happiness D. by being in the presence of the members of the family and",
+   "options": [
+    "CABD",
+    "ACBD",
+    "CDAB",
+    "CBAD"
+   ],
+   "answer": 2,
+   "qid": "630680205029",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined idiom in the following sentence. The leader of the Legislative Assembly won the hearts of the members through his maiden speech during the session in state council.",
+   "options": [
+    "closure speech",
+    "first speech",
+    "logical speech",
+    "final speech"
+   ],
+   "answer": 1,
+   "qid": "630680316704",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "The given sentence is divided into four segments. Select the option that has the segment with a grammatical error. Jerry driving / home late / when the incident / took place.",
+   "options": [
+    "Jerry driving",
+    "took place.",
+    "when the incident",
+    "home late"
+   ],
+   "answer": 0,
+   "qid": "630680206623",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option, in the questions that follow, to fill in each blank. Listening starts with hearing but goes (1)___________. Hearing, in other words, is necessary, but is not a sufficient (2)___________ for listening. Listening involves hearing with attention. Listening is a process that (3)___________ concentration. While listening, one should also be observant. In other words, listening has to do with the ears, (4)____________ with the eyes and the mind. Listening is to be understood as the total process that involves hearing with attention, being observant and making interpretations. Good communication is essentially a/an (5)___________ process.\n\nSelect the most appropriate option to fill in blank number 1.",
+   "options": [
+    "towards",
+    "across",
+    "beyond",
+    "throughout"
+   ],
+   "answer": 2,
+   "qid": "630680156799",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option, in the questions that follow, to fill in each blank. Listening starts with hearing but goes (1)___________. Hearing, in other words, is necessary, but is not a sufficient (2)___________ for listening. Listening involves hearing with attention. Listening is a process that (3)___________ concentration. While listening, one should also be observant. In other words, listening has to do with the ears, (4)____________ with the eyes and the mind. Listening is to be understood as the total process that involves hearing with attention, being observant and making interpretations. Good communication is essentially a/an (5)___________ process.\n\nSelect the most appropriate option to fill in blank number 2.",
+   "options": [
+    "condition",
+    "place",
+    "decorum",
+    "scenario"
+   ],
+   "answer": 0,
+   "qid": "630680156800",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option, in the questions that follow, to fill in each blank. Listening starts with hearing but goes (1)___________. Hearing, in other words, is necessary, but is not a sufficient (2)___________ for listening. Listening involves hearing with attention. Listening is a process that (3)___________ concentration. While listening, one should also be observant. In other words, listening has to do with the ears, (4)____________ with the eyes and the mind. Listening is to be understood as the total process that involves hearing with attention, being observant and making interpretations. Good communication is essentially a/an (5)___________ process.\n\nSelect the most appropriate option to fill in blank number 3.",
+   "options": [
+    "brings up",
+    "takes for",
+    "calls for",
+    "disposes of"
+   ],
+   "answer": 2,
+   "qid": "630680156801",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option, in the questions that follow, to fill in each blank. Listening starts with hearing but goes (1)___________. Hearing, in other words, is necessary, but is not a sufficient (2)___________ for listening. Listening involves hearing with attention. Listening is a process that (3)___________ concentration. While listening, one should also be observant. In other words, listening has to do with the ears, (4)____________ with the eyes and the mind. Listening is to be understood as the total process that involves hearing with attention, being observant and making interpretations. Good communication is essentially a/an (5)___________ process.\n\nSelect the most appropriate option to fill in blank number 4.",
+   "options": [
+    "although",
+    "rather",
+    "yet",
+    "as well as"
+   ],
+   "answer": 3,
+   "qid": "630680156802",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option, in the questions that follow, to fill in each blank. Listening starts with hearing but goes (1)___________. Hearing, in other words, is necessary, but is not a sufficient (2)___________ for listening. Listening involves hearing with attention. Listening is a process that (3)___________ concentration. While listening, one should also be observant. In other words, listening has to do with the ears, (4)____________ with the eyes and the mind. Listening is to be understood as the total process that involves hearing with attention, being observant and making interpretations. Good communication is essentially a/an (5)___________ process.\n\nSelect the most appropriate option to fill in blank number 5.",
+   "options": [
+    "interactive",
+    "obnoxious",
+    "pecuniary",
+    "onerous"
+   ],
+   "answer": 0,
+   "qid": "630680156803",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

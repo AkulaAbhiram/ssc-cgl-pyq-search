@@ -1,0 +1,1919 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-23",
+  "time": "4:00 PM - 5:00 PM",
+  "shift": 3,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_23_Tier_1_English_Question_Paper_and_Answer_Key_Shift_3__d5a500b210f8ba2137b3c4b69e193806.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that, when sequentially placed from left to right in the blanks below, will complete the letter series. _ Y R W I Y _ X I _ R _ I Y R Z",
+   "options": [
+    "XRYY",
+    "IRZY",
+    "IYYX",
+    "IRYY"
+   ],
+   "answer": 3,
+   "qid": "630680261798",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘cat dog monkey’ is coded as ‘55 66 88’; ‘camel cat donkey’ is coded as ‘66 99 33’ and ‘dog goat tiger’ is coded as ‘88 11 22’. How is ‘monkey’ coded in that language?",
+   "options": [
+    "88",
+    "66",
+    "11",
+    "55"
+   ],
+   "answer": 3,
+   "qid": "630680189111",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 45, 52, 63, 76, 93, ?",
+   "options": [
+    "116",
+    "118",
+    "122",
+    "112"
+   ],
+   "answer": 3,
+   "qid": "630680411898",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster. MSD: NHW :: OAE : LZV :: NIP:?",
+   "options": [
+    "MQK",
+    "MRK",
+    "NRL",
+    "NSL"
+   ],
+   "answer": 1,
+   "qid": "630680416744",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position(s) of how many letters will remain unchanged if all the letters in the word ‘LAUNDER’ are arranged in English alphabetical order?",
+   "options": [
+    "Three",
+    "None",
+    "Two",
+    "One"
+   ],
+   "answer": 1,
+   "qid": "630680375920",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged? 152 ÷ 6 + 1617 × 7 – 77 = ?",
+   "options": [
+    "785",
+    "578",
+    "758",
+    "587"
+   ],
+   "answer": 2,
+   "qid": "630680411719",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'WJSL' is coded as '25-12-21-14' and 'DUOH' is coded as '6- 23-17-10'. What is the code for 'PFKR' in the given language?",
+   "options": [
+    "19-9-12-19",
+    "20-10-14-21",
+    "20-9-12-20",
+    "18-8-13-20"
+   ],
+   "answer": 3,
+   "qid": "630680788505",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "13 is related to 21 following certain logic. Following the same logic, 35 is related to 43. To which of the following numbers is 66 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "71",
+    "73",
+    "74",
+    "72"
+   ],
+   "answer": 2,
+   "qid": "630680162505",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "",
+   "options": [
+    "144",
+    "110",
+    "135",
+    "120"
+   ],
+   "answer": 3,
+   "qid": "630680113680",
+   "figures": [
+    {
+     "file": "0f4c40b26819224a.png",
+     "w": 328,
+     "h": 161
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first letter cluster and the fourth letter cluster is related to the third letter cluster. EXPENSE : EPXEESN :: FASHION : HSAFNOI :: FORTUNE : ?",
+   "options": [
+    "TROFENU",
+    "ENUTROF",
+    "TUNEFOR",
+    "ROFNUTE"
+   ],
+   "answer": 0,
+   "qid": "630680416459",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "The question contains pairs of words that are related to each other in a certain way. Three of the following four word pairs are alike as these have the same relationship and thus form a group. Which word pair is the one that DOES NOT belong to that group? (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)",
+   "options": [
+    "Boxing – 1 player in a team",
+    "Chess – 1 player in a team",
+    "Polo – 4 players in a team",
+    "Football – 10 players in a team"
+   ],
+   "answer": 3,
+   "qid": "630680798730",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many rectangles are there in the given figure?",
+   "options": [
+    "9",
+    "6",
+    "8",
+    "4"
+   ],
+   "answer": 0,
+   "qid": "630680161866",
+   "figures": [
+    {
+     "file": "c6088fb1526e1761.png",
+     "w": 132,
+     "h": 71
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six letters O, Z, F, T, R and M are written on different faces of a dice. Two positions of this dice are shown in the figures below. Find the letter on the face opposite to Z.",
+   "options": [
+    "M",
+    "T",
+    "R",
+    "F"
+   ],
+   "answer": 0,
+   "qid": "630680222372",
+   "figures": [
+    {
+     "file": "c8c11167bc0fb1b5.png",
+     "w": 98,
+     "h": 46
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680325825",
+   "figures": [
+    {
+     "file": "5db9915debd6f59b.png",
+     "w": 71,
+     "h": 63
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "e8671d98d9948149.png",
+     "w": 63,
+     "h": 18
+    },
+    "1": {
+     "file": "a286013da18e71f8.png",
+     "w": 63,
+     "h": 18
+    },
+    "2": {
+     "file": "260162b083eae0cb.png",
+     "w": 63,
+     "h": 18
+    },
+    "3": {
+     "file": "a2b961598dbc9336.png",
+     "w": 64,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following number-pairs are alike in some manner and hence form a group. Which number-pair does not belong to that group? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "12 – 156",
+    "21 – 462",
+    "14 – 196",
+    "17 – 306"
+   ],
+   "answer": 2,
+   "qid": "630680349004",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which two numbers (not digits) should be interchanged to make the given equation correct? 6 × 3 + 8 ÷ 2 + 21 + 5 × 4 – 14 ÷ 7 = 53",
+   "options": [
+    "8 and 4",
+    "3 and 5",
+    "21 and 14",
+    "2 and 4"
+   ],
+   "answer": 2,
+   "qid": "630680319377",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the given sets. (6, 31) (10, 91) (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "(7, 68)",
+    "(8, 57)",
+    "(12, 146)",
+    "(9, 81)"
+   ],
+   "answer": 1,
+   "qid": "630680319360",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680356666",
+   "figures": [
+    {
+     "file": "5258b4dc370cb8c6.png",
+     "w": 96,
+     "h": 84
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "7f00dc769e424311.png",
+     "w": 83,
+     "h": 18
+    },
+    "1": {
+     "file": "6618fd105b1e002c.png",
+     "w": 80,
+     "h": 18
+    },
+    "2": {
+     "file": "cb9ffa0c0015451c.png",
+     "w": 85,
+     "h": 21
+    },
+    "3": {
+     "file": "0b6e9c9fb454028e.png",
+     "w": 82,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "",
+   "options": [
+    "43",
+    "13",
+    "29",
+    "21"
+   ],
+   "answer": 3,
+   "qid": "63068082919",
+   "figures": [
+    {
+     "file": "cb12b74fa6434cc3.png",
+     "w": 328,
+     "h": 147
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will logically complete the series. ME_ICM_DIC_GDI_MHD_C",
+   "options": [
+    "DEMAI",
+    "DFMCI",
+    "DCFMI",
+    "DFMBI"
+   ],
+   "answer": 1,
+   "qid": "630680216606",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680105032",
+   "figures": [
+    {
+     "file": "be22306402d7c8a2.png",
+     "w": 328,
+     "h": 135
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "8c9866d0b4814f50.png",
+     "w": 109,
+     "h": 102
+    },
+    "1": {
+     "file": "e79fdaf900f44a0e.png",
+     "w": 112,
+     "h": 106
+    },
+    "2": {
+     "file": "03c3639d07f9dfed.png",
+     "w": 108,
+     "h": 105
+    },
+    "3": {
+     "file": "f11e2ce7693e1b5b.png",
+     "w": 110,
+     "h": 104
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which figure should replace the question mark (?) if the following series were to be continued?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680214465",
+   "figures": [
+    {
+     "file": "003ea8b490b5ea4d.png",
+     "w": 328,
+     "h": 69
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "49c7eccaf963c5e4.png",
+     "w": 73,
+     "h": 73
+    },
+    "1": {
+     "file": "b04925c8e671a7a9.png",
+     "w": 73,
+     "h": 73
+    },
+    "2": {
+     "file": "2abc10e86f1e6d76.png",
+     "w": 73,
+     "h": 72
+    },
+    "3": {
+     "file": "ff0ef34122b6b3eb.png",
+     "w": 73,
+     "h": 72
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680471472",
+   "figures": [
+    {
+     "file": "17f00e37cc38cafc.png",
+     "w": 328,
+     "h": 67
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "f29fdc01bc2332c6.png",
+     "w": 126,
+     "h": 126
+    },
+    "1": {
+     "file": "bc49c86dc9462dca.png",
+     "w": 124,
+     "h": 125
+    },
+    "2": {
+     "file": "6ef8cfe42d5e9d1d.png",
+     "w": 124,
+     "h": 125
+    },
+    "3": {
+     "file": "a9b982e938163438.png",
+     "w": 123,
+     "h": 125
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "21 is related to 220 by certain logic. Following the same logic, 72 is related to 781. To which of the following is 27 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "340",
+    "286",
+    "290",
+    "316"
+   ],
+   "answer": 1,
+   "qid": "630680326552",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'A & B' means ‘ A is the brother of B’, 'A x B' means ‘A is the father of B’, 'A ? B' means ‘A is the mother of B’ and 'A ! B' means ‘A is the wife of B’. Which of the following means that W is the mother's mother of P?",
+   "options": [
+    "W & R ! Y x O ? P",
+    "W ? R x Y ! O & P",
+    "W ? R ! Y & O x P",
+    "W ! R x Y ? O & P"
+   ],
+   "answer": 3,
+   "qid": "630680797524",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Digestion of food is an important function of the animal body. In animals like lions, cows, humans, etc., the process involves use of various organs starting from the mouth and ending with the anus. The longest part of this canal is known as the ________.",
+   "options": [
+    "small intestine",
+    "stomach",
+    "oesophagus",
+    "large intestine"
+   ],
+   "answer": 0,
+   "qid": "630680517183",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "Who among the following is known as ‘Captain Cool’ in Indian Cricket?",
+   "options": [
+    "Mahendra Singh Dhoni",
+    "Kapil Dev",
+    "Virat Kohli",
+    "Sachin Tendulkar"
+   ],
+   "answer": 0,
+   "qid": "630680339377",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Papanasam Ramayya Sivan was an Indian composer of which music style?",
+   "options": [
+    "Bhajan",
+    "Folk music",
+    "Qawwali",
+    "Carnatic music"
+   ],
+   "answer": 3,
+   "qid": "630680410395",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Which of the following is a difference between self-help groups (SHGs) and microfinance institutions (MFIs) in India?",
+   "options": [
+    "SHGs provide only credit, while MFIs provide a range of financial services.",
+    "SHGs rely on government subsidies for funding, while MFIs rely on commercial sources of funding.",
+    "SHGs are typically small, community-based organisations, while MFIs are larger and more formal institutions.",
+    "SHGs are non-profit organisations, while MFIs are for-profit organisations."
+   ],
+   "answer": 2,
+   "qid": "630680324074",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "Which famous experiment was done by Michael Faraday in 1831?",
+   "options": [
+    "Discovery of law of elasticity",
+    "Discovery of electromagnetic induction",
+    "Discovery of quantum magnetometers",
+    "Discovery of natural radioactivity"
+   ],
+   "answer": 1,
+   "qid": "630680302886",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "The book ‘Poverty and Un-British Rule in India’ was written by _______.",
+   "options": [
+    "Bipin Chandra Pal",
+    "MN Roy",
+    "Dadabhai Naoroji",
+    "Lala Lajpat Rai"
+   ],
+   "answer": 2,
+   "qid": "630680412317",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Where was the first meeting of the Employment Working Group of G20 conducted?",
+   "options": [
+    "Jaipur",
+    "Kolkata",
+    "Jodhpur",
+    "Lucknow"
+   ],
+   "answer": 2,
+   "qid": "630680353931",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "In which of the following states is the Chu-Faat dance performed?",
+   "options": [
+    "West Bengal",
+    "Sikkim",
+    "Uttarakhand",
+    "Haryana"
+   ],
+   "answer": 1,
+   "qid": "630680216204",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "What is the salinity of the Dead Sea (per litre of water)?",
+   "options": [
+    "340 grams",
+    "390 grams",
+    "440 grams",
+    "240 grams"
+   ],
+   "answer": 0,
+   "qid": "63068094193",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Which of the following is the first Indian woman Grandmaster in Chess?",
+   "options": [
+    "Tania Sachdev",
+    "S Vijayalakshmi",
+    "Harika Dronavalli",
+    "R Vaishali"
+   ],
+   "answer": 1,
+   "qid": "630680510829",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Who reconciled Dalton's atomic hypothesis with Gay-Lussac's results on the combination of volumes in 1811?",
+   "options": [
+    "Robert Boyle",
+    "Fred Hoyle",
+    "Jacques Charles",
+    "Amadeo Avogadro"
+   ],
+   "answer": 3,
+   "qid": "630680517139",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "As per the Census of India 2011, the increase in literacy rates for males and females,respectively, as compared to 2001 Census was:",
+   "options": [
+    "4.88% and 10.79%",
+    "5.88% and 12.79%",
+    "6.88% and 11.79%",
+    "3.88% and 13.79%"
+   ],
+   "answer": 2,
+   "qid": "630680409606",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Which of the following is a festival primarily celebrated in the state of Odisha?",
+   "options": [
+    "Chhath",
+    "Raja Parba",
+    "Me-Dam-Me-Phi",
+    "Baishagu"
+   ],
+   "answer": 1,
+   "qid": "630680305974",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "Which Act was passed by the British Parliament in the year 1773 AD to regulate the activities of the East India Company?",
+   "options": [
+    "Pitt’s India Act",
+    "Age of Consent Act",
+    "Indian Slavery Act",
+    "Regulating Act"
+   ],
+   "answer": 3,
+   "qid": "630680511537",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "",
+   "options": [
+    "i (d), ii (a), iii (b), iv (c)",
+    "i (c), ii (d), iii (b), iv (a)",
+    "i (b), ii (d), iii (a), iv (c)",
+    "i (b), ii (c), iii (d), iv (a)"
+   ],
+   "answer": 2,
+   "qid": "6306801048059",
+   "figures": [
+    {
+     "file": "a73941f149a56177.png",
+     "w": 278,
+     "h": 143
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "The famous santoor player Pandit Shivkumar Sharma received the ________________________ in the year 1986.",
+   "options": [
+    "Sanskriti Award",
+    "Kalidas Samman",
+    "Sangeet Natak Akademi Award",
+    "Maharashtra Gurav Puraskar"
+   ],
+   "answer": 2,
+   "qid": "6306801048038",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "The Aryans lived in the land known as ‘Sapta Sindhu’ (Land of the Seven Rivers). Which of the following was NOT a part of it?",
+   "options": [
+    "Ravi",
+    "Shipra",
+    "Jhelum",
+    "Indus"
+   ],
+   "answer": 1,
+   "qid": "630680412492",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Who was the chief coordinator for the G20 summit hosted by India?",
+   "options": [
+    "S Jaishankar",
+    "Vijay Gokhale",
+    "Vinay Kwatra",
+    "Harsh Vardhan Shringla"
+   ],
+   "answer": 3,
+   "qid": "630680195360",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Who among the following founded the Pala dynasty in 8th Century CE?",
+   "options": [
+    "Dharmapala",
+    "Gopala",
+    "Devapala",
+    "Ramapala"
+   ],
+   "answer": 1,
+   "qid": "630680412434",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "The ICAR – Sugarcane Breeding Institute is located at:",
+   "options": [
+    "Cuddalore",
+    "Coimbatore",
+    "Tirunelveli",
+    "Vellore"
+   ],
+   "answer": 1,
+   "qid": "630680134721",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "Who assumed charge as the new Vice Chief of the Indian Navy on 31 July 2021?",
+   "options": [
+    "Ravneet Singh",
+    "Karambir Singh",
+    "SN Ghormade",
+    "Dinesh K Tripathi"
+   ],
+   "answer": 2,
+   "qid": "630680158409",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "The number of ministers, including the Chief Minister, in a state shall NOT be less than _______.",
+   "options": [
+    "13",
+    "12",
+    "11",
+    "10"
+   ],
+   "answer": 1,
+   "qid": "630680326518",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "____________ Directive principles of State Policy were added to the Indian Constitution by the 42nd Constitutional Amendment Act of 1976.",
+   "options": [
+    "Three",
+    "Four",
+    "Five",
+    "Two"
+   ],
+   "answer": 1,
+   "qid": "630680329454",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Who published the logistic equation model of population growth in 1838?",
+   "options": [
+    "Alfred Russel Wallace",
+    "Howard Thomas Odum",
+    "George Evelyn Hutchinson",
+    "Pierre François Verhulst"
+   ],
+   "answer": 3,
+   "qid": "630680407458",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT a major climate control of a place?",
+   "options": [
+    "Interior of the earth",
+    "Ocean currents",
+    "Latitude",
+    "Altitude"
+   ],
+   "answer": 0,
+   "qid": "630680302662",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "In a team of seven members, the average age of six of the members is 42 years while the age of the seventh member of the team is 36 years more than the average age of all the seven members taken together. Find the age (in years) of the seventh member of the team.",
+   "options": [
+    "84",
+    "78",
+    "80",
+    "90"
+   ],
+   "answer": 0,
+   "qid": "630680381292",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": ".",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680403284",
+   "figures": [
+    {
+     "file": "6bfe5f5195e4bcca.png",
+     "w": 157,
+     "h": 11
+    },
+    {
+     "file": "c63a6a5367ddac20.png",
+     "w": 225,
+     "h": 9
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "87710304f371723b.png",
+     "w": 28,
+     "h": 9
+    },
+    "1": {
+     "file": "309887d63c3ff01e.png",
+     "w": 38,
+     "h": 9
+    },
+    "2": {
+     "file": "a1ca8ede585c5929.png",
+     "w": 28,
+     "h": 9
+    },
+    "3": {
+     "file": "757744993b0de5b6.png",
+     "w": 38,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "If in a circle a chord of length 14 cm is at a distance of 24 cm from its centre, then the length of the radius of the circle is:",
+   "options": [
+    "28 cm",
+    "25 cm",
+    "24 cm",
+    "31 cm"
+   ],
+   "answer": 1,
+   "qid": "630680406582",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "37.5",
+    "18.5",
+    "60.5",
+    "55.5"
+   ],
+   "answer": 3,
+   "qid": "630680421366",
+   "figures": [
+    {
+     "file": "af4322b74ecf0114.png",
+     "w": 328,
+     "h": 46
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "The monthly production of electric bulbs by a company during the second half of the year 2021 is shown by the following bar graph. Study the bar graph carefully and answer the question given below. What is the percentage decrement in the production of electric bulbs in October as compared to the production in July? (Correct up to two decimal places.)",
+   "options": [
+    "30.28%",
+    "29.82%",
+    "31.82%",
+    "32.28%"
+   ],
+   "answer": 2,
+   "qid": "630680383454",
+   "figures": [
+    {
+     "file": "56642b5c0dd09c0f.png",
+     "w": 328,
+     "h": 193
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680413483",
+   "figures": [
+    {
+     "file": "9b31dd524e85aaf1.png",
+     "w": 328,
+     "h": 19
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "7daae003ef6ae336.png",
+     "w": 65,
+     "h": 22
+    },
+    "1": {
+     "file": "6a961b1d9d0592ac.png",
+     "w": 66,
+     "h": 23
+    },
+    "2": {
+     "file": "8cce08998b5ea6c1.png",
+     "w": 69,
+     "h": 21
+    },
+    "3": {
+     "file": "13b38e2cc8ea5379.png",
+     "w": 49,
+     "h": 22
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "Find the area of a rectangle whose length is 52m and breadth is 9m.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680101829",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "412921a06d3434c2.png",
+     "w": 40,
+     "h": 18
+    },
+    "1": {
+     "file": "54ca70bc35250447.png",
+     "w": 40,
+     "h": 18
+    },
+    "2": {
+     "file": "684809172074b58c.png",
+     "w": 39,
+     "h": 18
+    },
+    "3": {
+     "file": "ada08f0e4ac175f3.png",
+     "w": 40,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "A boat covers a distance of 55 km downstream in 5 hours while it takes 11 hours to cover the same distance upstream. What is the speed of the boat?",
+   "options": [
+    "8 km/h",
+    "11 km/h",
+    "7 km/h",
+    "9 km/h"
+   ],
+   "answer": 0,
+   "qid": "630680428674",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 60. What is the average score of the class?",
+   "options": [
+    "60.8",
+    "59.8",
+    "58.8",
+    "61.8"
+   ],
+   "answer": 0,
+   "qid": "630680566255",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "Two pipes A and B can fill a tank in 20 and 30 hours, respectively. Both pipes are opened to fill the tank, but when the tank is one-third full, a leak develops through which one-fourth of the water supplied by both pipes goes out. Find the total time (in hours) taken to fill the tank.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680397590",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "8f33cef1779ccf74.png",
+     "w": 23,
+     "h": 24
+    },
+    "1": {
+     "file": "aad3eabdc9b9a546.png",
+     "w": 23,
+     "h": 24
+    },
+    "2": {
+     "file": "c8fd2f4b09f536c1.png",
+     "w": 23,
+     "h": 24
+    },
+    "3": {
+     "file": "96e289f82bee83bb.png",
+     "w": 12,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "The ratio of the ages of A and B, 3 years ago, was 5 : 7. The ratio of their ages, 13 years from now, will be 9 : 11. If the present age of C is 11 years less than that of B, then the present age of C, in years, is:",
+   "options": [
+    "31",
+    "20",
+    "23",
+    "36"
+   ],
+   "answer": 1,
+   "qid": "630680397527",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "30%",
+    "35%",
+    "25%",
+    "40%"
+   ],
+   "answer": 0,
+   "qid": "630680428193",
+   "figures": [
+    {
+     "file": "b2a6ec4693bca1b7.png",
+     "w": 328,
+     "h": 144
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "In ΔPQR, if 4∠P = 5∠Q = 20∠R, then the value of ∠Q is:",
+   "options": [
+    "45°",
+    "90°",
+    "36°",
+    "72°"
+   ],
+   "answer": 3,
+   "qid": "630680382708",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "If an employee's income is ₹72,000, the amount he spends is 40% higher than his savings. Therefore, his savings (in ₹) is:",
+   "options": [
+    "30000",
+    "32000",
+    "34000",
+    "28000"
+   ],
+   "answer": 0,
+   "qid": "630680428058",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "3",
+    "0",
+    "2",
+    "1"
+   ],
+   "answer": 1,
+   "qid": "630680199702",
+   "figures": [
+    {
+     "file": "1f752bcaa1cc47cd.png",
+     "w": 206,
+     "h": 29
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "The number 4,29,714 is divisible by:",
+   "options": [
+    "6 and 5",
+    "3 and 6",
+    "4 and 6",
+    "3 and 5"
+   ],
+   "answer": 1,
+   "qid": "630680131180",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "The sale of two kinds of bicycles B1 and B2 (in lakhs) manufactured by a company over a period of three years are shown in the table below. From 2001 to 2003, the total sale of bicycles B1 is what percent of the total sale of bicycles B2?",
+   "options": [
+    "56.7%",
+    "68.2%",
+    "62.5%",
+    "70.6%"
+   ],
+   "answer": 2,
+   "qid": "630680428272",
+   "figures": [
+    {
+     "file": "1a2ae19d862c9bc5.png",
+     "w": 178,
+     "h": 65
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "4",
+    "6",
+    "10",
+    "8"
+   ],
+   "answer": 0,
+   "qid": "630680413489",
+   "figures": [
+    {
+     "file": "b27873e70fe79738.png",
+     "w": 328,
+     "h": 14
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "30°",
+    "45°",
+    "60°",
+    "22.5°"
+   ],
+   "answer": 1,
+   "qid": "630680518890",
+   "figures": [
+    {
+     "file": "e33a0e3040891875.png",
+     "w": 328,
+     "h": 24
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "The single discount equivalent to a series discount of 60%, 70% and 80%.",
+   "options": [
+    "95.5%",
+    "85%",
+    "70%",
+    "97.6%"
+   ],
+   "answer": 3,
+   "qid": "630680178723",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "495",
+    "499",
+    "522",
+    "510"
+   ],
+   "answer": 3,
+   "qid": "630680523726",
+   "figures": [
+    {
+     "file": "4711c87ff4af1ac5.png",
+     "w": 328,
+     "h": 185
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "The length of the tangent drawn from a point 10 cm away from the centre of a circle with radius 4 cm, is:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680195539",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "08ca1536bc7d1bb7.png",
+     "w": 36,
+     "h": 20
+    },
+    "1": {
+     "file": "3e3740a37863b9d0.png",
+     "w": 36,
+     "h": 22
+    },
+    "2": {
+     "file": "d86215289e6e06df.png",
+     "w": 36,
+     "h": 18
+    },
+    "3": {
+     "file": "b49ed1201b397803.png",
+     "w": 36,
+     "h": 20
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "A customer pays ₹975 in instalments. The payment is done each month ₹5 less than the previous month. If the first instalment is ₹100, how much time will be taken to pay the entire amount?",
+   "options": [
+    "26 months",
+    "14 months",
+    "27 months",
+    "15 months"
+   ],
+   "answer": 3,
+   "qid": "630680135784",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. The cynical investors believed in every word the analysts said.",
+   "options": [
+    "persuasive",
+    "credible",
+    "distrustful",
+    "credulous"
+   ],
+   "answer": 3,
+   "qid": "630680176816",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word. Her remarks were relevant to the discussion.",
+   "options": [
+    "Suitable",
+    "Inappropriate",
+    "Conclusive",
+    "Introductory"
+   ],
+   "answer": 1,
+   "qid": "630680401251",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Lethargic",
+   "options": [
+    "Active",
+    "Angry",
+    "Languid",
+    "Moderate"
+   ],
+   "answer": 0,
+   "qid": "630680396860",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Select the option that arranges the parts in the correct sequence to form a meaningful sentence. (P) unlock their potential (Q) empowers individuals to (O) and shape their future (R) the power of education",
+   "options": [
+    "QROP",
+    "RPOQ",
+    "RQPO",
+    "OPRQ"
+   ],
+   "answer": 2,
+   "qid": "630680380981",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. Athens was suffering under the rule of a powerful small group that had no concern for the people's welfare.",
+   "options": [
+    "an oligarchy",
+    "a monarchy",
+    "a missionary",
+    "a democracy"
+   ],
+   "answer": 0,
+   "qid": "630680170444",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined words in the given sentence. Ranjith failed in all his exams as he had been addicted of social media.",
+   "options": [
+    "as he had been addicted to",
+    "as he had been addicted at",
+    "as he had been addicted on",
+    "as he had been addicted in"
+   ],
+   "answer": 0,
+   "qid": "630680182090",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can rectify the incorrectly spelt word in the following sentence. I doubt that these lifts can acommodate 100 people.",
+   "options": [
+    "accommodate",
+    "acomodate",
+    "accomodate",
+    "accommodatte"
+   ],
+   "answer": 0,
+   "qid": "630680360093",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the sentence that is expressed in passive voice.",
+   "options": [
+    "Children are participating in sand-art competition.",
+    "I prefer tea to coffee.",
+    "She sketches beautifully.",
+    "The consignment was delivered yesterday."
+   ],
+   "answer": 3,
+   "qid": "630680415161",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. The evening time when the sun has just set and it is almost dark.",
+   "options": [
+    "Night",
+    "Dusk",
+    "Dawn",
+    "Day break"
+   ],
+   "answer": 1,
+   "qid": "630680158479",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Dodge",
+   "options": [
+    "Force",
+    "Boarding",
+    "Avoid",
+    "Amount"
+   ],
+   "answer": 2,
+   "qid": "630680360817",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the option with the correct use of future tense.",
+   "options": [
+    "By next December, I will be completed six years in this home.",
+    "By next December, I will have been completed six years in this home.",
+    "By next December, I will have complete six years in this home.",
+    "By next December, I will have completed six years in this home."
+   ],
+   "answer": 3,
+   "qid": "630680199573",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word in the following sentence. The teammates made several jibes at the opponent team members during the interview.",
+   "options": [
+    "Inspiration",
+    "Contradict",
+    "Consolation",
+    "Mockery"
+   ],
+   "answer": 1,
+   "qid": "630680344232",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined idiom. This year’s budget is unlikely to pass as law since the president’s proposed budgets typically face a jaundiced eye but this one has gotten even more scepticism.",
+   "options": [
+    "Jealousy",
+    "Good will",
+    "Confidence",
+    "Resentment"
+   ],
+   "answer": 3,
+   "qid": "630680136390",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the correct spelling to fill in the blank. I often fail to ______ remember someone’s name.",
+   "options": [
+    "acusatively",
+    "accurately",
+    "accuratially",
+    "accuriately"
+   ],
+   "answer": 1,
+   "qid": "630680409978",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "The following sentence has been divided into four segments. Identify the segment that contains an error. Mr. Suman / asked me / to pack / my luggages.",
+   "options": [
+    "my luggages.",
+    "to pack",
+    "Mr. Suman",
+    "asked me"
+   ],
+   "answer": 0,
+   "qid": "630680206717",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence. Her behaviour was so ostentatious that it attracted the attention of everyone in the room.",
+   "options": [
+    "Gentle",
+    "Restrained",
+    "Repulsive",
+    "Attractive"
+   ],
+   "answer": 1,
+   "qid": "630680383234",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the following sentence in passive voice. The baker baked the cake.",
+   "options": [
+    "The cake had been baked by the baker.",
+    "The cake has been baked by the baker.",
+    "The baker has been baking the cake.",
+    "The cake was baked by the baker"
+   ],
+   "answer": 3,
+   "qid": "630680415238",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A place to park aeroplanes",
+   "options": [
+    "Hanger",
+    "Shed",
+    "Hangar",
+    "Depot"
+   ],
+   "answer": 2,
+   "qid": "630680114213",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Dissipate",
+   "options": [
+    "Malicious",
+    "Haste",
+    "Glorious",
+    "Spend"
+   ],
+   "answer": 3,
+   "qid": "630680295219",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined idiom in the following sentence. Sejal visits the nearby temple off and on.",
+   "options": [
+    "Periodically",
+    "Constantly",
+    "Regularly",
+    "Continuously"
+   ],
+   "answer": 0,
+   "qid": "630680316703",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Human Development Index (HDI) is a summary (1) _________ of average accomplishment in important areas of human development, (2) _________ living a long and healthy life, being informed and having a good quality of living. The HDI is the geometric mean of the normalised (3) _________ for each dimension. The health component is (4) _________ by life expectancy at birth, while the education dimension is measured by the average number of years of schooling for individuals aged 25 and above, as well as the (5) _________ number of years of schooling for school-age children.\n\nSelect the most appropriate answer for blank number 1.",
+   "options": [
+    "collect",
+    "involvement",
+    "assessment",
+    "regiment"
+   ],
+   "answer": 2,
+   "qid": "630680147707",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Human Development Index (HDI) is a summary (1) _________ of average accomplishment in important areas of human development, (2) _________ living a long and healthy life, being informed and having a good quality of living. The HDI is the geometric mean of the normalised (3) _________ for each dimension. The health component is (4) _________ by life expectancy at birth, while the education dimension is measured by the average number of years of schooling for individuals aged 25 and above, as well as the (5) _________ number of years of schooling for school-age children.\n\nSelect the most appropriate answer for blank number 2.",
+   "options": [
+    "including",
+    "manifesting",
+    "exaggerating",
+    "segregating"
+   ],
+   "answer": 0,
+   "qid": "630680147708",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Human Development Index (HDI) is a summary (1) _________ of average accomplishment in important areas of human development, (2) _________ living a long and healthy life, being informed and having a good quality of living. The HDI is the geometric mean of the normalised (3) _________ for each dimension. The health component is (4) _________ by life expectancy at birth, while the education dimension is measured by the average number of years of schooling for individuals aged 25 and above, as well as the (5) _________ number of years of schooling for school-age children.\n\nSelect the most appropriate answer for blank number 3.",
+   "options": [
+    "contents",
+    "indices",
+    "glimpses",
+    "features"
+   ],
+   "answer": 1,
+   "qid": "630680147709",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Human Development Index (HDI) is a summary (1) _________ of average accomplishment in important areas of human development, (2) _________ living a long and healthy life, being informed and having a good quality of living. The HDI is the geometric mean of the normalised (3) _________ for each dimension. The health component is (4) _________ by life expectancy at birth, while the education dimension is measured by the average number of years of schooling for individuals aged 25 and above, as well as the (5) _________ number of years of schooling for school-age children.\n\nSelect the most appropriate answer for blank number 4.",
+   "options": [
+    "levitated",
+    "measured",
+    "escaped",
+    "triggered"
+   ],
+   "answer": 1,
+   "qid": "630680147710",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Human Development Index (HDI) is a summary (1) _________ of average accomplishment in important areas of human development, (2) _________ living a long and healthy life, being informed and having a good quality of living. The HDI is the geometric mean of the normalised (3) _________ for each dimension. The health component is (4) _________ by life expectancy at birth, while the education dimension is measured by the average number of years of schooling for individuals aged 25 and above, as well as the (5) _________ number of years of schooling for school-age children.\n\nSelect the most appropriate answer for blank number 5.",
+   "options": [
+    "accompanied",
+    "hypnotised",
+    "neglected",
+    "predicted"
+   ],
+   "answer": 3,
+   "qid": "630680147711",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

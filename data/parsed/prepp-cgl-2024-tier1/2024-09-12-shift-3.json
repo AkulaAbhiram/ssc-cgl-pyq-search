@@ -1,0 +1,1784 @@
+{
+ "meta": {
+  "layout": "typed",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-12",
+  "shift": 3,
+  "answerSource": "typed-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_Tier_1_Shift_3_Question_Paper_with_Answer_Key_PDF_Sept_12_2024__02ba57bc25d511ec4049f69f5a5a67e9.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘RIVAL’ is coded as ‘PKTCJ’ and ‘TEXTS’ is coded as ‘RGVVQ’. How will ‘POINT’ be coded in the given language?",
+   "options": [
+    "NRGOR",
+    "OQGPO",
+    "NQGPR",
+    "OQGOQ"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "33420804d5a3517e.png",
+     "w": 37,
+     "h": 37
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "4fc1ba519d020f74.png",
+     "w": 388,
+     "h": 102
+    },
+    "1": {
+     "file": "fdbd60a3ac881a98.png",
+     "w": 37,
+     "h": 37
+    },
+    "2": {
+     "file": "2960238e5ac218a4.png",
+     "w": 37,
+     "h": 37
+    },
+    "3": {
+     "file": "4074ce742e5cce36.png",
+     "w": 37,
+     "h": 37
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three statements are given, followed by three conclusions numbered I, II, and III. Assuming the statements to be true, decide which of the conclusions logically follow(s): Statements: No lotus is a daisy. All lotuses are tulips. All tulips are sunflowers. Conclusions: I. All daisies are tulips. II. Some sunflowers are daisies. III. No sunflower is a daisy.",
+   "options": [
+    "Only conclusion II follows.",
+    "Either conclusion II or III follows.",
+    "Only conclusion I follows.",
+    "Only conclusion III follows."
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following interchanges of numbers (not digits) would make the given equation correct?",
+   "options": [
+    "2 and 4",
+    "56 and 57",
+    "57 and 64",
+    "33 and 44"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "8672b9757f233a5b.png",
+     "w": 452,
+     "h": 31
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which letter cluster can replace the question mark (?) to complete the series? AZFX, EWHW, ?, MQLU, QNNT",
+   "options": [
+    "IJTV",
+    "JITV",
+    "ITJV",
+    "JTIV"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "72bf63fccfce10d4.png",
+     "w": 46,
+     "h": 16
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "055ed8648eb1ecb1.png",
+     "w": 261,
+     "h": 163
+    },
+    "1": {
+     "file": "95b470bd10315437.png",
+     "w": 44,
+     "h": 14
+    },
+    "2": {
+     "file": "49eba665a0f65b79.png",
+     "w": 48,
+     "h": 16
+    },
+    "3": {
+     "file": "40ab6ed7209d9154.png",
+     "w": 46,
+     "h": 17
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'MUTUAL' is written as '12121202113', 'MARKET' is written as '2051118113'. How will 'MODULE' be written in that language?",
+   "options": [
+    "1315421125",
+    "5122141513",
+    "5122141613",
+    "14122361522"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first and the fourth letter- cluster is related to the third. ALW: NYJ :: CNY: PAL :: DEP: ?",
+   "options": [
+    "QRD",
+    "QRC",
+    "SRC",
+    "SRD"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which number will come in the place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 49 × 7 − 6 ÷ 2 + 15 = ?",
+   "options": [
+    "2",
+    "5",
+    "8",
+    "4"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the given figure?",
+   "options": [
+    "13",
+    "12",
+    "15",
+    "14"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "32c56675526e1644.png",
+     "w": 191,
+     "h": 143
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following four are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? (The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+   "options": [
+    "JOR",
+    "AFI",
+    "MRU",
+    "LQS"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "All of the letters in the word ‘FROWNED’ are arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter which is fourth from the left end and the one which is second from the right end in the new letter-cluster thus formed?",
+   "options": [
+    "Five",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the figure from among the given options that can replace the question mark (?) in the following series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "6b774bc79b9ab913.png",
+     "w": 37,
+     "h": 37
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "a3d459a251d37630.png",
+     "w": 419,
+     "h": 91
+    },
+    "1": {
+     "file": "05dc72ce200456d5.png",
+     "w": 37,
+     "h": 40
+    },
+    "2": {
+     "file": "69f1534c9b49b2cb.png",
+     "w": 37,
+     "h": 38
+    },
+    "3": {
+     "file": "a857931e6a240e14.png",
+     "w": 38,
+     "h": 36
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first and the fourth letter- cluster is related to the third: FISH : DKQJ :: POND : NQLF :: SIZE : ?",
+   "options": [
+    "QGXG",
+    "UGXC",
+    "UKXC",
+    "QKXG"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure from among the given options which, when put in place of the question mark (?), will logically complete the series:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "a080aeae1b7798eb.png",
+     "w": 37,
+     "h": 39
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "0dc29ed54d4c285d.png",
+     "w": 448,
+     "h": 93
+    },
+    "1": {
+     "file": "ee9101dd311c3168.png",
+     "w": 37,
+     "h": 38
+    },
+    "2": {
+     "file": "9316772144cee7e9.png",
+     "w": 39,
+     "h": 41
+    },
+    "3": {
+     "file": "1c08b89b0dd982f7.png",
+     "w": 46,
+     "h": 46
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following number-pairs are alike in some manner and hence form a group. Which number-pair does NOT belong to that group? (Note: Operations should be performed on whole numbers, without breaking them into digits.)",
+   "options": [
+    "14 – 121",
+    "21 – 361",
+    "18 – 256",
+    "11 – 81"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "A cube is constructed by folding the given sheet along the lines shown. In the cube so formed, what would be the symbol on the opposite side of ‘#’?",
+   "options": [
+    "@",
+    "∞",
+    "€",
+    "%"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "1d66b154c8093e70.png",
+     "w": 258,
+     "h": 206
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters which, when sequentially placed from left to right in the blanks below, will complete the letter series: f d _ e _ e f _ d d _ d _ f f _ d _ d _ f",
+   "options": [
+    "d d f e e d e d",
+    "d d f e f d e e",
+    "d d f d e d e f",
+    "d d f e e d e e"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set: 3 — 5 — 30 2 — 4 — 16 (Note: Operations should be performed on whole numbers, without breaking them into constituent digits.)",
+   "options": [
+    "5 — 5 — 45",
+    "6 — 6 — 72",
+    "9 — 5 — 27",
+    "9 — 4 — 7"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language: A + B means “A is the mother of B.” A − B means “A is the husband of B.” A × B means “A is the father of B.” A ÷ B means “A is the daughter of B.” Based on the above, how is K related to O if: K ÷ L − M + N × O",
+   "options": [
+    "Sister’s daughter",
+    "Father’s sister",
+    "Mother’s sister",
+    "Father’s mother"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set: ( (34, 17, 27) ) ( (42, 21, 31) ) (Note: Operations should be performed on whole numbers, without breaking them into constituent digits.)",
+   "options": [
+    "(38, 16, 36)",
+    "(46, 23, 35)",
+    "(54, 27, 37)",
+    "(64, 34, 54)"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "44 is related to 1936 by certain logic. Following the same logic, 59 is related to 3481. To which of the following is 77 related, following the same logic? (Note: Operations should be performed on whole numbers, without breaking them into constituent digits.)",
+   "options": [
+    "5824",
+    "5929",
+    "7642",
+    "4469"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following numbers will replace the question mark (?) in the given series? 7, 13, ?, 145, 721, 4321",
+   "options": [
+    "23",
+    "36",
+    "25",
+    "37"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [
+    {
+     "file": "76724be41f8bd8cd.png",
+     "w": 436,
+     "h": 35
+    },
+    {
+     "file": "2360b8f183b34180.png",
+     "w": 232,
+     "h": 166
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "",
+   "options": [
+    "85",
+    "66",
+    "28",
+    "75"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "22e1e9099050ede8.png",
+     "w": 445,
+     "h": 13
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "a. (6+2, -0.5) b. 1 c. 3 d. 2",
+   "options": [],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "dd13d70122fb8091.png",
+     "w": 367,
+     "h": 100
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": true
+  },
+  {
+   "number": 26,
+   "section": "General Awareness",
+   "question": "What was Antoine-Laurent Lavoisier's most important contribution to chemistry in 1789?",
+   "options": [
+    "Law of Conservation of Mass",
+    "Law of Multiple Proportions",
+    "Law of Definite Proportions",
+    "Law of Conservation of Energy"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 27,
+   "section": "General Awareness",
+   "question": "An electric iron requires a ________ fuse to prevent short circuiting.",
+   "options": [
+    "4 A",
+    "3 A",
+    "2 A",
+    "5 A"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 28,
+   "section": "General Awareness",
+   "question": "Who among the following is primarily connected to the World’s Parliament of Religions convened in Chicago, 1893?",
+   "options": [
+    "Dayanand Saraswati",
+    "Swami Vivekananda",
+    "Raja Ram Mohan Roy",
+    "Ramakrishna Paramhansa"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 29,
+   "section": "General Awareness",
+   "question": "Khuallam is a famous dance of:",
+   "options": [
+    "Bihar",
+    "Andhra Pradesh",
+    "Mizoram",
+    "Uttar Pradesh"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 30,
+   "section": "General Awareness",
+   "question": "The concept of Public Interest Litigation originated in _______________.",
+   "options": [
+    "Switzerland",
+    "Iceland",
+    "USA",
+    "New Zealand"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 31,
+   "section": "General Awareness",
+   "question": "Thrissur Pooram is one of the famous temple festivals celebrated in _______.",
+   "options": [
+    "Andhra Pradesh",
+    "Kerala",
+    "Karnataka",
+    "Tamil Nadu"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 32,
+   "section": "General Awareness",
+   "question": "Identify the group of districts that are NOT an example of industrial districts of India.",
+   "options": [
+    "Cuttack and Kota",
+    "Kanpur and Agra",
+    "Alwar and Bhiwani",
+    "Jabalpur and Bhopal"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 33,
+   "section": "General Awareness",
+   "question": "a. (a+-2, -0.5) 2, b- 1, c- 3, d- 4 b. a-3, b-1, c-2, d-4 c. a-3, b-4, c-1, d-2 d. a-4, b-3, c-2, d-1",
+   "options": [],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "9dd533f0e2e9ffc8.png",
+     "w": 445,
+     "h": 109
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": true
+  },
+  {
+   "number": 34,
+   "section": "General Awareness",
+   "question": "Ustad Zia Mohiuddin Dagar was a ___________ player of profound depth, favouring sparse and slow realizations of ragas.",
+   "options": [
+    "Sitar",
+    "Violin",
+    "Flute",
+    "Rudra veena"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 35,
+   "section": "General Awareness",
+   "question": "The headquarters of the second Green Revolution cell was in ________.",
+   "options": [
+    "Raipur",
+    "Patna",
+    "Kolkata",
+    "Bhubaneswar"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 36,
+   "section": "General Awareness",
+   "question": "Who was the Viceroy of India when Mahatma Gandhi started Dandi March on 12 March 1930?",
+   "options": [
+    "Lord Chelmsford",
+    "Lord Minto II",
+    "Lord Irwin",
+    "Lord Willingdon"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 37,
+   "section": "General Awareness",
+   "question": "Who is the world’s most popular leader as per Global Leader Approval Ratings released by US-based Morning Consult in February 2023?",
+   "options": [
+    "Xi Jinping",
+    "Vladimir Putin",
+    "Joe Biden",
+    "Narendra Modi"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 38,
+   "section": "General Awareness",
+   "question": "In which year was Smart Cities Mission launched?",
+   "options": [
+    "2015",
+    "2013",
+    "2019",
+    "2018"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 39,
+   "section": "General Awareness",
+   "question": "Which of the following nations won the seven times women’s Asia Cup cricket Championship?",
+   "options": [
+    "Pakistan",
+    "Bangladesh",
+    "India",
+    "Sri Lanka"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 40,
+   "section": "General Awareness",
+   "question": "Which Article of the Indian Constitution provides that the State must secure a social order to promote the welfare of people?",
+   "options": [
+    "Article 37",
+    "Article 38",
+    "Article 39",
+    "Article 36"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 41,
+   "section": "General Awareness",
+   "question": "Identify a water-harvesting system found in Jaisalmer.",
+   "options": [
+    "Guls",
+    "Johads",
+    "Khadins",
+    "Kuls"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 42,
+   "section": "General Awareness",
+   "question": "The _________ were tributary chiefs of the Gupta dynasty. They established an independent kingdom in western India. Dhruvasena II was the most important ruler of this kingdom.",
+   "options": [
+    "Maitrakas",
+    "Maukharis",
+    "Pushyabhutis",
+    "Gurjara Pratiharas"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 43,
+   "section": "General Awareness",
+   "question": "As of 31 May 2021, only 47% of total routes and 39% of airports (unserved and underserved) have been operationalised under UDAN, according to ICRA. What is the full form of UDAN?",
+   "options": [
+    "Udtha Desh Ka Aam Nayak",
+    "Ude Desh Ka Aam Naagrik",
+    "Unnath Desh Ka Aam Naagrik",
+    "Ujwal Desh Ka Aam Naagrik"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 44,
+   "section": "General Awareness",
+   "question": "Which of the following options is the most appropriate cause for unemployment in India?",
+   "options": [
+    "Over population",
+    "Environment conditions",
+    "High educational systems",
+    "Lack of labour force"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 45,
+   "section": "General Awareness",
+   "question": "As of June 2021, how many biosphere reserves are established in India?",
+   "options": [
+    "18",
+    "20",
+    "26",
+    "15"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 46,
+   "section": "General Awareness",
+   "question": "In which of the following battles did Muhammad of Ghor defeat Jayachandra of Gahadavala dynasty in 1194 AD?",
+   "options": [
+    "First battle of Tarain",
+    "Battle of Chandawar",
+    "Battle of Anhilwara",
+    "Second battle of Tarain"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 47,
+   "section": "General Awareness",
+   "question": "The growth form of a plant, comprising its size, shape, and orientation is known as:",
+   "options": [
+    "Habit",
+    "Environment",
+    "Habitat",
+    "Growth pattern"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 48,
+   "section": "General Awareness",
+   "question": "When and where did India win its first World Championships medal in Athletics?",
+   "options": [
+    "2009, Germany",
+    "2005, Finland",
+    "2007, Japan",
+    "2003, France"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 49,
+   "section": "General Awareness",
+   "question": "Tabla maestro, Bickram Ghosh, was awarded with which of the following awards in 2023 in the Contemporary Category?",
+   "options": [
+    "Padma Shri",
+    "Padma Bhushan",
+    "Sangeet Natak Akademi",
+    "Sangeet Kalanidhi"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 50,
+   "section": "General Awareness",
+   "question": "According to the Census of India 2011, the percentage of adolescent population (10-19 years) from the total population is how much?",
+   "options": [
+    "22.9%",
+    "21.9%",
+    "20.9%",
+    "19.9%"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 51,
+   "section": "Quantitative Aptitude",
+   "question": "A pair of straight lines from an external point F intersects a circle at A and B (FA < FB), and touches the circle at C. O is the centre of the circle. Given that ∠ACF = 50° and ∠AFC = 30°, find ∠AOB.",
+   "options": [
+    "80°",
+    "90°",
+    "100°",
+    "40°"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 52,
+   "section": "Quantitative Aptitude",
+   "question": "The difference between a discount of 25% and two successive discounts of 15% and 20% on a certain bill was ₹28. Find the amount of the bill.",
+   "options": [
+    "₹500",
+    "₹400",
+    "₹450",
+    "₹550"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 53,
+   "section": "Quantitative Aptitude",
+   "question": "Which of the following numbers is divisible by 2, 5, 10, and 11?",
+   "options": [
+    "203467",
+    "830942",
+    "589270",
+    "1234560"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 54,
+   "section": "Quantitative Aptitude",
+   "question": "Which of the following is the sum of the values of a and b if the equations ( 2x + y = a ) and ( 8x + by = 12) have infinite solutions?",
+   "options": [
+    "16",
+    "9",
+    "7",
+    "18"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 55,
+   "section": "Quantitative Aptitude",
+   "question": "How much simple interest will ₹6,700 earn in 13 months at a 12% interest rate per annum?",
+   "options": [
+    "₹871",
+    "₹889",
+    "₹821",
+    "₹813"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 56,
+   "section": "Quantitative Aptitude",
+   "question": "If tanθ ⋅tan 4θ.tan6θ=1 where 6θ is an acute angle, then find the value of cot 5θ.",
+   "options": [
+    "Square root of 3",
+    "- Square root of 3",
+    "1",
+    "-1"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 57,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given chart and answer the question that follows. The following chart shows the production of textbooks (in thousands) in the years 2018, 2020, and 2022 from the print houses A, B, and C, respectively. The ratio of textbooks produced by Print house B in the year 2018 to the textbooks produced by Print house C in the year 2020 is _____.",
+   "options": [
+    "4 : 5",
+    "3 : 4",
+    "2 : 3",
+    "4 : 3"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "8cc3d87e2583c027.png",
+     "w": 398,
+     "h": 171
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 58,
+   "section": "Quantitative Aptitude",
+   "question": "In △ABD and △FEC: ∠BAD= 60° l(BD)=l(EC), ∠ABD=∠FCE=90° l(AB)=l(FE). Find the ratio of △ABD to △FCE.",
+   "options": [
+    "2 : 3",
+    "1 : 2",
+    "2 : 5",
+    "2 :1"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 59,
+   "section": "Quantitative Aptitude",
+   "question": "The following pie chart shows the percentage distribution of a total of 1600 employees in different departments of a company. The table shows the ratio of male to female employees in different departments. Study the information and answer the question that follows. What is the percentage of the number of employees in production department to the number of female employees of all the departments taken together? (correct to one decimal place)",
+   "options": [
+    "59.1%",
+    "50.7%",
+    "64.3%",
+    "44.9%"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "1085b3dd10ec1b3b.png",
+     "w": 444,
+     "h": 171
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 60,
+   "section": "Quantitative Aptitude",
+   "question": "Find the smallest value that must be assigned to number ‘a’ in order for 91876a2 to be divisible by 8.",
+   "options": [
+    "3",
+    "0",
+    "1",
+    "2"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 61,
+   "section": "Quantitative Aptitude",
+   "question": "Two pipes A and B can fill a tank in 1(cid:0) hours and 2 hours, respectively. If both pipes are opened simultaneously, in how much time will the tank be filled?",
+   "options": [
+    "48 minutes",
+    "55 minutes",
+    "1¼ hours",
+    "1(cid:0) hours"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 62,
+   "section": "Quantitative Aptitude",
+   "question": "If ( a^2 + b^2 + c^2 = 2(a + c - 1) ), then the value of ( a^3 + b^3 + c^3 ) is:",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 63,
+   "section": "Quantitative Aptitude",
+   "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along with the current in 10 minutes. How long will it take to go 6 km in stationary water?",
+   "options": [
+    "1 hr 15 min",
+    "1 hr 30 min",
+    "2 hr 30 min",
+    "1 hr 45 min"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 64,
+   "section": "Quantitative Aptitude",
+   "question": "Find the values of x, y, and z, so as to satisfy the equations given below: 5x−3y +7z = 22; 3x−5y −2z = −46; 2x−2y +5z = 24",
+   "options": [
+    "x = −5,y = 3,z = −8",
+    "x = 5,y = −8,z = 3",
+    "x = −5,y = 3,z = 8",
+    "x = −5,y = −3,z = 8"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 65,
+   "section": "Quantitative Aptitude",
+   "question": "In 2010, a company’s total expenditure was categorised under different expense heads, and their percentage distribution is illustrated in the bar graph given below. The total amount of expenditure of the company is ______ times that of expenditure on R & D.",
+   "options": [
+    "20",
+    "38",
+    "32",
+    "28"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "ca91de721f638708.png",
+     "w": 403,
+     "h": 215
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 66,
+   "section": "Quantitative Aptitude",
+   "question": "The circumference of the base of a conical tent of height 8 m is 32 m. Find its curved surface area. 2",
+   "options": [
+    "128√5 m 2",
+    "162√3 m 2",
+    "132√3 m 2",
+    "164√5 m"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 67,
+   "section": "Quantitative Aptitude",
+   "question": "Find the exact value of sin150∘.",
+   "options": [
+    "1.5",
+    "0.5",
+    "0.75",
+    "-0.5"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 68,
+   "section": "Quantitative Aptitude",
+   "question": "The mean proportional of 2 and 32 is ______.",
+   "options": [
+    "16",
+    "8",
+    "12",
+    "6"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 69,
+   "section": "Quantitative Aptitude",
+   "question": "The profit gained on selling a certain product is 320% of the cost. If the cost increases by 10% but the selling price remains constant, then what percentage of the selling price is the profit (correct to one decimal place)?",
+   "options": [
+    "70.2%",
+    "73.8%",
+    "75.7%",
+    "63.8%"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 70,
+   "section": "Quantitative Aptitude",
+   "question": "A circular arc whose radius is 12 cm makes an angle of 30° at the centre. Find the perimeter (in cm) of the sector formed. (Use π = 3.14)",
+   "options": [
+    "30.28",
+    "32.38",
+    "28.64",
+    "26.24"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 71,
+   "section": "Quantitative Aptitude",
+   "question": "A merchant mixes two varieties of sugar of 5 kg and 3 kg, which costs him ₹4 and ₹6 per kg, respectively. What is the cost price (in ₹) of the mixture per kg?",
+   "options": [
+    "4.35",
+    "4.45",
+    "4.75",
+    "4.21"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 72,
+   "section": "Quantitative Aptitude",
+   "question": "The proportion of Suresh’s spending to saving is 3 : 1. His salary rises by 25%. What percentage of his expenditure will increase if his saving grows by 10%?",
+   "options": [
+    "40%",
+    "20%",
+    "10%",
+    "30%"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 73,
+   "section": "Quantitative Aptitude",
+   "question": "The table below shows the production of three types of cars (A, B, and C) manufactured (in thousands) by an automobile company over the years. The average number of A-type cars produced by the company during 2012 to 2014 is what percent (rounded off to 1 decimal place) less than the combined average number of B-type and C-type cars produced by the company from 2013 to 2015?",
+   "options": [
+    "36.6 %",
+    "25.5 %",
+    "26.6 %",
+    "28.4 %"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "b29617f0c5858cb2.png",
+     "w": 251,
+     "h": 231
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 74,
+   "section": "Quantitative Aptitude",
+   "question": "If ( 7 cos A = 6 ), then the numerical value of (Cosec A + cot A) / (Cosec A - cot A) is:",
+   "options": [
+    "1",
+    "0",
+    "13",
+    "−13"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 75,
+   "section": "Quantitative Aptitude",
+   "question": "If the sectorial angle with radius 9.6 units is 75°, what is the length of the arc?",
+   "options": [
+    "2π",
+    "3π",
+    "π",
+    "4π"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 76,
+   "section": "English Comprehension",
+   "question": "Select the option that correctly expresses the given sentence in passive voice. I will never overlook this creativity.",
+   "options": [
+    "This creativity will never be overlooked by me.",
+    "This creativity will be overlooked by me.",
+    "This creativity will being overlooked by me.",
+    "This creativity will not never be overlooked by me."
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 77,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A place where birds are kept.",
+   "options": [
+    "Zoo",
+    "Aviary",
+    "Sanctuary",
+    "Hive"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 78,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Catastrophe",
+   "options": [
+    "Success",
+    "Nurture",
+    "Immaculate",
+    "Disaster"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 79,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. \"Beyond skills, experience, and training, companies search for applicants who display excitement — whom they believe will carry out allocated responsibilities cheerfully and cooperatively.\"",
+   "options": [
+    "shall take up any designated obligations",
+    "will execute assigned duties",
+    "will demonstrate non-biased work",
+    "should pick up all skills and works"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 80,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. After years of fights with his neighbour Ram, Shekhar decided to hold out the _______ and invited Ram for tea.",
+   "options": [
+    "poker face",
+    "comparing apples to oranges",
+    "chip on shoulder",
+    "olive branch"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 81,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Centenary",
+    "Consumerist",
+    "Capitalist",
+    "Countemptible"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 82,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence. One must be very strong to lift this box of glass jars.",
+   "options": [
+    "Mighty",
+    "Weak",
+    "Complicated",
+    "Rugged"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 83,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined idiom. Anand personally believes in the motto, “When life gives you lemons, make lemonade.”",
+   "options": [
+    "Earn the maximum out of business",
+    "Nourish health",
+    "Enjoy the most when the season is favourable",
+    "Make the best out of difficult situations"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 84,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Monotonous",
+   "options": [
+    "Tiresome",
+    "Tedious",
+    "Engrossing",
+    "Rational"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 85,
+   "section": "English Comprehension",
+   "question": "Identify the INCORRECTLY spelt word in the following sentence. You need to be concious enough to listen to the question.",
+   "options": [
+    "concious",
+    "enough",
+    "question",
+    "listen"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 86,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym to replace the underlined word in the given sentence. How did we end up in this rapturous situation?",
+   "options": [
+    "ecstatic",
+    "terrifying",
+    "misleading",
+    "disastrous"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 87,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. The mother asked the child, “Will you tell me who did accompany you to the airport?”",
+   "options": [
+    "who accompanies you",
+    "who does accompany you",
+    "who accompanied you",
+    "who must be accompanied you"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 88,
+   "section": "English Comprehension",
+   "question": "Sentences of a paragraph are given below in jumbled order. Select the option that arranges the sentences in the correct sequence to form a meaningful and coherent paragraph. A) This past summer, my dream finally came true. B) Strange lands, exciting places, and new cultures have always fascinated me. C) Ever since I was a little girl, I dreamed about travelling overseas. D) I got to travel to England, France, Switzerland, and Germany.",
+   "options": [
+    "DCBA",
+    "CBAD",
+    "ABCD",
+    "BADC"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 89,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Rectify",
+   "options": [
+    "mar",
+    "amend",
+    "corrupt",
+    "upset"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 90,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. To __________ the ticket, Amith had to visit the travel agency many times.",
+   "options": [
+    "contract",
+    "confirm",
+    "conform",
+    "convention"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 91,
+   "section": "English Comprehension",
+   "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer. My brother received / his MBA degree into / the university last year.",
+   "options": [
+    "the university last year",
+    "his MBA degree into",
+    "No error",
+    "My brother received"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 92,
+   "section": "English Comprehension",
+   "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph. A. Mobile phones or smartphones are becoming popular all over the world. B. But at the same time, it also harms us in many ways. C. It is the most widely used means of communication today. D. Today, it is very affordable and available to everyone.",
+   "options": [
+    "ABCD",
+    "DACB",
+    "CABD",
+    "ACDB"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 93,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given phrase. Incapable of being defeated",
+   "options": [
+    "Invisible",
+    "Unavoidable",
+    "Invincible",
+    "Ineluctable"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 94,
+   "section": "English Comprehension",
+   "question": "Select the option that correctly expresses the following sentence in passive voice. Who invited you to this party?",
+   "options": [
+    "By whom you are invited to this party?",
+    "By whom are you invited to this party?",
+    "By whom you were invited to this party?",
+    "By whom were you invited to this party?"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 95,
+   "section": "English Comprehension",
+   "question": "The following sentence has been divided into four segments. Identify the segment that contains an error in the usage of the interjection. He replied / in a dry tone, / “Ouch! I will not work / for you anymore.”",
+   "options": [
+    "in a dry tone,",
+    "He replied",
+    "for you anymore.”",
+    "“Ouch! I will not work"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 96,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Gandhi, (1)_________ father of the Indian nation, practiced ‘ahimsa’ in his personal and political life. He firmly believed that non- violence is not meant merely for monks, saints and priests; it is for commoners too. If violence is the law of the (2)_______-beasts, non-violence is the law of the civilised human species. ‘The spirit of the brute is inactive and so he knows no law; he knows only physical might. The dignity of man requires obedience to a higher law, to strength of the spirit,’ Gandhi said. Ahimsa, to Gandhiji, meant that one should love all; even (3)________ enemies. And the expression of love, ahimsa, should be in such a manner that it impresses itself indelibly upon the so-called enemy, and then the enemy must return that love. It is a practically (4)________ philosophy. Gandhi was realistic; he believed that non-violence provides the fullest protection to one’s self-respect and sense of humour. It won’t work in the defence of (5)_______ gains and immoral acts. He called his marches off when people indulged in violence during protests for India’s freedom. His faith in ‘ahimsa’ played an influential role in enabling the creation of an independent India in 1947, with minimum bloodshed, breaking the shackles framed by the British. Gandhi, (1) _______ father of the Indian nation, practiced ‘ahimsa’ in his personal and political life.",
+   "options": [
+    "an",
+    "for",
+    "the",
+    "a"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 97,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Gandhi, (1)_________ father of the Indian nation, practiced ‘ahimsa’ in his personal and political life. He firmly believed that non- violence is not meant merely for monks, saints and priests; it is for commoners too. If violence is the law of the (2)_______-beasts, non-violence is the law of the civilised human species. ‘The spirit of the brute is inactive and so he knows no law; he knows only physical might. The dignity of man requires obedience to a higher law, to strength of the spirit,’ Gandhi said. Ahimsa, to Gandhiji, meant that one should love all; even (3)________ enemies. And the expression of love, ahimsa, should be in such a manner that it impresses itself indelibly upon the so-called enemy, and then the enemy must return that love. It is a practically (4)________ philosophy. Gandhi was realistic; he believed that non-violence provides the fullest protection to one’s self-respect and sense of humour. It won’t work in the defence of (5)_______ gains and immoral acts. He called his marches off when people indulged in violence during protests for India’s freedom. His faith in ‘ahimsa’ played an influential role in enabling the creation of an independent India in 1947, with minimum bloodshed, breaking the shackles framed by the British. If violence is the law of the (2) _______-beasts, non-violence is the law of the civilised human species.",
+   "options": [
+    "forest-living",
+    "life",
+    "forest-lived",
+    "alive"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 98,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Gandhi, (1)_________ father of the Indian nation, practiced ‘ahimsa’ in his personal and political life. He firmly believed that non- violence is not meant merely for monks, saints and priests; it is for commoners too. If violence is the law of the (2)_______-beasts, non-violence is the law of the civilised human species. ‘The spirit of the brute is inactive and so he knows no law; he knows only physical might. The dignity of man requires obedience to a higher law, to strength of the spirit,’ Gandhi said. Ahimsa, to Gandhiji, meant that one should love all; even (3)________ enemies. And the expression of love, ahimsa, should be in such a manner that it impresses itself indelibly upon the so-called enemy, and then the enemy must return that love. It is a practically (4)________ philosophy. Gandhi was realistic; he believed that non-violence provides the fullest protection to one’s self-respect and sense of humour. It won’t work in the defence of (5)_______ gains and immoral acts. He called his marches off when people indulged in violence during protests for India’s freedom. His faith in ‘ahimsa’ played an influential role in enabling the creation of an independent India in 1947, with minimum bloodshed, breaking the shackles framed by the British. Ahimsa, to Gandhiji, meant that one should love all; even (3) _______ enemies.",
+   "options": [
+    "her",
+    "its",
+    "one’s",
+    "one"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 99,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Gandhi, (1)_________ father of the Indian nation, practiced ‘ahimsa’ in his personal and political life. He firmly believed that non- violence is not meant merely for monks, saints and priests; it is for commoners too. If violence is the law of the (2)_______-beasts, non-violence is the law of the civilised human species. ‘The spirit of the brute is inactive and so he knows no law; he knows only physical might. The dignity of man requires obedience to a higher law, to strength of the spirit,’ Gandhi said. Ahimsa, to Gandhiji, meant that one should love all; even (3)________ enemies. And the expression of love, ahimsa, should be in such a manner that it impresses itself indelibly upon the so-called enemy, and then the enemy must return that love. It is a practically (4)________ philosophy. Gandhi was realistic; he believed that non-violence provides the fullest protection to one’s self-respect and sense of humour. It won’t work in the defence of (5)_______ gains and immoral acts. He called his marches off when people indulged in violence during protests for India’s freedom. His faith in ‘ahimsa’ played an influential role in enabling the creation of an independent India in 1947, with minimum bloodshed, breaking the shackles framed by the British. And the expression of love, ahimsa, should be in such a manner that it impresses itself indelibly upon the so-called enemy, and then the enemy must return that love. It is a practically (4) _______ philosophy.",
+   "options": [
+    "prove",
+    "approved",
+    "proven",
+    "proving"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 100,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Gandhi, (1)_________ father of the Indian nation, practiced ‘ahimsa’ in his personal and political life. He firmly believed that non- violence is not meant merely for monks, saints and priests; it is for commoners too. If violence is the law of the (2)_______-beasts, non-violence is the law of the civilised human species. ‘The spirit of the brute is inactive and so he knows no law; he knows only physical might. The dignity of man requires obedience to a higher law, to strength of the spirit,’ Gandhi said. Ahimsa, to Gandhiji, meant that one should love all; even (3)________ enemies. And the expression of love, ahimsa, should be in such a manner that it impresses itself indelibly upon the so-called enemy, and then the enemy must return that love. It is a practically (4)________ philosophy. Gandhi was realistic; he believed that non-violence provides the fullest protection to one’s self-respect and sense of humour. It won’t work in the defence of (5)_______ gains and immoral acts. He called his marches off when people indulged in violence during protests for India’s freedom. His faith in ‘ahimsa’ played an influential role in enabling the creation of an independent India in 1947, with minimum bloodshed, breaking the shackles framed by the British. It won’t work in the defence of (5) _______ gains and immoral acts.",
+   "options": [
+    "relevant",
+    "ill-gotten",
+    "ill-will",
+    "moral Answers"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

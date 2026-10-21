@@ -1,0 +1,1961 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-18",
+  "time": "4:00 PM - 5:00 PM",
+  "shift": 3,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_18_Tier_1_English_Question_Paper_and_Answer_Key_Shift_3__c67866d62a934ac36e08d7b451ab3685.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘A + B’ means ‘A is the mother of B’; ‘A – B’ means ‘ A is the father of B’; ‘A $ B’ means ‘A is the daughter of B’ and ‘A % B’ means ‘A is the sister of B’. Based on the above, how is P related to S if P + Q − R $ S % T?",
+   "options": [
+    "Mother",
+    "Sister’s daughter",
+    "Husband’s mother",
+    "Sister’s husband"
+   ],
+   "answer": 2,
+   "qid": "630680261998",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘MORE’ is coded as ‘14 - 12 - 9 - 22’ and ‘KNOW’ is coded as ‘16 - 13 - 12 - 4’. How will ‘SAID’ be coded in the given language?",
+   "options": [
+    "8 - 26 - 18 - 23",
+    "8 - 26 - 17 - 23",
+    "7 - 25 - 18 - 23",
+    "7 - 26 - 18 - 22"
+   ],
+   "answer": 0,
+   "qid": "630680222581",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (21, 504, 8) (15, 270, 6)",
+   "options": [
+    "(16, 320, 5)",
+    "(16, 336, 7)",
+    "(17, 272, 8)",
+    "(23, 230, 5)"
+   ],
+   "answer": 1,
+   "qid": "630680336438",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the word pair that best represents a similar relationship to the one expressed in the pair of words given below. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word) Control : Domination",
+   "options": [
+    "Descend : Fall",
+    "Manipulation : Deceive",
+    "Creation : Destruction",
+    "Liberation : Slavery"
+   ],
+   "answer": 1,
+   "qid": "630680416650",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that does NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their positions in the letter-cluster.)",
+   "options": [
+    "IKN",
+    "MPR",
+    "CFH",
+    "EHJ"
+   ],
+   "answer": 0,
+   "qid": "630680798687",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged if each of the letter in the word ‘HUSBAND’ is arranged in English alphabetical order?",
+   "options": [
+    "Three",
+    "Zero",
+    "Two",
+    "One"
+   ],
+   "answer": 1,
+   "qid": "630680349931",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 10 : 110 :: 7 : 56 :: 9 : ? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "90",
+    "85",
+    "91",
+    "81"
+   ],
+   "answer": 0,
+   "qid": "630680312534",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which two numbers (not digits) should be interchanged to make the given equation correct? 19 + 125 ÷ 25 – 100 ÷ 5 + 4 × 3 = 52",
+   "options": [
+    "125 and 100",
+    "25 and 5",
+    "19 and 4",
+    "4 and 5"
+   ],
+   "answer": 1,
+   "qid": "630680319375",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that when sequentially placed from left to right in the blanks below will complete the letter series. _ _ C _ D C _ _ C C _ _",
+   "options": [
+    "DDCCCDD",
+    "CCDCCDD",
+    "DCCCDCC",
+    "CDCCDDC"
+   ],
+   "answer": 3,
+   "qid": "630680262378",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of ? will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680524401",
+   "figures": [
+    {
+     "file": "45f39b385fb8078c.png",
+     "w": 328,
+     "h": 73
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "5db1ebf5a308d9f1.png",
+     "w": 85,
+     "h": 83
+    },
+    "1": {
+     "file": "74180fe708ca821c.png",
+     "w": 83,
+     "h": 84
+    },
+    "2": {
+     "file": "2415c21d1041af8c.png",
+     "w": 81,
+     "h": 81
+    },
+    "3": {
+     "file": "6b7bf4ae5c02a8b8.png",
+     "w": 84,
+     "h": 82
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘BIRD’ is written as ‘DKTF’ and ‘KITE’ is written as ‘MKVG’. How will ‘EAGLE’ be written in that language?",
+   "options": [
+    "GCING",
+    "GGNCI",
+    "INGGC",
+    "IGNCG"
+   ],
+   "answer": 0,
+   "qid": "630680416127",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "In this question, three statements are given, followed by two conclusions numbered I and II. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusion(s) logically follows/follow from the statements. Statements: No medicine is a capsule. Some capsules are tablets. Some tablets are laptops. Conclusions: I. Some capsules are laptops. II. All tablets can never be medicines.",
+   "options": [
+    "Neither Conclusion I nor II follow.",
+    "Only Conclusion II follows.",
+    "Both Conclusions I and II follow.",
+    "Only Conclusion I follows."
+   ],
+   "answer": 1,
+   "qid": "630680416394",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the figure from among the given option that can replace the question mark (?) in the following series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680283521",
+   "figures": [
+    {
+     "file": "a492d414e3ee1ea4.png",
+     "w": 322,
+     "h": 69
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "efea48513aa82240.png",
+     "w": 71,
+     "h": 69
+    },
+    "1": {
+     "file": "3ad352a1a83a55c4.png",
+     "w": 69,
+     "h": 69
+    },
+    "2": {
+     "file": "24f572fef94949fc.png",
+     "w": 69,
+     "h": 67
+    },
+    "3": {
+     "file": "06259aa0e19d5c69.png",
+     "w": 69,
+     "h": 69
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusion/s logically follow/s from the given statements. Statements: All beaches are sand. Some deserts are sand. All mountains are rocky. Conclusions: (I) At least some beaches are desert. (II) At least some sands are rocky.",
+   "options": [
+    "Neither conclusion (I) nor (II) follows.",
+    "Both conclusions (I) and (II) follows.",
+    "Only conclusion (I) follows.",
+    "Only conclusion (II) follows."
+   ],
+   "answer": 0,
+   "qid": "630680390240",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two different positions of the same dice with faces K, B, V, M, P and T are shown below. Select the letter that will be on the face opposite to the one having B.",
+   "options": [
+    "M",
+    "V",
+    "K",
+    "P"
+   ],
+   "answer": 0,
+   "qid": "630680349067",
+   "figures": [
+    {
+     "file": "a9c5fbab0ee133e7.png",
+     "w": 100,
+     "h": 50
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 3, 6, 9, 18, 21, ?",
+   "options": [
+    "42",
+    "40",
+    "63",
+    "24"
+   ],
+   "answer": 0,
+   "qid": "630680411919",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "40 is related to 53 following certain logic. Following the same logic, 8 is related to 13. To which of the following numbers is 68 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "84",
+    "85",
+    "83",
+    "73"
+   ],
+   "answer": 1,
+   "qid": "630680162503",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following numbers are alike in a certain way and one is different. Pick the odd one out. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "11 – 882",
+    "3 – 72",
+    "4 – 128",
+    "7 – 392"
+   ],
+   "answer": 0,
+   "qid": "630680389586",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that can replace the question mark (?) in the following series. NW17, PY19, RA21, TC23, ?",
+   "options": [
+    "XD24",
+    "WF23",
+    "VE25",
+    "WD24"
+   ],
+   "answer": 2,
+   "qid": "630680416294",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680294951",
+   "figures": [
+    {
+     "file": "cf1b8a3c54f974f2.png",
+     "w": 313,
+     "h": 100
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "939dc95b6d4029f8.png",
+     "w": 101,
+     "h": 100
+    },
+    "1": {
+     "file": "04669ca27fa75707.png",
+     "w": 100,
+     "h": 101
+    },
+    "2": {
+     "file": "e84276438c28d99c.png",
+     "w": 100,
+     "h": 99
+    },
+    "3": {
+     "file": "99186567668ed1e6.png",
+     "w": 100,
+     "h": 100
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure in which the given figure (X) is embedded (rotation is NOT allowed).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680332536",
+   "figures": [
+    {
+     "file": "24ea30e6bc99901b.png",
+     "w": 100,
+     "h": 118
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "29e5d9c9d9702437.png",
+     "w": 97,
+     "h": 96
+    },
+    "1": {
+     "file": "fec58d7351cf7971.png",
+     "w": 96,
+     "h": 97
+    },
+    "2": {
+     "file": "a359a75ac6d24db3.png",
+     "w": 98,
+     "h": 100
+    },
+    "3": {
+     "file": "c18e20c5bc4b3839.png",
+     "w": 96,
+     "h": 96
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will logically complete the series. QUA_TO_ANT_UAN_KU_NT",
+   "options": [
+    "NUTMA",
+    "NUMTA",
+    "NULTA",
+    "NUTAM"
+   ],
+   "answer": 1,
+   "qid": "630680216607",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number that will come in the place of the question mark(?), if ‘+’ and ‘ – ‘ are interchanged and ‘×’ and ‘÷’ are interchanged 93 – 7 ÷ 65 × 13 + 34 = ?",
+   "options": [
+    "99",
+    "104",
+    "87",
+    "94"
+   ],
+   "answer": 3,
+   "qid": "630680163579",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680356657",
+   "figures": [
+    {
+     "file": "96025dae5d3bdc74.png",
+     "w": 93,
+     "h": 77
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "37f0b1f83f3556e4.png",
+     "w": 88,
+     "h": 20
+    },
+    "1": {
+     "file": "8a25449156825d12.png",
+     "w": 85,
+     "h": 18
+    },
+    "2": {
+     "file": "3c55cff807ef1865.png",
+     "w": 91,
+     "h": 19
+    },
+    "3": {
+     "file": "868881705e30629a.png",
+     "w": 91,
+     "h": 16
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the given figure?",
+   "options": [
+    "12",
+    "17",
+    "15",
+    "18"
+   ],
+   "answer": 3,
+   "qid": "630680281041",
+   "figures": [
+    {
+     "file": "4055193e7d106d45.png",
+     "w": 130,
+     "h": 120
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Identify a monoatomic molecule.",
+   "options": [
+    "Helium",
+    "carbon monoxide",
+    "Chlorine",
+    "Oxygen"
+   ],
+   "answer": 0,
+   "qid": "630680134644",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "Who among the following is the first vocalist to receive the Bharat Ratna in 2008 and is also credited to have popularised 'Khyal Gayaki'?",
+   "options": [
+    "Begum Akhtar",
+    "Gangubai Hangal",
+    "Vishnu Digambar Palushkar",
+    "Pandit Bhimsen Joshi"
+   ],
+   "answer": 3,
+   "qid": "630680410383",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Which of the following institutions has contributed mainly in improving the economic status of the poor women in rural areas?",
+   "options": [
+    "Integrated Development Project",
+    "Self-help Group",
+    "Indira Awas Yojana",
+    "Rural Health Scheme"
+   ],
+   "answer": 1,
+   "qid": "630680323657",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "The Pandya Kingdom was first mentioned by Megasthenes, who said that their kingdom was famous for pearls.Their capital was:",
+   "options": [
+    "Thanjavur",
+    "Kaveripatnam",
+    "Madurai",
+    "Uraiyur"
+   ],
+   "answer": 2,
+   "qid": "630680412281",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "With which of the following dances is Yamini Krishnamurthy associated?",
+   "options": [
+    "Mohiniyattam",
+    "Sattriya",
+    "Bharatanatyam",
+    "Odissi"
+   ],
+   "answer": 2,
+   "qid": "630680402570",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Easter festival is celebrated by which community?",
+   "options": [
+    "Hindu",
+    "Sikh",
+    "Christian",
+    "Parsi"
+   ],
+   "answer": 2,
+   "qid": "630680158752",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Who among the following is NOT a member of the National Human Rights Commission?",
+   "options": [
+    "Former Chief Justice of the Supreme Court",
+    "Former Judge of the Supreme Court",
+    "Former Chief Justice of the High Court",
+    "District Magistrate"
+   ],
+   "answer": 3,
+   "qid": "630680408202",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Which state of India has the maximum number of large dams?",
+   "options": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Odisha",
+    "Maharashtra"
+   ],
+   "answer": 3,
+   "qid": "630680227938",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT related to reticulate venation?",
+   "options": [
+    "Tulsi",
+    "Coriander",
+    "Maize",
+    "China rose"
+   ],
+   "answer": 2,
+   "qid": "630680210520",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "In which of the following Major Rock Edicts of Ashoka is the Kalinga war mentioned?",
+   "options": [
+    "XI",
+    "XIII",
+    "XII",
+    "X"
+   ],
+   "answer": 1,
+   "qid": "630680412482",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Consider the following statements and identify the INCORRECT statement(s). 1. The ‘Saksham Anganwadi and Poshan 2.0’ scheme has been implemented under the National Food Security Act, 2003. 2. It is an ongoing, Central Government-sponsored scheme under the Ministry of Women and Child Development. 3. It is extended to children aged below 6 years only. 4. Six services are provided under this scheme through the National Health Mission and Public Health Infrastructure.",
+   "options": [
+    "Only 1, 3 and 4",
+    "Only 1, 2 and 3",
+    "Only 2 and 3",
+    "Only 4"
+   ],
+   "answer": 0,
+   "qid": "630680210769",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "‘Bhagirathi’ and ‘Alaknanda’ rivers confluence at:",
+   "options": [
+    "Karanprayag",
+    "Devaprayag",
+    "Haridwar",
+    "Joshimath"
+   ],
+   "answer": 1,
+   "qid": "630680309105",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Which of the following chemical reactions takes place when quick lime reacts with water?",
+   "options": [
+    "CaO(s) + H O(l) → Ca + H (aq) 2 2",
+    "CH (g) + 2O (g) → CO (g) + 2H O (g) 4 2 2 2",
+    "C(s) + O (g) → CO (g) 2 2",
+    "CaO(s) + H O(l) → Ca(OH) (aq) 2 2"
+   ],
+   "answer": 3,
+   "qid": "63068099068",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "As of 14 October 2021, which Indian footballer was in the news for breaking Pele's 77 international goals?",
+   "options": [
+    "Gurpreet Singh Sandhu",
+    "Bhaichung Bhutia",
+    "Sandesh Jhingan",
+    "Sunil Chhetri"
+   ],
+   "answer": 3,
+   "qid": "630680114289",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "In which five-year plan was the 'food, work, and productivity' slogan used?",
+   "options": [
+    "Fourth",
+    "Seventh",
+    "Sixth",
+    "Fifth"
+   ],
+   "answer": 1,
+   "qid": "6306801048045",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "Identify a spiral-shaped bacteria.",
+   "options": [
+    "Bacillus",
+    "Vibrio",
+    "Coccus",
+    "Spirillum"
+   ],
+   "answer": 3,
+   "qid": "630680194574",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Ranjana Prakash Desai who became the first woman chairperson of the Press Council of India originally worked in which of the following organs of the government?",
+   "options": [
+    "Legislature",
+    "Executive",
+    "Vigilance",
+    "Judiciary"
+   ],
+   "answer": 3,
+   "qid": "630680413019",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "In which year did the Central Government launch the National Air Sports Policy?",
+   "options": [
+    "2021",
+    "2022",
+    "2023",
+    "2020"
+   ],
+   "answer": 1,
+   "qid": "630680309521",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Which of the following Acts introduced ‘provincial autonomy’ by discontinuing the application of dyarchy?",
+   "options": [
+    "Charter Act of 1813",
+    "Government of India Act, 1919",
+    "India Council Act, 1909",
+    "Government of India Act, 1935"
+   ],
+   "answer": 3,
+   "qid": "630680511527",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "According to Census 2011, which district displays the highest population?",
+   "options": [
+    "Kollam",
+    "Thane",
+    "Pune",
+    "Ajmer"
+   ],
+   "answer": 1,
+   "qid": "630680183665",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "Which committee recommended Constitutional recognition for the local government bodies in 1989?",
+   "options": [
+    "PK Thungon Committee",
+    "Verma Committee",
+    "Balwant Rai Committee",
+    "Ashok Mehta Committee"
+   ],
+   "answer": 0,
+   "qid": "630680408183",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "The third edition of the Khelo India University Games was hosted by which of the following states?",
+   "options": [
+    "Uttar Pradesh",
+    "Punjab",
+    "Madhya Pradesh",
+    "Haryana"
+   ],
+   "answer": 0,
+   "qid": "630680510796",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "Harivarasanam award is given in the field of music by which of the following state governments?",
+   "options": [
+    "Maharashtra",
+    "Kerala",
+    "Himachal Pradesh",
+    "Karnataka"
+   ],
+   "answer": 1,
+   "qid": "630680412075",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Which of the following Sikh reform movements was started in 1873 in Amritsar?",
+   "options": [
+    "Singh Sabha Movement",
+    "Gurudwara Movement",
+    "Akali Movement",
+    "Babbar Akali Movement"
+   ],
+   "answer": 0,
+   "qid": "630680412385",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "Which of the following is an inosilicate amphibole mineral used in highway construction and as railroad ballast?",
+   "options": [
+    "Hornblende",
+    "Olivine",
+    "Shale",
+    "Geyserite"
+   ],
+   "answer": 0,
+   "qid": "630680302921",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given table and answer the question that follows. The table represents the number of scooters (in thousands) manufactured by four companies A, B, C and D from the period 2012 to 2015. The average number of scooters produced by company D is what per cent (rounded off to 2 decimal places) more than the combined average number of scooters produced by the three companies A, B, and C?",
+   "options": [
+    "52.75%",
+    "35.35%",
+    "44.66%",
+    "27.25%"
+   ],
+   "answer": 1,
+   "qid": "630680396445",
+   "figures": [
+    {
+     "file": "3b1e9f6afb355232.png",
+     "w": 310,
+     "h": 85
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "Pipe Q can fill the tank in 60 hours while pipe R may fill in 45 hours. Q and R pipes are opened together for 6 hours after which pipe W is also opened to empty the tank. All three pipes are opened simultaneously for 24 hours to reach the half level mark. How much time (in hours) will pipe W alone take to empty the entire tank?",
+   "options": [
+    "36",
+    "48",
+    "42",
+    "30"
+   ],
+   "answer": 0,
+   "qid": "630680382122",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "Find the average of first 125 natural numbers.",
+   "options": [
+    "63.5",
+    "62",
+    "63",
+    "62.5"
+   ],
+   "answer": 2,
+   "qid": "630680397309",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "If the selling price of an article is ₹1,792 after a 20% discount, then the marked price of the article is:",
+   "options": [
+    "₹2,140",
+    "₹2,260",
+    "₹2,160",
+    "₹2,240"
+   ],
+   "answer": 3,
+   "qid": "630680427945",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680526483",
+   "figures": [
+    {
+     "file": "d80f6a66d08f081c.png",
+     "w": 137,
+     "h": 24
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "85eb566bd1fea946.png",
+     "w": 130,
+     "h": 23
+    },
+    "1": {
+     "file": "4e9fd6ff24eb5a61.png",
+     "w": 132,
+     "h": 26
+    },
+    "2": {
+     "file": "65b7038fa62db7eb.png",
+     "w": 133,
+     "h": 26
+    },
+    "3": {
+     "file": "91714a885d462e41.png",
+     "w": 130,
+     "h": 22
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "An investor, invested ₹2,00,000 in shares. The shares rose by 18% on the first day, fell by 15% on the second day, and then fell by 3% on the third day. What is the net percentage increase or decrease in the value of the investor's shares? (Rounded up to one decimal place)",
+   "options": [
+    "increase by 2.7%",
+    "decrease by 2.7%",
+    "decrease by 2.2%",
+    "increase by 2.2%"
+   ],
+   "answer": 1,
+   "qid": "630680412652",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "The side MN of a parallelogram MNOP is produced to Q such that MN = NQ. PQ intersects ON at R. The point R divides ON in the ratio:",
+   "options": [
+    "1 : 2",
+    "3 : 1",
+    "2 : 1",
+    "1 : 1"
+   ],
+   "answer": 3,
+   "qid": "630680393007",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680421520",
+   "figures": [
+    {
+     "file": "082f3139ef7d3492.png",
+     "w": 328,
+     "h": 17
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "930f38fcf52d7869.png",
+     "w": 32,
+     "h": 30
+    },
+    "1": {
+     "file": "b087c75756114587.png",
+     "w": 22,
+     "h": 16
+    },
+    "2": {
+     "file": "0a03d1ba812d6acd.png",
+     "w": 30,
+     "h": 17
+    },
+    "3": {
+     "file": "73551864c898c1e4.png",
+     "w": 28,
+     "h": 32
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "The following table gives the total number of employees in 5 different companies A, B, C, D and E and the percentage of males and females. Study the table carefully and answer the question. Find the number of females in companies A, C and E put together.",
+   "options": [
+    "650",
+    "675",
+    "725",
+    "700"
+   ],
+   "answer": 3,
+   "qid": "630680422530",
+   "figures": [
+    {
+     "file": "0b34662557a15720.png",
+     "w": 303,
+     "h": 113
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "72",
+    "75",
+    "70",
+    "77"
+   ],
+   "answer": 1,
+   "qid": "630680413513",
+   "figures": [
+    {
+     "file": "50dd63febf1d0bd5.png",
+     "w": 280,
+     "h": 24
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680413506",
+   "figures": [
+    {
+     "file": "8a6b57294d142262.png",
+     "w": 164,
+     "h": 52
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "54d490bdd2f728ef.png",
+     "w": 43,
+     "h": 14
+    },
+    "1": {
+     "file": "77a7985c930c67e5.png",
+     "w": 46,
+     "h": 12
+    },
+    "2": {
+     "file": "7e77015b4fddf9a7.png",
+     "w": 42,
+     "h": 13
+    },
+    "3": {
+     "file": "ccfc33a411f48238.png",
+     "w": 44,
+     "h": 14
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680526508",
+   "figures": [
+    {
+     "file": "2d149fa8a032d854.png",
+     "w": 199,
+     "h": 63
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "ed4c8cc53dde1fb4.png",
+     "w": 54,
+     "h": 15
+    },
+    "1": {
+     "file": "90a81a7ff889c321.png",
+     "w": 72,
+     "h": 15
+    },
+    "2": {
+     "file": "089810cf237f6611.png",
+     "w": 40,
+     "h": 15
+    },
+    "3": {
+     "file": "d5fa0d83a5c43876.png",
+     "w": 40,
+     "h": 14
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "Two equal circles pass through each other’s centre. If the radius of each of the circle is 13 cm, then what is the length of the common chord?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680194645",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "5a62f627f4f45527.png",
+     "w": 50,
+     "h": 18
+    },
+    "1": {
+     "file": "b2591228c51029d3.png",
+     "w": 44,
+     "h": 18
+    },
+    "2": {
+     "file": "13a5923713c8ca0c.png",
+     "w": 52,
+     "h": 19
+    },
+    "3": {
+     "file": "3db862bc3f655b21.png",
+     "w": 52,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "The value of is:",
+   "options": [
+    "−18",
+    "18",
+    "−8",
+    "8"
+   ],
+   "answer": 0,
+   "qid": "630680388409",
+   "figures": [
+    {
+     "file": "9dfa0cc8bf11f209.png",
+     "w": 184,
+     "h": 13
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "The following table shows the expenditure of a company (in ₹ lakh) per annum over the given years. Study the table and answer the question that follows. The total amount of bonus paid by the company during the given period is what percentage of the total amount of fuels and transport paid during this period (correct to two places of decimals)?",
+   "options": [
+    "2.93%",
+    "3.29%",
+    "2.39%",
+    "3.92%"
+   ],
+   "answer": 0,
+   "qid": "630680395392",
+   "figures": [
+    {
+     "file": "a133ddcd88495a47.png",
+     "w": 317,
+     "h": 118
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "A man can row a distance of 6 km in 1 hour in still water. He can row the same distance in 45 minutes with the current. Find the total time taken by him to row a distance of 16 km with the current and to return to the starting point.",
+   "options": [
+    "4 hours",
+    "4 hours and 40 minutes",
+    "6 hours and 40 minutes",
+    "6 hours"
+   ],
+   "answer": 3,
+   "qid": "630680428342",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "A seller sold 19 cookies for ₹95 instead of 20 cookies in one kg, cheating a customer. What is the gain (in ₹) if the seller bought the cookies for ₹76?",
+   "options": [
+    "22.8",
+    "28.2",
+    "26.2",
+    "25.8"
+   ],
+   "answer": 0,
+   "qid": "630680428934",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "−5",
+    "−4",
+    "−2",
+    "−7"
+   ],
+   "answer": 0,
+   "qid": "630680136587",
+   "figures": [
+    {
+     "file": "5c8676641f8a33c0.png",
+     "w": 328,
+     "h": 52
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "Find the area (in cm2) of the sector, where the radius of the circle is 24 cm and length of the arc is 7 cm.",
+   "options": [
+    "48",
+    "84",
+    "72",
+    "168"
+   ],
+   "answer": 1,
+   "qid": "630680198929",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "12960",
+    "11880",
+    "12600",
+    "12000"
+   ],
+   "answer": 0,
+   "qid": "630680428096",
+   "figures": [
+    {
+     "file": "4d260ce6a65dc9d2.png",
+     "w": 328,
+     "h": 105
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "If A:B = 6 : 8 and B:C = 7 : 12, then A:B:C is:",
+   "options": [
+    "21:28:48",
+    "21:32:40",
+    "14:31:20",
+    "11:23:40"
+   ],
+   "answer": 0,
+   "qid": "630680915065",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680402473",
+   "figures": [
+    {
+     "file": "42b714d5637fc3fe.png",
+     "w": 243,
+     "h": 36
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "2dac68517452c309.png",
+     "w": 32,
+     "h": 28
+    },
+    "1": {
+     "file": "54824cf2efa3d52e.png",
+     "w": 32,
+     "h": 28
+    },
+    "2": {
+     "file": "84577f40a22bf1c7.png",
+     "w": 32,
+     "h": 28
+    },
+    "3": {
+     "file": "198b3d42c97fe8a8.png",
+     "w": 32,
+     "h": 28
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "If we extend a chord infinitely on both sides, then the chord becomes a _____________.",
+   "options": [
+    "normal",
+    "tangent",
+    "secant",
+    "diameter"
+   ],
+   "answer": 2,
+   "qid": "630680421375",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "Anna and Ben each have a collection of marbles. If Anna gives one marble to Ben, they will both have an equal number of marbles. Conversely, if Ben gives one marble to Anna, she will end up with three times the number of marbles that Ben has. What is the total number of marbles they both have?",
+   "options": [
+    "8",
+    "11",
+    "9",
+    "10"
+   ],
+   "answer": 0,
+   "qid": "630680379653",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "Aman borrows a sum of ₹192208 at the rate of 15% per annum simple interest. At the end of the first year, he repays ₹20196 towards return of principal amount borrowed. If Aman clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay (in ₹) at the end of the second year?",
+   "options": [
+    "221777",
+    "221757",
+    "230028",
+    "226645"
+   ],
+   "answer": 3,
+   "qid": "630680809866",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word in the given sentence. Economics began with growth and removel of poverty as its grand theme.",
+   "options": [
+    "Poverty",
+    "Removel",
+    "Grand",
+    "Economics"
+   ],
+   "answer": 1,
+   "qid": "630680360834",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Identify the correct antonym for the given word. Envious",
+   "options": [
+    "Suspicious",
+    "Generous",
+    "Untrustworthy",
+    "Malicious"
+   ],
+   "answer": 1,
+   "qid": "630680517353",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A short stay that you make while on a longer journey",
+   "options": [
+    "Tent",
+    "Refugee",
+    "Stopover",
+    "Saga"
+   ],
+   "answer": 2,
+   "qid": "630680414781",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. Do you know where does she reside ?",
+   "options": [
+    "where she resides?",
+    "where do she reside?",
+    "where she reside?",
+    "where does she resides?"
+   ],
+   "answer": 0,
+   "qid": "630680176628",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence. Coffee was too hot; it burnt my tongue.",
+   "options": [
+    "Balmy",
+    "Scorching",
+    "Frigid",
+    "Subtle"
+   ],
+   "answer": 2,
+   "qid": "630680396413",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate verb / verb phrase to fill in the blank. They ________________ their house for the past two months, and it’s finally starting to look fantastic.",
+   "options": [
+    "has renovated",
+    "have been renovating",
+    "were renovating",
+    "will renovate"
+   ],
+   "answer": 1,
+   "qid": "630680514379",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the word with the correct spelling to fill in the blank. Hiren loves to use ________ words while writing anything.",
+   "options": [
+    "colloquial",
+    "colloqual",
+    "colloquil",
+    "coloquial"
+   ],
+   "answer": 0,
+   "qid": "630680409968",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. People know Stellenbosch for its greenery and delicious street foods.",
+   "options": [
+    "Stellenbosch was known to people for its greenery and delicious street foods.",
+    "Stellenbosch have been known to people for its greenery and delicious street foods.",
+    "Stellenbosch had been known to people for its greenery and delicious street foods.",
+    "Stellenbosch is known to people for its greenery and delicious street foods."
+   ],
+   "answer": 3,
+   "qid": "630680374297",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the word in the brackets to fill in the blank. Dhara _______ the way to Mumbai. [lost]",
+   "options": [
+    "paved",
+    "helped",
+    "slept",
+    "found"
+   ],
+   "answer": 3,
+   "qid": "630680132565",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. People will respect his bravado.",
+   "options": [
+    "His bravado will have to be respected by people.",
+    "His bravado will be respect by people.",
+    "His bravado will be respected by people.",
+    "His bravado will being respected by people."
+   ],
+   "answer": 2,
+   "qid": "630680415258",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Having unlimited power",
+   "options": [
+    "Omnipotent",
+    "Omnivorous",
+    "Omnipresence",
+    "Omniscient"
+   ],
+   "answer": 0,
+   "qid": "630680405388",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Hit the roof",
+   "options": [
+    "To destruct a building",
+    "To play joyfully",
+    "To jump high",
+    "To become very angry"
+   ],
+   "answer": 3,
+   "qid": "630680129628",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. A computer can’t function without it’s mother board.",
+   "options": [
+    "its",
+    "it is",
+    "their",
+    "his"
+   ],
+   "answer": 0,
+   "qid": "630680172781",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error. He never talks / for anybody. / He is alone / all day.",
+   "options": [
+    "He is alone",
+    "all day",
+    "for anybody",
+    "He never talks"
+   ],
+   "answer": 2,
+   "qid": "630680402895",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. A: new facts and advanced B: but my opinion is C: he has discovered D: unchanged E: new arguments",
+   "options": [
+    "BDAEC",
+    "EBDCA",
+    "DACBE",
+    "CAEBD"
+   ],
+   "answer": 3,
+   "qid": "630680319308",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Creature of habit",
+   "options": [
+    "One who does same thing in the same way",
+    "A mean person",
+    "A faithful dog",
+    "A bad habit"
+   ],
+   "answer": 0,
+   "qid": "630680199444",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Much more than usual or expected",
+   "options": [
+    "Subordinate",
+    "Ordinate",
+    "Exceeding",
+    "Mordancy"
+   ],
+   "answer": 2,
+   "qid": "630680403932",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the underlined word in the given sentence. A period of free outdoor play can provide a very necessary respite from the hustle and bustle of the day.",
+   "options": [
+    "Progression",
+    "Commencement",
+    "Break",
+    "Continuation"
+   ],
+   "answer": 2,
+   "qid": "630680131740",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Mellifluous",
+   "options": [
+    "Cacophonous",
+    "Loud",
+    "Musical",
+    "Distinct"
+   ],
+   "answer": 2,
+   "qid": "630680214314",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Triumphant",
+   "options": [
+    "Tender",
+    "Unsuccessful",
+    "Jubilant",
+    "Flourishing"
+   ],
+   "answer": 1,
+   "qid": "630680517546",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. According to a poll conducted in 2018–19 by an online internship and training platform, (1)__________ number of businesses actively (2)__________ intern profiles has increased over the previous five years. This study demonstrates that India received 80% more internship applications in 2018, with 2.2 million applications (3)________ 1.27 million in 2017. The rise was influenced (4)__________ part by an increase in the number of industries seeking fresh perspectives and innovative ideas to improve (5)__________ on existing projects. Obtaining an internship prior to entering the job market, which was once viewed as a Western concept, is quickly gaining steam in Indian workplaces.\n\nSelect the most appropriate option to fill in blank number 1.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "few"
+   ],
+   "answer": 2,
+   "qid": "630680171742",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. According to a poll conducted in 2018–19 by an online internship and training platform, (1)__________ number of businesses actively (2)__________ intern profiles has increased over the previous five years. This study demonstrates that India received 80% more internship applications in 2018, with 2.2 million applications (3)________ 1.27 million in 2017. The rise was influenced (4)__________ part by an increase in the number of industries seeking fresh perspectives and innovative ideas to improve (5)__________ on existing projects. Obtaining an internship prior to entering the job market, which was once viewed as a Western concept, is quickly gaining steam in Indian workplaces.\n\nSelect the most appropriate option to fill in blank number 2.",
+   "options": [
+    "reducing",
+    "seeking",
+    "neglecting",
+    "declining"
+   ],
+   "answer": 1,
+   "qid": "630680171743",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. According to a poll conducted in 2018–19 by an online internship and training platform, (1)__________ number of businesses actively (2)__________ intern profiles has increased over the previous five years. This study demonstrates that India received 80% more internship applications in 2018, with 2.2 million applications (3)________ 1.27 million in 2017. The rise was influenced (4)__________ part by an increase in the number of industries seeking fresh perspectives and innovative ideas to improve (5)__________ on existing projects. Obtaining an internship prior to entering the job market, which was once viewed as a Western concept, is quickly gaining steam in Indian workplaces.\n\nSelect the most appropriate option to fill in blank number 3.",
+   "options": [
+    "according to",
+    "similar to",
+    "compared to",
+    "combine to"
+   ],
+   "answer": 2,
+   "qid": "630680171744",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. According to a poll conducted in 2018–19 by an online internship and training platform, (1)__________ number of businesses actively (2)__________ intern profiles has increased over the previous five years. This study demonstrates that India received 80% more internship applications in 2018, with 2.2 million applications (3)________ 1.27 million in 2017. The rise was influenced (4)__________ part by an increase in the number of industries seeking fresh perspectives and innovative ideas to improve (5)__________ on existing projects. Obtaining an internship prior to entering the job market, which was once viewed as a Western concept, is quickly gaining steam in Indian workplaces.\n\nSelect the most appropriate option to fill in blank number 4.",
+   "options": [
+    "up",
+    "to",
+    "on",
+    "in"
+   ],
+   "answer": 3,
+   "qid": "630680171745",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. According to a poll conducted in 2018–19 by an online internship and training platform, (1)__________ number of businesses actively (2)__________ intern profiles has increased over the previous five years. This study demonstrates that India received 80% more internship applications in 2018, with 2.2 million applications (3)________ 1.27 million in 2017. The rise was influenced (4)__________ part by an increase in the number of industries seeking fresh perspectives and innovative ideas to improve (5)__________ on existing projects. Obtaining an internship prior to entering the job market, which was once viewed as a Western concept, is quickly gaining steam in Indian workplaces.\n\nSelect the most appropriate option to fill in blank number 5.",
+   "options": [
+    "effortless",
+    "effecting",
+    "efficient",
+    "efficiencies"
+   ],
+   "answer": 3,
+   "qid": "630680171746",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

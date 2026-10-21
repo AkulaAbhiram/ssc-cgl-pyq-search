@@ -1,0 +1,1879 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-11",
+  "time": "9:00 AM - 10:00 AM",
+  "shift": 1,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_11_Tier_1_English_Question_Paper_and_Answer_Key_Shift_1__4dd2c7c9cfde106533af8d15c342210c.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which two numbers (not digits) should be interchanged to make the given equation correct? 48 ÷ 3 + 12 × 4 – 6 × 7 + 21 = 27",
+   "options": [
+    "12 and 21",
+    "4 and 7",
+    "3 and 4",
+    "3 and 6"
+   ],
+   "answer": 2,
+   "qid": "630680319373",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (280, 140) (186, 93)",
+   "options": [
+    "(92, 51)",
+    "(86, 48)",
+    "(166, 84)",
+    "(118, 59)"
+   ],
+   "answer": 3,
+   "qid": "630680338903",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the given figure?",
+   "options": [
+    "9",
+    "10",
+    "8",
+    "11"
+   ],
+   "answer": 3,
+   "qid": "630680296584",
+   "figures": [
+    {
+     "file": "83a8a8ad4e9b8dd6.png",
+     "w": 145,
+     "h": 91
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: All bottles are jugs. Some bottles are flasks. All flasks are bins. Conclusions: I. Some bottles are bins. II. Some jugs are bins. III. Some flasks are jugs.",
+   "options": [
+    "All conclusions I, II and III follow",
+    "Only conclusions II and III follow",
+    "Either conclusion I or II follows",
+    "Only conclusions I and II follow"
+   ],
+   "answer": 0,
+   "qid": "630680416386",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of ? will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680524392",
+   "figures": [
+    {
+     "file": "22c747f3cd0cd250.png",
+     "w": 319,
+     "h": 69
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "bb7290b4abf09f59.png",
+     "w": 69,
+     "h": 71
+    },
+    "1": {
+     "file": "7d7c215903d22fa0.png",
+     "w": 69,
+     "h": 69
+    },
+    "2": {
+     "file": "e00a586ce3068c3b.png",
+     "w": 69,
+     "h": 71
+    },
+    "3": {
+     "file": "e2b3a75f6d026408.png",
+     "w": 71,
+     "h": 73
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, A + B means ‘A is the son of B’, A − B means ‘A is the wife of B’, A × B means ‘A is the brother of B’ and A ÷ B means ‘A is the mother of B’. Based on the above, if ‘P + Q ÷ R − T × M’, which of the following is true?",
+   "options": [
+    "T is the brother of P.",
+    "M is the sister of T.",
+    "P is the brother of R.",
+    "Q is the mother of M."
+   ],
+   "answer": 2,
+   "qid": "630680284896",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster. RATE : SCWI : : HIGH : IKJL : : OPEN : ?",
+   "options": [
+    "PQHR",
+    "PRHR",
+    "PRIS",
+    "PSIR"
+   ],
+   "answer": 1,
+   "qid": "630680416283",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘CONFUSED’ is coded as ‘7’ and ‘CHAIN’ is coded as ‘4’. How will ‘ADULTHOOD’ be coded in that language?",
+   "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "answer": 2,
+   "qid": "630680172758",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "The question contains pairs of words that are related to each other in a certain way. Three of the following four word pairs are alike as these have the same relationship and thus form a group. Which word pair is the one that DOES NOT belong to that group? (The words must be considered as meaningful English words and must not be related to each other based on the number of letters / number of consonants/vowels in the word.)",
+   "options": [
+    "Eye – ophthalmologist",
+    "Bone – orthopaedic",
+    "Stomach – gastroenterologist",
+    "Uterus – urologist"
+   ],
+   "answer": 3,
+   "qid": "630680798748",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. q p _ r _ r q _ p _ r p _ q _ p r _ p _ q",
+   "options": [
+    "r p q r r p r q",
+    "r p q r r q r p",
+    "r p q r r q r r",
+    "r p q q r q r p"
+   ],
+   "answer": 2,
+   "qid": "630680265665",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following numbers will replace the question mark (?) in the given series? 17, 38, 84, ?, 376, 772",
+   "options": [
+    "150",
+    "190",
+    "180",
+    "200"
+   ],
+   "answer": 2,
+   "qid": "630680411887",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680389697",
+   "figures": [
+    {
+     "file": "199889510df2629b.png",
+     "w": 181,
+     "h": 107
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d3556e38b090bf40.png",
+     "w": 155,
+     "h": 33
+    },
+    "1": {
+     "file": "9b57138e5c5ea324.png",
+     "w": 149,
+     "h": 32
+    },
+    "2": {
+     "file": "4c65680a8a935a43.png",
+     "w": 147,
+     "h": 34
+    },
+    "3": {
+     "file": "5ffda5873bd88d3a.png",
+     "w": 151,
+     "h": 34
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "The same operation(s) are followed in all the given number pairs except one. Find that odd number pair. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "135 : 17",
+    "151 : 19",
+    "128 : 16",
+    "103 : 13"
+   ],
+   "answer": 2,
+   "qid": "630680412036",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? GASM, CCOO, YEKQ, ? , QICU",
+   "options": [
+    "UGGT",
+    "UGGS",
+    "UCGS",
+    "TGFS"
+   ],
+   "answer": 1,
+   "qid": "630680417055",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680285667",
+   "figures": [
+    {
+     "file": "17494d97c1661f40.png",
+     "w": 291,
+     "h": 93
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "533605dd3517a69a.png",
+     "w": 81,
+     "h": 82
+    },
+    "1": {
+     "file": "d10f0ed289a15f9d.png",
+     "w": 82,
+     "h": 82
+    },
+    "2": {
+     "file": "b4378bf071d69431.png",
+     "w": 79,
+     "h": 81
+    },
+    "3": {
+     "file": "d0a3c50ad6dc730f.png",
+     "w": 83,
+     "h": 81
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "उस िवक\u0000 का चयन कर\u0000 जो तीसरे श\u0000 से उसी \u0000कार संबंिधत है जैसे दूसरा श\u0000 पहले श\u0000 से संबंिधत है। (श\u0000ो ंको अथ\u0000पूण\u0000 अं\u0000ेजी श\u0000ो ंके \u0000प म\u0000 माना जाना चािहए और श\u0000 आपस म\u0000 अ\u0000रों की सं\u0000ा/\u0000ंजन/\u0000रो ंकी सं\u0000ा के आधार पर एक दूसरे से संबंिधत नही ंहोना चािहए) कटुता : मानवता :: संभालना : ?",
+   "options": [
+    "िनयु\u0000 करना",
+    "िन\u0000ह",
+    "\u0000ागना",
+    "खीचं ना"
+   ],
+   "answer": 2,
+   "qid": "630680195785",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position(s) of how many letters will remain unchanged if all the letters in the word ‘MEADOW’ are arranged in English alphabetical order?",
+   "options": [
+    "Two",
+    "One",
+    "None",
+    "Three"
+   ],
+   "answer": 0,
+   "qid": "630680375923",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680285666",
+   "figures": [
+    {
+     "file": "5ad23a5760eb4690.png",
+     "w": 292,
+     "h": 95
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "84f479948a321b4d.png",
+     "w": 82,
+     "h": 81
+    },
+    "1": {
+     "file": "a5071bd6e6596a60.png",
+     "w": 81,
+     "h": 81
+    },
+    "2": {
+     "file": "9559446716cc8f84.png",
+     "w": 82,
+     "h": 81
+    },
+    "3": {
+     "file": "b0a34a239d2fee0d.png",
+     "w": 82,
+     "h": 81
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘Summer’ is related to ‘Season’ in the same way as ‘Cotton’ is related to ‘________’.",
+   "options": [
+    "Grain",
+    "Tree",
+    "Dye",
+    "Cloth"
+   ],
+   "answer": 3,
+   "qid": "630680416729",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "16 is related to 112 following a certain logic. Following the same logic, 26 is related to 182. To which of the following is 44 related, following the same logic? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "310",
+    "302",
+    "308",
+    "312"
+   ],
+   "answer": 2,
+   "qid": "630680344650",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "8 is related to 512 following a certain logic. Following the same logic, 12 is related to 1728. To which of the following is 15 related, following the same logic? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "3375",
+    "2725",
+    "3735",
+    "2275"
+   ],
+   "answer": 0,
+   "qid": "630680344657",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged? 14014 × 14 – 10 ÷ 8 + 14 = ?",
+   "options": [
+    "1062",
+    "1063",
+    "1067",
+    "1064"
+   ],
+   "answer": 2,
+   "qid": "630680411731",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which figure should replace the question mark (?) if the following series were to be continued?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680214432",
+   "figures": [
+    {
+     "file": "a844b9c404f479f9.png",
+     "w": 328,
+     "h": 70
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d36a2d98d18e3db4.png",
+     "w": 75,
+     "h": 73
+    },
+    "1": {
+     "file": "68d2f7df38ab3f81.png",
+     "w": 72,
+     "h": 72
+    },
+    "2": {
+     "file": "b9b458d3f5da333b.png",
+     "w": 73,
+     "h": 73
+    },
+    "3": {
+     "file": "18d23ef8847d3679.png",
+     "w": 74,
+     "h": 72
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Figure X is followed by four figures numbered (1), (2), (3), (4). Identify the figure among the four in which figure X is embedded (i.e. contains figure X in the same form).",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "1"
+   ],
+   "answer": 0,
+   "qid": "630680388184",
+   "figures": [
+    {
+     "file": "a4487bbb0531f5c0.png",
+     "w": 328,
+     "h": 83
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'DEMAND' is written as ‘410132144' and 'SUPPLY' is written as '194216161225'.How will 'PRODUCT' be written in that language?",
+   "options": [
+    "161815421320",
+    "161830442320",
+    "323615821640",
+    "161542320"
+   ],
+   "answer": 1,
+   "qid": "630680416226",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Consider the following statements associated with the India Infrastructure Project Development Fund (IIPDF). 1. IIPDF was set up in 2017. 2. The funds for IIPDF are provided by the Central Government’? 3. This scheme is notified under the Department of Economic Affairs. Which of the above statements is/are INCORRECT?",
+   "options": [
+    "Only 1 and 2",
+    "Only 1",
+    "Only 2 and 3",
+    "Only 3"
+   ],
+   "answer": 1,
+   "qid": "630680319748",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "Which party formed the government in Britain in the year 1945?",
+   "options": [
+    "Labour Party",
+    "Socialist Party",
+    "Democratic Party",
+    "Liberal Party"
+   ],
+   "answer": 0,
+   "qid": "630680511553",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Which type of radiation has very short (<10–3 nm) wavelengths, produced by nuclear explosions, lightning and less dramatic activity of radioactive decay?",
+   "options": [
+    "Microwave",
+    "Infra-red",
+    "Ultraviolet",
+    "Gamma"
+   ],
+   "answer": 3,
+   "qid": "630680302889",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Bharatanatyam dance style is associated with which of the following states?",
+   "options": [
+    "Karnataka",
+    "Tamil Nadu",
+    "Bihar",
+    "Manipur"
+   ],
+   "answer": 1,
+   "qid": "630680402014",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "Which Indian marathon event is considered the largest marathon in Asia?",
+   "options": [
+    "Kaveri Trail Marathon",
+    "Mumbai Marathon",
+    "Delhi Half Marathon",
+    "Pinkathon"
+   ],
+   "answer": 1,
+   "qid": "630680510759",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Which of the following organisations, divided into two branches, was established by Lokmanya Bal Gangadhar Tilak and Annie Besant?",
+   "options": [
+    "Theosophical society",
+    "Home Rule League",
+    "East Indian Association",
+    "Indian Association"
+   ],
+   "answer": 1,
+   "qid": "630680412384",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Consider the following statements and choose the correct statement(s) from the following: 1. The UDAN scheme has completed five years since its implementation in 2017. 2. It is the flagship scheme of the Ministry of Science and Technology. 3. The Airports Authority of India is the implementing agency of this scheme.",
+   "options": [
+    "Only statement 2",
+    "Only statements 1 and 3",
+    "Only statements 2 and 3",
+    "Only statement 3"
+   ],
+   "answer": 1,
+   "qid": "630680195343",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "In which of the following years did India NOT host the ICC Cricket World Cup Tournament?",
+   "options": [
+    "1996",
+    "1983",
+    "1987",
+    "2011"
+   ],
+   "answer": 1,
+   "qid": "630680510794",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "Ebony and Mahogany trees are found in which type of forests?",
+   "options": [
+    "Montane forests",
+    "Mangrove forests",
+    "Tropical evergreen forests",
+    "Tropical deciduous forests"
+   ],
+   "answer": 2,
+   "qid": "630680328136",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Who among the following was one of the Navratnas of Akbar?",
+   "options": [
+    "Amir Khusro",
+    "Purandar Das",
+    "Swami Haridas",
+    "Tansen"
+   ],
+   "answer": 3,
+   "qid": "630680512249",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "In which year was the PM Ayushman Bharat Health Infrastructure Mission launched?",
+   "options": [
+    "2022",
+    "2020",
+    "2023",
+    "2021"
+   ],
+   "answer": 3,
+   "qid": "630680394654",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "When was the Duty-Free Tariff Preference (DFTP) Scheme for Least Developed Countries (LDCs) announced by India?",
+   "options": [
+    "2006",
+    "2009",
+    "2010",
+    "2008"
+   ],
+   "answer": 3,
+   "qid": "6306801048056",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Which of the following options is mostly caused by overpopulation?",
+   "options": [
+    "Reduction in the scarcity of water",
+    "Land and other renewable resources are under pressure",
+    "Increase in the area covered by forests",
+    "Adequate natural resource storage"
+   ],
+   "answer": 1,
+   "qid": "630680314144",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "On which of the following dates does India celebrate its Constitution Day?",
+   "options": [
+    "15th August",
+    "2th October",
+    "26th November",
+    "26th January"
+   ],
+   "answer": 2,
+   "qid": "630680329439",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "Match the following books with their respective authors.",
+   "options": [
+    "a-i; b-iii; c-ii; d-iv",
+    "a-iii; b-i; c-iv; d-ii",
+    "a-ii; b-iv; c-iii; d-i",
+    "a-iv; b-iii; c-i; d-ii"
+   ],
+   "answer": 2,
+   "qid": "630680412338",
+   "figures": [
+    {
+     "file": "fe3da0285870afcd.png",
+     "w": 328,
+     "h": 75
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "Which of the following pairs do NOT share any borders?",
+   "options": [
+    "Bhutan and West Bengal",
+    "Bhutan and Meghalaya",
+    "Bhutan and Arunachal Pradesh",
+    "Bhutan and Assam"
+   ],
+   "answer": 1,
+   "qid": "630680409600",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Palladium on barium sulphate (Pd/BaSO ) is also known as: 4",
+   "options": [
+    "an aldol reaction catalyst",
+    "a Cannizzaro reaction catalyst",
+    "the Rosenmund catalyst",
+    "a Hillman reaction catalyst"
+   ],
+   "answer": 2,
+   "qid": "630680199619",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Which of the following types of direct tax collection increased as of 10 February 2023 budget?",
+   "options": [
+    "Octroi duties",
+    "Personal income tax",
+    "Commercial tax",
+    "Corporate tax"
+   ],
+   "answer": 1,
+   "qid": "630680314402",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Which Ghazal singer was conferred with the prestigious Deenanath Mangeshkar Award in April 2023?",
+   "options": [
+    "Ghazal Srinivas",
+    "Pankaj Udhas",
+    "Bhupinder Singh",
+    "Talat Aziz"
+   ],
+   "answer": 1,
+   "qid": "630680511804",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "What kind of radiation is absorbed by the ozone layer?",
+   "options": [
+    "Infrared radiation",
+    "Visible radiation",
+    "Green radiation",
+    "Ultraviolet radiation"
+   ],
+   "answer": 3,
+   "qid": "630680303274",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "The organisation that Comptroller and Auditor General heads is known as ___________.",
+   "options": [
+    "Indian Civil Accounts Organisation",
+    "Indian Audit and Accounts Department",
+    "Controller General of Accounts",
+    "Institute of Chartered Accountants of India"
+   ],
+   "answer": 1,
+   "qid": "630680161104",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "Which of the following categories does Gonyaulax belong to?",
+   "options": [
+    "Chrysophytes",
+    "Dinoflagellates",
+    "Euglenoids",
+    "Protozoans"
+   ],
+   "answer": 1,
+   "qid": "63068099109",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "Valabhi, a city of ancient India was the capital of the _________ dynasty from the 5th to 8th Century CE.",
+   "options": [
+    "Chalukya",
+    "Maitraka",
+    "Vakataka",
+    "Pallava"
+   ],
+   "answer": 1,
+   "qid": "630680412475",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Who has written the book ‘Fearless Governance’, published in January 2021, describing her stint as Governor?",
+   "options": [
+    "Draupadi Murmu",
+    "Kiran Bedi",
+    "Anandi ben Patel",
+    "Baby Rani Maurya"
+   ],
+   "answer": 1,
+   "qid": "630680394951",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "Shab-e-Barat is celebrated by which religious group?",
+   "options": [
+    "Buddhist",
+    "Muslim",
+    "Jain",
+    "Parsi"
+   ],
+   "answer": 1,
+   "qid": "630680158769",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "In a rhombus ABCD, O is any interior point such that OA = OC. What is five-ninths of the degree measure of ∠DOB?",
+   "options": [
+    "150°",
+    "100°",
+    "90°",
+    "120°"
+   ],
+   "answer": 1,
+   "qid": "630680387087",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "A group of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 62. What is the average score of the group?",
+   "options": [
+    "60",
+    "63",
+    "62",
+    "61"
+   ],
+   "answer": 2,
+   "qid": "630680566256",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "A dishonest merchant sells his grocery using weights that are 12% less than the true weights and makes a profit of 10%. Find his total gain percentage.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680429072",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "d6ec1b16fa1cb253.png",
+     "w": 28,
+     "h": 15
+    },
+    "1": {
+     "file": "7103ac05798e617d.png",
+     "w": 28,
+     "h": 16
+    },
+    "2": {
+     "file": "67d2750473fee90e.png",
+     "w": 30,
+     "h": 15
+    },
+    "3": {
+     "file": "3df1dc211345d480.png",
+     "w": 31,
+     "h": 16
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "If the perimeter of an equilateral triangle is 36 units, then its area is (in square units):",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680421359",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "6417acc5607d1399.png",
+     "w": 48,
+     "h": 22
+    },
+    "1": {
+     "file": "2c4a5b1c0a1bc95c.png",
+     "w": 39,
+     "h": 21
+    },
+    "2": {
+     "file": "e5d830f4d62972a0.png",
+     "w": 40,
+     "h": 22
+    },
+    "3": {
+     "file": "df1d44b8b8b432c5.png",
+     "w": 46,
+     "h": 23
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680526445",
+   "figures": [
+    {
+     "file": "2f213d52042d4a24.png",
+     "w": 180,
+     "h": 37
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "0dfa73523a66b747.png",
+     "w": 16,
+     "h": 19
+    },
+    "1": {
+     "file": "e39d22a320bd6182.png",
+     "w": 15,
+     "h": 20
+    },
+    "2": {
+     "file": "9f2b6500bbbbca7a.png",
+     "w": 17,
+     "h": 21
+    },
+    "3": {
+     "file": "9221b3af198acb41.png",
+     "w": 19,
+     "h": 34
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "198",
+    "234",
+    "216",
+    "221"
+   ],
+   "answer": 1,
+   "qid": "630680413505",
+   "figures": [
+    {
+     "file": "950d4d924ee9ad89.png",
+     "w": 314,
+     "h": 28
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "If asin3 X + bcos3 X = sinXcosX and asinX = bcosX, then find the value of a2 + b2, provided that x is neither 0° nor 90°.",
+   "options": [
+    "a2 - b2",
+    "1",
+    "0",
+    "a2 + b2"
+   ],
+   "answer": 1,
+   "qid": "630680354950",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "Find the smallest number to be added to 999, so that 99 divides the sum exactly.",
+   "options": [
+    "90",
+    "0",
+    "9",
+    "99"
+   ],
+   "answer": 0,
+   "qid": "630680108185",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "The interest accrued on a sum of ₹16,000 lent at a simple interest rate of 14% p.a. for the time in those many years, which gives a simple interest of three-fifths of a certain sum at 10% p.a., is:",
+   "options": [
+    "₹13,440",
+    "₹15,360",
+    "₹14,280",
+    "₹12,970"
+   ],
+   "answer": 0,
+   "qid": "630680392970",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "The bar graph below shows the production of coffee (in lakh tons) by four companies A, B, C and D over a period of four years from 2010 to 2013. Study the graph and answer the question that follows. The combined average production for four years of companies A and C is what percentage (rounded off to 2 decimal places) more/less than the combined average production for four years of companies B and D?",
+   "options": [
+    "More, 10.51%",
+    "Less, 10.51%",
+    "More, 7.81%",
+    "Less, 7.81%"
+   ],
+   "answer": 3,
+   "qid": "630680387062",
+   "figures": [
+    {
+     "file": "6ee4570b6c2a8e24.png",
+     "w": 328,
+     "h": 202
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "In a circle, two chords MN and PQ intersect at O. If MO = 9 cm, ON = 5 cm and OQ = 6 cm, then the value of OP (in cm) is:",
+   "options": [
+    "6.5",
+    "6",
+    "7",
+    "7.5"
+   ],
+   "answer": 3,
+   "qid": "630680397551",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "A rectangular courtyard is 4m 95cm long and 16m 65cm broad. It is to be paved with the square tiles of the same size. Find the least number of such square tiles required to pave the rectangular courtyard.",
+   "options": [
+    "407",
+    "388",
+    "877",
+    "944"
+   ],
+   "answer": 0,
+   "qid": "630680421536",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "In an election between two candidates P and Q, P got 78% of the total valid votes. If the total votes of the electorate were 75,60,000, then what was the number of valid votes that Q got if 10% of the voters did not cast their vote and 15% of the votes polled were declared invalid?",
+   "options": [
+    "12,72,348",
+    "1,47,312",
+    "1,41,732",
+    "1,41,372"
+   ],
+   "answer": 0,
+   "qid": "630680427952",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "The following pie chart shows the distribution of the percentage of students in various courses at the university. The total number of students (boys and girls only) in the university is 7000. In B.Com, there are 60% girls and in B.Sc. C.Sci, there are 40% boys. The total number of girls who took admission in B.Sc C.Sci and B.Com courses is what percentage of the total students admitted to the university?",
+   "options": [
+    "25%",
+    "27%",
+    "29%",
+    "23%"
+   ],
+   "answer": 1,
+   "qid": "630680422123",
+   "figures": [
+    {
+     "file": "f29e201b4b9fb362.png",
+     "w": 215,
+     "h": 211
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "Solve the given set of three equations to get the value of the unknowns: x + 2z = 3 x + 2y + 3z = 5 3x - 5z = -13",
+   "options": [
+    "x = 0,y = -1,z = 2",
+    "x = 2,y = 0,z = -1",
+    "x = -1,y = 0,z = 2",
+    "x = -1,y = 2,z = 0"
+   ],
+   "answer": 2,
+   "qid": "630680285560",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "There are two pipes to fill a tank. Together, they can fill the tank in 15 minutes. If one pipe can fill the tank in one and a half times as fast as the other, the faster pipe alone can fill the tank in:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "6306801047985",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "7faa2165a7067abf.png",
+     "w": 49,
+     "h": 16
+    },
+    "1": {
+     "file": "043be1a76ef0ec69.png",
+     "w": 48,
+     "h": 14
+    },
+    "2": {
+     "file": "75c61d6dbd8ffb6d.png",
+     "w": 48,
+     "h": 16
+    },
+    "3": {
+     "file": "84e716b26cdb91ef.png",
+     "w": 71,
+     "h": 31
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "A shopkeeper, on the eve of Diwali, allowed a series of discounts on television sets. Find the selling price of a television set, if the marked price of television is ₹1,200 and successive discounts are 15% and 10%.",
+   "options": [
+    "₹945",
+    "₹975",
+    "₹918",
+    "₹965"
+   ],
+   "answer": 2,
+   "qid": "630680178722",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "480",
+    "640",
+    "540",
+    "360"
+   ],
+   "answer": 0,
+   "qid": "630680523743",
+   "figures": [
+    {
+     "file": "846a645901e36a04.png",
+     "w": 328,
+     "h": 239
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "Mrudula starts her job with a certain monthly salary and earns a fixed increment every year. If her salary was ₹28,400 after six years of service and ₹52,997 after fifteen years, find her annual increment.",
+   "options": [
+    "₹1,824",
+    "₹12,002",
+    "₹1,200",
+    "₹2,733"
+   ],
+   "answer": 3,
+   "qid": "630680382687",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "85",
+    "83",
+    "84",
+    "80"
+   ],
+   "answer": 1,
+   "qid": "630680428116",
+   "figures": [
+    {
+     "file": "86e24a5bd8e9b6d8.png",
+     "w": 328,
+     "h": 128
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "17,355",
+    "13,992",
+    "15,421",
+    "11,229"
+   ],
+   "answer": 1,
+   "qid": "630680358045",
+   "figures": [
+    {
+     "file": "0f3cbf40acefa5ef.png",
+     "w": 328,
+     "h": 57
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "In a division problem, the divisor is 4 times the quotient and 2 times the remainder. If the remainder is 32, then find the dividend.",
+   "options": [
+    "1065",
+    "3240",
+    "1650",
+    "1056"
+   ],
+   "answer": 3,
+   "qid": "630680108754",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "Atul gives Vishu a head-start of 20 seconds in a 900 m race and beats him by 135 m. While running the same race again Atul gives a start of 189 m and beats him by 8 seconds. In how much time can Vishu complete the full race of 900 m?",
+   "options": [
+    "2 minutes 50 seconds",
+    "3 minutes 20 seconds",
+    "3 minutes 10 seconds",
+    "3 minutes 30 seconds"
+   ],
+   "answer": 1,
+   "qid": "630680428186",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "A sum of money is divided among P, Q, R and S in the proportion of 4 : 9 : 2 : 3. If Q gets ₹560 more than R, then the share of S is:",
+   "options": [
+    "₹140",
+    "₹340",
+    "₹440",
+    "₹240"
+   ],
+   "answer": 3,
+   "qid": "630680455637",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the option that correctly expresses the given sentence in passive voice. The teachers of our school have already taken this training.",
+   "options": [
+    "This training has already been taken by the teachers of our school.",
+    "This training has already been taken by the our school teachers.",
+    "This training was already taken by the teachers of our school.",
+    "This training has been taken by the teachers of our school."
+   ],
+   "answer": 0,
+   "qid": "630680317877",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Awkward in movement or manner",
+   "options": [
+    "Clownish",
+    "Alert",
+    "Imbalanced",
+    "Clumsy"
+   ],
+   "answer": 3,
+   "qid": "630680158478",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word. He was very cruel in dealing with the students.",
+   "options": [
+    "Skittish",
+    "Malevolent",
+    "Kind",
+    "Kingly"
+   ],
+   "answer": 2,
+   "qid": "630680517533",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "The following sentence contains a word with a spelling error. Rectify the sentence by selecting the correct spelling of the identified word from the given options. I was upstaires when somebody rang the doorbell.",
+   "options": [
+    "Upstares",
+    "Upstairs",
+    "upsatires",
+    "Upstaire"
+   ],
+   "answer": 1,
+   "qid": "630680360840",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. (A) while the employees (B) meeting on time (C) the boss arrived at the (D) despite the heavy traffic (E) were late",
+   "options": [
+    "BACED",
+    "DCBAE",
+    "DACEB",
+    "ACEDB"
+   ],
+   "answer": 1,
+   "qid": "630680360060",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. An instrument for viewing distant objects in space.",
+   "options": [
+    "Telescope",
+    "Spectrograph",
+    "Microscope",
+    "Binoculars"
+   ],
+   "answer": 0,
+   "qid": "630680129694",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. (A) he had to take the bus (B) his friend, who used to give (C) to his office because he had (D) him a lift, was on vacation (E) never learned to drive and",
+   "options": [
+    "EBADC",
+    "ACEBD",
+    "DACEB",
+    "BADEC"
+   ],
+   "answer": 1,
+   "qid": "630680360061",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the underlined word. She was overstrung before her dance performance.",
+   "options": [
+    "Placid",
+    "Calm",
+    "Cheerful",
+    "Nervous"
+   ],
+   "answer": 3,
+   "qid": "630680204387",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the following word. Forbid",
+   "options": [
+    "Call",
+    "Allow",
+    "Prohibit",
+    "Forsake"
+   ],
+   "answer": 1,
+   "qid": "630680396792",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Substitute the underlined word-segment with most appropriate idiom. The doctors tried very hard to save his mother but they were unsuccessful.",
+   "options": [
+    "faced the music",
+    "drew the line",
+    "moved heaven and earth",
+    "ran like clockwork"
+   ],
+   "answer": 2,
+   "qid": "630680123853",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the following sentence in passive voice. Ravi will play the match.",
+   "options": [
+    "The match is played by Ravi.",
+    "The match will have been played by Ravi.",
+    "The match will be playing by Ravi.",
+    "The match will be played by Ravi."
+   ],
+   "answer": 3,
+   "qid": "630680415246",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Parts of the following sentence have been given as options. Select the option that contains an error. It is he who work for the company for more than a decade.",
+   "options": [
+    "for the company",
+    "for more than a decade",
+    "It is he",
+    "who work"
+   ],
+   "answer": 3,
+   "qid": "630680514366",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Identify the correct synonym of the word given below. FATIGUE",
+   "options": [
+    "Mission",
+    "Obese",
+    "Vigour",
+    "Tiredness"
+   ],
+   "answer": 3,
+   "qid": "630680294226",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error. The windows / violent banged / during the / storm yesterday.",
+   "options": [
+    "The windows",
+    "storm yesterday.",
+    "during the",
+    "violent banged"
+   ],
+   "answer": 3,
+   "qid": "630680381369",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Adversity",
+   "options": [
+    "Pleasure",
+    "Misfortune",
+    "Success",
+    "Advantage"
+   ],
+   "answer": 1,
+   "qid": "630680158914",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined word in the given sentence. Our legal system must frame proper legal rules for juvenile criminals.",
+   "options": [
+    "young",
+    "dotage",
+    "senile",
+    "old"
+   ],
+   "answer": 0,
+   "qid": "630680145481",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the underlined group of words in the following sentence. Despite recent superficial moves toward political reconciliation, Libya remains in the grip of a bloodstained corrupt military exclusive circle of people with a common purpose.",
+   "options": [
+    "oblique",
+    "pique",
+    "antique",
+    "clique"
+   ],
+   "answer": 3,
+   "qid": "630680310039",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Identify the INCORRECTLY spelt word in the following sentence and select its correct spelling from the given options. His acquiantance with the author led to many fruitful collaborations.",
+   "options": [
+    "acuiantance",
+    "acquaintance",
+    "aquaintance",
+    "acquaintence"
+   ],
+   "answer": 1,
+   "qid": "630680409941",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. Charles Darwin is renowned for his book on evolution, ‘On the Origin of Species’, which laid down a treasure of substantiation that evolution occurs, and projected a mechanism, that is, natural selection, for how it does so.",
+   "options": [
+    "laid away a treasure of substantiation",
+    "laid about a treasure of substantiation",
+    "laid out a treasure of substantiation",
+    "laid into a treasure of substantiation"
+   ],
+   "answer": 2,
+   "qid": "630680176811",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Hit the nail on the head",
+   "options": [
+    "They hit a nail with a hammer.",
+    "They are experiencing a headache.",
+    "They're uncertain about a decision.",
+    "They have accurately identified or explained something."
+   ],
+   "answer": 3,
+   "qid": "630680374408",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Azadi Ka Amrit Mahotsav is an (1) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (2) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (3) _________ the power and potential to realise Prime Minister, Narendra Modi's (4) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (5)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.\n\nSelect the most appropriate answer for blank number 1.%",
+   "options": [
+    "associate",
+    "obligation",
+    "initiative",
+    "occult"
+   ],
+   "answer": 2,
+   "qid": "630680147713",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Azadi Ka Amrit Mahotsav is an (1) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (2) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (3) _________ the power and potential to realise Prime Minister, Narendra Modi's (4) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (5)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.\n\nSelect the most appropriate answer for blank number 2.%",
+   "options": [
+    "refused",
+    "dedicated",
+    "withhold",
+    "alienated"
+   ],
+   "answer": 1,
+   "qid": "630680147714",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Azadi Ka Amrit Mahotsav is an (1) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (2) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (3) _________ the power and potential to realise Prime Minister, Narendra Modi's (4) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (5)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.\n\nSelect the most appropriate answer for blank number 3.%",
+   "options": [
+    "concludes",
+    "possess",
+    "clarifies",
+    "obtains"
+   ],
+   "answer": 1,
+   "qid": "630680147715",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Azadi Ka Amrit Mahotsav is an (1) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (2) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (3) _________ the power and potential to realise Prime Minister, Narendra Modi's (4) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (5)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.\n\nSelect the most appropriate answer for blank number 4.%",
+   "options": [
+    "vision",
+    "design",
+    "control",
+    "graphics"
+   ],
+   "answer": 0,
+   "qid": "630680147716",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Azadi Ka Amrit Mahotsav is an (1) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (2) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (3) _________ the power and potential to realise Prime Minister, Narendra Modi's (4) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (5)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.\n\nSelect the most appropriate answer for blank number 5.%",
+   "options": [
+    "allocation",
+    "breakdown",
+    "countdown",
+    "custom"
+   ],
+   "answer": 2,
+   "qid": "630680147717",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

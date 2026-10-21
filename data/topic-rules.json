@@ -1,72 +1,287 @@
 {
   "_about": "Keyword rules the importer uses to tag a question's topic. Per section, the first rule whose pattern matches the question (plus its options) wins; patterns are case-insensitive regular expressions. Questions nothing matches are tagged 'Miscellaneous' and listed in the import report for a hand fix.",
   "quant": [
-    { "topic": "Data interpretation", "pattern": "\\b(table|bar graph|pie chart|line graph|histogram)\\b" },
-    { "topic": "Trigonometry", "pattern": "\\b(sin|cos|tan|cot|sec|cosec)\\b|θ|°\\s*\\)|angle of elevation|angle of depression" },
-    { "topic": "Mensuration", "pattern": "\\b(area|volume|perimeter|surface area|cylinder|cone|sphere|hemisphere|cuboid|cube|prism|pyramid|circumference)\\b" },
-    { "topic": "Geometry", "pattern": "\\b(triangle|circle|chord|tangent|quadrilateral|parallelogram|rhombus|trapezium|polygon|centroid|incentre|circumcentre|orthocentre|bisector|median)\\b" },
-    { "topic": "Boats and streams", "pattern": "\\b(boat|stream|upstream|downstream|current)\\b" },
-    { "topic": "Speed, time and distance", "pattern": "\\b(train|speed|km/h|km/hr|m/s|distance|journey|platform|overtake)\\b" },
-    { "topic": "Pipes and cisterns", "pattern": "\\b(pipe|cistern|tank|tap)\\b" },
-    { "topic": "Time and work", "pattern": "\\b(work|days|efficiency|men|women|wages)\\b" },
-    { "topic": "Compound interest", "pattern": "compound interest|compounded|\\bc\\.?i\\.?\\b" },
-    { "topic": "Simple interest", "pattern": "simple interest|\\bs\\.?i\\.?\\b|per annum|rate of interest" },
-    { "topic": "Profit and loss", "pattern": "\\b(profit|loss|cost price|selling price|marked price|discount|shopkeeper|trader|dealer)\\b" },
-    { "topic": "Mixture and alligation", "pattern": "\\b(mixture|alligation|solution of|milk and water|alloy)\\b" },
-    { "topic": "Average", "pattern": "\\baverage\\b|\\bmean\\b" },
-    { "topic": "Ratio and proportion", "pattern": "\\b(ratio|proportion|partnership|share in the ratio)\\b|\\d+\\s*:\\s*\\d+" },
-    { "topic": "Percentage", "pattern": "%|\\bpercent(age)?\\b" },
-    { "topic": "Statistics", "pattern": "\\b(median|mode|range|standard deviation|variance)\\b" },
-    { "topic": "Algebra", "pattern": "\\b(x|y|a|b)\\s*[\\^²³+=-]|\\bif\\s+\\w\\s*\\+\\s*1/\\w|\\b(equation|polynomial|roots|quadratic)\\b" },
-    { "topic": "Number system", "pattern": "\\b(divisible|remainder|lcm|hcf|prime|factor|digit|unit place|number of zeros)\\b" },
-    { "topic": "Simplification", "pattern": "\\b(simplify|value of|evaluate)\\b" }
+    {
+      "topic": "Problems on ages",
+      "pattern": "\bages?\b.*\byears?\b|years (ago|hence)"
+    },
+    {
+      "topic": "Data interpretation",
+      "pattern": "\\b(table|bar graph|pie chart|line graph|histogram)\\b"
+    },
+    {
+      "topic": "Trigonometry",
+      "pattern": "\\b(sin|cos|tan|cot|sec|cosec)\\b|θ|°\\s*\\)|angle of elevation|angle of depression"
+    },
+    {
+      "topic": "Mensuration",
+      "pattern": "\\b(area|volume|perimeter|surface area|cylinder|cone|sphere|hemisphere|cuboid|cube|prism|pyramid|circumference)\\b"
+    },
+    {
+      "topic": "Geometry",
+      "pattern": "\\b(triangle|circle|chord|tangent|quadrilateral|parallelogram|rhombus|trapezium|polygon|centroid|incentre|circumcentre|orthocentre|bisector|median)\\b"
+    },
+    {
+      "topic": "Boats and streams",
+      "pattern": "\\b(boat|stream|upstream|downstream|current)\\b"
+    },
+    {
+      "topic": "Speed, time and distance",
+      "pattern": "\\b(train|speed|km/h|km/hr|m/s|distance|journey|platform|overtake)\\b"
+    },
+    {
+      "topic": "Pipes and cisterns",
+      "pattern": "\\b(pipe|cistern|tank|tap)\\b"
+    },
+    {
+      "topic": "Time and work",
+      "pattern": "\\b(work|days|efficiency|men|women|wages)\\b"
+    },
+    {
+      "topic": "Compound interest",
+      "pattern": "compound interest|compounded|\\bc\\.?i\\.?\\b"
+    },
+    {
+      "topic": "Simple interest",
+      "pattern": "simple interest|\\bs\\.?i\\.?\\b|per annum|rate of interest"
+    },
+    {
+      "topic": "Profit and loss",
+      "pattern": "\\b(profit|loss|cost price|selling price|marked price|discount|shopkeeper|trader|dealer)\\b"
+    },
+    {
+      "topic": "Mixture and alligation",
+      "pattern": "\\b(mixture|alligation|solution of|milk and water|alloy)\\b"
+    },
+    {
+      "topic": "Average",
+      "pattern": "\\baverage\\b|\\bmean\\b"
+    },
+    {
+      "topic": "Ratio and proportion",
+      "pattern": "\\b(ratio|proportion|partnership|share in the ratio)\\b|\\d+\\s*:\\s*\\d+"
+    },
+    {
+      "topic": "Percentage",
+      "pattern": "%|\\bpercent(age)?\\b"
+    },
+    {
+      "topic": "Statistics",
+      "pattern": "\\b(median|mode|range|standard deviation|variance)\\b"
+    },
+    {
+      "topic": "Algebra",
+      "pattern": "\\b(x|y|a|b)\\s*[\\^²³+=-]|\\bif\\s+\\w\\s*\\+\\s*1/\\w|\\b(equation|polynomial|roots|quadratic)\\b"
+    },
+    {
+      "topic": "Number system",
+      "pattern": "\\b(divisible|remainder|lcm|hcf|prime|factor|digit|unit place|number of zeros)\\b"
+    },
+    {
+      "topic": "Simplification",
+      "pattern": "\\b(simplify|value of|evaluate)\\b"
+    },
+    {
+      "topic": "Geometry",
+      "pattern": "∠|\bangle\b|\bcongruent\b|\bsimilar triangles\b|\bpoints? [A-Z]\b|\bline segment\b"
+    }
   ],
   "reasoning": [
-    { "topic": "Syllogism", "pattern": "\\bstatements?\\b.*\\bconclusions?\\b" },
-    { "topic": "Blood relations", "pattern": "\\b(father|mother|brother|sister|son|daughter|husband|wife|uncle|aunt|nephew|niece|grand(father|mother|son|daughter)|related to)\\b" },
-    { "topic": "Direction sense", "pattern": "\\b(north|south|east|west|turns? (left|right))\\b" },
-    { "topic": "Coding-decoding", "pattern": "\\b(code language|coded as|is written as|is coded)\\b" },
-    { "topic": "Mirror and water image", "pattern": "\\b(mirror image|water image)\\b" },
-    { "topic": "Paper folding", "pattern": "\\b(folded|punched|unfolded)\\b" },
-    { "topic": "Embedded figures", "pattern": "\\bembedded\\b|is embedded in" },
-    { "topic": "Counting figures", "pattern": "\\bhow many (triangles|squares|rectangles)\\b" },
-    { "topic": "Dice", "pattern": "\\bdice\\b|\\bcube is\\b" },
-    { "topic": "Venn diagram", "pattern": "\\bvenn\\b|best represents the relationship" },
-    { "topic": "Calendar", "pattern": "\\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday|leap year|calendar)\\b" },
-    { "topic": "Clock", "pattern": "\\b(clock|hour hand|minute hand)\\b" },
-    { "topic": "Seating arrangement", "pattern": "\\b(sitting|seated|facing the (centre|center|north|south)|row|circular table|immediate (left|right))\\b" },
-    { "topic": "Order and ranking", "pattern": "\\b(rank|ranked|from the top|from the bottom|tallest|shortest|heaviest)\\b" },
-    { "topic": "Mathematical operations", "pattern": "interchang|\\+\\s*and\\s*[×÷−-]|signs? (are|is) (interchanged|replaced)|mathematical operations?" },
-    { "topic": "Letter series", "pattern": "\\bseries\\b.*\\b[A-Z]{2,}\\b" },
-    { "topic": "Number series", "pattern": "\\bseries\\b|next number|missing number|replace the question mark" },
-    { "topic": "Classification", "pattern": "\\bodd one out\\b|does not belong|odd (word|number|letter)" },
-    { "topic": "Analogy", "pattern": "::|related to the (third|first)|same way as" }
+    {
+      "topic": "Alphabet test",
+      "pattern": "position of how many letters|positions? of how many letters|letters in the word .* (are )?arranged|english alphabetical order|each vowel in the word|each consonant in the word"
+    },
+    {
+      "topic": "Syllogism",
+      "pattern": "\\bstatements?\\b.*\\bconclusions?\\b"
+    },
+    {
+      "topic": "Blood relations",
+      "pattern": "\\b(father|mother|brother|sister|son|daughter|husband|wife|uncle|aunt|nephew|niece|grand(father|mother|son|daughter)|related to)\\b"
+    },
+    {
+      "topic": "Direction sense",
+      "pattern": "\\b(north|south|east|west|turns? (left|right))\\b"
+    },
+    {
+      "topic": "Coding-decoding",
+      "pattern": "\\b(code language|coded as|is written as|is coded)\\b"
+    },
+    {
+      "topic": "Mirror and water image",
+      "pattern": "\\b(mirror image|water image)\\b"
+    },
+    {
+      "topic": "Paper folding",
+      "pattern": "\\b(folded|punched|unfolded)\\b"
+    },
+    {
+      "topic": "Embedded figures",
+      "pattern": "\\bembedded\\b|is embedded in"
+    },
+    {
+      "topic": "Counting figures",
+      "pattern": "\\bhow many (triangles|squares|rectangles)\\b"
+    },
+    {
+      "topic": "Dice",
+      "pattern": "\\bdice\\b|\\bcube is\\b"
+    },
+    {
+      "topic": "Venn diagram",
+      "pattern": "\\bvenn\\b|best represents the relationship"
+    },
+    {
+      "topic": "Calendar",
+      "pattern": "\\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday|leap year|calendar)\\b"
+    },
+    {
+      "topic": "Clock",
+      "pattern": "\\b(clock|hour hand|minute hand)\\b"
+    },
+    {
+      "topic": "Seating arrangement",
+      "pattern": "\\b(sitting|seated|facing the (centre|center|north|south)|row|circular table|immediate (left|right))\\b"
+    },
+    {
+      "topic": "Order and ranking",
+      "pattern": "\\b(rank|ranked|from the top|from the bottom|tallest|shortest|heaviest)\\b"
+    },
+    {
+      "topic": "Mathematical operations",
+      "pattern": "interchang|\\+\\s*and\\s*[×÷−-]|signs? (are|is) (interchanged|replaced)|mathematical operations?"
+    },
+    {
+      "topic": "Letter series",
+      "pattern": "\\bseries\\b.*\\b[A-Z]{2,}\\b"
+    },
+    {
+      "topic": "Number series",
+      "pattern": "\\bseries\\b|next number|missing number|replace the question mark"
+    },
+    {
+      "topic": "Classification",
+      "pattern": "\\bodd one out\\b|does not belong|odd (word|number|letter)"
+    },
+    {
+      "topic": "Analogy",
+      "pattern": "::|related to the (third|first)|same way as"
+    },
+    {
+      "topic": "Analogy",
+      "pattern": "word-pair|letter-cluster pair|related in the same way|related to each other in the same way"
+    }
   ],
   "english": [
-    { "topic": "Reading comprehension", "pattern": "\\bpassage\\b.*\\b(according to|author|title|main idea|tone)\\b" },
-    { "topic": "Cloze test", "pattern": "\\bcloze\\b|fill in blank (no\\.?|number)|blank \\(\\d+\\)" },
-    { "topic": "Synonyms", "pattern": "\\bsynonym" },
-    { "topic": "Antonyms", "pattern": "\\bantonym" },
-    { "topic": "Idioms and phrases", "pattern": "\\bidiom|\\bphrase\\b" },
-    { "topic": "One word substitution", "pattern": "one[- ]word substitut|one word for" },
-    { "topic": "Spelling", "pattern": "\\b(correctly|incorrectly|wrongly) spelt\\b|\\bspelling\\b|\\bmisspelt\\b" },
-    { "topic": "Active and passive voice", "pattern": "\\b(active|passive) voice\\b" },
-    { "topic": "Direct and indirect speech", "pattern": "\\b(direct|indirect|reported) speech\\b|\\bnarration\\b" },
-    { "topic": "Para jumbles", "pattern": "\\b(logical (sequence|order)|rearrange|coherent paragraph)\\b" },
-    { "topic": "Error spotting", "pattern": "\\b(contains an error|grammatical error|identify the segment|has an error|no error)\\b" },
-    { "topic": "Sentence improvement", "pattern": "\\b(improve|improvement|underlined|bracketed|substitute the)\\b" },
-    { "topic": "Fill in the blanks", "pattern": "\\bblank\\b|_{3,}" }
+    {
+      "topic": "Reading comprehension",
+      "pattern": "\\bpassage\\b.*\\b(according to|author|title|main idea|tone)\\b"
+    },
+    {
+      "topic": "Cloze test",
+      "pattern": "\\bcloze\\b|fill in blank (no\\.?|number)|blank \\(\\d+\\)"
+    },
+    {
+      "topic": "Spelling",
+      "pattern": "correctly spelled|incorrectly spelled|misspelled"
+    },
+    {
+      "topic": "Sentence rearrangement",
+      "pattern": "jumbled order|correct order to form a meaningful sentence"
+    },
+    {
+      "topic": "Error spotting",
+      "pattern": "corrects the error|error in the given sentence"
+    },
+    {
+      "topic": "Synonyms",
+      "pattern": "\\bsynonym"
+    },
+    {
+      "topic": "Antonyms",
+      "pattern": "\\bantonym"
+    },
+    {
+      "topic": "Idioms and phrases",
+      "pattern": "\\bidiom|\\bphrase\\b"
+    },
+    {
+      "topic": "One word substitution",
+      "pattern": "one[- ]word substitut|one word for"
+    },
+    {
+      "topic": "Spelling",
+      "pattern": "\\b(correctly|incorrectly|wrongly) spelt\\b|\\bspelling\\b|\\bmisspelt\\b"
+    },
+    {
+      "topic": "Active and passive voice",
+      "pattern": "\\b(active|passive) voice\\b"
+    },
+    {
+      "topic": "Direct and indirect speech",
+      "pattern": "\\b(direct|indirect|reported) speech\\b|\\bnarration\\b"
+    },
+    {
+      "topic": "Para jumbles",
+      "pattern": "\\b(logical (sequence|order)|rearrange|coherent paragraph)\\b"
+    },
+    {
+      "topic": "Error spotting",
+      "pattern": "\\b(contains an error|grammatical error|identify the segment|has an error|no error)\\b"
+    },
+    {
+      "topic": "Sentence improvement",
+      "pattern": "\\b(improve|improvement|underlined|bracketed|substitute the)\\b"
+    },
+    {
+      "topic": "Fill in the blanks",
+      "pattern": "\\bblank\\b|_{3,}"
+    },
+    {
+      "topic": "Synonyms",
+      "pattern": "similar in meaning|meaning of the given word|closest in meaning"
+    }
   ],
   "ga": [
-    { "topic": "Indian polity", "pattern": "\\b(constitution|article \\d+|amendment|parliament|lok sabha|rajya sabha|president of india|governor|supreme court|high court|fundamental (rights|duties)|directive principles|schedule|panchayat|election commission)\\b" },
-    { "topic": "Economy", "pattern": "\\b(gdp|inflation|rbi|reserve bank|repo rate|budget|fiscal|monetary|tax|gst|five[- ]year plan|niti aayog|bank|sebi|cpi|wpi|economy|economic)\\b" },
-    { "topic": "History", "pattern": "\\b(battle|dynasty|empire|mughal|maurya|gupta|sultanate|revolt|congress session|viceroy|governor[- ]general|movement|treaty|ruler|king|founded|harappa|vedic|buddh|jain)\\b" },
-    { "topic": "Geography", "pattern": "\\b(river|mountain|pass|plateau|soil|climate|monsoon|national park|wildlife sanctuary|lake|ocean|latitude|longitude|state of|capital of|census|dam|forest)\\b" },
-    { "topic": "Computer awareness", "pattern": "\\b(computer|software|hardware|cpu|ram|rom|internet|keyboard|shortcut|ms (word|excel)|operating system|byte)\\b" },
-    { "topic": "Sports", "pattern": "\\b(cup|trophy|olympic|tournament|cricket|football|hockey|tennis|badminton|chess|player|medal|championship)\\b" },
-    { "topic": "Awards and honours", "pattern": "\\b(award|prize|bharat ratna|padma|honoured|conferred)\\b" },
-    { "topic": "Books and authors", "pattern": "\\b(book|author|written by|wrote|novel|autobiography)\\b" },
-    { "topic": "Art and culture", "pattern": "\\b(dance|festival|music|gharana|painting|temple|classical|folk|instrument|tribe)\\b" },
-    { "topic": "General science", "pattern": "\\b(vitamin|disease|cell|blood|chemical|formula|acid|element|atom|force|energy|velocity|light|lens|gravity|newton|photosynthesis|enzyme|virus|bacteria|organ)\\b" }
+    {
+      "topic": "Indian polity",
+      "pattern": "high courts?|chief justice|attorney general|lok adalat|union government|legislative|council of ministers|vice[- ]president|\\b(constitution|article \\d+|amendment|parliament|lok sabha|rajya sabha|president of india|governor|supreme court|high court|fundamental (rights|duties)|directive principles|schedule|panchayat|election commission)\\b"
+    },
+    {
+      "topic": "Economy",
+      "pattern": "scheme|yojana|yojna|mission|msme|self-help|microfinance|financial inclusion|green revolution|gross value added|nabard|sidbi|niti|g20|iron and steel|industry|industrial|\\b(gdp|inflation|rbi|reserve bank|repo rate|budget|fiscal|monetary|tax|gst|five[- ]year plan|niti aayog|bank|sebi|cpi|wpi|economy|economic)\\b"
+    },
+    {
+      "topic": "History",
+      "pattern": "satyagraha|mutiny|1857|prithviraj|chauhan|sepoy|harsha|ashoka|akbar|shivaji|freedom (struggle|fighter)|indian national congress|british|portuguese|dutch|chola|pallava|rashtrakuta|vijayanagara|bhakti|sufi|\\b(battle|dynasty|empire|mughal|maurya|gupta|sultanate|revolt|congress session|viceroy|governor[- ]general|movement|treaty|ruler|king|founded|harappa|vedic|buddh|jain)\\b"
+    },
+    {
+      "topic": "Geography",
+      "pattern": "loo|coal|himalaya|purvanchal|ozone|atmosphere|latitude|cyclone|wind|desert|island|ecosystem|biosphere|\\b(river|mountain|pass|plateau|soil|climate|monsoon|national park|wildlife sanctuary|lake|ocean|latitude|longitude|state of|capital of|census|dam|forest)\\b"
+    },
+    {
+      "topic": "Computer awareness",
+      "pattern": "\\b(computer|software|hardware|cpu|ram|rom|internet|keyboard|shortcut|ms (word|excel)|operating system|byte)\\b"
+    },
+    {
+      "topic": "Sports",
+      "pattern": "\\b(cup|trophy|olympic|tournament|cricket|football|hockey|tennis|badminton|chess|player|medal|championship)\\b"
+    },
+    {
+      "topic": "Awards and honours",
+      "pattern": "\\b(award|prize|bharat ratna|padma|honoured|conferred)\\b"
+    },
+    {
+      "topic": "Books and authors",
+      "pattern": "\\b(book|author|written by|wrote|novel|autobiography)\\b"
+    },
+    {
+      "topic": "Art and culture",
+      "pattern": "maestro|instrument|tabla|sitar|sarod|santoor|shehnai|veena|singer|vocalist|gharana|bharatanatyam|kathak|kuchipudi|odissi|manipuri|mohiniyattam|sattriya|kathakali|literary work|poet|\\b(dance|festival|music|gharana|painting|temple|classical|folk|instrument|tribe)\\b"
+    },
+    {
+      "topic": "General science",
+      "pattern": "radiation|rutherford|dalton|atomic|alpha|vascular|monocot|dicot|plant|rhizobium|microbe|nitrogen|jaundice|icterus|vitamin|hormone|gland|protein|carbohydrate|metal|non-metal|compound|reaction|food|algae|fungi|gonyaulax|dinoflagellate|kingdom|classification|functional unit of nature|\\b(vitamin|disease|cell|blood|chemical|formula|acid|element|atom|force|energy|velocity|light|lens|gravity|newton|photosynthesis|enzyme|virus|bacteria|organ)\\b"
+    }
   ]
 }

@@ -1,0 +1,1912 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-19",
+  "time": "9:00 AM - 10:00 AM",
+  "shift": 1,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_19_Tier_1_English_Question_Paper_and_Answer_Key_Shift_1__b426ed0d5f91960be973ce75839dd2e3.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? AWSO, KGCY, UQMI, EAWS, ?",
+   "options": [
+    "WAEI",
+    "ZWTQ",
+    "OKGC",
+    "OGKH"
+   ],
+   "answer": 2,
+   "qid": "630680416957",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘A + B’ means ‘A is the mother of B’; ‘A − B’ means ‘A is the brother of B’; ‘A × B’ means ‘A is the wife of B’ and ‘A ÷ B’ means ‘A is the father of B’. Based on the above, how is A related to D if ‘A × B ÷ C × D’?",
+   "options": [
+    "Father’s sister",
+    "Father’s brother",
+    "Wife's mother",
+    "Father-in-law"
+   ],
+   "answer": 2,
+   "qid": "630680324896",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure from among the given options which when put in place of the question mark (?) will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680296878",
+   "figures": [
+    {
+     "file": "eb224d94f2fa18cc.png",
+     "w": 328,
+     "h": 70
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "0752c600c27394cc.png",
+     "w": 82,
+     "h": 82
+    },
+    "1": {
+     "file": "b3b25cbb9e57bdd8.png",
+     "w": 82,
+     "h": 82
+    },
+    "2": {
+     "file": "9b62c1e1fa38965c.png",
+     "w": 82,
+     "h": 82
+    },
+    "3": {
+     "file": "19bf9f59ec032545.png",
+     "w": 82,
+     "h": 82
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the given figure?",
+   "options": [
+    "13",
+    "14",
+    "15",
+    "16"
+   ],
+   "answer": 2,
+   "qid": "630680281040",
+   "figures": [
+    {
+     "file": "40c6ce64737bf074.png",
+     "w": 127,
+     "h": 104
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680300289",
+   "figures": [
+    {
+     "file": "55a1fe1cf087310c.png",
+     "w": 80,
+     "h": 65
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "4e41d685dcfb2ec9.png",
+     "w": 71,
+     "h": 22
+    },
+    "1": {
+     "file": "8ae0e61a8396a1fb.png",
+     "w": 70,
+     "h": 23
+    },
+    "2": {
+     "file": "abd28e622eb487a8.png",
+     "w": 71,
+     "h": 22
+    },
+    "3": {
+     "file": "909d8f55760f6cf0.png",
+     "w": 69,
+     "h": 22
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of ? will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680524407",
+   "figures": [
+    {
+     "file": "1d786b0cc6914dfb.png",
+     "w": 328,
+     "h": 73
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "99a265a682bd895f.png",
+     "w": 77,
+     "h": 81
+    },
+    "1": {
+     "file": "3a3b2010f58a99ee.png",
+     "w": 77,
+     "h": 78
+    },
+    "2": {
+     "file": "18b5bcd1650842f8.png",
+     "w": 79,
+     "h": 79
+    },
+    "3": {
+     "file": "80a064fc2b0efc7c.png",
+     "w": 77,
+     "h": 77
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which number will come in the place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 20 + 10 × 2 − 4 ÷ 5 = ?",
+   "options": [
+    "30",
+    "35",
+    "40",
+    "45"
+   ],
+   "answer": 1,
+   "qid": "630680328466",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘TOUGH’ is coded as ‘89251’ and ‘GHOST’ is coded as ‘93258’. What is the code for ‘S’ in the given code language?",
+   "options": [
+    "3",
+    "1",
+    "9",
+    "8"
+   ],
+   "answer": 0,
+   "qid": "630680797482",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘Wander’ is related to ‘Ramble’ in the same way as ‘Stray’ is related to ‘________’. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)",
+   "options": [
+    "Constant",
+    "Random",
+    "Trek",
+    "Steady"
+   ],
+   "answer": 1,
+   "qid": "630680416710",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Each of the letters in the word ‘KEYBOARD’ are arranged in the English alphabetical order. How many letters are in the English alphabetical order between the letter which is the third from the right end and the second from the right end in the group of letters thus formed?",
+   "options": [
+    "Four",
+    "Three",
+    "One",
+    "Two"
+   ],
+   "answer": 3,
+   "qid": "630680313408",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘RUCK’ is related to ‘TWAI’ in a certain way based on the English alphabetical order. In the same way, ‘DPHM’ is related to ‘FRFK’. To which of the following is ‘KNOM’ related, following the same logic?",
+   "options": [
+    "IPMJ",
+    "MPMK",
+    "IQNK",
+    "MQNJ"
+   ],
+   "answer": 1,
+   "qid": "630680416365",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number result(s) in the second number. Similarly, certain mathematical operation(s) on the second number result(s) in the third number and so on. Which of the given options follows the same set of operations as in the given sets? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) 11 – 14 – 8 – 17; 12 – 15 – 9 – 18",
+   "options": [
+    "5 – 8 – 3 – 10",
+    "6 – 9 – 3 – 12",
+    "3 – 6 – 2 – 8",
+    "4 – 7 – 12 – 18"
+   ],
+   "answer": 1,
+   "qid": "630680814078",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that when placed from left to right in the blanks below will complete the given letter series. B _ E N B _ C E N B B C _ N B B C E _ B _ C",
+   "options": [
+    "CNEBB",
+    "BNECB",
+    "CBENB",
+    "BCENB"
+   ],
+   "answer": 2,
+   "qid": "630680416269",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six numbers 5, 6, 7, 8, 9 and 10 are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the number on the face opposite to ‘7’.",
+   "options": [
+    "8",
+    "10",
+    "9",
+    "6"
+   ],
+   "answer": 1,
+   "qid": "630680196571",
+   "figures": [
+    {
+     "file": "09b9a046c2ab0a4b.png",
+     "w": 118,
+     "h": 66
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680325834",
+   "figures": [
+    {
+     "file": "2da6560aa5be6c70.png",
+     "w": 75,
+     "h": 71
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "b30b3fd7ce5e773b.png",
+     "w": 66,
+     "h": 19
+    },
+    "1": {
+     "file": "7e6c57dfdc8b579c.png",
+     "w": 66,
+     "h": 19
+    },
+    "2": {
+     "file": "487135401a291497.png",
+     "w": 66,
+     "h": 19
+    },
+    "3": {
+     "file": "4ce3f600706a2f25.png",
+     "w": 66,
+     "h": 19
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 14 : 30 :: 9 : 20 :: 4 : ? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "11",
+    "10",
+    "13",
+    "12"
+   ],
+   "answer": 1,
+   "qid": "630680312535",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'SHE' is written as 'EIT' and 'SAD' is written as 'DBT'. How will 'SUN’ be written in that language?",
+   "options": [
+    "NYT",
+    "NTY",
+    "NTV",
+    "NVT"
+   ],
+   "answer": 3,
+   "qid": "630680416249",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that DOES NOT belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+   "options": [
+    "CHE",
+    "FLI",
+    "MSP",
+    "AGD"
+   ],
+   "answer": 0,
+   "qid": "630680798706",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. Statements: Some eagles are sparrows. All sparrows are parrots. No parrot is a penguin. Conclusions: (I) Some parrots are eagles. (II) No penguin is a sparrow.",
+   "options": [
+    "Only conclusion I follows.",
+    "Only conclusion II follows.",
+    "Both conclusions I and II follow.",
+    "Neither conclusion I nor II follows."
+   ],
+   "answer": 2,
+   "qid": "630680796946",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following numbers will replace the question mark (?) in the given series? 3, 17, 83, 329, ?, 1961",
+   "options": [
+    "983",
+    "880",
+    "980",
+    "883"
+   ],
+   "answer": 0,
+   "qid": "630680411881",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "17 is related to 21 following a certain logic. Following the same logic, 22 is related to 36. To which of the following is 29 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "57",
+    "46",
+    "49",
+    "58"
+   ],
+   "answer": 0,
+   "qid": "630680344258",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "BIRTHDAY - IBTRDHYA BLAZER - LBZARE REMOVE - ? Using the same logic as applied for the first two pairs of terms, select the term that can replace the question mark (?) in the third pair.",
+   "options": [
+    "EROMEV",
+    "ERMOVE",
+    "EROMVE",
+    "EVOMER"
+   ],
+   "answer": 0,
+   "qid": "63068082921",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "The same operation(s) are followed in all the given number pairs except one. Find that odd number pair. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "24 : 4",
+    "49 : 8",
+    "19 : 3",
+    "55 : 9"
+   ],
+   "answer": 0,
+   "qid": "630680412032",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged? 1205 × 5 + 35 – 197 ÷ 18 = ?",
+   "options": [
+    "3284",
+    "3482",
+    "3752",
+    "3824"
+   ],
+   "answer": 2,
+   "qid": "630680411720",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six Roman numbers I, II, III, IV, V and VI are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the Roman number on the face opposite to ‘VI’.",
+   "options": [
+    "III",
+    "IV",
+    "II",
+    "V"
+   ],
+   "answer": 2,
+   "qid": "630680287559",
+   "figures": [
+    {
+     "file": "bca2cdd6f04de1c1.png",
+     "w": 161,
+     "h": 95
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "In which of the following years was the Right of Persons with Disabilities Act passed?",
+   "options": [
+    "2010",
+    "2002",
+    "2016",
+    "2019"
+   ],
+   "answer": 2,
+   "qid": "630680200247",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "Who among the following was one of the recipients of the inaugural ‘Prof CR Rao Centenary Gold Medal’ award in 2021?",
+   "options": [
+    "Amartya Sen",
+    "Jagdish Bhagwati",
+    "Raghuram Rajan",
+    "Surjit Bhalla"
+   ],
+   "answer": 1,
+   "qid": "630680158408",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Which of the following Articles states that the Prime Minister should be appointed by the President?",
+   "options": [
+    "Article 75",
+    "Article 66",
+    "Article 62",
+    "Article 71"
+   ],
+   "answer": 0,
+   "qid": "630680413116",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Due to which of the following events did Rabindranath Tagore return the title of ‘Knighthood’ to the British Government while expressing his anguish?",
+   "options": [
+    "Charan Paduka Incident",
+    "Chauri Chaura Incident",
+    "Jallianwala Bagh massacre",
+    "Partition of Bengal"
+   ],
+   "answer": 2,
+   "qid": "630680511525",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "In which sport did India win its first individual Olympic medal?",
+   "options": [
+    "Judo",
+    "Wrestling",
+    "Swimming",
+    "Shooting"
+   ],
+   "answer": 1,
+   "qid": "630680510750",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Which of the following is an example of Phylum Arthropoda?",
+   "options": [
+    "Pila",
+    "Butterfly",
+    "Nereis",
+    "Hirudinaria"
+   ],
+   "answer": 1,
+   "qid": "630680321341",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Tarun Bhattacharya, who was awarded the Sangeet Natak Akademi Award in 2018, is known for playing which musical instrument?",
+   "options": [
+    "Sitar",
+    "Santoor",
+    "Violin",
+    "Tabla"
+   ],
+   "answer": 1,
+   "qid": "630680511807",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Which of the following is a component of the SHG-bank linkage program in India?",
+   "options": [
+    "Microfinance institutions providing loans directly to SHGs",
+    "State government providing subsidies to SHGs for credit",
+    "Non-governmental organisations providing capacity building training to SHGs",
+    "Banks providing loans to individual members of SHGs"
+   ],
+   "answer": 3,
+   "qid": "630680324075",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "As per the Timurid tradition, Humayun had to share power with his brothers. Humayun had the control of Delhi, Agra and Central India, while his brother Kamran controlled which of the following regions?",
+   "options": [
+    "Deccan",
+    "Afghanistan and Punjab",
+    "Gujarat and Rajasthan",
+    "Bengal and Bihar"
+   ],
+   "answer": 1,
+   "qid": "630680412494",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Navratri festival is dedicated to which of the following Goddesses?",
+   "options": [
+    "Laxmi",
+    "Jawala",
+    "Saraswati",
+    "Durga"
+   ],
+   "answer": 3,
+   "qid": "630680216083",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Which two organic chemists are known for observing the peroxide effect in adding reagents to unsaturated compounds in 1933?",
+   "options": [
+    "Justus von Liebig and Friedrich Wöhler",
+    "Morris S Kharasch and Frank R Mayo",
+    "B Steven Bachrach and Roald Hoffmann",
+    "C John Cadogan and Luis M Campos"
+   ],
+   "answer": 1,
+   "qid": "630680517142",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "The oath of office to the Vice-President is administered by the ________.",
+   "options": [
+    "Chief Justice of India",
+    "Prime Minister",
+    "CAG",
+    "President"
+   ],
+   "answer": 3,
+   "qid": "630680326511",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "What was the name of the wind measuring instrument invented for the first time in 1450?",
+   "options": [
+    "Anemometer",
+    "Ceiling Projector",
+    "Transmissometer",
+    "Dropsonde"
+   ],
+   "answer": 0,
+   "qid": "630680302919",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "As per a report of the Ministry of Labour and Employment, what was the rate of unemployment in Maharashtra for the year 2021-22?",
+   "options": [
+    "3.5%",
+    "3.01%",
+    "4.4%",
+    "4.2%"
+   ],
+   "answer": 0,
+   "qid": "630680409675",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT a unit of energy?",
+   "options": [
+    "Joule",
+    "Kilowatt hour",
+    "Calorie",
+    "Newton"
+   ],
+   "answer": 3,
+   "qid": "630680102235",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "The Wardha is a tributary of which of the following rivers?",
+   "options": [
+    "Mahanadi river",
+    "Narmada river",
+    "Godavari river",
+    "Tapi river"
+   ],
+   "answer": 2,
+   "qid": "630680328133",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Pandit Omkar Nath Thakur was a student of ____________.",
+   "options": [
+    "Pandit Vishnu Narayan Bhatkhande",
+    "Pandit Vishnu Digambar Paluskar",
+    "Pandit Gopal Shankar Mishra",
+    "Ustad Abdul Karim Khan"
+   ],
+   "answer": 1,
+   "qid": "63068087835",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Vijender Singh has represented India in Olympics for how many times?",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "2"
+   ],
+   "answer": 0,
+   "qid": "630680510821",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Who among the following classical dancers is NOT related to Odissi?",
+   "options": [
+    "Mayadhar Raut",
+    "Kiran Segal",
+    "Kumkum Mohanty",
+    "Geetanjali Lal"
+   ],
+   "answer": 3,
+   "qid": "630680512083",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "What were the main obstacles during the industrial development of India at the time of independence?",
+   "options": [
+    "Employment required for industries",
+    "Capital investment in industries",
+    "Market for industrial produce",
+    "Land for industrial establishment"
+   ],
+   "answer": 1,
+   "qid": "630680410792",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "Khudai Khidmatgar, a voluntary organisation, was established by which of the following leaders of India?",
+   "options": [
+    "Muhammad Ali Jinnah",
+    "Khan Abdul Ghaffar Khan",
+    "Maulana Muhammad Ali",
+    "Hakim Ajmal Khan"
+   ],
+   "answer": 1,
+   "qid": "630680412383",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT a Fundamental Duty?",
+   "options": [
+    "To prohibit trade in rare and endangered species",
+    "To safeguard public property and to abjure violence",
+    "To uphold and protect the sovereignty, unity and integrity of India",
+    "To value and preserve rich heritage of the country’s composite culture"
+   ],
+   "answer": 0,
+   "qid": "630680326506",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "What is the other name of tetanus caused by toxin producing bacteria called clostridium tetani?",
+   "options": [
+    "Broken jaw",
+    "Snap jaw",
+    "Cleft jaw",
+    "Lockjaw"
+   ],
+   "answer": 3,
+   "qid": "630680407465",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "During which of the following rules did Buddhism get split into two schools - Hinayana and Mahayana in the fourth Buddhist council?",
+   "options": [
+    "Gupta",
+    "Parthian",
+    "Kushana",
+    "Shaka"
+   ],
+   "answer": 2,
+   "qid": "630680412517",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "As of Financial year 2019, which of the following state has the highest road density in India?",
+   "options": [
+    "Haryana",
+    "Tamil Nadu",
+    "Punjab",
+    "Kerala"
+   ],
+   "answer": 3,
+   "qid": "630680227940",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "A vendor started selling vegetables at ₹10 per kg, but couldn’t find buyers at this rate. So he reduced the price to ₹7.2 per kg, but uses a faulty weight of 900 g instead of 1 kg. Find the percentage change in the actual price.",
+   "options": [
+    "10%",
+    "15%",
+    "25%",
+    "20%"
+   ],
+   "answer": 3,
+   "qid": "630680428778",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "15 kg of ₹10 per kg wheat is mixed with 5 kg of another type of wheat to get a mixture costing ₹30 per kg. Find the price (per kg) of the costlier wheat.",
+   "options": [
+    "₹90",
+    "₹70",
+    "₹60",
+    "₹80"
+   ],
+   "answer": 0,
+   "qid": "630680397734",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "40",
+    "45",
+    "35",
+    "30"
+   ],
+   "answer": 2,
+   "qid": "630680297289",
+   "figures": [
+    {
+     "file": "cc28224035542313.png",
+     "w": 328,
+     "h": 58
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "AB is a chord of length 32 cm of a circle of radius 20 cm, the tangents at A and B intersect at a point T. Find length TA (rounded off to two digits after decimal).",
+   "options": [
+    "21.33 cm",
+    "36.50 cm",
+    "26.67 cm",
+    "19.93 cm"
+   ],
+   "answer": 2,
+   "qid": "630680384356",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "P, Q and R are the three angles of a triangle. If P − Q = 20° and Q − R = 26°, then ∠P is equal to:",
+   "options": [
+    "82°",
+    "46°",
+    "52°",
+    "92°"
+   ],
+   "answer": 0,
+   "qid": "630680397492",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "Each of Ravi and Kavita had some marbles. Kavita had 12 more marbles than Ravi had. If each of them had one more marble, then three times the number of marbles Kavita would then have had would have been equal to four times the number of marbles Ravi would then have had. How many marbles did Kavita actually have?",
+   "options": [
+    "51",
+    "48",
+    "43",
+    "47"
+   ],
+   "answer": 3,
+   "qid": "630680325031",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "1",
+    "4",
+    "2",
+    "0"
+   ],
+   "answer": 2,
+   "qid": "630680526470",
+   "figures": [
+    {
+     "file": "9e1b2b6393e6b47f.png",
+     "w": 328,
+     "h": 18
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "30%",
+    "24%",
+    "28%",
+    "33%"
+   ],
+   "answer": 2,
+   "qid": "630680428089",
+   "figures": [
+    {
+     "file": "6023623c75e24758.png",
+     "w": 328,
+     "h": 108
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "WXYZ is a quadrilateral in which XQ and ZP are perpendicular to WY such that XQ = ZP. Diagonals ZX and WY intersect each other at point O. If OX = 12 cm, then find the value of ZX (in cm).",
+   "options": [
+    "18",
+    "24",
+    "36",
+    "12"
+   ],
+   "answer": 1,
+   "qid": "630680354947",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "The cost of a diamond varies directly as the square of its weight. Once, this diamond broke into four pieces with weights in the ratio of 4 : 3 : 2 : 1 .When the pieces were sold, the merchant got ₹63,000 less than that of one piece. Find the original price of the diamond.",
+   "options": [
+    "₹80,000",
+    "₹90,000",
+    "₹86,000",
+    "₹75,000"
+   ],
+   "answer": 1,
+   "qid": "630680428766",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "A student studying in 6th class scored the following marks in 6 subjects. The maximum marks for each subject are 100. What are the average marks scored by the student?",
+   "options": [
+    "94.5",
+    "95",
+    "96",
+    "92.5"
+   ],
+   "answer": 0,
+   "qid": "630680390844",
+   "figures": [
+    {
+     "file": "15c52aa5928b8724.png",
+     "w": 163,
+     "h": 114
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "9",
+    "3",
+    "5",
+    "7"
+   ],
+   "answer": 1,
+   "qid": "630680135986",
+   "figures": [
+    {
+     "file": "66397286abf0a643.png",
+     "w": 328,
+     "h": 20
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "Successive discounts of 10% and 20% are given on the purchase of a purse. If the marked price of the purse is ₹2,250, find the selling price.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "63068091864",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "b9b8898f6136a128.png",
+     "w": 49,
+     "h": 18
+    },
+    "1": {
+     "file": "815cbcc6127b9cc8.png",
+     "w": 49,
+     "h": 18
+    },
+    "2": {
+     "file": "e1f2d3a20595444e.png",
+     "w": 49,
+     "h": 18
+    },
+    "3": {
+     "file": "57c39e598dcf0baa.png",
+     "w": 49,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "R is a point outside a circle and is 18 cm away from its centre. A secant drawn from the point R intersects the circle at points A and B in such a way that RA = 7 cm and AB = 5 cm. The radius of the circle (in cm) is:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680198934",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "f7bc86883bbecb63.png",
+     "w": 39,
+     "h": 22
+    },
+    "1": {
+     "file": "91557de1ae49c09c.png",
+     "w": 39,
+     "h": 22
+    },
+    "2": {
+     "file": "bb8b84b193cddb25.png",
+     "w": 36,
+     "h": 20
+    },
+    "3": {
+     "file": "5afbb8a2f80838f1.png",
+     "w": 38,
+     "h": 22
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "70%",
+    "68%",
+    "75%",
+    "65%"
+   ],
+   "answer": 0,
+   "qid": "630680428171",
+   "figures": [
+    {
+     "file": "832debbd857c0953.png",
+     "w": 328,
+     "h": 198
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "The cost of tomatoes per kg is increased by 300%. A housewife reduces her consumption of tomatoes by 70%. By what percentage does her expenditure on tomatoes increase or decrease?",
+   "options": [
+    "Decreases, 30%",
+    "Increases, 20%",
+    "Decreases, 20%",
+    "Increases, 30%"
+   ],
+   "answer": 1,
+   "qid": "630680427956",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "The area of a parallelogram with base 26 cm and height 18 cm is:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680101877",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "c374bb20b896dab5.png",
+     "w": 48,
+     "h": 18
+    },
+    "1": {
+     "file": "358a294776d2a299.png",
+     "w": 48,
+     "h": 18
+    },
+    "2": {
+     "file": "c10e3b1682d53502.png",
+     "w": 48,
+     "h": 18
+    },
+    "3": {
+     "file": "7c99a4c1554f7fa5.png",
+     "w": 48,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "Aman invested a sum of money in scheme A at the rate of 8% p.a. for a period of 5 years on simple interest. He invested four times of the sum of scheme A in scheme B at the rate of 5% p.a. for 7 years on simple interest. He received a total interest amount of ₹1,620. How much (in ₹) did he invest in scheme B?",
+   "options": [
+    "900",
+    "3,200",
+    "2,400",
+    "3,600"
+   ],
+   "answer": 3,
+   "qid": "630680392929",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680427963",
+   "figures": [
+    {
+     "file": "73e64410b8ad04f9.png",
+     "w": 208,
+     "h": 25
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "f6a4f8ab23347628.png",
+     "w": 15,
+     "h": 26
+    },
+    "1": {
+     "file": "483642beb089fbe5.png",
+     "w": 16,
+     "h": 25
+    },
+    "2": {
+     "file": "757f1faa4ca9655b.png",
+     "w": 13,
+     "h": 29
+    },
+    "3": {
+     "file": "0b46f7ab1d6d8f61.png",
+     "w": 12,
+     "h": 31
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "Two trains of lengths 150 m and 250 m run on parallel lines. When they run in the same direction, they take 20 seconds to cross each other and, when they run in the opposite direction, they take 5 seconds to cross each other. What is the speed of the two trains?",
+   "options": [
+    "150 km/h and 105 km/h",
+    "180 km/h and 108 km/h",
+    "150 km/h and 250 km/h",
+    "160 km/h and 106 km/h"
+   ],
+   "answer": 1,
+   "qid": "630680428336",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680358088",
+   "figures": [
+    {
+     "file": "88a578765c27dcb6.png",
+     "w": 328,
+     "h": 22
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "83e8c0ea8335bbfb.png",
+     "w": 24,
+     "h": 32
+    },
+    "1": {
+     "file": "40fa765bc210c265.png",
+     "w": 13,
+     "h": 30
+    },
+    "2": {
+     "file": "5daee73fd2c0344b.png",
+     "w": 10,
+     "h": 18
+    },
+    "3": {
+     "file": "05b38de1c3a9971d.png",
+     "w": 24,
+     "h": 32
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "The table given below shows the marks obtained by four students in 4 different subjects. Maximum marks for each subject is 175. What is the aggregate percentage of marks obtained by Gunja in all the four subjects?",
+   "options": [
+    "58",
+    "61",
+    "67",
+    "71"
+   ],
+   "answer": 1,
+   "qid": "630680523807",
+   "figures": [
+    {
+     "file": "8653afbd2739c374.png",
+     "w": 328,
+     "h": 76
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "3048625",
+    "3048542",
+    "3048190",
+    "3048132"
+   ],
+   "answer": 2,
+   "qid": "630680413473",
+   "figures": [
+    {
+     "file": "ffc3bae64409d84a.png",
+     "w": 285,
+     "h": 33
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "Pipe X can fill a tank in 9 hours and Pipe Y can fill it in 21 hours. If they are opened on alternate hours and Pipe X is opened first, in how many hours shall the tank be full?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680487596",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "d50a7a77271a0bda.png",
+     "w": 23,
+     "h": 24
+    },
+    "1": {
+     "file": "0579d5fb48b8b2d7.png",
+     "w": 23,
+     "h": 24
+    },
+    "2": {
+     "file": "44d5e8d5e94b636d.png",
+     "w": 17,
+     "h": 24
+    },
+    "3": {
+     "file": "b7e4e1f8127cddbe.png",
+     "w": 23,
+     "h": 24
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph. A. However, their population is declining nowadays due to noise pollution. B. It is one of the most common birds along with the other two species, the European starling, and the rock pigeon. C. Their constant presence outside our homes makes it easy to overlook them. D. House sparrows can be found in most places with and without houses (or other structures).",
+   "options": [
+    "DABC",
+    "DBCA",
+    "DACB",
+    "BDCA"
+   ],
+   "answer": 1,
+   "qid": "63068085875",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Out of the four sentences given, three have spelling errors. Identify the sentence that has no spelling error.",
+   "options": [
+    "She tried to manoeuvre her trolley around people.",
+    "The computer's software detected an anamoly caused by a virus.",
+    "What advice did he give to young entreprenuers?",
+    "A clergyman read the litturgy from the prayer-book."
+   ],
+   "answer": 0,
+   "qid": "630680409984",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Start from scratch",
+   "options": [
+    "To start or create something from the very beginning",
+    "To point out something wrong",
+    "To address an issue",
+    "To develop something out of waste material"
+   ],
+   "answer": 0,
+   "qid": "63068087180",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Parts of the following sentence have been given as options. Select the option that contains an error. The police told the agitators to back in, else they would lathi-charge.",
+   "options": [
+    "The police told",
+    "the agitators to back in",
+    "lathi-charge",
+    "else they would"
+   ],
+   "answer": 1,
+   "qid": "630680514359",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate order of the segments in the options that will fill in the blanks and make a coherent paragraph. Though Sheela loves watching horror movies, ________________/________________/________________/________________ she rented another romantic today.",
+   "options": [
+    "she planned to try something different yesterday / so she rented the latest romantic / and to her surprise she enjoyed it very much / so much so that",
+    "so much so that / and to her surprise she enjoyed it very much / she planned to try something different yesterday / so she rented the latest romantic",
+    "so she rented the latest romantic / and to her surprise she enjoyed it very much / so much so that / she planned to try something different yesterday",
+    "and to her surprise she enjoyed it very much /so much so that /so she rented the latest romantic /she planned to try something different yesterday"
+   ],
+   "answer": 0,
+   "qid": "630680146129",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. Transnational linkages, for example, sever the nation-state’s integrity and corrupt state-society relations.",
+   "options": [
+    "cohesion and erode",
+    "divergence and relativity",
+    "severance and revolution",
+    "controversy and diminution"
+   ],
+   "answer": 0,
+   "qid": "630680177245",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. The cashier had finished the assigned task on time.",
+   "options": [
+    "The assigned task was finished by the cashier on time.",
+    "The assigned task has been finished by the cashier on time.",
+    "The assigned task had been finished by the cashier on time.",
+    "The assigned task is finished by the cashier on time."
+   ],
+   "answer": 2,
+   "qid": "630680415259",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Garnish",
+   "options": [
+    "Dwindle",
+    "Decorate",
+    "Blemish",
+    "Tarnish"
+   ],
+   "answer": 1,
+   "qid": "630680310018",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Determined",
+   "options": [
+    "hesitant",
+    "loathe",
+    "resolute",
+    "faltering"
+   ],
+   "answer": 2,
+   "qid": "630680129932",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. His house is smaller than you .",
+   "options": [
+    "is smaller than your",
+    "is smaller than yours",
+    "is small as you",
+    "is small than you"
+   ],
+   "answer": 1,
+   "qid": "630680172780",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word to fill in the blank. Capricious Share market prices have remained __________ for weeks.",
+   "options": [
+    "fickle",
+    "stable",
+    "volatile",
+    "mischievous"
+   ],
+   "answer": 1,
+   "qid": "630680157353",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in active voice. Data is being collected by the researcher.",
+   "options": [
+    "The researcher is collecting data.",
+    "The researcher has been collecting data.",
+    "The researcher has collected data.",
+    "The researcher will be collecting data."
+   ],
+   "answer": 0,
+   "qid": "630680415251",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word. Evenings get dark very early in this cold weather.",
+   "options": [
+    "Bright",
+    "Dim",
+    "Shadowy",
+    "Gloomy"
+   ],
+   "answer": 0,
+   "qid": "630680377260",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A person who performs magic to entertain people",
+   "options": [
+    "Angel",
+    "Magician",
+    "Palmist",
+    "Alchemist"
+   ],
+   "answer": 1,
+   "qid": "630680414782",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word in the given sentence. Fundamentels of every subject need to be learnt on priority basis.",
+   "options": [
+    "basis",
+    "learnt",
+    "priority",
+    "Fundamentels"
+   ],
+   "answer": 3,
+   "qid": "630680380481",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that has the same meaning as the italicised segment. His illness became a blessing in disguise when he married his nurse.",
+   "options": [
+    "an apparent misfortune that eventually has good results",
+    "when someone finds it difficult to choose between two alternatives",
+    "deal with a problem if and when it becomes necessary",
+    "to present a counter- argument"
+   ],
+   "answer": 0,
+   "qid": "630680205201",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Desolate",
+   "options": [
+    "Frugal",
+    "Allusive",
+    "Festive",
+    "Melancholic"
+   ],
+   "answer": 2,
+   "qid": "630680517359",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Parts of the following sentence have been given as options. Select the option that contains an error. We took dinner in a Chinese restaurant and were amazed to see the interior of a restaurant.",
+   "options": [
+    "in a Chinese restaurant",
+    "and were amazed to see",
+    "the interior of a restaurant",
+    "We took dinner"
+   ],
+   "answer": 2,
+   "qid": "630680514268",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given phrase. A person who is kept captive for fulfilment of demands of money or conditions",
+   "options": [
+    "Hostage",
+    "Hermit",
+    "Heretic",
+    "Introvert"
+   ],
+   "answer": 0,
+   "qid": "630680310205",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Fallacy",
+   "options": [
+    "Veracity",
+    "Error",
+    "Evidence",
+    "Verify"
+   ],
+   "answer": 1,
+   "qid": "630680177545",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. When Ojeya Cruz Banks moved to Ohio from New Zealand (1) ________ years ago, she was overwhelmed by the logistics of uprooting her life. But Cruz Banks, a Denison University professor and a single mom, who is also my neighbour and friend, was (2) ________ to find a house next to a public elementary school. She assumed that she would be able to walk to pick up her daughter, a needed convenience given that she didn’t yet have a car. Unfortunately, when she went to register her daughter for kindergarten, she was met with an (3) ________ surprise: The only (4) ________ option was a half-day program that would bus students to a day-care centre on the outskirts of the town for the afternoon. The district did offer a limited number of full-day slots, but those had all been claimed in a lottery earlier that spring and came with a tuition cost. “I was like, ‘Cost me? What? Public school costs money here?’” she told me. Many parents across the United States, like Cruz Banks, may assume that free, full-day kindergarten is a (5) ________ part of the country’s public education system. I was one of them, until my youngest had to enter our district’s lottery several months ago. When he was assigned to the half-day program, I swung between alarm and frustration.\n\nSelect the most appropriate option to fill in blank no. 1.",
+   "options": [
+    "particular",
+    "several",
+    "immense",
+    "enormous"
+   ],
+   "answer": 1,
+   "qid": "630680164098",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. When Ojeya Cruz Banks moved to Ohio from New Zealand (1) ________ years ago, she was overwhelmed by the logistics of uprooting her life. But Cruz Banks, a Denison University professor and a single mom, who is also my neighbour and friend, was (2) ________ to find a house next to a public elementary school. She assumed that she would be able to walk to pick up her daughter, a needed convenience given that she didn’t yet have a car. Unfortunately, when she went to register her daughter for kindergarten, she was met with an (3) ________ surprise: The only (4) ________ option was a half-day program that would bus students to a day-care centre on the outskirts of the town for the afternoon. The district did offer a limited number of full-day slots, but those had all been claimed in a lottery earlier that spring and came with a tuition cost. “I was like, ‘Cost me? What? Public school costs money here?’” she told me. Many parents across the United States, like Cruz Banks, may assume that free, full-day kindergarten is a (5) ________ part of the country’s public education system. I was one of them, until my youngest had to enter our district’s lottery several months ago. When he was assigned to the half-day program, I swung between alarm and frustration.\n\nSelect the most appropriate option to fill in blank no. 2.",
+   "options": [
+    "distraught",
+    "dispassionate",
+    "worried",
+    "relieved"
+   ],
+   "answer": 3,
+   "qid": "630680164099",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. When Ojeya Cruz Banks moved to Ohio from New Zealand (1) ________ years ago, she was overwhelmed by the logistics of uprooting her life. But Cruz Banks, a Denison University professor and a single mom, who is also my neighbour and friend, was (2) ________ to find a house next to a public elementary school. She assumed that she would be able to walk to pick up her daughter, a needed convenience given that she didn’t yet have a car. Unfortunately, when she went to register her daughter for kindergarten, she was met with an (3) ________ surprise: The only (4) ________ option was a half-day program that would bus students to a day-care centre on the outskirts of the town for the afternoon. The district did offer a limited number of full-day slots, but those had all been claimed in a lottery earlier that spring and came with a tuition cost. “I was like, ‘Cost me? What? Public school costs money here?’” she told me. Many parents across the United States, like Cruz Banks, may assume that free, full-day kindergarten is a (5) ________ part of the country’s public education system. I was one of them, until my youngest had to enter our district’s lottery several months ago. When he was assigned to the half-day program, I swung between alarm and frustration.\n\nSelect the most appropriate option to fill in blank no. 3.",
+   "options": [
+    "unpleasant",
+    "agreeable",
+    "amusing",
+    "enjoyable"
+   ],
+   "answer": 0,
+   "qid": "630680164100",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. When Ojeya Cruz Banks moved to Ohio from New Zealand (1) ________ years ago, she was overwhelmed by the logistics of uprooting her life. But Cruz Banks, a Denison University professor and a single mom, who is also my neighbour and friend, was (2) ________ to find a house next to a public elementary school. She assumed that she would be able to walk to pick up her daughter, a needed convenience given that she didn’t yet have a car. Unfortunately, when she went to register her daughter for kindergarten, she was met with an (3) ________ surprise: The only (4) ________ option was a half-day program that would bus students to a day-care centre on the outskirts of the town for the afternoon. The district did offer a limited number of full-day slots, but those had all been claimed in a lottery earlier that spring and came with a tuition cost. “I was like, ‘Cost me? What? Public school costs money here?’” she told me. Many parents across the United States, like Cruz Banks, may assume that free, full-day kindergarten is a (5) ________ part of the country’s public education system. I was one of them, until my youngest had to enter our district’s lottery several months ago. When he was assigned to the half-day program, I swung between alarm and frustration.\n\nSelect the most appropriate option to fill in blank no. 4.",
+   "options": [
+    "inaccessible",
+    "available",
+    "futile",
+    "nonviable"
+   ],
+   "answer": 1,
+   "qid": "630680164101",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. When Ojeya Cruz Banks moved to Ohio from New Zealand (1) ________ years ago, she was overwhelmed by the logistics of uprooting her life. But Cruz Banks, a Denison University professor and a single mom, who is also my neighbour and friend, was (2) ________ to find a house next to a public elementary school. She assumed that she would be able to walk to pick up her daughter, a needed convenience given that she didn’t yet have a car. Unfortunately, when she went to register her daughter for kindergarten, she was met with an (3) ________ surprise: The only (4) ________ option was a half-day program that would bus students to a day-care centre on the outskirts of the town for the afternoon. The district did offer a limited number of full-day slots, but those had all been claimed in a lottery earlier that spring and came with a tuition cost. “I was like, ‘Cost me? What? Public school costs money here?’” she told me. Many parents across the United States, like Cruz Banks, may assume that free, full-day kindergarten is a (5) ________ part of the country’s public education system. I was one of them, until my youngest had to enter our district’s lottery several months ago. When he was assigned to the half-day program, I swung between alarm and frustration.\n\nSelect the most appropriate option to fill in blank no. 5.",
+   "options": [
+    "inessential",
+    "disapproved",
+    "ceaseless",
+    "required"
+   ],
+   "answer": 3,
+   "qid": "630680164102",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

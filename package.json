@@ -25,14 +25,15 @@
   },
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web",
     "build:index": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/build-index.mjs",
     "try-search": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/try-search.mjs",
     "build:web": "npm run build:index && expo export --platform web",
     "typecheck": "tsc --noEmit",
-    "import": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/import-response-sheets.mjs"
+    "import": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/import-response-sheets.mjs",
+    "fetch-papers": "node scripts/fetch-papers.mjs"
   },
   "private": true
 }

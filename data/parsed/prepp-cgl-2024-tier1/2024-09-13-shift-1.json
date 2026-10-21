@@ -1,0 +1,1951 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-13",
+  "time": "9:00 AM - 10:00 AM",
+  "shift": 1,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_13_Tier_1_English_Question_Paper_and_Answer_Key_Shift_1__6747ee00c2591f76a8cfb008cc7c3904.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that can replace the question mark (?) in the following series. AH21, CJ18, EL15, GN12, ?",
+   "options": [
+    "HR11",
+    "IP9",
+    "J8",
+    "HQ10"
+   ],
+   "answer": 1,
+   "qid": "630680416297",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following interchanges of numbers (not digits) would make the given equation correct?",
+   "options": [
+    "5 and 9",
+    "0.3 and 1.6",
+    "27 and 480",
+    "500 and 190"
+   ],
+   "answer": 1,
+   "qid": "630680172659",
+   "figures": [
+    {
+     "file": "fbb38e96ce94ebf0.png",
+     "w": 151,
+     "h": 36
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word) Frivolous : Big :: Deride : ?",
+   "options": [
+    "Encourage",
+    "Taunt",
+    "Jeer",
+    "Detest"
+   ],
+   "answer": 0,
+   "qid": "630680199098",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 30, 20, ?, 60, 140",
+   "options": [
+    "30",
+    "40",
+    "35",
+    "25"
+   ],
+   "answer": 0,
+   "qid": "630680411852",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the given figure?",
+   "options": [
+    "7",
+    "8",
+    "6",
+    "9"
+   ],
+   "answer": 0,
+   "qid": "630680295187",
+   "figures": [
+    {
+     "file": "1a2e801c0ca30d85.png",
+     "w": 89,
+     "h": 85
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the pair in which the numbers are related to each other in the same way as are the numbers in the given pairs. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) 3 : 25 4 : 62",
+   "options": [
+    "5 : 123",
+    "6 : 218",
+    "7 : 345",
+    "9 : 731"
+   ],
+   "answer": 0,
+   "qid": "630680313727",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position(s) of how many letters will remain unchanged if all the letters in the word ‘GRIMACE’ are arranged in English alphabetical order?",
+   "options": [
+    "Zero",
+    "One",
+    "Two",
+    "Three"
+   ],
+   "answer": 0,
+   "qid": "630680375921",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which figure should replace the question mark (?) if the following series were to be continued?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680214466",
+   "figures": [
+    {
+     "file": "fc0da257631f294d.png",
+     "w": 328,
+     "h": 70
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "6dc9b848d2029c9e.png",
+     "w": 72,
+     "h": 73
+    },
+    "1": {
+     "file": "7f0a1c1fc10a6469.png",
+     "w": 73,
+     "h": 72
+    },
+    "2": {
+     "file": "178faf00f2f43016.png",
+     "w": 74,
+     "h": 73
+    },
+    "3": {
+     "file": "31acec1e374ec6f9.png",
+     "w": 72,
+     "h": 71
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘Ample’ is related to ‘Abundant’ in the same way as ‘Substantial’ is related to ‘________’. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)",
+   "options": [
+    "Considerable",
+    "Venerable",
+    "Meager",
+    "Scarce"
+   ],
+   "answer": 0,
+   "qid": "630680416711",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘HUSBAND’ is written as ‘JVUDBPF’ and ‘SISTER’ is written as ‘UJUVFT’. How will ‘BROTHER’ be written in that language?",
+   "options": [
+    "DJTFPTV",
+    "FJPVDTT",
+    "DTPVJFT",
+    "TFVJTPD"
+   ],
+   "answer": 2,
+   "qid": "630680416128",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, X + Y means ‘X is the father of Y’, X − Y means ‘X is the brother of Y’, X × Y means ‘X is the sister of Y’, X ÷ Y means ‘X is the wife of Y’. Based on the above, how is D related to H if ‘D × E ÷ F + G − H’?",
+   "options": [
+    "Father’s sister",
+    "Mother’s sister",
+    "Sister",
+    "Mother’s mother"
+   ],
+   "answer": 1,
+   "qid": "630680261889",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680396460",
+   "figures": [
+    {
+     "file": "999c727a49942beb.png",
+     "w": 328,
+     "h": 94
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "f164311d8d74eebc.png",
+     "w": 87,
+     "h": 87
+    },
+    "1": {
+     "file": "c9b9d237c340144d.png",
+     "w": 86,
+     "h": 87
+    },
+    "2": {
+     "file": "17c7c071fb46ddce.png",
+     "w": 87,
+     "h": 84
+    },
+    "3": {
+     "file": "1c9a48b94ffd2cbd.png",
+     "w": 85,
+     "h": 85
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six letters A, B, C, E, F and G are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the letter on the face opposite to A.",
+   "options": [
+    "F",
+    "G",
+    "E",
+    "C"
+   ],
+   "answer": 2,
+   "qid": "630680189142",
+   "figures": [
+    {
+     "file": "123a1f461c3815a7.png",
+     "w": 302,
+     "h": 104
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that when sequentially placed from left to right in the blanks below will complete the letter series. _ X _ F _ _ _ X T _ X _",
+   "options": [
+    "XTTFXFX",
+    "FTXTFFT",
+    "XFTTXFX",
+    "FXXTFXT"
+   ],
+   "answer": 1,
+   "qid": "630680262379",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘mountain stand tall’ is coded as ‘33 66 44’; ‘rocky is tall’ is coded as ‘44 55 11’ and ‘rocky is mountain’ is coded as ‘33 55 11’. How is ‘stand’ coded in that language?",
+   "options": [
+    "33",
+    "11",
+    "44",
+    "66"
+   ],
+   "answer": 3,
+   "qid": "630680189118",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following numbers are alike in a certain way and one is different. Pick the odd one out. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "31 – 5 – 160",
+    "13 – 8 – 109",
+    "21 – 4 – 89",
+    "27 – 9 – 243"
+   ],
+   "answer": 3,
+   "qid": "630680389587",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that, when placed from left to right in the blanks below, will complete the letter series. D _ F D _ F _ F _ D _ F",
+   "options": [
+    "D F D D F",
+    "D F F D D",
+    "F F D F F",
+    "F D D F F"
+   ],
+   "answer": 2,
+   "qid": "630680113686",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different. Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.",
+   "options": [
+    "NMI",
+    "LKF",
+    "YXT",
+    "SRN"
+   ],
+   "answer": 1,
+   "qid": "63068083229",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 315 × 15 − 93 + 16 ÷ 7 = ?",
+   "options": [
+    "4",
+    "8",
+    "2",
+    "12"
+   ],
+   "answer": 2,
+   "qid": "630680336422",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (27, 405, 3) (23, 690, 6)",
+   "options": [
+    "(14, 364, 7)",
+    "(16, 448, 7)",
+    "(22, 616, 7)",
+    "(24, 600, 5)"
+   ],
+   "answer": 3,
+   "qid": "630680336442",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set. 7 — 14 — 23 4 — 11 — 20 NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "7 — 15 — 22",
+    "5 — 12 — 21",
+    "9 — 12 — 22",
+    "15 — 30 — 20"
+   ],
+   "answer": 1,
+   "qid": "630680313545",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680306828",
+   "figures": [
+    {
+     "file": "2f8ded24a1f5e478.png",
+     "w": 100,
+     "h": 116
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "558979cf9597762a.png",
+     "w": 70,
+     "h": 70
+    },
+    "1": {
+     "file": "e09ec8238af88d13.png",
+     "w": 72,
+     "h": 71
+    },
+    "2": {
+     "file": "05a00ce5731c5cf5.png",
+     "w": 73,
+     "h": 72
+    },
+    "3": {
+     "file": "25abeca8b7f99edd.png",
+     "w": 73,
+     "h": 73
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "A square sheet of paper is folded along the dotted line successively along the directions shown and is then punched in the last as shown. How would the paper look when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680324725",
+   "figures": [
+    {
+     "file": "7493b85cfc522a37.png",
+     "w": 310,
+     "h": 98
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d2519c467841ec29.png",
+     "w": 100,
+     "h": 100
+    },
+    "1": {
+     "file": "b7afccf57cfd324d.png",
+     "w": 100,
+     "h": 98
+    },
+    "2": {
+     "file": "c99cc18c8f4682d7.png",
+     "w": 96,
+     "h": 96
+    },
+    "3": {
+     "file": "6969cb9a5a76e997.png",
+     "w": 100,
+     "h": 100
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? KES, MIQ, PMN, TQJ, YUE, ?",
+   "options": [
+    "EYY",
+    "EXY",
+    "EXZ",
+    "FYX"
+   ],
+   "answer": 0,
+   "qid": "630680417052",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Figure X is followed by four figures numbered (1), (2), (3), (4). Identify the figure among the four in which figure X is embedded (i.e. contains figure X in the same form).",
+   "options": [
+    "3",
+    "4",
+    "2",
+    "1"
+   ],
+   "answer": 3,
+   "qid": "630680388183",
+   "figures": [
+    {
+     "file": "e1f4c609db900535.png",
+     "w": 328,
+     "h": 50
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Which team won the T20 cricket event, Syed Mushtaq Ali Trophy 2022-2023?",
+   "options": [
+    "Vidarbha",
+    "Himanchal Pradesh",
+    "Mumbai",
+    "Punjab"
+   ],
+   "answer": 2,
+   "qid": "630680510761",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "According to the Census of India 2011, which group of Union Territories recorded the highest sex ratio?",
+   "options": [
+    "Chandigarh, Puducherry, Lakshadweep",
+    "Puducherry, Lakshadweep, Andaman and Nicobar Islands",
+    "Puducherry, Delhi, Andaman and Nicobar Islands",
+    "Chandigarh, Puducherry, Delhi"
+   ],
+   "answer": 1,
+   "qid": "630680209243",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "",
+   "options": [
+    "A-i, B-iv, C-ii, D-iii",
+    "A-ii, B-iv, C-i, D-iii",
+    "A-iv, B-ii, C-i, D-iii",
+    "A-iii, B-iv, C-i, D-ii"
+   ],
+   "answer": 1,
+   "qid": "630680166709",
+   "figures": [
+    {
+     "file": "cedade55437a1f0b.png",
+     "w": 328,
+     "h": 98
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Which Indian singer wrote ‘Raag Sarita’?",
+   "options": [
+    "Balasaheb Poonchwale",
+    "Kumar Gandharva",
+    "Kesarbai Kerkar",
+    "Chintaman Raghunath Vyas"
+   ],
+   "answer": 3,
+   "qid": "630680415783",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "Which of the following features of the Indian Constitution was borrowed from Irish Constitution?",
+   "options": [
+    "Directive Principles of State Policy",
+    "Fundamental Rights",
+    "Rule of Law",
+    "Concurrent List"
+   ],
+   "answer": 0,
+   "qid": "630680329436",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Which state government honoured Vani Jairam with the MS Subbulakshmi Award for 2019?",
+   "options": [
+    "Odissa",
+    "Karnataka",
+    "Tamil Nadu",
+    "Maharashtra"
+   ],
+   "answer": 2,
+   "qid": "630680511803",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Vindhyashakti was the founder of which of the following dynasties?",
+   "options": [
+    "Pallava",
+    "Maukhari",
+    "Chalukya",
+    "Vakataka"
+   ],
+   "answer": 3,
+   "qid": "630680412476",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Which of the following is a man-made ecosystem?",
+   "options": [
+    "Forest",
+    "Aquarium",
+    "Grassland",
+    "Dessert"
+   ],
+   "answer": 1,
+   "qid": "63068099099",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "Which of the following are the two basic categories of an ecosystem?",
+   "options": [
+    "Forest and Rivers",
+    "Forest and Aquatic",
+    "Lakes and Ponds",
+    "Terrestrial and Aquatic"
+   ],
+   "answer": 3,
+   "qid": "630680314148",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Which of the following statements is correct about the composition of the agriculture sector and employment in GDP post-independence?",
+   "options": [
+    "The proportion of both the agriculture sector and employment in GDP has declined significantly.",
+    "The proportion of employment has declined significantly but not the share of the agriculture sector in GDP.",
+    "The proportion of both the agriculture sector and employment in GDP has increased significantly.",
+    "The proportion of GDP contributed by the agricultural sector declined significantly but not the employment depending on the agriculture sector."
+   ],
+   "answer": 3,
+   "qid": "630680410854",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Who among the following famous Indian women cricketers announced retirement in June 2022?",
+   "options": [
+    "Smriti Mandhana",
+    "Mithali Raj",
+    "Anjum Chopra",
+    "Jhulan Goswami"
+   ],
+   "answer": 1,
+   "qid": "630680310843",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "Which region in India receives less rainfall in summer, but heavy rainfall in winter season due to the retreating north easterly winds?",
+   "options": [
+    "Southern coastal region",
+    "Eastern coastal region",
+    "Western coastal region",
+    "Northern coastal region"
+   ],
+   "answer": 1,
+   "qid": "63068094176",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Sundari trees are found in which type of forests in India?",
+   "options": [
+    "Tropical evergreen forests",
+    "Tropical deciduous forests",
+    "Mangrove forests",
+    "The thorn forests and scrubs"
+   ],
+   "answer": 2,
+   "qid": "630680362628",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "The Supreme Court of India comprises the Chief Justice and not more than ______ other Judges appointed by the President of India.",
+   "options": [
+    "33",
+    "38",
+    "35",
+    "37"
+   ],
+   "answer": 0,
+   "qid": "630680329464",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "Who won the paralympic bronze medal in archery for India at Tokyo in 2020?",
+   "options": [
+    "Deepika Kumari",
+    "Harvinder Singh",
+    "Atanu Das",
+    "Pravin Jadhav"
+   ],
+   "answer": 1,
+   "qid": "630680510822",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "The central bank of India or Reserve Bank of India was created before Independence, in the year 1934. The recommendation to create a central bank was made by a commission called:",
+   "options": [
+    "Dr. Raja Chelliah Committee",
+    "Kothari Commission",
+    "Hilton Young Commission",
+    "Narasimham Committee"
+   ],
+   "answer": 2,
+   "qid": "630680195224",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Ranjana Gauhar was awarded the Padma Shri Award (2003) for her contribution to which of the following Indian dance forms?",
+   "options": [
+    "Sattriya",
+    "Manipuri",
+    "Kuchipudi",
+    "Odissi"
+   ],
+   "answer": 3,
+   "qid": "630680409342",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Which of the following two quantities have the same dimensions?",
+   "options": [
+    "Power and radius of circular motion",
+    "Work and torque",
+    "Power and moment of inertia",
+    "Work and angular displacement"
+   ],
+   "answer": 1,
+   "qid": "630680210471",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Which polyatomic ionic compound is a white, crystalline powder used in fire extinguishers and to neutralise acids and bases?",
+   "options": [
+    "Sodium Bicarbonate",
+    "Sodium Thiosulphate",
+    "Sodium Bisulphite",
+    "Sodium Chromate"
+   ],
+   "answer": 0,
+   "qid": "630680295294",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "Which port is developed as a satellite port?",
+   "options": [
+    "Mormugao",
+    "New Mangalore",
+    "Jawaharlal Nehru",
+    "Haldia"
+   ],
+   "answer": 2,
+   "qid": "63068086734",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "The Doctrine of Lapse was an annexation policy devised by which of the following Governor-Generals of India?",
+   "options": [
+    "Lord Mayo",
+    "Lord Dalhousie",
+    "Lord Wellesley",
+    "Lord Canning"
+   ],
+   "answer": 1,
+   "qid": "630680511510",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "Chhath Puja is the main festival of which state?",
+   "options": [
+    "Assam",
+    "Bihar",
+    "Tamil Nadu",
+    "Karnataka"
+   ],
+   "answer": 1,
+   "qid": "630680158773",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "For which of the following states was the Constitution (Scheduled Castes and Scheduled Tribes) Orders (Second Amendment) Bill, 2022, introduced in the Parliament?",
+   "options": [
+    "Bihar",
+    "Uttar Pradesh",
+    "Odisha",
+    "Madhya Pradesh"
+   ],
+   "answer": 1,
+   "qid": "630680303638",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Who among the following is the hero of the Sanskrit historical poem, the 'Ramacharita' written by Sandhyakar Nandi?",
+   "options": [
+    "Ramapala",
+    "Dharmapala",
+    "Devapala",
+    "Gopala"
+   ],
+   "answer": 0,
+   "qid": "630680412433",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "In which of the following areas did the Uprising of Khurda in 1817 take place?",
+   "options": [
+    "Bengal",
+    "Madras",
+    "United Province",
+    "Odisha"
+   ],
+   "answer": 3,
+   "qid": "630680412324",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "The given table shows the marks obtained by a student in class 9. What is the percentage of marks obtained by the student?",
+   "options": [
+    "88%",
+    "90%",
+    "88.8%",
+    "89.2%"
+   ],
+   "answer": 3,
+   "qid": "630680428139",
+   "figures": [
+    {
+     "file": "54ec519471e5c105.png",
+     "w": 189,
+     "h": 96
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "An article is sold at a profit of 250%. What is the ratio of its cost price to selling price?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680428985",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "0ab4d9f2b67d13da.png",
+     "w": 28,
+     "h": 12
+    },
+    "1": {
+     "file": "2e9bd67839a1344b.png",
+     "w": 26,
+     "h": 13
+    },
+    "2": {
+     "file": "17d2b53a69f7c469.png",
+     "w": 24,
+     "h": 13
+    },
+    "3": {
+     "file": "1713fa4c6ad1d9ef.png",
+     "w": 26,
+     "h": 12
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "From a circle of radius 7 units, an arc length is cut by a chord of length 7 units. What is the arc length of the smaller portion (in units)?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680285498",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "c186730d77881a6c.png",
+     "w": 22,
+     "h": 35
+    },
+    "1": {
+     "file": "fa6c4d793c5c6dc2.png",
+     "w": 24,
+     "h": 34
+    },
+    "2": {
+     "file": "5b16cafbdc3641d0.png",
+     "w": 22,
+     "h": 33
+    },
+    "3": {
+     "file": "2a960b849960a9b8.png",
+     "w": 24,
+     "h": 32
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680526454",
+   "figures": [
+    {
+     "file": "66cb4e31f52d33a0.png",
+     "w": 328,
+     "h": 34
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d513e889f040d2bc.png",
+     "w": 116,
+     "h": 18
+    },
+    "1": {
+     "file": "e2ae91cde9184cf8.png",
+     "w": 114,
+     "h": 17
+    },
+    "2": {
+     "file": "3e51f0c60128ee5a.png",
+     "w": 116,
+     "h": 15
+    },
+    "3": {
+     "file": "4f3b971c3f624cff.png",
+     "w": 115,
+     "h": 17
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "A shopkeeper mixes two types of rice costing ₹250/5 kg and ₹280/5 kg in the ratio 7 : 8. Find the net cost of the resultant mixture (per kg).",
+   "options": [
+    "₹53.20",
+    "₹32.50",
+    "₹52.30",
+    "₹25.30"
+   ],
+   "answer": 0,
+   "qid": "630680395047",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "0"
+   ],
+   "answer": 0,
+   "qid": "630680413537",
+   "figures": [
+    {
+     "file": "c9e50725e225e9e8.png",
+     "w": 190,
+     "h": 59
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "There are two pipes used to fill a tank and when operated together, they can fill the tank in 20 minutes. If one pipe can fill the tank two and a half times as quickly as the other, then the faster pipe alone can fill the tank in:",
+   "options": [
+    "34 min",
+    "30 min",
+    "32 min",
+    "28 min"
+   ],
+   "answer": 3,
+   "qid": "630680493820",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "If then the value of is:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680397720",
+   "figures": [
+    {
+     "file": "a0e821eb12a9f760.png",
+     "w": 58,
+     "h": 11
+    },
+    {
+     "file": "696d607a6002bfe4.png",
+     "w": 38,
+     "h": 10
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "9dc89cd9d8836c39.png",
+     "w": 46,
+     "h": 28
+    },
+    "1": {
+     "file": "9deb14b6bdd74878.png",
+     "w": 46,
+     "h": 28
+    },
+    "2": {
+     "file": "476c9ad7d4741754.png",
+     "w": 46,
+     "h": 30
+    },
+    "3": {
+     "file": "d62234ec6e3eeac4.png",
+     "w": 46,
+     "h": 30
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680387769",
+   "figures": [
+    {
+     "file": "2e568bda91cba72c.png",
+     "w": 328,
+     "h": 51
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "04be676cefdef43c.png",
+     "w": 23,
+     "h": 20
+    },
+    "1": {
+     "file": "e883d5ea1b8a0b36.png",
+     "w": 22,
+     "h": 20
+    },
+    "2": {
+     "file": "1d276ffeb8af6e42.png",
+     "w": 22,
+     "h": 22
+    },
+    "3": {
+     "file": "0d8ca0d27200c8bd.png",
+     "w": 23,
+     "h": 22
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "At a cafe, Rama bought drinks for her 7 friends at ₹240. Some of them wanted coffee, while others wanted black tea. A regular cup of coffee cost ₹40 and a regular cup of black tea cost ₹ 30. How many cups of tea did she purchase?",
+   "options": [
+    "5",
+    "6",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "qid": "630680387364",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680526457",
+   "figures": [
+    {
+     "file": "2480fc15cadcc591.png",
+     "w": 325,
+     "h": 24
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "aaf5bf1afd084ae4.png",
+     "w": 20,
+     "h": 17
+    },
+    "1": {
+     "file": "2a14ac28646f71d6.png",
+     "w": 10,
+     "h": 19
+    },
+    "2": {
+     "file": "24c74a852800d01c.png",
+     "w": 20,
+     "h": 16
+    },
+    "3": {
+     "file": "161193efcc1b30a3.png",
+     "w": 27,
+     "h": 19
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "In an election between R and S, R gets 110% of the votes of S and beats S by 770 votes. If there were no invalid votes, then the total number of votes polled is:",
+   "options": [
+    "16170",
+    "17160",
+    "17610",
+    "16710"
+   ],
+   "answer": 0,
+   "qid": "630680428055",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "A and B are centres of two circles with radii 2 cm and 1 cm respectively, where AB = 5 cm. C is the centre of another circle of radius r cm, which touches each of the above two circles externally. If ∠ACB=90° , then the value of r is:",
+   "options": [
+    "2 cm",
+    "4 cm",
+    "3 cm",
+    "5 cm"
+   ],
+   "answer": 0,
+   "qid": "630680194642",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "If the successive discount by 10%,15%, then the single equivalent rate of discount is:",
+   "options": [
+    "24.2%",
+    "43.4%",
+    "23.5%",
+    "32.3%"
+   ],
+   "answer": 2,
+   "qid": "630680150543",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "Simplify the following expression. [{70 − 60÷ 2 of 6} + (20− 10)÷ 10] + 600÷ 25 of (2 ×3)× (2 of 3) + 2 of 5.",
+   "options": [
+    "100",
+    "99",
+    "90",
+    "110"
+   ],
+   "answer": 0,
+   "qid": "630680381252",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "The given bar graph shows the turnover of five companies (in crores). What is the difference between the average sales turnover of all the companies put together between the years 2018-2019 and 2019-2020?",
+   "options": [
+    "₹5 crore",
+    "₹2 crore",
+    "₹3.5 crore",
+    "₹6.5 crore"
+   ],
+   "answer": 0,
+   "qid": "630680428006",
+   "figures": [
+    {
+     "file": "081c6e439369e842.png",
+     "w": 328,
+     "h": 147
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "If 321y72 is a multiple of 6, where y is a digit, what is the least value of y?",
+   "options": [
+    "0",
+    "7",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "qid": "630680108513",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "If A:B = 6 : 8 and B:C = 5 : 10, then A:B:C is:",
+   "options": [
+    "1:2:4",
+    "3:4:8",
+    "4:3:2",
+    "1:3:4"
+   ],
+   "answer": 1,
+   "qid": "630680915057",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "94%",
+    "98%",
+    "96%",
+    "95%"
+   ],
+   "answer": 2,
+   "qid": "630680523727",
+   "figures": [
+    {
+     "file": "460b7d896f97cc85.png",
+     "w": 328,
+     "h": 195
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "The pie chart below shows the per cent sale of different fruits in a day for a shop. If the total number of fruits sold by a fruit seller in a day is 1200, what is the combined central angle in the pie chart for oranges and apples?",
+   "options": [
+    "90°",
+    "180°",
+    "220°",
+    "160°"
+   ],
+   "answer": 1,
+   "qid": "630680405107",
+   "figures": [
+    {
+     "file": "2539443a3f850fdf.png",
+     "w": 328,
+     "h": 178
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "The solution of the following equations is: 5x + 4y - 8z = 1 7x - 9y + z = - 1 2x + 3y - 4z = 1",
+   "options": [
+    "x = 1,y = 1,z = - 1",
+    "x = 1,y = 1,z = 1",
+    "x = - 1,y = 1,z = 1",
+    "x = 1,y = - 1,z = 1"
+   ],
+   "answer": 1,
+   "qid": "630680285457",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "A boat can travel 78 km upstream and back in a total of 32 hours. It can travel 15 km upstream and 52 km downstream in a total of 9 hours. How much distance will the boat cover in 12 hours in still water?",
+   "options": [
+    "92 km",
+    "104 km",
+    "96 km",
+    "100 km"
+   ],
+   "answer": 2,
+   "qid": "630680428338",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "Pranav borrows a sum of ₹6,23,305 at the rate of 10% per annum simple interest. At the end of the first year, he repays ₹16,390 towards return of principal amount borrowed. If Pranav clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay (in ₹) at the end of the second year?",
+   "options": [
+    "7,25,903",
+    "7,29,937",
+    "7,29,025",
+    "7,38,700"
+   ],
+   "answer": 1,
+   "qid": "630680809862",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "One-quarter of a circular pizza of radius 21 cm was removed from the whole pizza. What is the perimeter (in cm) of the remaining pizza? (Use",
+   "options": [
+    "99",
+    "128",
+    "141",
+    "131"
+   ],
+   "answer": 2,
+   "qid": "630680397662",
+   "figures": [
+    {
+     "file": "37c832dce99f78a3.png",
+     "w": 50,
+     "h": 15
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "27",
+    "54",
+    "18",
+    "9"
+   ],
+   "answer": 3,
+   "qid": "630680421504",
+   "figures": [
+    {
+     "file": "4e6cc347d94b2cb0.png",
+     "w": 328,
+     "h": 31
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "In the following sentence, four words have been underlined, out of which one word is MISSPELT. Select the option with the MISSPELT word. In spite of the dilemma that preveiled during the discussion sessions, the committee remained committed to finding an amicable solution to the issue.",
+   "options": [
+    "dilemma",
+    "preveiled",
+    "amicable",
+    "committee"
+   ],
+   "answer": 1,
+   "qid": "630680409950",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the word in bold. His mother never held a grudge against his father.",
+   "options": [
+    "benevolence",
+    "malevolence",
+    "rancour",
+    "revulsion"
+   ],
+   "answer": 0,
+   "qid": "630680319149",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. A bad patch",
+   "options": [
+    "A path that is untravelled",
+    "A dangerous road to walk on",
+    "A person who takes a difficult path",
+    "A period of time when a person faces lots of troubles"
+   ],
+   "answer": 3,
+   "qid": "63068087181",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Select the word which means the same as the group of words given. A written statement made under oath",
+   "options": [
+    "Statement",
+    "Testimony",
+    "Affirmation",
+    "Affidavit"
+   ],
+   "answer": 3,
+   "qid": "630680414702",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Barbarity",
+   "options": [
+    "Rivalry",
+    "Callous",
+    "Compassion",
+    "Compromise"
+   ],
+   "answer": 2,
+   "qid": "630680192091",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Reinforcement",
+    "Motivational",
+    "Opportunity",
+    "Atributes"
+   ],
+   "answer": 3,
+   "qid": "630680378003",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. The team always anticipate a bowling friendly pitch on their easy victory in the T20 matches.",
+   "options": [
+    "pitch over their easy victory",
+    "pitch to their easy victory",
+    "pitch for their easy victory",
+    "pitch of their easy victory"
+   ],
+   "answer": 2,
+   "qid": "630680147491",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. The team will announce the winner tomorrow.",
+   "options": [
+    "The winner will be announced by the team tomorrow.",
+    "The winner will announce tomorrow by the team.",
+    "Tomorrow will be announced the winner by the team.",
+    "The team will announce tomorrow the winner."
+   ],
+   "answer": 0,
+   "qid": "630680415210",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "The following sentence has been divided into four segments. Identify the segment that contains an error. Mr. Surya / have no interior / motive in offering / you support.",
+   "options": [
+    "you support.",
+    "Mr. Surya",
+    "have no interior",
+    "motive in offering"
+   ],
+   "answer": 2,
+   "qid": "630680206702",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error. By the end of / this month, he / will been working / for five years.",
+   "options": [
+    "will been working",
+    "By the end of",
+    "this month, he",
+    "for five years"
+   ],
+   "answer": 0,
+   "qid": "630680514336",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. Kamal is not willing to purchase a house on the 12th floor of a sea-side apartment, as she is fearful of heights. She is suffering from ___________.",
+   "options": [
+    "heliophobia",
+    "sociophobia",
+    "claustrophobia",
+    "acrophobia"
+   ],
+   "answer": 3,
+   "qid": "630680328429",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word in the given sentence. An elephant is a large mammal.",
+   "options": [
+    "Bumper",
+    "Gigantic",
+    "Tiny",
+    "Heroic"
+   ],
+   "answer": 2,
+   "qid": "630680396412",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Epitome",
+   "options": [
+    "Expansion",
+    "Precise",
+    "Exhort",
+    "Lucid"
+   ],
+   "answer": 0,
+   "qid": "630680517543",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Cannot be corrected",
+   "options": [
+    "Incorrigible",
+    "Illegible",
+    "Incredible",
+    "Ineligible"
+   ],
+   "answer": 0,
+   "qid": "630680160080",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. A. Smoking in B. Your youth stunts C. The body and D. Clouds the brain",
+   "options": [
+    "DCBA",
+    "DBCA",
+    "ABCD",
+    "CABD"
+   ],
+   "answer": 2,
+   "qid": "630680360809",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. Don’t let Dylan fool you!",
+   "options": [
+    "Do not ever be fooled by Dylan.",
+    "Do not be fool by Dylan.",
+    "Do not be fooled by Dylan.",
+    "Do not have been fooled by Dylan."
+   ],
+   "answer": 2,
+   "qid": "630680415274",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’. Satya is always great to his friends who helped him when he was in trouble.",
+   "options": [
+    "grateful",
+    "no substitution",
+    "thanked",
+    "greatful"
+   ],
+   "answer": 0,
+   "qid": "630680176607",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the word in bold to fill in the blank. The modern work is deliberately ________ (ambiguous).",
+   "options": [
+    "certain",
+    "dubious",
+    "vague",
+    "puzzling"
+   ],
+   "answer": 0,
+   "qid": "630680295343",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. The homophone for the word ‘there’ is _________.",
+   "options": [
+    "those",
+    "their",
+    "that",
+    "clear"
+   ],
+   "answer": 1,
+   "qid": "630680129802",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Turned a deaf ear to",
+   "options": [
+    "Rebuked",
+    "Disregarded",
+    "By any means",
+    "At intervals"
+   ],
+   "answer": 1,
+   "qid": "630680192299",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Sleeping, dreaming and waking are three important (1)_______ for ordinary humans. But for those who have (2)_______ transcendental knowledge, all three are almost same and there is not much difference among these three. ‘The world and life is a myth and it keeps on changing’ (3)_______ Adi Shankaracharya, the greatest ‘Advaita’ preacher. Ramana Maharshi observed no difference between dreaming and waking states. What he said is that it is from one unreal world to another (4)_______ world. There is no difference between the images one sees when waking up and the images he/she sees during dreams. According to this great sage of the modern century, the first one is daydream and the second one is a night dream. The usual philosophers say that mind and body are the two elements and mind is the source of all diverse thoughts. In the waking up state, the mind is active with all tensions and dissatisfactions, so happiness is missing: during sleep as the mind is absent and so is the physical world, the real happiness (5)______. It is said that deep sleep, where there is no feeling of body, mind and the world, is the natural state of human beings.\n\nSelect the most appropriate option to fill in blank number 1.",
+   "options": [
+    "angles",
+    "methods",
+    "problems",
+    "aspects"
+   ],
+   "answer": 3,
+   "qid": "630680162882",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Sleeping, dreaming and waking are three important (1)_______ for ordinary humans. But for those who have (2)_______ transcendental knowledge, all three are almost same and there is not much difference among these three. ‘The world and life is a myth and it keeps on changing’ (3)_______ Adi Shankaracharya, the greatest ‘Advaita’ preacher. Ramana Maharshi observed no difference between dreaming and waking states. What he said is that it is from one unreal world to another (4)_______ world. There is no difference between the images one sees when waking up and the images he/she sees during dreams. According to this great sage of the modern century, the first one is daydream and the second one is a night dream. The usual philosophers say that mind and body are the two elements and mind is the source of all diverse thoughts. In the waking up state, the mind is active with all tensions and dissatisfactions, so happiness is missing: during sleep as the mind is absent and so is the physical world, the real happiness (5)______. It is said that deep sleep, where there is no feeling of body, mind and the world, is the natural state of human beings.\n\nSelect the most appropriate option to fill in blank number 2.",
+   "options": [
+    "deep",
+    "depth",
+    "superficial",
+    "large"
+   ],
+   "answer": 0,
+   "qid": "630680162883",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Sleeping, dreaming and waking are three important (1)_______ for ordinary humans. But for those who have (2)_______ transcendental knowledge, all three are almost same and there is not much difference among these three. ‘The world and life is a myth and it keeps on changing’ (3)_______ Adi Shankaracharya, the greatest ‘Advaita’ preacher. Ramana Maharshi observed no difference between dreaming and waking states. What he said is that it is from one unreal world to another (4)_______ world. There is no difference between the images one sees when waking up and the images he/she sees during dreams. According to this great sage of the modern century, the first one is daydream and the second one is a night dream. The usual philosophers say that mind and body are the two elements and mind is the source of all diverse thoughts. In the waking up state, the mind is active with all tensions and dissatisfactions, so happiness is missing: during sleep as the mind is absent and so is the physical world, the real happiness (5)______. It is said that deep sleep, where there is no feeling of body, mind and the world, is the natural state of human beings.\n\nSelect the most appropriate option to fill in blank number 3.",
+   "options": [
+    "saying",
+    "was said",
+    "says",
+    "tells by"
+   ],
+   "answer": 2,
+   "qid": "630680162884",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Sleeping, dreaming and waking are three important (1)_______ for ordinary humans. But for those who have (2)_______ transcendental knowledge, all three are almost same and there is not much difference among these three. ‘The world and life is a myth and it keeps on changing’ (3)_______ Adi Shankaracharya, the greatest ‘Advaita’ preacher. Ramana Maharshi observed no difference between dreaming and waking states. What he said is that it is from one unreal world to another (4)_______ world. There is no difference between the images one sees when waking up and the images he/she sees during dreams. According to this great sage of the modern century, the first one is daydream and the second one is a night dream. The usual philosophers say that mind and body are the two elements and mind is the source of all diverse thoughts. In the waking up state, the mind is active with all tensions and dissatisfactions, so happiness is missing: during sleep as the mind is absent and so is the physical world, the real happiness (5)______. It is said that deep sleep, where there is no feeling of body, mind and the world, is the natural state of human beings.\n\nSelect the most appropriate option to fill in blank number 4.",
+   "options": [
+    "reality",
+    "unreal",
+    "confused",
+    "unimaginary"
+   ],
+   "answer": 1,
+   "qid": "630680162885",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Sleeping, dreaming and waking are three important (1)_______ for ordinary humans. But for those who have (2)_______ transcendental knowledge, all three are almost same and there is not much difference among these three. ‘The world and life is a myth and it keeps on changing’ (3)_______ Adi Shankaracharya, the greatest ‘Advaita’ preacher. Ramana Maharshi observed no difference between dreaming and waking states. What he said is that it is from one unreal world to another (4)_______ world. There is no difference between the images one sees when waking up and the images he/she sees during dreams. According to this great sage of the modern century, the first one is daydream and the second one is a night dream. The usual philosophers say that mind and body are the two elements and mind is the source of all diverse thoughts. In the waking up state, the mind is active with all tensions and dissatisfactions, so happiness is missing: during sleep as the mind is absent and so is the physical world, the real happiness (5)______. It is said that deep sleep, where there is no feeling of body, mind and the world, is the natural state of human beings.\n\nSelect the most appropriate option to fill in blank number 5.",
+   "options": [
+    "gained",
+    "is gained",
+    "was gained",
+    "gains"
+   ],
+   "answer": 1,
+   "qid": "630680162886",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

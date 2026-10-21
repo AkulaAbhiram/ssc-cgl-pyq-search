@@ -1,0 +1,1997 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-25",
+  "time": "9:00 AM - 10:00 AM",
+  "shift": 1,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_25_Tier_1_English_Question_Paper_and_Answer_Key_Shift_1__a820a2cf095837603f17f34a597c4d7b.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the term from among the given options that can replace the question mark (?) in the given series. HM71, JP68, LS65, NV62, ?",
+   "options": [
+    "RX59",
+    "QY57",
+    "PY59",
+    "QX58"
+   ],
+   "answer": 2,
+   "qid": "630680416273",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set. (24, 15, 120) (21, 19, 133) (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "(31, 9, 96)",
+    "(18, 16, 99)",
+    "(27, 12, 108)",
+    "(33, 10, 170)"
+   ],
+   "answer": 2,
+   "qid": "630680329212",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many squares are there in the figure shown below?",
+   "options": [
+    "18",
+    "17",
+    "15",
+    "16"
+   ],
+   "answer": 1,
+   "qid": "630680296652",
+   "figures": [
+    {
+     "file": "98ac702346155d45.png",
+     "w": 143,
+     "h": 152
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure in which the given figure (X) is embedded (rotation is NOT allowed).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680332540",
+   "figures": [
+    {
+     "file": "7fc4c3b7d7043eb6.png",
+     "w": 98,
+     "h": 118
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "181a4ba90657c41e.png",
+     "w": 96,
+     "h": 97
+    },
+    "1": {
+     "file": "70bd77b4930e9ccb.png",
+     "w": 99,
+     "h": 97
+    },
+    "2": {
+     "file": "1510109131af2e09.png",
+     "w": 98,
+     "h": 98
+    },
+    "3": {
+     "file": "74612fd2abcc8df1.png",
+     "w": 100,
+     "h": 95
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster. CRW: TIN :: DOZ: UFQ :: ALW:?",
+   "options": [
+    "RCN",
+    "RCM",
+    "JCN",
+    "JCM"
+   ],
+   "answer": 0,
+   "qid": "630680416749",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "63068063226",
+   "figures": [
+    {
+     "file": "8ddd05f41dc2e66a.png",
+     "w": 328,
+     "h": 48
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "50056c20ffdf8c59.png",
+     "w": 64,
+     "h": 67
+    },
+    "1": {
+     "file": "1caf053c6b496531.png",
+     "w": 67,
+     "h": 65
+    },
+    "2": {
+     "file": "cc2cdda23eb495ac.png",
+     "w": 69,
+     "h": 64
+    },
+    "3": {
+     "file": "2b418eb6bdd4e792.png",
+     "w": 69,
+     "h": 69
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different. Note : The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.",
+   "options": [
+    "SQPN",
+    "YWVT",
+    "NLKI",
+    "WVTS"
+   ],
+   "answer": 3,
+   "qid": "63068082918",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘EAGLE’ is written as ‘DZFKD’ and ‘DREAM’ is written as ‘CQDZL’. How will ‘SINCE’ be written in that language?",
+   "options": [
+    "THMDF",
+    "RHMBD",
+    "RJOBD",
+    "TJODF"
+   ],
+   "answer": 1,
+   "qid": "630680172760",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct combination of mathematical signs to sequentially place from left to right in the blanks below to balance the given equation. 75 _ 3 _ 17 _ 8 = 0",
+   "options": [
+    "÷, −, −",
+    "×, +, −",
+    "−, −, ×",
+    "−, −, +"
+   ],
+   "answer": 0,
+   "qid": "630680411779",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six letters J, K, L, M, N and O are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the letter on the face opposite to N.",
+   "options": [
+    "J",
+    "L",
+    "M",
+    "K"
+   ],
+   "answer": 1,
+   "qid": "630680194489",
+   "figures": [
+    {
+     "file": "4b2bca29624c63b5.png",
+     "w": 289,
+     "h": 98
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "All the six members of a family, 1, 2, 3, 4, 5 and 6, live together. 2 is the daughter of 3, but 3 is not the mother of 2. 1 and 3 are a married couple. 5 is the sister of 3. 4 is the daughter of 1. 6 is the brother of 2. Who is the mother of 2?",
+   "options": [
+    "2",
+    "1",
+    "4",
+    "5"
+   ],
+   "answer": 1,
+   "qid": "630680280750",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680356661",
+   "figures": [
+    {
+     "file": "ad2c80d7135119ea.png",
+     "w": 77,
+     "h": 73
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "f7609e95d6312979.png",
+     "w": 75,
+     "h": 14
+    },
+    "1": {
+     "file": "e71629eb8f10776f.png",
+     "w": 75,
+     "h": 20
+    },
+    "2": {
+     "file": "7f6100bbe4949da7.png",
+     "w": 75,
+     "h": 17
+    },
+    "3": {
+     "file": "03e5d54372c4255e.png",
+     "w": 77,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "The question contains pairs of words that are related to each other in a certain way. Three of the following four word pairs are alike as these have the same relationship and thus form a group. Which word pair is the one that DOES NOT belong to that group? (The words must be considered as meaningful English words and must not be related to each other based on the number of letters / number of consonants/vowels in the word.)",
+   "options": [
+    "Shoes – feet",
+    "Book – pages",
+    "Flowers – petals",
+    "Spectacles – lens"
+   ],
+   "answer": 0,
+   "qid": "630680798753",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the figure from among the given option that can replace the question mark (?) in the following series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680283520",
+   "figures": [
+    {
+     "file": "fc8c57e0093ccb29.png",
+     "w": 321,
+     "h": 69
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "b42628b9009af06e.png",
+     "w": 69,
+     "h": 68
+    },
+    "1": {
+     "file": "abcda002c6dab598.png",
+     "w": 69,
+     "h": 69
+    },
+    "2": {
+     "file": "934626f3bc6131b6.png",
+     "w": 69,
+     "h": 69
+    },
+    "3": {
+     "file": "bd03457a53bea369.png",
+     "w": 69,
+     "h": 69
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 35, 46, 68, 101, 145, ?",
+   "options": [
+    "212",
+    "200",
+    "214",
+    "210"
+   ],
+   "answer": 1,
+   "qid": "630680411902",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that when sequentially placed from left to right in the blanks below will complete the letter series. Z _ A _ Z _ _ Z A _ Z _",
+   "options": [
+    "ZZAZZA",
+    "AZAZAZ",
+    "ZZZAAA",
+    "AZZAZZ"
+   ],
+   "answer": 0,
+   "qid": "630680262377",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will change if each of the letters in the word ‘CORNFLAKES’ is re-arranged in the English alphabetical order from left to right?",
+   "options": [
+    "Eight",
+    "Seven",
+    "Nine",
+    "Ten"
+   ],
+   "answer": 0,
+   "qid": "630680106898",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680285668",
+   "figures": [
+    {
+     "file": "fd611081c7170551.png",
+     "w": 289,
+     "h": 89
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "76cacc13a0d45a94.png",
+     "w": 86,
+     "h": 84
+    },
+    "1": {
+     "file": "e7df900f316a588f.png",
+     "w": 83,
+     "h": 81
+    },
+    "2": {
+     "file": "4607671d175d0c10.png",
+     "w": 81,
+     "h": 81
+    },
+    "3": {
+     "file": "f421a63e3e5a3bef.png",
+     "w": 82,
+     "h": 83
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: Some vegetables are fruits. Some fruits are flowers. All flowers are garlands. Conclusions: I. Some garlands are fruits. II. Some vegetables are flowers. III. Some vegetables are garlands.",
+   "options": [
+    "Only conclusions I and III follow",
+    "Only conclusions II and III follow",
+    "Only conclusions I and II follow",
+    "Only conclusion I follows"
+   ],
+   "answer": 3,
+   "qid": "630680416209",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'EXCESS' is written as '726572121', 'ENERGY' is written as '716720927', how will 'ESCAPE' be written in that language?",
+   "options": [
+    "72153187",
+    "72153165",
+    "72151167",
+    "71933187"
+   ],
+   "answer": 0,
+   "qid": "630680416123",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which letter-cluster will replace the question mark (?) to complete the given series? CQJG, ERMJ, ?, ITSP, KUVS",
+   "options": [
+    "GSQM",
+    "GRPM",
+    "GTPM",
+    "GSPM"
+   ],
+   "answer": 3,
+   "qid": "630680416920",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which number will come in the place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 27 × 3 + 4 ÷ 2 − 7 = ?",
+   "options": [
+    "10",
+    "9",
+    "6",
+    "8"
+   ],
+   "answer": 3,
+   "qid": "630680328465",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "11 is related to 121 following a certain logic. Following the same logic, 22 is related to 484. To which of the following is 31 related, following the same logic? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "943",
+    "961",
+    "957",
+    "973"
+   ],
+   "answer": 1,
+   "qid": "630680344656",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "The same operation(s) are followed in all the given number pairs except one. Find that odd number pair. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "22 : 45",
+    "7 : 15",
+    "11 : 121",
+    "5 : 11"
+   ],
+   "answer": 2,
+   "qid": "630680412039",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 4 : 68 :: 8 : 136 :: 9 : ? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "147",
+    "149",
+    "153",
+    "152"
+   ],
+   "answer": 2,
+   "qid": "630680312536",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "",
+   "options": [
+    "i-a, ii-c, iii-b, iv-d",
+    "i-a, ii-b, iii-c, iv-d",
+    "i-d, ii-c, iii-b, iv-a",
+    "i-b, ii-a, iii-c, iv-d"
+   ],
+   "answer": 2,
+   "qid": "630680199657",
+   "figures": [
+    {
+     "file": "162d958a12f8bf37.png",
+     "w": 323,
+     "h": 112
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "The record obtained by the measurement of earthquake is called a:",
+   "options": [
+    "seismic wave",
+    "seismograph",
+    "seismology",
+    "seismogram"
+   ],
+   "answer": 3,
+   "qid": "63068098917",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Ghiyas ud-din Balban had set up a _________ department called 'Diwan-i-arz'.",
+   "options": [
+    "agriculture",
+    "education",
+    "commerce",
+    "military"
+   ],
+   "answer": 3,
+   "qid": "630680412429",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "In chess which of the following may move only diagonally?",
+   "options": [
+    "The Queen",
+    "The Knight",
+    "The Rook",
+    "The Bishop"
+   ],
+   "answer": 3,
+   "qid": "630680510775",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "Which of the following is associated with the retreating monsoon in India?",
+   "options": [
+    "Loo",
+    "Mahawat",
+    "October heat",
+    "Kaal Baisakhi"
+   ],
+   "answer": 2,
+   "qid": "630680309095",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Which famous santoor player was honoured with the Ustad Hafiz Ali Khan Award in 1998?",
+   "options": [
+    "Tarun Bhattacharya",
+    "Abhay Sopori",
+    "Satish Vyas",
+    "Shivkumar Sharma"
+   ],
+   "answer": 3,
+   "qid": "630680511805",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "The Atal Innovation Mission was launched in year ________.",
+   "options": [
+    "2014",
+    "2016",
+    "2021",
+    "2004"
+   ],
+   "answer": 1,
+   "qid": "630680195341",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "In 2022, Vinay Mohan Kwatra took charge as the Foreign Secretary of India. Prior to this, he served as the ambassador to which of the following countries?",
+   "options": [
+    "Nepal",
+    "Maldives",
+    "Bhutan",
+    "Sri Lanka"
+   ],
+   "answer": 0,
+   "qid": "630680195361",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "Alla Rakha is famous for playing which of the following musical instruments?",
+   "options": [
+    "Shehnai",
+    "Bansuri",
+    "Tabla",
+    "Damaru"
+   ],
+   "answer": 2,
+   "qid": "630680410183",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Who suggested the law that the British Government passed in 1856 to support widow remarriage?",
+   "options": [
+    "Keshub Chandra Sen",
+    "Ishwar Chandra Vidyasagar",
+    "Atmaram Pandurang",
+    "Raja Ram Mohan Roy"
+   ],
+   "answer": 1,
+   "qid": "630680511536",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Ishwari Prasad is credited to have introduced the ________ Gharana of Kathak.",
+   "options": [
+    "Raigarh",
+    "Jaipur",
+    "Banaras",
+    "Lucknow"
+   ],
+   "answer": 3,
+   "qid": "630680405008",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "Pulakeshin II assumed the title of ‘Dakshinapatheshvara’ (lord of the south) after defeating which of the following rulers of north India?",
+   "options": [
+    "Harshavardhana",
+    "Rudrasena II",
+    "Dhruvasena II",
+    "Prabhakarvardhana"
+   ],
+   "answer": 0,
+   "qid": "630680412522",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Makar Sankranti is the festival dedicated to which of the following Lords?",
+   "options": [
+    "Indra",
+    "Surya",
+    "Chandra",
+    "Ganesha"
+   ],
+   "answer": 1,
+   "qid": "630680216082",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "When did a States Reorganisation Commission was set up, which recommended the creation of linguistic States on the basis of larger linguistic groups?",
+   "options": [
+    "December 1953",
+    "December 1963",
+    "December 1958",
+    "December 1956"
+   ],
+   "answer": 0,
+   "qid": "630680408188",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "According to Census of India 2011, female adolescents in the age group of 10-19 years had a share of:",
+   "options": [
+    "52.7%",
+    "20.9%",
+    "47.3%",
+    "31.3%"
+   ],
+   "answer": 2,
+   "qid": "630680409649",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "Which part of the Indian Constitution deals with the Election Commission?",
+   "options": [
+    "Part XII",
+    "Part XV",
+    "Part IV",
+    "Part XI"
+   ],
+   "answer": 1,
+   "qid": "630680413120",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Which of the following is an example of an eastern coast port?",
+   "options": [
+    "Mumbai Port",
+    "Mormugao Port",
+    "New Mangalore Port",
+    "Chennai Port"
+   ],
+   "answer": 3,
+   "qid": "630680327617",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "In 1910, The United India House at Seattle, USA, was set up by ___________.",
+   "options": [
+    "Tarak Nath Das and GD Kumar",
+    "Shyamji Krishna Varma",
+    "VD Savarkar and Ganesh",
+    "Khudiram Bose and Prafulla Chaki"
+   ],
+   "answer": 0,
+   "qid": "630680412318",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "An organic reaction used to convert an aryl diazonium salt into an aryl halide using a copper(I) halide catalyst is called:",
+   "options": [
+    "Sandmeyer reaction",
+    "Balz-Schiemann reaction",
+    "Finkelstein reaction",
+    "Gattermann reaction"
+   ],
+   "answer": 0,
+   "qid": "63068051559",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "Which Article of the Indian Constitution provides for protecting and improving the environment and safeguarding forests and wildlife?",
+   "options": [
+    "Article 48-A",
+    "Article 47-A",
+    "Article 47-B",
+    "Article 49-C"
+   ],
+   "answer": 0,
+   "qid": "630680305538",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "NDP = _________.",
+   "options": [
+    "GDP + Net factor income from abroad",
+    "GDP – Net factor income from abroad",
+    "GDP – Depreciation",
+    "GDP + Depreciation"
+   ],
+   "answer": 2,
+   "qid": "63068068742",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "What is the primary objective of the Micro, Small, and Medium Enterprises Development (MSMED) Act of 2006 in India?",
+   "options": [
+    "To increase import tariffs to protect MSMEs",
+    "To focus on large-scale industries only",
+    "To regulate foreign companies",
+    "To promote and facilitate the development of MSMEs"
+   ],
+   "answer": 3,
+   "qid": "630680411086",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "Where was the Durand Cup Tournament started in India in 1888?",
+   "options": [
+    "Shimla",
+    "Mumbai",
+    "Calcutta",
+    "Delhi"
+   ],
+   "answer": 0,
+   "qid": "630680510819",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Which essential amino acid enhances calcium absorption and also plays an important role in the formation of collagen?",
+   "options": [
+    "Tyrosine",
+    "Histidine",
+    "Lysine",
+    "Arginine"
+   ],
+   "answer": 2,
+   "qid": "630680407467",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "According to Mendeleev's Periodic Table, which elements’ properties matched up remarkably well with eka-silicon?",
+   "options": [
+    "Scandium",
+    "Gallium",
+    "Titanium",
+    "Germanium"
+   ],
+   "answer": 3,
+   "qid": "630680113553",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "Find the value of (cosec θ - sin θ )(sec θ - cos θ )(tan θ + cot θ ).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680285633",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "19faf8ee8095e18c.png",
+     "w": 27,
+     "h": 32
+    },
+    "1": {
+     "file": "f1552a21fce726a8.png",
+     "w": 24,
+     "h": 17
+    },
+    "2": {
+     "file": "c1f18b214fd269c9.png",
+     "w": 24,
+     "h": 17
+    },
+    "3": {
+     "file": "34e6f071851bc9ca.png",
+     "w": 20,
+     "h": 18
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "The salaries of P and Q together amount to ₹9,60,000. P and Q save 64% and 44%, respectively of their individual salaries. If P’s expenditure is 1.5 times Q’s expenditure, then what is the ratio of P’s salary to Q’s salary?",
+   "options": [
+    "2 : 3",
+    "3 : 2",
+    "3 : 7",
+    "7 : 3"
+   ],
+   "answer": 3,
+   "qid": "630680395405",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "More, 21%",
+    "More, 24%",
+    "Less,24%",
+    "Less, 21%"
+   ],
+   "answer": 3,
+   "qid": "630680523746",
+   "figures": [
+    {
+     "file": "f8de5fc488140952.png",
+     "w": 328,
+     "h": 150
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": ".",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680403309",
+   "figures": [
+    {
+     "file": "db56c9dc64bd773a.png",
+     "w": 151,
+     "h": 27
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "27da52881c7ae2fc.png",
+     "w": 6,
+     "h": 9
+    },
+    "1": {
+     "file": "435454e6909308ab.png",
+     "w": 16,
+     "h": 9
+    },
+    "2": {
+     "file": "c3f378e5d2f104c9.png",
+     "w": 6,
+     "h": 9
+    },
+    "3": {
+     "file": "4e48c62d0654882d.png",
+     "w": 6,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given table and answer the question. The table displays the number of cars produced (in lakhs) by six different brands between 2018 and 2023. Find the difference in the average production of B and D during 2018-2023.",
+   "options": [
+    "5.5 lakhs",
+    "6 lakhs",
+    "5 lakhs",
+    "4 lakhs"
+   ],
+   "answer": 2,
+   "qid": "630680459225",
+   "figures": [
+    {
+     "file": "f285f0dddbbe5f01.png",
+     "w": 328,
+     "h": 119
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "is equal to:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680426552",
+   "figures": [
+    {
+     "file": "3c70608c29a79f4e.png",
+     "w": 150,
+     "h": 33
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "41f62c17cad1f96e.png",
+     "w": 6,
+     "h": 9
+    },
+    "1": {
+     "file": "c3f378e5d2f104c9.png",
+     "w": 6,
+     "h": 9
+    },
+    "2": {
+     "file": "332725c9a7b35759.png",
+     "w": 11,
+     "h": 24
+    },
+    "3": {
+     "file": "27da52881c7ae2fc.png",
+     "w": 6,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "The following table shows the number of pages printed by 3 printers (P, Q and R) for 3 days. What is the ratio of the total number of pages printed by printer P over the course of three days to the total number of pages printed by printer Q during the same three days?",
+   "options": [
+    "11 : 10",
+    "10 : 9",
+    "10 : 11",
+    "9 : 10"
+   ],
+   "answer": 1,
+   "qid": "630680523691",
+   "figures": [
+    {
+     "file": "65474d1056575f10.png",
+     "w": 258,
+     "h": 108
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "Ramesh purchased 130 books at the rate of ₹200 each and sold half of them at the rate of ₹300 each, one-fifth of them at the rate of ₹350 each and the rest at the cost price. Find his profit percentage.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680429027",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "1f42c90229ce0231.png",
+     "w": 27,
+     "h": 14
+    },
+    "1": {
+     "file": "c91b462d094e59e2.png",
+     "w": 28,
+     "h": 15
+    },
+    "2": {
+     "file": "5318f857e3b970d1.png",
+     "w": 30,
+     "h": 15
+    },
+    "3": {
+     "file": "8c3da1d1d8c3d06d.png",
+     "w": 28,
+     "h": 17
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "The centres of two circles are 36 cm apart. If the radii of these two circles are 15 cm and 9 cm, respectively, then what is the sum of the lengths (in cm) of a direct common tangent and a transverse common tangent of these two circles?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680196685",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "f8da536bbba36c6d.png",
+     "w": 74,
+     "h": 22
+    },
+    "1": {
+     "file": "e1f1f9226a6bbcd4.png",
+     "w": 73,
+     "h": 22
+    },
+    "2": {
+     "file": "ffac12b344edd1c4.png",
+     "w": 73,
+     "h": 21
+    },
+    "3": {
+     "file": "69508b4d577aac08.png",
+     "w": 72,
+     "h": 20
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "The side BC of ∆ABC is produced to a point D. If AC = BC and ∠BAC = 70°, then find the value of ∠ACD − ∠ABC.",
+   "options": [
+    "60°",
+    "70°",
+    "45°",
+    "75°"
+   ],
+   "answer": 1,
+   "qid": "630680383150",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "Rohini buys a Bluetooth headphone set for ₹1,700 from a wholesale shop and marks it at ₹2,000. Later on, she allows a discount of 40% on its sale. What is her loss or gain percentage (correct up to two decimal places)?",
+   "options": [
+    "29.41% gain",
+    "25.19% loss",
+    "25.19% gain",
+    "29.41% loss"
+   ],
+   "answer": 3,
+   "qid": "630680216677",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "It is always possible to draw a circle passing through ______ non-collinear points in a plane.",
+   "options": [
+    "3",
+    "6",
+    "5",
+    "4"
+   ],
+   "answer": 0,
+   "qid": "630680297301",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "The simple interest on a sum for 6 years is three-fifth of the sum. The rate of interest per annum is:",
+   "options": [
+    "3%",
+    "7%",
+    "10%",
+    "5%"
+   ],
+   "answer": 2,
+   "qid": "630680344606",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "The average of the squares of the first 48 natural numbers is",
+   "options": [
+    "792.17",
+    "793.17",
+    "794.17",
+    "791.17"
+   ],
+   "answer": 0,
+   "qid": "630680568975",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "Nihira is 25 years old and Punith is 30 years old. How many years ago was the ratio of their ages 3 : 4?",
+   "options": [
+    "10 years",
+    "15 years",
+    "5 years",
+    "20 years"
+   ],
+   "answer": 0,
+   "qid": "630680426563",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "Which of the following fractions is the largest?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680797477",
+   "figures": [
+    {
+     "file": "13d49de7765403ce.png",
+     "w": 100,
+     "h": 32
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "1c884e611b5b6fbf.png",
+     "w": 20,
+     "h": 32
+    },
+    "1": {
+     "file": "2db243a590c66bc7.png",
+     "w": 20,
+     "h": 32
+    },
+    "2": {
+     "file": "5f0fe905a7b7544b.png",
+     "w": 20,
+     "h": 32
+    },
+    "3": {
+     "file": "ce80c0e7eeaa59b6.png",
+     "w": 13,
+     "h": 32
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "An inlet pipe can fill a water storage tank in 11 hours and an outlet pipe can empty the completely filled tank in 15 hours .If both pipes opened simultaneously. The time taken to fill the empty tank ( in hrs) is :",
+   "options": [
+    "40",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680397516",
+   "figures": [],
+   "optionFigures": {
+    "1": {
+     "file": "afb239c49dd77d0b.png",
+     "w": 23,
+     "h": 24
+    },
+    "2": {
+     "file": "557599b5729633e0.png",
+     "w": 23,
+     "h": 24
+    },
+    "3": {
+     "file": "3b757f0ff78520b8.png",
+     "w": 23,
+     "h": 24
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680413534",
+   "figures": [
+    {
+     "file": "073f5426cc4dc849.png",
+     "w": 271,
+     "h": 26
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "ebd68b726299eea7.png",
+     "w": 20,
+     "h": 27
+    },
+    "1": {
+     "file": "8e0963011fd2373c.png",
+     "w": 17,
+     "h": 27
+    },
+    "2": {
+     "file": "d5939d7cd392de5c.png",
+     "w": 15,
+     "h": 28
+    },
+    "3": {
+     "file": "d60dde118a2f1640.png",
+     "w": 20,
+     "h": 26
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "2",
+    "4",
+    "1",
+    "3"
+   ],
+   "answer": 0,
+   "qid": "630680413527",
+   "figures": [
+    {
+     "file": "21c84427ec0a453b.png",
+     "w": 250,
+     "h": 30
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "Suppose P starts walking at a speed of 8 km/h. After 8 hours B started travelling on a bicycle at a speed of 24 km/h. The distance from the starting B can catch A is:",
+   "options": [
+    "88 km",
+    "96 km",
+    "72 km",
+    "64 km"
+   ],
+   "answer": 1,
+   "qid": "630680135792",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "Find the values of 'a' and 'b' for which the system of equations 3x+y=3 and (a-b)x+ (a+b)y=3a+b-3 has infinite solutions.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680200492",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "47f8292588478736.png",
+     "w": 71,
+     "h": 25
+    },
+    "1": {
+     "file": "87a91179e93112d7.png",
+     "w": 75,
+     "h": 24
+    },
+    "2": {
+     "file": "b31e289909d5eadd.png",
+     "w": 74,
+     "h": 26
+    },
+    "3": {
+     "file": "ab94bdfe6721673c.png",
+     "w": 75,
+     "h": 22
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "2.439",
+    "9.244",
+    "4.329",
+    "3.924"
+   ],
+   "answer": 1,
+   "qid": "630680421486",
+   "figures": [
+    {
+     "file": "45b25043f531a6e4.png",
+     "w": 328,
+     "h": 50
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "If the lengths of two sides of an isosceles triangle are 6 cm and 12 cm, then find the length of the third side.",
+   "options": [
+    "8 cm",
+    "12 cm",
+    "14 cm",
+    "6 cm"
+   ],
+   "answer": 1,
+   "qid": "630680200536",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "The given bar graph shows sugar imports of a country (in thousand tonnes) over the years. Study the graph and answer the question that follows. The average imports (in thousand tonnes) of all the years is:",
+   "options": [
+    "6469",
+    "6603",
+    "6433",
+    "6306"
+   ],
+   "answer": 3,
+   "qid": "630680397704",
+   "figures": [
+    {
+     "file": "98db9ba20ca7a292.png",
+     "w": 260,
+     "h": 188
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. P) achieve success Q) when you R) and polite S) stay humble",
+   "options": [
+    "RQPS",
+    "PQRS",
+    "PRQS",
+    "SRQP"
+   ],
+   "answer": 3,
+   "qid": "630680377250",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence. Leela was in class when the big fight happened. So, if you want to know the details, You should ask her, you will get the truth given by somebody who is directly involved and therefore likely to be accurate.",
+   "options": [
+    "shooting off the cuff",
+    "with kid gloves",
+    "calling a spade a spade",
+    "straight from the horse’s mouth"
+   ],
+   "answer": 3,
+   "qid": "630680375539",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error. My dog / barks / very louder / at night.",
+   "options": [
+    "at night",
+    "barks",
+    "very louder",
+    "My dog"
+   ],
+   "answer": 2,
+   "qid": "630680383194",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Dissolve",
+   "options": [
+    "Appear",
+    "Fade",
+    "Solve",
+    "Vanish"
+   ],
+   "answer": 0,
+   "qid": "630680517556",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "The following sentence contains a word with a spelling error. Rectify the sentence by selecting the correct spelling of the identified word from the given options. Later on, he was truely apologetic for his misconduct in the meeting.",
+   "options": [
+    "Truily",
+    "Trooly",
+    "Truly",
+    "Treuly"
+   ],
+   "answer": 2,
+   "qid": "630680360841",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the correctly spelt word.",
+   "options": [
+    "Exhileration",
+    "Exilaration",
+    "Exhillaration",
+    "Exhilaration"
+   ],
+   "answer": 3,
+   "qid": "630680409946",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Laudable",
+   "options": [
+    "Humorous",
+    "Deplorable",
+    "Commendable",
+    "Severe"
+   ],
+   "answer": 1,
+   "qid": "630680517366",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in active voice. A comic play was performed by the comedian.",
+   "options": [
+    "The comedian do perform a comic play.",
+    "The comedian performance a comic play.",
+    "The comedian performed a comic play.",
+    "The comedian performs a comic play."
+   ],
+   "answer": 2,
+   "qid": "630680415256",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. The research team is conducting experiments on a new drug that could revolutionise the treatment of the disease.",
+   "options": [
+    "Experiments are conducted on a new drug that could revolutionise the treatment of the disease from the research team.",
+    "Experiments were being conducted on a new drug that could revolutionise the treatment of the disease by the research team.",
+    "Experiments have been conducted on a new drug that could have revolutionised the treatment of the disease through the research team.",
+    "Experiments are being conducted on a new drug that could revolutionise the treatment of the disease by the research team."
+   ],
+   "answer": 3,
+   "qid": "630680374381",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word to fill in the blank. Ram failed initially but after a few years, he _________ in every field.",
+   "options": [
+    "enjoyed",
+    "elevated",
+    "succeeded",
+    "reserved"
+   ],
+   "answer": 2,
+   "qid": "630680167047",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error. The company specialises at / designing, crafting and manufacturing / exquisite, high- quality furniture / of exceptional craftsmanship.",
+   "options": [
+    "designing, crafting and manufacturing",
+    "The company specialises at",
+    "of exceptional craftsmanship",
+    "exquisite, high-quality furniture"
+   ],
+   "answer": 1,
+   "qid": "630680415189",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Derogatory",
+   "options": [
+    "Delegation",
+    "Insulting",
+    "Salutary",
+    "Derivative"
+   ],
+   "answer": 1,
+   "qid": "630680360816",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. Raj is very interested in studying human psychology, so he decided to pursue his master’s degree in __________.",
+   "options": [
+    "Archaeology",
+    "Psychology",
+    "Philosophy",
+    "Anatomy"
+   ],
+   "answer": 1,
+   "qid": "630680328427",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined part in the following sentence. The entire speech of the revivalist fell flat with the crowd that was present there.",
+   "options": [
+    "had somewhat of a result on",
+    "had a great impact on",
+    "had moderate influence on",
+    "had no effect on"
+   ],
+   "answer": 3,
+   "qid": "630680317824",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A performer’s first public appearance",
+   "options": [
+    "Foundation",
+    "Premise",
+    "Dawn",
+    "Debut"
+   ],
+   "answer": 3,
+   "qid": "630680414755",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. To go through an area making a lot of noise and causing damage",
+   "options": [
+    "Violence",
+    "Cacophony",
+    "Rampage",
+    "Brutality"
+   ],
+   "answer": 2,
+   "qid": "630680414624",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. (A) and was searching for them (B) the grandmother couldn’t find (C) all around the house (D) placed them on her head (E) her spectacles because she had",
+   "options": [
+    "BADEC",
+    "CABED",
+    "BEDAC",
+    "ADBEC"
+   ],
+   "answer": 2,
+   "qid": "630680360059",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the option that can substitute/replace the bracketed word correctly and complete the sentence. If he runs, he (get) there in time.",
+   "options": [
+    "got there in time",
+    "will get",
+    "is getting",
+    "has to get"
+   ],
+   "answer": 1,
+   "qid": "630680176613",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the underlined word. We went to a legitimate Mexican restaurant for my birthday, where they served cuisine like you would find in Mexico.",
+   "options": [
+    "productive",
+    "genuine",
+    "fictitious",
+    "falsified"
+   ],
+   "answer": 1,
+   "qid": "630680195035",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the underlined word. Our university is affiliated with various institutes all over the world.",
+   "options": [
+    "disparate",
+    "unalike",
+    "diverse",
+    "allied"
+   ],
+   "answer": 3,
+   "qid": "630680183597",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Kuno Palpur National Park, located in Madhya Pradesh's Chambal (1)__________, has an area of 750 square kilometres. It now has leopards, jackals, spotted deer, sambhar, neelgai, chinkara, wild boar, and four-horned antelope, making it a perfect (2)_________ base for felids. Despite strong objections from Gujarat, which (3)_________ that lions were part of the state's heritage, that MP had a poor (4)________ in wildlife management, and that Kuno Palpur had other big cat species that would (5)___________ lion relocation, the sanctuary was chosen for the lion reintroduction project in 2013.\n\nSelect the most appropriate option to fill in blank number 1.",
+   "options": [
+    "reason",
+    "river",
+    "reign",
+    "region"
+   ],
+   "answer": 3,
+   "qid": "630680159206",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Kuno Palpur National Park, located in Madhya Pradesh's Chambal (1)__________, has an area of 750 square kilometres. It now has leopards, jackals, spotted deer, sambhar, neelgai, chinkara, wild boar, and four-horned antelope, making it a perfect (2)_________ base for felids. Despite strong objections from Gujarat, which (3)_________ that lions were part of the state's heritage, that MP had a poor (4)________ in wildlife management, and that Kuno Palpur had other big cat species that would (5)___________ lion relocation, the sanctuary was chosen for the lion reintroduction project in 2013.\n\nSelect the most appropriate option to fill in blank number 2.",
+   "options": [
+    "aid",
+    "fun",
+    "guard",
+    "prey"
+   ],
+   "answer": 3,
+   "qid": "630680159207",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Kuno Palpur National Park, located in Madhya Pradesh's Chambal (1)__________, has an area of 750 square kilometres. It now has leopards, jackals, spotted deer, sambhar, neelgai, chinkara, wild boar, and four-horned antelope, making it a perfect (2)_________ base for felids. Despite strong objections from Gujarat, which (3)_________ that lions were part of the state's heritage, that MP had a poor (4)________ in wildlife management, and that Kuno Palpur had other big cat species that would (5)___________ lion relocation, the sanctuary was chosen for the lion reintroduction project in 2013.\n\nSelect the most appropriate option to fill in blank number 3.",
+   "options": [
+    "restricted",
+    "adjourned",
+    "accused",
+    "claimed"
+   ],
+   "answer": 3,
+   "qid": "630680159208",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Kuno Palpur National Park, located in Madhya Pradesh's Chambal (1)__________, has an area of 750 square kilometres. It now has leopards, jackals, spotted deer, sambhar, neelgai, chinkara, wild boar, and four-horned antelope, making it a perfect (2)_________ base for felids. Despite strong objections from Gujarat, which (3)_________ that lions were part of the state's heritage, that MP had a poor (4)________ in wildlife management, and that Kuno Palpur had other big cat species that would (5)___________ lion relocation, the sanctuary was chosen for the lion reintroduction project in 2013.\n\nSelect the most appropriate option to fill in blank number 4.",
+   "options": [
+    "summary",
+    "gaze",
+    "record",
+    "loss"
+   ],
+   "answer": 2,
+   "qid": "630680159209",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The Kuno Palpur National Park, located in Madhya Pradesh's Chambal (1)__________, has an area of 750 square kilometres. It now has leopards, jackals, spotted deer, sambhar, neelgai, chinkara, wild boar, and four-horned antelope, making it a perfect (2)_________ base for felids. Despite strong objections from Gujarat, which (3)_________ that lions were part of the state's heritage, that MP had a poor (4)________ in wildlife management, and that Kuno Palpur had other big cat species that would (5)___________ lion relocation, the sanctuary was chosen for the lion reintroduction project in 2013.\n\nSelect the most appropriate option to fill in blank number 5.",
+   "options": [
+    "Jeopardise",
+    "Innocuous",
+    "channelise",
+    "safeguard"
+   ],
+   "answer": 0,
+   "qid": "630680159210",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

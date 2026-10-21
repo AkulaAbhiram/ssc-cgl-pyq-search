@@ -1,7 +1,7 @@
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { Link } from 'expo-router';
 import { highlightParts } from '@/search/engine';
-import { paperLabel, type Question } from '@/data/store';
+import { hasFigures, paperLabel, type Question } from '@/data/store';
 import { colors } from '@/theme';
 import { Tag } from './ui';
 
@@ -12,9 +12,12 @@ export function QuestionRow({ q, terms }: { q: Question; terms?: Map<string, num
       <Pressable style={({ pressed }) => [styles.row, pressed && styles.pressed]}>
         <View style={styles.metaRow}>
           <Tag section={q.section} />
-          <Text style={styles.meta}>{paperLabel(q)}</Text>
+          <Text style={styles.meta}>
+            {paperLabel(q)}
+            {hasFigures(q) ? ' · has figure' : ''}
+          </Text>
         </View>
-        <Highlight text={q.q} terms={terms} numberOfLines={3} />
+        <Highlight text={q.q || `${q.topic}: figure-based question`} terms={terms} numberOfLines={3} />
       </Pressable>
     </Link>
   );

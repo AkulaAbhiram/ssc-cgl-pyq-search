@@ -1,0 +1,1880 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-23",
+  "time": "9:00 AM - 10:00 AM",
+  "shift": 1,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_23_Tier_1_English_Question_Paper_and_Answer_Key_Shift_1__c4da973532038c946023fe67ffba4085.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Based on the position in the English alphabetical order, three of the following letter- clusters are alike in some manner and one is different. Select the odd letter-cluster. Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.",
+   "options": [
+    "PSKI",
+    "TWGD",
+    "JMQN",
+    "MPNK"
+   ],
+   "answer": 0,
+   "qid": "630680416108",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? JHOQ, NFSO, ? , VBAK, ZZEI",
+   "options": [
+    "RCWM",
+    "RCXM",
+    "RDMW",
+    "RDWM"
+   ],
+   "answer": 3,
+   "qid": "630680417058",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which figure should replace the question mark (?) if the following series were to be continued?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680214467",
+   "figures": [
+    {
+     "file": "eb393af177d3e660.png",
+     "w": 328,
+     "h": 70
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "88ecb1043eef0743.png",
+     "w": 71,
+     "h": 73
+    },
+    "1": {
+     "file": "0c183c0e132a73b9.png",
+     "w": 73,
+     "h": 73
+    },
+    "2": {
+     "file": "8ac4e9b8e737ff70.png",
+     "w": 72,
+     "h": 72
+    },
+    "3": {
+     "file": "dc2e50499aa72341.png",
+     "w": 73,
+     "h": 74
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number that will come in the place of the question mark(?), if ‘+’ and ‘ – ‘ are interchanged and ‘×’ and ‘÷’ are interchanged 63 × 7 ÷ 13 – 64 + 42 = ?",
+   "options": [
+    "139",
+    "131",
+    "144",
+    "124"
+   ],
+   "answer": 0,
+   "qid": "630680163584",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'RADIO' is written as 'SZEHP' and 'FREQUENCY' is written as 'GQFPVDOBZ'. How will 'TELEVISION' be written in that language?",
+   "options": [
+    "UDMDWHTHPM",
+    "UDMDWHTHOM",
+    "UDMDWHTHPN",
+    "UDMDWHHTPM"
+   ],
+   "answer": 0,
+   "qid": "630680416222",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following numbers are alike in a certain way and one is different. Pick the odd one out. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "18 – 11 – 63",
+    "12 – 8 – 36",
+    "21 – 14 – 72",
+    "15 – 3 – 108"
+   ],
+   "answer": 2,
+   "qid": "630680389589",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that, when placed from left to right in the blanks below, will complete the letter series. S _ Y A _ F I K M _ S U W",
+   "options": [
+    "UCP",
+    "VCP",
+    "VCQ",
+    "VBP"
+   ],
+   "answer": 1,
+   "qid": "630680417336",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Find the correct combination of letters that when sequentially filled in the blanks of the given series will make the series logically complete. ABF_HI_NOP_U_WABCDH_",
+   "options": [
+    "GMSVI",
+    "GMTUI",
+    "GMTVI",
+    "IMTVI"
+   ],
+   "answer": 2,
+   "qid": "630680113687",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six letters P, J, U, W, L and K are written on different faces of a dice. Two positions of this dice are shown in the figures below. Find the letter on the face opposite to P.",
+   "options": [
+    "K",
+    "W",
+    "U",
+    "J"
+   ],
+   "answer": 1,
+   "qid": "630680222366",
+   "figures": [
+    {
+     "file": "6e6ce87b9f22b082.png",
+     "w": 102,
+     "h": 45
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the triad in which the numbers are related in the same way as are the numbers of the given triads. (25, 22, 47), (31, 24, 55) (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "(17, 15, 22)",
+    "(22, 19, 45)",
+    "(18, 21, 39)",
+    "(27, 25, 42)"
+   ],
+   "answer": 2,
+   "qid": "630680319362",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged if all the letters in the word MOBILE are arranged in English alphabetical order?",
+   "options": [
+    "Three",
+    "One",
+    "None",
+    "Two"
+   ],
+   "answer": 2,
+   "qid": "630680348537",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged? 25 + 3 ÷ 9 −14 × 2 = ?",
+   "options": [
+    "5",
+    "7",
+    "12",
+    "0"
+   ],
+   "answer": 0,
+   "qid": "630680339255",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "A transparent sheet with a pattern is given below. Select the option that depicts the pattern that would appear when the given transparent sheet is folded at the middle horizontal line.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680389399",
+   "figures": [
+    {
+     "file": "6ffd62921fa6c8ac.png",
+     "w": 85,
+     "h": 63
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "3b63c33c192c6985.png",
+     "w": 87,
+     "h": 65
+    },
+    "1": {
+     "file": "b9db91edeee15ac9.png",
+     "w": 86,
+     "h": 65
+    },
+    "2": {
+     "file": "6375dc1d053c7175.png",
+     "w": 85,
+     "h": 65
+    },
+    "3": {
+     "file": "9d82a20ad868ef9a.png",
+     "w": 85,
+     "h": 65
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below. (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word) France : Gallic Rooster",
+   "options": [
+    "New Zealand : Hornbill",
+    "Australia : Emu",
+    "Germany : Swan",
+    "India : Eagle"
+   ],
+   "answer": 1,
+   "qid": "630680417415",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "12 is related to 235 by certain logic. Following the same logic, 14 is related to 287. To which of the following is 18 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "512",
+    "415",
+    "438",
+    "320"
+   ],
+   "answer": 1,
+   "qid": "630680326556",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that can replace the question mark (?) in the following series. BH14, CJ17, DL20, EN23, ?",
+   "options": [
+    "FP26",
+    "GO24",
+    "GP26",
+    "FO24"
+   ],
+   "answer": 0,
+   "qid": "630680416296",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three different positions of the same dice are given. Find the number on the face opposite to the face showing ‘2’.",
+   "options": [
+    "6",
+    "4",
+    "3",
+    "1"
+   ],
+   "answer": 2,
+   "qid": "630680367568",
+   "figures": [
+    {
+     "file": "6d104ea32a827ea2.png",
+     "w": 184,
+     "h": 76
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "All the alphabets in the word ‘DICTIONARY’ are arranged in the alphabetical order. How many alphabets are there in the English alphabetical series between the alphabet which is fourth from the left end and the one which is second from the right end in the newly formed letter-cluster?",
+   "options": [
+    "12",
+    "9",
+    "11",
+    "10"
+   ],
+   "answer": 3,
+   "qid": "630680199106",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680471498",
+   "figures": [
+    {
+     "file": "80c45270b3a015d2.png",
+     "w": 328,
+     "h": 71
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "2ba8e36aa999b605.png",
+     "w": 72,
+     "h": 73
+    },
+    "1": {
+     "file": "5174d119e4eeb461.png",
+     "w": 72,
+     "h": 71
+    },
+    "2": {
+     "file": "ba11f378901ae5e9.png",
+     "w": 72,
+     "h": 72
+    },
+    "3": {
+     "file": "c1331f86be4fd82b.png",
+     "w": 71,
+     "h": 72
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure in which the given figure (X) is embedded (rotation is NOT allowed).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680296892",
+   "figures": [
+    {
+     "file": "61087ab9378072df.png",
+     "w": 82,
+     "h": 97
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "4c9ee65d886f99bb.png",
+     "w": 82,
+     "h": 82
+    },
+    "1": {
+     "file": "14587eaae9ad2e53.png",
+     "w": 82,
+     "h": 82
+    },
+    "2": {
+     "file": "02cdd5beceec2f6a.png",
+     "w": 82,
+     "h": 82
+    },
+    "3": {
+     "file": "ced78b5a5129e070.png",
+     "w": 82,
+     "h": 82
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many squares are there in the given figure?",
+   "options": [
+    "14",
+    "12",
+    "11",
+    "15"
+   ],
+   "answer": 3,
+   "qid": "630680163561",
+   "figures": [
+    {
+     "file": "80479e6db1f58353.png",
+     "w": 127,
+     "h": 118
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘BOTH’ is written as ‘DQVJ’ and ‘DARE’ is written as ‘FCTG’ How will ‘WILL’ be written in that language?",
+   "options": [
+    "YJMN",
+    "YKNN",
+    "XJMM",
+    "XKNM"
+   ],
+   "answer": 1,
+   "qid": "630680172761",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "If ‘A & Z’ means ‘A is the brother of Z’, ‘A # Z’ means ‘A is the sister of Z’, ‘A ^ Z’ means ‘A is the brother of Z’s father’, ‘A @ Z’ means ‘A is the wife of Z’, ‘A % Z’ means ‘A is the mother of Z’, ‘A α Z’ means ‘A is the father of Z’, then how is J related to Z in the following expression? J % K # L @ M α N & Z",
+   "options": [
+    "Father’s mother",
+    "Mother",
+    "Mother’s mother",
+    "Mother’s sister"
+   ],
+   "answer": 2,
+   "qid": "630680262033",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 389, 420, 457, 498, 541, ?",
+   "options": [
+    "572",
+    "584",
+    "588",
+    "598"
+   ],
+   "answer": 2,
+   "qid": "630680411859",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option in which the numbers share the same relationship as that shared by the given pair of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) 40 : 123 63 : 192",
+   "options": [
+    "48 : 152",
+    "46 : 131",
+    "68 : 214",
+    "39 : 120"
+   ],
+   "answer": 3,
+   "qid": "630680326568",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Which of the following is related to neem?",
+   "options": [
+    "Pinnately",
+    "Palmately",
+    "Spines",
+    "Tendril"
+   ],
+   "answer": 0,
+   "qid": "630680314127",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "For which film did Asha Bhosle win the International Indian Film Academy (IIFA) Award in the Best Playback Singer Female category in 2002?",
+   "options": [
+    "Devdas",
+    "Humraz",
+    "Om Jai Jagdish",
+    "Lagaan"
+   ],
+   "answer": 3,
+   "qid": "630680511798",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "What is the duration of monsoon in India?",
+   "options": [
+    "100-120 days",
+    "150-200 days",
+    "40-60 days",
+    "50-80 days"
+   ],
+   "answer": 0,
+   "qid": "630680302661",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "The northern plain of the Indian subcontinent has been formed by the interplay of the three major river systems along with their tributaries. Choose the odd one out of the options given.",
+   "options": [
+    "The Indus",
+    "The Brahmaputra",
+    "The Ganga",
+    "The Godavari"
+   ],
+   "answer": 3,
+   "qid": "630680309368",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "Which of the following is mentioned in Article 1 of the Indian constitution?",
+   "options": [
+    "India that is Bharat as parliamentary democracy",
+    "India that is Bharat as federation of states",
+    "India that is Bharat shall be a Union of states",
+    "India that is Bharat as presidential form of democracy"
+   ],
+   "answer": 2,
+   "qid": "630680282979",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Who holds the record for the longest long jump in India as of 2023?",
+   "options": [
+    "Murali S",
+    "Nayana James",
+    "Jeswin aldrin",
+    "TC Yohannan"
+   ],
+   "answer": 2,
+   "qid": "630680510764",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Name the phenomenon where an opaque object on the path of light becomes very small and where light has a tendency to bend around it and not walk in a straight line.",
+   "options": [
+    "Reflection of light",
+    "Angle of incidence",
+    "Diffraction of light",
+    "Angle of refraction"
+   ],
+   "answer": 2,
+   "qid": "630680194546",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Articles 52 to 78 in Part V of the Indian Constitution deal with __________.",
+   "options": [
+    "National emergency",
+    "Amendment of the Constitution",
+    "Finance Commission of India",
+    "Union Executive"
+   ],
+   "answer": 3,
+   "qid": "630680326512",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "What is the position of India in the world’s telecommunication market, as of March 2024?",
+   "options": [
+    "Fourth",
+    "Second",
+    "Third",
+    "First"
+   ],
+   "answer": 1,
+   "qid": "630680327625",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "The National Youth Policy was launched in:",
+   "options": [
+    "2015",
+    "2014",
+    "2013",
+    "2012"
+   ],
+   "answer": 1,
+   "qid": "630680409609",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "Who among the following was the President of the Belgaum Session of the Indian National Congress held in 1924?",
+   "options": [
+    "Vallabhbhai Patel",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru"
+   ],
+   "answer": 1,
+   "qid": "630680511502",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "Ali Akbar Khan is known for playing the ________.",
+   "options": [
+    "Ektara",
+    "Sarangi",
+    "Tanpura",
+    "Sarod"
+   ],
+   "answer": 3,
+   "qid": "630680511894",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Consider the following statements related to the Online Dispute Resolution (ODR) handbook. 1.It will be launched by the Ministry of Science and Technology. 2.ODR is the resolution for cases outside courts using digital technology and techniques of Alternative Dispute Resolution (ADR), such as negotiation, mediation and arbitration. 3.The development of ICT and increased use of internet has played a major role for ODR. Which of the given statements is/are correct?",
+   "options": [
+    "Only 2 and 3",
+    "Only 1 and 3",
+    "Only 2",
+    "Only 1"
+   ],
+   "answer": 0,
+   "qid": "630680139324",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "The Flexible Inflation Targeting Framework (FITF) was introduced in India post the amendment of the Reserve Bank of India (RBI) Act, 1934 in __________.",
+   "options": [
+    "2010",
+    "2014",
+    "2016",
+    "2020"
+   ],
+   "answer": 2,
+   "qid": "630680144749",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "The government of which of the following states allocated ₹11,728 crore for the Aasara pension scheme in its annual budget for the fiscal year 2022-23?",
+   "options": [
+    "Telangana",
+    "Odisha",
+    "Chhattisgarh",
+    "Gujarat"
+   ],
+   "answer": 0,
+   "qid": "630680327505",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "‘Atla Taddi’ is the widely celebrated festival of which Indian state?",
+   "options": [
+    "West Bengal",
+    "Bihar",
+    "Punjab",
+    "Andhra Pradesh"
+   ],
+   "answer": 3,
+   "qid": "630680216005",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "Which national park in the Andaman and Nicobar Islands is home to species like Megapode, crab-eating Macaque, Nicobar Pigeon, and Giant Robber Crab?",
+   "options": [
+    "Campbell Bay National Park",
+    "Raimona National Park",
+    "Mouling National Park",
+    "Papikonda National Park"
+   ],
+   "answer": 0,
+   "qid": "630680407455",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "The Permanent Settlement came into operation in which of the following years?",
+   "options": [
+    "1793",
+    "1890",
+    "1789",
+    "1790"
+   ],
+   "answer": 0,
+   "qid": "630680412327",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Which part of the Constitution deals with the Panchayats?",
+   "options": [
+    "Part IV",
+    "Part X",
+    "Part IX",
+    "Part VII"
+   ],
+   "answer": 2,
+   "qid": "630680413118",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "Which of the following battles was fought between Babur and Rana Sanga in 1527?",
+   "options": [
+    "Battle of Chanderi",
+    "Battle of Bayana",
+    "Battle of Khanwa",
+    "Second battle of Panipat"
+   ],
+   "answer": 2,
+   "qid": "630680412406",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "Which among the following was NOT a part of the three sections of the Rigvedic tribe?",
+   "options": [
+    "Warriors",
+    "Priests",
+    "Ordinary people",
+    "Craftsman"
+   ],
+   "answer": 3,
+   "qid": "630680412438",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "Which of the following statements is/are correct? i. The first green revolution led to over-exploitation of natural resources. ii. The second Green Revolution was more focused on Southern India. iii. The second green revolution ensured in achieving sustainable livelihood security.",
+   "options": [
+    "Only ii",
+    "i and ii",
+    "ii and iii",
+    "i and iii"
+   ],
+   "answer": 3,
+   "qid": "6306801048046",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "In which of the following states of India is Hojagiri dance predominantly performed?",
+   "options": [
+    "Kerala",
+    "Maharashtra",
+    "Tripura",
+    "Himachal Pradesh"
+   ],
+   "answer": 2,
+   "qid": "630680408973",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "A chemical reaction in which the rate of reaction is directly proportional to the first power of the concentration of the reacting substance is called:",
+   "options": [
+    "second order reaction",
+    "first order reaction",
+    "zero order reaction",
+    "third order reaction"
+   ],
+   "answer": 1,
+   "qid": "630680111958",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "Where was the 1st World Cup of Kabaddi organised in 2004?",
+   "options": [
+    "Hyderabad",
+    "Mumbai",
+    "Punjab",
+    "Kolkata"
+   ],
+   "answer": 1,
+   "qid": "630680510814",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "10 years ago, the age of Sunita was thrice the age of her daughter Tanya. 10 years hence, the age of Sunita will be twice the age of Tanya. What is the ratio of their present ages?",
+   "options": [
+    "2 : 7",
+    "7 : 2",
+    "7 : 3",
+    "3 : 7"
+   ],
+   "answer": 2,
+   "qid": "630680285563",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "A thief is noticed by a policeman from a distance of 92 m. The thief starts running and the policeman chases him. The thief and the policeman run at the speed of 90 km/h and 104.4 km/h, respectively. In how much time will the policeman catch the thief?",
+   "options": [
+    "21 seconds",
+    "26 seconds",
+    "22 seconds",
+    "23 seconds"
+   ],
+   "answer": 3,
+   "qid": "630680428622",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "R targets to score 85% marks in exams. He scores 450 marks and misses the target by 35%. How much increment in percentage should be there in his scored marks to meet the target?",
+   "options": [
+    "53",
+    "45",
+    "70",
+    "35"
+   ],
+   "answer": 2,
+   "qid": "630680428056",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680384351",
+   "figures": [
+    {
+     "file": "db57b9c9f91bf6df.png",
+     "w": 328,
+     "h": 188
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "e517923074df417f.png",
+     "w": 23,
+     "h": 38
+    },
+    "1": {
+     "file": "3b27b5c7f220a9c2.png",
+     "w": 15,
+     "h": 39
+    },
+    "2": {
+     "file": "44204111a228adc3.png",
+     "w": 13,
+     "h": 36
+    },
+    "3": {
+     "file": "d03de51ba752fb68.png",
+     "w": 21,
+     "h": 38
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "725",
+    "596",
+    "445",
+    "261"
+   ],
+   "answer": 0,
+   "qid": "630680413475",
+   "figures": [
+    {
+     "file": "0262fca52e50a8cc.png",
+     "w": 240,
+     "h": 59
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "In the following sets, which set represents the sides of a right-angled triangle?",
+   "options": [
+    "{5, 10, 12}",
+    "{3, 4, 6}",
+    "{5, 12, 13}",
+    "{8, 15, 16}"
+   ],
+   "answer": 2,
+   "qid": "630680421383",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "Simplify",
+   "options": [
+    "94",
+    "84",
+    "64",
+    "74"
+   ],
+   "answer": 1,
+   "qid": "630680410447",
+   "figures": [
+    {
+     "file": "400649b1cf57f9cb.png",
+     "w": 215,
+     "h": 13
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "The difference between the simple interests on the principal of ₹500 at an interest rate of 5% per annum for 3 years and 4% per annum for 4 years is:",
+   "options": [
+    "₹15",
+    "₹5",
+    "₹7.5",
+    "₹10"
+   ],
+   "answer": 1,
+   "qid": "63068070431",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "Aman has certain number of notes of denomination ₹20 and ₹10 which amount to ₹390. If the numbers of notes of each kind are interchanged, then the new amount is ₹90 less than before. Find the number of notes of ₹20 denomination.",
+   "options": [
+    "16",
+    "14",
+    "15",
+    "12"
+   ],
+   "answer": 0,
+   "qid": "630680354930",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "Which of the following are the angles of a scalene triangle?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680378671",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "488e05dd30f3a978.png",
+     "w": 87,
+     "h": 15
+    },
+    "1": {
+     "file": "13c9af01d33acc1e.png",
+     "w": 93,
+     "h": 17
+    },
+    "2": {
+     "file": "a9f1b427ea0611b6.png",
+     "w": 88,
+     "h": 16
+    },
+    "3": {
+     "file": "a20aa8d41850ca5b.png",
+     "w": 90,
+     "h": 17
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "14.586",
+    "18.654",
+    "16.584",
+    "15.486"
+   ],
+   "answer": 0,
+   "qid": "630680297304",
+   "figures": [
+    {
+     "file": "b064f50bd4ce3080.png",
+     "w": 328,
+     "h": 32
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "A tank can be filled by pipe A in 4 hours and pipe B in 6 hours. At 8:00 a.m., pipe A was opened. At what time will the tank be filled if pipe B is opened at 9:00 a.m.?",
+   "options": [
+    "10:16 a.m.",
+    "10:22 a.m.",
+    "10:48 a.m.",
+    "10:18 a.m."
+   ],
+   "answer": 2,
+   "qid": "630680493242",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "A triangle ABC is made on a circle, where AB is diameter of the circle. If BC is equal to the radius of the circle and ∠ABC = x ∠BAC, then x is :",
+   "options": [
+    "1",
+    "2.5",
+    "2",
+    "1.5"
+   ],
+   "answer": 2,
+   "qid": "630680421355",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "Amit and Bilal buy goods for ₹1,500 and ₹2,000, respectively. Amit marks his goods up by y%, while Bilal marks his goods up by 2y% and offers a discount of y%. If both make the same profit, then find the value of y.",
+   "options": [
+    "10.5",
+    "12.5",
+    "11.5",
+    "12"
+   ],
+   "answer": 1,
+   "qid": "630680428866",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "30 is the mean proportional of 18 and A. Find the value of A.",
+   "options": [
+    "60",
+    "40",
+    "50",
+    "45"
+   ],
+   "answer": 2,
+   "qid": "630680428477",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680397005",
+   "figures": [
+    {
+     "file": "77cebf1fede61f67.png",
+     "w": 234,
+     "h": 25
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "3d8a901a00a17d5f.png",
+     "w": 17,
+     "h": 24
+    },
+    "1": {
+     "file": "4d27d0b2054e4831.png",
+     "w": 11,
+     "h": 24
+    },
+    "2": {
+     "file": "a4489f3846168a9d.png",
+     "w": 17,
+     "h": 24
+    },
+    "3": {
+     "file": "60f770b8fa9afabb.png",
+     "w": 6,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "Find the length of the longest stick that can be fitted in a cubical vessel of edge 70 cm.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "63068091888",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "7c52a373be063830.png",
+     "w": 57,
+     "h": 22
+    },
+    "1": {
+     "file": "19d25a011528b0f7.png",
+     "w": 57,
+     "h": 20
+    },
+    "2": {
+     "file": "7410742d47f23372.png",
+     "w": 59,
+     "h": 23
+    },
+    "3": {
+     "file": "f042f5694d31e3a1.png",
+     "w": 54,
+     "h": 23
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "A trader offers the following discount schemes on the purchase of a refrigerator. ( I ) a discount of 10% followed by a discount of 8% ( ii ) successive discounts of 12% and 10% ( iii ) two successive discounts of 12% ( iv ) a discount of 20% In which scheme is the selling price the lowest?",
+   "options": [
+    "(i)",
+    "(iv)",
+    "(iii)",
+    "(ii)"
+   ],
+   "answer": 2,
+   "qid": "630680145358",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "For what least value of n, 22n+2n is completely divided by 6, where n is an integer?",
+   "options": [
+    "3",
+    "2",
+    "1",
+    "0"
+   ],
+   "answer": 2,
+   "qid": "630680115939",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "There is a 32 l mixture of milk and water. The ratio of milk and water in this mixture is 5 : 3. How many litres of water should be added to this mixture so that the resultant mixture has 50% water in it?",
+   "options": [
+    "4",
+    "8",
+    "6",
+    "5"
+   ],
+   "answer": 1,
+   "qid": "630680518852",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "60°",
+    "30°",
+    "20°",
+    "90°"
+   ],
+   "answer": 3,
+   "qid": "630680526469",
+   "figures": [
+    {
+     "file": "a66a93dac1cfd731.png",
+     "w": 321,
+     "h": 26
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given table and answer the question that follows. The following table shows the production of printers by four plants of a company over the five years. What is the difference between the average production of plant 1 and plant 2 during five years?",
+   "options": [
+    "1400",
+    "1600",
+    "3000",
+    "3840"
+   ],
+   "answer": 1,
+   "qid": "630680428200",
+   "figures": [
+    {
+     "file": "5b13b9cf01f90e3b.png",
+     "w": 328,
+     "h": 172
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given bar-graph and answer the question that follows. The bar-graph shows the sales of books (in thousands) from six branches (B1, B2, B3, B4, B5 and B6) of a publishing company during two consecutive years 2000 and 2001. What is the ratio of the total sales of branch B2 for both years to the total sales of branch B4 for both years?",
+   "options": [
+    "3 : 5",
+    "7 : 9",
+    "2 : 3",
+    "6 : 7"
+   ],
+   "answer": 1,
+   "qid": "630680428213",
+   "figures": [
+    {
+     "file": "2e2e23af46309d35.png",
+     "w": 319,
+     "h": 211
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "Let x = r cos (t), y = r sin (t) cos (u), z = r sin (t)sin (u). Then the value of x2 + y2 + z2 is ___.",
+   "options": [
+    "2r",
+    "r2 cos (u)",
+    "r2",
+    "r2 sin (t)"
+   ],
+   "answer": 2,
+   "qid": "630680285509",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "The bar graph shows the number of students present in a class on four days. The average number of students present on Monday, Tuesday and Wednesday is:",
+   "options": [
+    "24",
+    "20",
+    "25",
+    "30"
+   ],
+   "answer": 2,
+   "qid": "630680407267",
+   "figures": [
+    {
+     "file": "be9be566ad328323.png",
+     "w": 246,
+     "h": 168
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. (O) attitude is (P) or tendency in individuals (Q) a broad-based behaviour (R) which implies (S) a hypothetical postulate",
+   "options": [
+    "OSRQP",
+    "SQPRO",
+    "OPQRS",
+    "OPSRQ"
+   ],
+   "answer": 0,
+   "qid": "630680377979",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Off and on",
+   "options": [
+    "Now and then",
+    "Know something thoroughly",
+    "Object to",
+    "Remind"
+   ],
+   "answer": 0,
+   "qid": "630680192300",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. The food intolerance industry has grown dramatically in the previous decade, chiefly because of a boost in Coeliac and Crohn’s disease cases, as well as increasing awareness among health-conscious clients.",
+   "options": [
+    "pretty much entirely because of a boil-down",
+    "contextually because of a spark",
+    "owing primarily to a rise",
+    "casually due to a growth"
+   ],
+   "answer": 2,
+   "qid": "630680177246",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. I have booked an apartment in the new residential colony.",
+   "options": [
+    "An apartment had been booked by me in the new residential colony.",
+    "An apartment have been booked by me in the new residential colony.",
+    "An apartment has been booked by me in the new residential colony.",
+    "An apartment is been booked by me in the new residential colony."
+   ],
+   "answer": 2,
+   "qid": "630680415180",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the word in bold. The city has immense coal piers.",
+   "options": [
+    "diminutive",
+    "trifling",
+    "huge",
+    "set"
+   ],
+   "answer": 2,
+   "qid": "630680319158",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Speaking disrespectfully about sacred or religious things.",
+   "options": [
+    "Mystic",
+    "Atheist",
+    "Blasphemy",
+    "Theist"
+   ],
+   "answer": 2,
+   "qid": "630680160079",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Identify the error in the following sentence. Ourselves should not boast of one’s knowledge.",
+   "options": [
+    "Ourselves",
+    "knowledge",
+    "boast",
+    "one’s"
+   ],
+   "answer": 0,
+   "qid": "630680206321",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Given below are four jumbled sentences. Select the option that gives their correct logical sequence. A. These are responsible for producing the major fuel used across the globe. B. The country has 100 major oil and gas fields. C. The economy of Saudi Arabia is based on petroleum. D. The chief oil field is Ghawar Field having an estimated 70 billion reserve resource.",
+   "options": [
+    "CBAD",
+    "ABCD",
+    "BACD",
+    "DCAB"
+   ],
+   "answer": 0,
+   "qid": "630680374762",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate homonyms from the given alternatives to fill in the blanks. The rowing instructor commanded them to ________ in a ________. A.row (verb) B.roe C.row (sequence)",
+   "options": [
+    "A, C",
+    "A, B",
+    "C, A",
+    "B, C"
+   ],
+   "answer": 0,
+   "qid": "630680129395",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined word segment in the given sentence. Sanat has just arrived in Mysore on transfer; he requests his friend Raghu to help him find an appropriate location.",
+   "options": [
+    "a suitable elevation",
+    "a rented accommodation",
+    "a proper junction",
+    "an allocation recommendation"
+   ],
+   "answer": 1,
+   "qid": "630680168512",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "The given sentence is divided into four segments. Select the option that has the segment with a grammatical error. Two of the world’s / best forwards / has played alongside / David Beckham.",
+   "options": [
+    "has played alongside",
+    "best forwards",
+    "Two of the world’s",
+    "David Beckham."
+   ],
+   "answer": 0,
+   "qid": "630680206626",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Brittle",
+   "options": [
+    "Furtive",
+    "Fatal",
+    "Fragile",
+    "Fickle"
+   ],
+   "answer": 2,
+   "qid": "630680130677",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Cherish",
+   "options": [
+    "Neglect",
+    "Afflict",
+    "Nurture",
+    "Breach"
+   ],
+   "answer": 2,
+   "qid": "630680310017",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Adequate",
+   "options": [
+    "Hidden",
+    "Sufficient",
+    "Reconcile",
+    "Evaluate"
+   ],
+   "answer": 1,
+   "qid": "630680167062",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the option that contains all the MISSPELT words in the following sentences. 1. The new restraunt offers a wide variety of delicious dishes. 2. I can't beleive he made such a silly mistake in his presentation. 3. The teacher asked the students to complete the assigment by Friday. 4. She felt utterly embarassed by her colleague’s comments.",
+   "options": [
+    "restraunt, silly, assigment, colleague",
+    "delicious, silly, assigment, colleague",
+    "delicious, beleive, assigment, utterly",
+    "restraunt, beleive, assigment, embarassed"
+   ],
+   "answer": 3,
+   "qid": "630680409947",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. At a low ebb",
+   "options": [
+    "In a critical moment",
+    "In a happy state",
+    "In an unemployed mode",
+    "In a depressed or weak state"
+   ],
+   "answer": 3,
+   "qid": "630680316361",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. The teenager delivered the speech.",
+   "options": [
+    "The speech has been delivered by the teenager.",
+    "The speech was delivered by the teenager.",
+    "The speech was being delivered by the teenager.",
+    "The speech is delivered by the teenager."
+   ],
+   "answer": 1,
+   "qid": "630680206655",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. This book giving us much information about our freedom fighters who lost their lives while serving our motherland.",
+   "options": [
+    "give us much information",
+    "give us many information",
+    "gives us much information",
+    "gives us many information"
+   ],
+   "answer": 2,
+   "qid": "630680156309",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the correctly spelt word to fill in the blank. My mother said that every relationship must have some amount of ___________.",
+   "options": [
+    "flexebelity",
+    "flexibility",
+    "phlexibility",
+    "flaxibilety"
+   ],
+   "answer": 1,
+   "qid": "630680374780",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Material",
+   "options": [
+    "Cheap",
+    "Temporary",
+    "Abstract",
+    "Concrete"
+   ],
+   "answer": 2,
+   "qid": "630680395156",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.\n\nSelect the most appropriate option to fill in blank number 1.",
+   "options": [
+    "to create",
+    "create",
+    "creating",
+    "creation"
+   ],
+   "answer": 2,
+   "qid": "630680162876",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.\n\nSelect the most appropriate option to fill in blank number 2.",
+   "options": [
+    "was",
+    "were",
+    "are",
+    "is"
+   ],
+   "answer": 2,
+   "qid": "630680162877",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.\n\nSelect the most appropriate option to fill in blank number 3.",
+   "options": [
+    "in",
+    "for",
+    "with",
+    "on"
+   ],
+   "answer": 2,
+   "qid": "630680162878",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.\n\nSelect the most appropriate option to fill in blank number 4.",
+   "options": [
+    "transmit",
+    "transmitted",
+    "transmits",
+    "transmitting"
+   ],
+   "answer": 0,
+   "qid": "630680162879",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.\n\nSelect the most appropriate option to fill in blank number 5.",
+   "options": [
+    "should not be restricted",
+    "should be restricted",
+    "should restricted",
+    "restrict"
+   ],
+   "answer": 0,
+   "qid": "630680162880",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

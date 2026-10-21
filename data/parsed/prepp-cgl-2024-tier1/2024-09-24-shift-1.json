@@ -1,0 +1,1747 @@
+{
+ "meta": {
+  "layout": "typed",
+  "tier": 1,
+  "year": 2024,
+  "shift": 1,
+  "answerSource": "typed-key",
+  "date": "2024-09-24",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_Tier_1_Shift_1_Question_Paper_with_Answer_Key_PDF_Sept_24_2024__d39711d2482d2617ebf7c5cb723e300a.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. _TUVTR_WU_UXVN_Y",
+   "options": [
+    "SUUP",
+    "SUPU",
+    "SVUP",
+    "PSVU"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: All spoons are forks. All forks are knives. No knife is a spatula. Conclusions: I. Some knives are spoons. II. No fork is a spatula. III. Some spoons are spatulas.",
+   "options": [
+    "Only conclusions I and II follow",
+    "Neither conclusion follows",
+    "Only conclusion III follows",
+    "Only conclusion I follows"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from the given options to complete the series. 32, 36, 44, 56, 72, ___",
+   "options": [
+    "92",
+    "90",
+    "98",
+    "80"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘-’ are interchanged and ‘×’ and ‘÷’ are interchanged? 125 ÷ 5 + 1809 × 9 - 14 = ?",
+   "options": [
+    "384",
+    "438",
+    "483",
+    "348"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the triad in which the numbers are related in the same way as are the numbers of the given triads. (8, 9, 7), (24, 13, 35) (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "(17, 11, 23)",
+    "(21, 12, 32)",
+    "(11, 15, 19)",
+    "(28, 19, 56)"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘RX-21’ is related to ‘UU-11’ in a certain way. In the same way, ‘PM-39’ is related to ‘SJ-29’. To which of the following is DP-17 related, following the same logic?",
+   "options": [
+    "GM-7",
+    "GM-10",
+    "HO-10",
+    "HN-7"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'PUPIL' is written as '162116912' and 'PURGE’ is written as '16211875'. How will 'PURSE' be written in that language?",
+   "options": [
+    "126118195",
+    "162118159",
+    "162111895",
+    "162118195"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which figure should replace the question mark (?) if the following series were to be continued?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "da6d7b76280aaa6f.png",
+     "w": 253,
+     "h": 52
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d8139dbeb057c630.png",
+     "w": 52,
+     "h": 52
+    },
+    "1": {
+     "file": "3af1b9788cf6bee4.png",
+     "w": 52,
+     "h": 52
+    },
+    "2": {
+     "file": "239f2d32af9ffa69.png",
+     "w": 52,
+     "h": 52
+    },
+    "3": {
+     "file": "aa6ebadac817b238.png",
+     "w": 52,
+     "h": 52
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘÷’ are interchanged and ‘×’ and ‘-’ are interchanged? 20 + 4 ÷ 2 × 3 - 6 = ?",
+   "options": [
+    "2",
+    "-7",
+    "-11",
+    "-9"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the figureamong the given option that can replace the question mark (?) in the following series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "453b00206f5295e3.png",
+     "w": 295,
+     "h": 52
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "c0d19f1f0a0522c5.png",
+     "w": 52,
+     "h": 52
+    },
+    "1": {
+     "file": "cf73ae9138ee48ae.png",
+     "w": 52,
+     "h": 52
+    },
+    "2": {
+     "file": "56c81a19f5e39562.png",
+     "w": 52,
+     "h": 52
+    },
+    "3": {
+     "file": "06ca1f2b445c5daa.png",
+     "w": 52,
+     "h": 52
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six words ‘Eat’, ‘Play’, ‘Cry’, ‘Sleep’, ‘Dance’ and ‘Run’ are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the word on the face opposite to ‘Eat’.",
+   "options": [
+    "Cry",
+    "Play",
+    "Dance",
+    "Sleep"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "3f7268bb7d5cf262.png",
+     "w": 138,
+     "h": 72
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged if each of the letters in the word ‘DELIGHT’ is arranged in the English alphabetical order?",
+   "options": [
+    "one",
+    "none",
+    "two",
+    "three"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Directions: Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: Some Mirrors are Decoratives. No Decorative is a Plant. All Plants are Trees. Conclusions: (I) Some Mirrors are Plants. (II) Some Decoratives are Trees.",
+   "options": [
+    "Only conclusion (II) follows.",
+    "Both conclusions (I) and (II) follow.",
+    "Only conclusion (I) follows.",
+    "Neither conclusion (I) nor (II) follows."
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "0b846961b1c47383.png",
+     "w": 130,
+     "h": 72
+    },
+    {
+     "file": "9d92734ec152345b.png",
+     "w": 100,
+     "h": 19
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "a2d58a199368584b.png",
+     "w": 101,
+     "h": 19
+    },
+    "1": {
+     "file": "9d92734ec152345b.png",
+     "w": 100,
+     "h": 19
+    },
+    "3": {
+     "file": "842215a69f0c56f9.png",
+     "w": 102,
+     "h": 21
+    }
+   },
+   "incomplete": true
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "5131266547d72e07.png",
+     "w": 112,
+     "h": 72
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "abaf0b52ad317924.png",
+     "w": 94,
+     "h": 19
+    },
+    "1": {
+     "file": "ec45962bb0f94af8.png",
+     "w": 94,
+     "h": 19
+    },
+    "2": {
+     "file": "98070672276e1ed2.png",
+     "w": 94,
+     "h": 19
+    },
+    "3": {
+     "file": "41171f50d9a1d8b7.png",
+     "w": 94,
+     "h": 19
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six letters M, N, O, P, Q and R are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the letter on the face opposite to O.",
+   "options": [
+    "R",
+    "M",
+    "Q",
+    "P"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "fed88dcb7ee0c4c8.png",
+     "w": 159,
+     "h": 78
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘LIGHT’ is coded as ‘25709’ and ‘SIGHT’ is coded as ‘97065’. What is the code for ‘S’ in that language?",
+   "options": [
+    "7",
+    "6",
+    "0",
+    "2"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following four options are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "12 – 122 – 99",
+    "89 – 212 – 34",
+    "23 – 84 – 38",
+    "58 – 139 – 23"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option in which the numbers share the same relationship as that shared by the given pair of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) 33 : 340 48 : 490",
+   "options": [
+    "31 : 279",
+    "44 : 460",
+    "63 : 640",
+    "27 : 270"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the figure given below?",
+   "options": [
+    "12",
+    "11",
+    "13",
+    "10"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "db7a2c86f85f2cbc.png",
+     "w": 76,
+     "h": 143
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster. LOI : QTN :: VES : AJX :: AND : ?",
+   "options": [
+    "FSJ",
+    "FTI",
+    "FTJ",
+    "FSI"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different. The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.",
+   "options": [
+    "CBE",
+    "NMP",
+    "UTW",
+    "LKM"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following letter-clusters will replace the question mark (?) in the given series to make it logically complete? TGO, VIN, XKM, ZML, ?",
+   "options": [
+    "BOK",
+    "XKO",
+    "BOM",
+    "BNN"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "61 is related to 18 following a certain logic. Following the same logic, 213 is related to 38. To which of the following is 509 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "66",
+    "78",
+    "64",
+    "12"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "If A is the sister of B, C is the daughter of A, D is the sister of A and E is the brother of C. How is D related to E?",
+   "options": [
+    "Mother’s father",
+    "Mother’s brother",
+    "Mother’s sister",
+    "Mother’s mother"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 26,
+   "section": "General Awareness",
+   "question": "AR Rehman, Gulzar and _____ won the 52nd annual Grammy Award for the best motion picture song ‘Jai ho’.",
+   "options": [
+    "Danny Boyle",
+    "Tanvi Shah",
+    "Dev Patel",
+    "Freida Pinto"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 27,
+   "section": "General Awareness",
+   "question": "Raziya Sultan was the first and only female ruler of the Sultanate, who ascended the throne in:",
+   "options": [
+    "1238 AD",
+    "1236 AD",
+    "1241 AD",
+    "1242 AD"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 28,
+   "section": "General Awareness",
+   "question": "By which National Waterways (NW) of India, are the delta channels of Mahanadi and Brahmani rivers and East Coast Canal connected?",
+   "options": [
+    "NW 1",
+    "NW 3",
+    "NW 2",
+    "NW 5"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 29,
+   "section": "General Awareness",
+   "question": "The Working Group under the chairmanship of __________ in the year_________ proposed a new intermediate monetary aggregate to be referred to as NM2.",
+   "options": [
+    "Dr. C Rangarajan; 1996",
+    "Dr. YV Reddy; 1998",
+    "Dr. KV Kamath; 1995",
+    "Dr. PK Mohanty; 1998"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 30,
+   "section": "General Awareness",
+   "question": "In which state of India is the Tadoba National Park located?",
+   "options": [
+    "Maharashtra",
+    "Gujarat",
+    "Madhya Pradesh",
+    "Kerala"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 31,
+   "section": "General Awareness",
+   "question": "Which fundamental duty applies to you when you see your college friends start fighting with the canteen person when he passed a few anti-religious statements?",
+   "options": [
+    "To promote harmony and spirit of brotherhood",
+    "To value and preserve the rich heritage",
+    "To develop the scientific temper, humanism, and the spirit of inquiry",
+    "To protect and improve our natural environment"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 32,
+   "section": "General Awareness",
+   "question": "When was the All India Trade Union Congress (AITUC) established?",
+   "options": [
+    "1926",
+    "1924",
+    "1928",
+    "1920"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 33,
+   "section": "General Awareness",
+   "question": "Who founded the Arya Samaj in Mumbai in 1875?",
+   "options": [
+    "Swami Dayanand Saraswati",
+    "Debendranath Tagore",
+    "Swami Vivekanand",
+    "Raja Ram Mohan Roy"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 34,
+   "section": "General Awareness",
+   "question": "By which of the following methods do red algae reproduce?",
+   "options": [
+    "Grafting",
+    "Cutting",
+    "Micropropagation",
+    "Fragmentation"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 35,
+   "section": "General Awareness",
+   "question": "Who is called the father of Local Self-Government in India?",
+   "options": [
+    "Lord Cornwallis",
+    "Lord Wellesley",
+    "Lord Ripon",
+    "Lord William Bentinck"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 36,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT a physical change?",
+   "options": [
+    "Heating of iron rod to red hot",
+    "Curdling of milk",
+    "Evaporation of diesel",
+    "Sublimation of NH4Cl"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 37,
+   "section": "General Awareness",
+   "question": "Who among the following Indian cricketers were named the Wisden’s cricketer of the year in the 2022 edition of the Almanack?",
+   "options": [
+    "Surya Kumar Yadav and Axar Patel",
+    "Virat Kohli and Bhuvneshwar Kumar",
+    "Rohit Sharma and Jasprit Bumrah",
+    "Rohit Sharma and Virat Kohli"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 38,
+   "section": "General Awareness",
+   "question": "Which of the following is responsible for the red colour of beetroot?",
+   "options": [
+    "Cursumin",
+    "Betanin",
+    "Lycopene",
+    "Beta cryteone"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 39,
+   "section": "General Awareness",
+   "question": "According to the Census of India 2011, which group of Union Territories has the highest density of population?",
+   "options": [
+    "Lakshadweep, Daman and Diu and Puducherry",
+    "Delhi, Chandigarh and Daman and DiuLakshadweep, Daman and Diu and Chandigarh",
+    "Lakshadweep, Daman and Diu and Chandigarh",
+    "Delhi, Chandigarh and Puducherry"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 40,
+   "section": "General Awareness",
+   "question": "Which Article deals with the election of the President?",
+   "options": [
+    "Article 72",
+    "Article 54",
+    "Article 74",
+    "Artcle 66"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 41,
+   "section": "General Awareness",
+   "question": "Identify an example of plasma as a state of matter.",
+   "options": [
+    "Blood",
+    "Dry ice",
+    "Freon",
+    "Neon sign bulbs"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 42,
+   "section": "General Awareness",
+   "question": "Classical Sarod player, Amjad Ali Khan was awarded ____________ in 2001 by the Government of India.",
+   "options": [
+    "Bharat Ratna",
+    "Padma Shri",
+    "Padma Vibhushan",
+    "Padma Bhushan"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 43,
+   "section": "General Awareness",
+   "question": "Which of the following statements is correct?",
+   "options": [
+    "Pond water and sea water are considered as fresh water.",
+    "Sea water is freshwater habitat.",
+    "Rivers and sea water are considered as fresh water",
+    "Rivers, creeks, lakes, ponds, and streams are all freshwater habitats."
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 44,
+   "section": "General Awareness",
+   "question": "Mahendravarman I who wrote Mattavilasa-prahasana is related to which of the following ruling dynasties?",
+   "options": [
+    "Maitraka",
+    "Pallava",
+    "Pushyabhuti",
+    "Chalukya"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 45,
+   "section": "General Awareness",
+   "question": "Who is considered the highest law officer of the state in India?",
+   "options": [
+    "Advocate general",
+    "Attorney general",
+    "Chief justice of high court",
+    "Auditor general"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 46,
+   "section": "General Awareness",
+   "question": "Which of the following Constitution Amendment Bills is related to the provision of modifying the list of Scheduled Caste in Tamil Nadu?",
+   "options": [
+    "The Constitution (Scheduled Tribes) Order (Amendment) Bill, 2019",
+    "The Constitution (Scheduled Tribes) Order Amendment Act, 2013",
+    "The Constitution (Scheduled Caste) Order (Amendment) Bill, 2015",
+    "The Constitution (Scheduled Castes) Order (Amendment) Bill, 2021"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 47,
+   "section": "General Awareness",
+   "question": "What is the primary benefit offered to businesses in Special Economic Zones (SEZs)?",
+   "options": [
+    "Tax and duty concessions",
+    "Guaranteed market share",
+    "Mandatory government contracts",
+    "Unlimited foreign investment"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 48,
+   "section": "General Awareness",
+   "question": "Which of the following countries will host the ICC men’s Cricket World Cup in the year 2031?",
+   "options": [
+    "India , Bangladesh",
+    "Sri Lanka, India",
+    "Sri Lanka and pakisthan",
+    "Sri Lanka and bangladesh"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 49,
+   "section": "General Awareness",
+   "question": "By what name is the festival of Makar Sankranti celebrated in Assam?",
+   "options": [
+    "pedda pedunga",
+    "Thai pongal",
+    "Pongal",
+    "Magh Bihu"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 50,
+   "section": "General Awareness",
+   "question": "Which of the following terms is related to football?",
+   "options": [
+    "Third man",
+    "Bicycle kick",
+    "Overs",
+    "LBW"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 51,
+   "section": "Quantitative Aptitude",
+   "question": "PQ is the diameter of a circle with centre A. M is a point on the circle. If m∠MAP = 110°, then find the value of m∠MQA.",
+   "options": [
+    "55°",
+    "35°",
+    "65°",
+    "70°"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 52,
+   "section": "Quantitative Aptitude",
+   "question": "ΔABC and ΔPQR are respectively congruent. If AB = 8 = PQ, BC = 10 = QR, and ∠B = 35° then what is the value of ∠P + ∠C?",
+   "options": [
+    "145°",
+    "130°",
+    "160°",
+    "120° 3"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 53,
+   "section": "Quantitative Aptitude",
+   "question": "The volume of a right circular cylindrical box of radius 30 cm is 600 cm . Find the height of the box.",
+   "options": [
+    "0.61 cm",
+    "0.31 cm",
+    "0.51 cm",
+    "0.21 cm"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 54,
+   "section": "Quantitative Aptitude",
+   "question": "The radius of a circle is 12.5 cm and the length of one its chords is 11 cm. What is the distance of the chord from the centre? (correct to one decimal place)",
+   "options": [
+    "11.2 cm",
+    "13.2 cm",
+    "10 cm",
+    "12 cm"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 55,
+   "section": "Quantitative Aptitude",
+   "question": "The marked price of a revolving chair is ₹15,000. It is available on two successive discounts of 20% and 12%. What is its selling price (in ₹)?",
+   "options": [
+    "9,560",
+    "10,560",
+    "9,230",
+    "10,230"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 56,
+   "section": "Quantitative Aptitude",
+   "question": "Samreen sells a keyboard for ₹1,260 at a profit of 25%, and another keyboard for ₹1,440 at a loss of 10%. What is her total gain or loss percentage?",
+   "options": [
+    "386163 % loss , 31127",
+    "% gain ,",
+    "31127 % loss ,",
+    "386163 % gain ,"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 57,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given table and answer the question. Rice Wheat Pulses Vegetables Year gm/day gm/day gm/day gm/day 2019 450 55 160 280 2020 430 60 150 300 2021 380 65 140 320 2022 350 70 125 400 2023 350 80 120 350 For which year is the daily consumption equal to that of another given year?",
+   "options": [
+    "2019 and 2022",
+    "2019 and 2023",
+    "2021 and 2023",
+    "2020 and 2022"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 58,
+   "section": "Quantitative Aptitude",
+   "question": "A, B and C invested money in a business such that 2 times A's share, 4 times B's share and 6 times C's share are all equal. If they earned ₹44,000, find the share of A.",
+   "options": [
+    "₹22,000",
+    "₹12,000",
+    "₹24,000",
+    "₹20,000"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 59,
+   "section": "Quantitative Aptitude",
+   "question": "The given table shows the percentage of students passing out of college M over five years. Years College M 2018 68 2019 72 2020 40 2021 80 2022 92 What is the percentage increase in the number of students passing out of college M in the year 2022 as compared to the previous year?",
+   "options": [
+    "10%",
+    "25%",
+    "15%",
+    "20%"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 60,
+   "section": "Quantitative Aptitude",
+   "question": "Find the value of 11 - {(11 ÷ 4) of 8 - 4 - 8 }.",
+   "options": [
+    "2",
+    "3",
+    "1",
+    "-1"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 61,
+   "section": "Quantitative Aptitude",
+   "question": "Simplyfiy the following expression. (3x + 17 - 2y) (3x - 17 - 2y)",
+   "options": [
+    "9x2 −12xy +4y2 +289",
+    "9x2 +12xy +4y2 −289",
+    "9x2 −12xy +4y2 −289",
+    "9x2 −6xy +4y2 −289"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 62,
+   "section": "Quantitative Aptitude",
+   "question": "A thief is spotted by a policeman from a distance of 100 m. The thief starts running and the policeman chases him. If the speed of thief and policeman are 21 km/h and 23 km/h, respectively, then how far will the thief have to run before he is over taken?",
+   "options": [
+    "1020 m",
+    "1050 m",
+    "1090 m",
+    "1280 m"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 63,
+   "section": "Quantitative Aptitude",
+   "question": "In what ratio, sugar costing ₹78 per kg be mixed with sugar costing ₹46 per kg such that by selling the mixture at ₹75 per kg there is a gain of 20%?",
+   "options": [
+    "33 : 37",
+    "31 : 29",
+    "37 : 31",
+    "33 : 31"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 64,
+   "section": "Quantitative Aptitude",
+   "question": "The present age of Amit's father is 6 times Amit's age. After 6 years, his age will be three and a half times Amit's age. So how many times will his father's age be after 15 years from Amit's age \\r\\n",
+   "options": [
+    "234 , \\r\\n 214",
+    ", \\r\\n",
+    "327 , \\r\\n",
+    "237 , \\r\\n Company A Company B Company C"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 65,
+   "section": "Quantitative Aptitude",
+   "question": "Years Expenditure Profit Expenditure Profit Expenditure Profit 2002 24 50% 20 40% 40 45% 2003 30 45% 15 25% 50 55% 2004 36 40% 25 35% 60 65% 2005 40 60% 35 48% 80 75% Calculate the difference between profit A and profit B.",
+   "options": [
+    "7.2",
+    "12.4",
+    "10.5",
+    "8.3"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 66,
+   "section": "Quantitative Aptitude",
+   "question": "What conclusion can be drawn about the solution of the following system of linear equations in two variables: 3x + 2y = 7 2x + 3y = 7",
+   "options": [
+    "No solution",
+    "Unique Solution",
+    "Infinite solution",
+    "one and more than two solution"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 67,
+   "section": "Quantitative Aptitude",
+   "question": "Triangle XYZ is an isosceles triangle with sides XY = XZ. If the measure of angle Y is 80°, what is the measure of angle X?",
+   "options": [
+    "30",
+    "40",
+    "20",
+    "50"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 68,
+   "section": "Quantitative Aptitude",
+   "question": "If sin3A = cos(A - 26°), then A _____________ where 3A is an acute angle.",
+   "options": [
+    "15",
+    "29",
+    "45",
+    "60 2"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 69,
+   "section": "Quantitative Aptitude",
+   "question": "if 2sin θ + 3sin θ - 2 = 0, (0 > θ > 90° ) then the value of θ is :",
+   "options": [
+    "15°",
+    "30°",
+    "60°",
+    "45°"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 70,
+   "section": "Quantitative Aptitude",
+   "question": "In an election between two candidates, 80% of the voters cast their votes, out of which 4% votes were declared invalid. A candidate got 15,360 votes which were 80% of the valid votes. Find the total number of votes.",
+   "options": [
+    "20000",
+    "18000",
+    "25000",
+    "23000"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 71,
+   "section": "Quantitative Aptitude",
+   "question": "Find the greatest value of ‘k’ in a 6-digit number 6745k2 such that the number is divisible by 3.",
+   "options": [
+    "8",
+    "6",
+    "9",
+    "7"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 72,
+   "section": "Quantitative Aptitude",
+   "question": "One pipe can fill a tank 6 times faster than another pipe. If both the pipes together can fill the tank in 40 minutes, then in how many minutes will the slower pipe alone be able to fill the tank?",
+   "options": [
+    "275",
+    "285",
+    "290",
+    "280"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 73,
+   "section": "Quantitative Aptitude",
+   "question": "In how much time (in years, rounded off to 2 decimal places) will ₹10,800 amount to ₹24,800 if invested at simple interest at the rate of 15.5% per annum?",
+   "options": [
+    "7.72",
+    "8.36",
+    "9.54",
+    "6.89"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 74,
+   "section": "Quantitative Aptitude",
+   "question": "The below figure shows the estimated expenses of a family whose total estimated expenditure was Rs. 2,50,000. Study the figure and answer the question that follows. It was found that the actual expenditure on electricity was 10% more than the estimated expenditure, and the actual expenditure on rent was 20% less than estimated. All other expenses were same as that of the estimates. What was the total actual expenditure?",
+   "options": [
+    "₹2,52,500",
+    "₹2,40,750",
+    "₹2,43,750",
+    "₹2,48,750"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "5e74fb476610f0f1.png",
+     "w": 428,
+     "h": 293
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 75,
+   "section": "Quantitative Aptitude",
+   "question": "If secθ = 2 , then is cosecθ equal to:",
+   "options": [
+    "0",
+    "2",
+    "-1",
+    "1"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 76,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the underlined word in the following sentence. It was difficult to accommodate the avariciousness of the people.",
+   "options": [
+    "Generosity",
+    "Criticism",
+    "Hatred",
+    "Envy"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 77,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. He has written a best-selling novel.",
+   "options": [
+    "A best-selling novel was being written by him.",
+    "A best-selling novel has been written by him.",
+    "A best-selling novel was written by him.",
+    "A best-selling novel would have been written by him."
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 78,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. P) her face Q) I have R) for a year S) not seen",
+   "options": [
+    "PQRS",
+    "PSQR",
+    "SPQR",
+    "QSPR"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 79,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word from the following sentence. Barren \"Can you believe how much traffic there is today?\", grumbled Tom, glancing at the congested road ahead.",
+   "options": [
+    "Believe",
+    "Grumbled",
+    "Glancing",
+    "Congested"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 80,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined word segment in the given sentence. A herd of cattle consists of related females, cubs, and a small number of adult males.",
+   "options": [
+    "pride of lions",
+    "pack of wolves",
+    "school of fish",
+    "flock of birds"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 81,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate idiom for the given group of words. A time when money might unexpectedly be needed",
+   "options": [
+    "A rainy day",
+    "A raw deal",
+    "A rash of something",
+    "A rap over the knuckles"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 82,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A person who does not believe in God",
+   "options": [
+    "Amateur",
+    "Anarchy",
+    "Autocrat",
+    "Atheist"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 83,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Measerement",
+    "Region",
+    "Confidential",
+    "Strengths"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 84,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined word in the given sentence. I saw a shabby looking man living in the cavity of a mountain.",
+   "options": [
+    "elevation",
+    "height",
+    "mound",
+    "hole"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 85,
+   "section": "English Comprehension",
+   "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph. A. The door of the flat was ajar. B. The taxi stopped. C. Mr. Satterthwaite flung himself out and raced up the stone stairs to the second floor like a young athlete. D. He pushed it open, and the great voice welcomed him.",
+   "options": [
+    "BACD",
+    "ABCD",
+    "BCAD",
+    "DCBA"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 86,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. He wrote an inspiring speech for the event.",
+   "options": [
+    "An inspiring speech was being written by him for the event",
+    "An inspiring speech was written by him for the event.",
+    "An inspiring speech is written by him for the event.",
+    "An inspiring speech has been written by him for the event."
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 87,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. It is nothing else your pride which makes you say such a thing.",
+   "options": [
+    "else your pride that makes",
+    "else your pride which make",
+    "else but your pride which make",
+    "else but your pride which makes"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 88,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the underlined word in the given sentence. This is a clear example of conflict of egos.",
+   "options": [
+    "clash",
+    "mingling",
+    "infliction",
+    "crash"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 89,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. Mr. Adhil called back but he wasn’t able to find the scooter part he needed.",
+   "options": [
+    "called down but he wasn’t able to",
+    "called off but he wasn’t able to",
+    "called around but he wasn’t able to",
+    "called up to but he wasn’t able to"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 90,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined idiom in the following sentence. Instead of confusing others, let us call a spade a spade in front of the audience.",
+   "options": [
+    "Pretend superiority",
+    "Remain silent",
+    "Speak truthfully",
+    "Be at strife"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 91,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Connoisseur",
+    "Neccessary",
+    "Privilege",
+    "Dilemma"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 92,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate phrasal verb to fill in the blank. We need to __________ a solution to this problem before it gets worse.",
+   "options": [
+    "cut down on",
+    "break down",
+    "break up",
+    "come up with"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 93,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined word in the given sentence. This building is colossal and it can hold a village’s population in it.",
+   "options": [
+    "very huge",
+    "temporary",
+    "very beautiful",
+    "puny"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 94,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Maverick",
+   "options": [
+    "Conformist",
+    "Orthodox",
+    "Bohemian",
+    "Follower"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 95,
+   "section": "English Comprehension",
+   "question": "Identify the error in the given sentence. Camels tend to move slowly than other domestic animals in the plains.",
+   "options": [
+    "domestic animals in the plains.",
+    "than other",
+    "move slowly",
+    "Camels tend to"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 96,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The mathematician Federico Ardila-Mantilla grew up in Colombia, an (1) ______________ student but gifted in math. He was failing most of his classes at his high school in Bogotá when someone (2) _______________ him to apply to MIT. He had not heard of the school. To his surprise, he got in, and he went on scholarship. Mathematically, he did well. One of his professors, an acid-tongued theoretician known to (3) ____________ his audience to a herd of cows, routinely tucked ‘open’ math problems into homework assignments, without telling the students. These had never been solved by anyone. Ardila solved one. He went on to receive his bachelor’s and Ph.D. in math from MIT. But his academic experience was also one of isolation. Part of it had to do with his own (4) _____________. Part of it was cultural. As a Latino, he was very much in the minority in the department, and he did not feel comfortable in American mathematical spaces. No one had tried to explicitly (5) ______________ him, yet he felt alone. In math, collaborating with others opens up new kinds of learning and thinking. But in his nine years at MIT, Ardila worked with others only twice. Select the most appropriate option to fill in blank no. 1.",
+   "options": [
+    "apprehensive",
+    "apologetic",
+    "indifferent",
+    "excellent"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 97,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The mathematician Federico Ardila-Mantilla grew up in Colombia, an (1) ______________ student but gifted in math. He was failing most of his classes at his high school in Bogotá when someone (2) _______________ him to apply to MIT. He had not heard of the school. To his surprise, he got in, and he went on scholarship. Mathematically, he did well. One of his professors, an acid-tongued theoretician known to (3) ____________ his audience to a herd of cows, routinely tucked ‘open’ math problems into homework assignments, without telling the students. These had never been solved by anyone. Ardila solved one. He went on to receive his bachelor’s and Ph.D. in math from MIT. But his academic experience was also one of isolation. Part of it had to do with his own (4) _____________. Part of it was cultural. As a Latino, he was very much in the minority in the department, and he did not feel comfortable in American mathematical spaces. No one had tried to explicitly (5) ______________ him, yet he felt alone. In math, collaborating with others opens up new kinds of learning and thinking. But in his nine years at MIT, Ardila worked with others only twice. Select the most appropriate option to fill in blank no. 2",
+   "options": [
+    "dissuaded",
+    "suggested",
+    "removed",
+    "dispirited"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 98,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The mathematician Federico Ardila-Mantilla grew up in Colombia, an (1) ______________ student but gifted in math. He was failing most of his classes at his high school in Bogotá when someone (2) _______________ him to apply to MIT. He had not heard of the school. To his surprise, he got in, and he went on scholarship. Mathematically, he did well. One of his professors, an acid-tongued theoretician known to (3) ____________ his audience to a herd of cows, routinely tucked ‘open’ math problems into homework assignments, without telling the students. These had never been solved by anyone. Ardila solved one. He went on to receive his bachelor’s and Ph.D. in math from MIT. But his academic experience was also one of isolation. Part of it had to do with his own (4) _____________. Part of it was cultural. As a Latino, he was very much in the minority in the department, and he did not feel comfortable in American mathematical spaces. No one had tried to explicitly (5) ______________ him, yet he felt alone. In math, collaborating with others opens up new kinds of learning and thinking. But in his nine years at MIT, Ardila worked with others only twice. Select the most appropriate option to fill in blank no. 3",
+   "options": [
+    "compare",
+    "malign",
+    "strangulate",
+    "differentiate"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 99,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The mathematician Federico Ardila-Mantilla grew up in Colombia, an (1) ______________ student but gifted in math. He was failing most of his classes at his high school in Bogotá when someone (2) _______________ him to apply to MIT. He had not heard of the school. To his surprise, he got in, and he went on scholarship. Mathematically, he did well. One of his professors, an acid-tongued theoretician known to (3) ____________ his audience to a herd of cows, routinely tucked ‘open’ math problems into homework assignments, without telling the students. These had never been solved by anyone. Ardila solved one. He went on to receive his bachelor’s and Ph.D. in math from MIT. But his academic experience was also one of isolation. Part of it had to do with his own (4) _____________. Part of it was cultural. As a Latino, he was very much in the minority in the department, and he did not feel comfortable in American mathematical spaces. No one had tried to explicitly (5) ______________ him, yet he felt alone. In math, collaborating with others opens up new kinds of learning and thinking. But in his nine years at MIT, Ardila worked with others only twice. Select the most appropriate option to fill in blank no. 4.",
+   "options": [
+    "introversion",
+    "molestation",
+    "quantification",
+    "interrogation"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 100,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The mathematician Federico Ardila-Mantilla grew up in Colombia, an (1) ______________ student but gifted in math. He was failing most of his classes at his high school in Bogotá when someone (2) _______________ him to apply to MIT. He had not heard of the school. To his surprise, he got in, and he went on scholarship. Mathematically, he did well. One of his professors, an acid-tongued theoretician known to (3) ____________ his audience to a herd of cows, routinely tucked ‘open’ math problems into homework assignments, without telling the students. These had never been solved by anyone. Ardila solved one. He went on to receive his bachelor’s and Ph.D. in math from MIT. But his academic experience was also one of isolation. Part of it had to do with his own (4) _____________. Part of it was cultural. As a Latino, he was very much in the minority in the department, and he did not feel comfortable in American mathematical spaces. No one had tried to explicitly (5) ______________ him, yet he felt alone. In math, collaborating with others opens up new kinds of learning and thinking. But in his nine years at MIT, Ardila worked with others only twice. Select the most appropriate option to fill in blank no. 5.",
+   "options": [
+    "exclude",
+    "fabricate",
+    "incorporate",
+    "stratify Answers"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

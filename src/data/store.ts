@@ -6,6 +6,8 @@ import metaJson from './meta.json';
 import { createEngine } from '@/search/engine';
 import { SECTIONS } from '@/config';
 
+export type FigureRef = { file: string; w: number; h: number };
+
 export type Question = {
   id: number;
   slug: string;
@@ -17,9 +19,16 @@ export type Question = {
   shift: number | null;
   q: string;
   options: string[];
-  answer: number;
+  // null until an answer is confirmed; 'ssc-key' is SSC's own final key.
+  answer: number | null;
+  answerSource: 'ssc-key' | 'typed-key' | null;
   solution: string;
+  figures: FigureRef[];
+  // Keyed by option index ("0".."3") for options that are images.
+  optionFigures: Record<string, FigureRef>;
 };
+
+export const hasFigures = (q: Question) => q.figures.length > 0 || Object.keys(q.optionFigures).length > 0;
 
 export type Topic = { section: string; slug: string; label: string; count: number };
 

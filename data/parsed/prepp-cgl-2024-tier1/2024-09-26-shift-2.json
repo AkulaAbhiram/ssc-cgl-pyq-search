@@ -1,0 +1,1940 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-26",
+  "time": "12:30 PM - 1:30 PM",
+  "shift": 2,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_26_Tier_1_English_Question_Paper_and_Answer_Key_Shift_2__d79d99d8176bf2ca7c1538a2b3aeb12d.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. ABC_FG_JK_MOPQ_TUV_Y",
+   "options": [
+    "DHLRW",
+    "DHLSX",
+    "EHLRX",
+    "EHLRW"
+   ],
+   "answer": 3,
+   "qid": "630680222415",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘FUTURE’ is written as ‘IXWXUH’ and ‘ISLAND’ is written as ‘LVODQG’. How will ‘JERSEY’ be written in that language?",
+   "options": [
+    "KHTUHA",
+    "MHTVGB",
+    "MHUVHB",
+    "KGTVGA"
+   ],
+   "answer": 2,
+   "qid": "630680172752",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusion(s) logically follow(s) from the given statements. Statements: All Grapes are Berries. Some Berries are Juices. All Juices are Sodas. Conclusions: (I) Some Berries are Grapes. (II) Some Sodas are Berries.",
+   "options": [
+    "Only conclusion (I) follows",
+    "Only conclusion (II) follows",
+    "Both the conclusions (I) and (II) follow",
+    "Both the conclusions (I) and (II) do not follow"
+   ],
+   "answer": 2,
+   "qid": "630680403884",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure in which the given figure (X) is embedded (rotation is NOT allowed).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680332539",
+   "figures": [
+    {
+     "file": "594ccd6fbf917078.png",
+     "w": 102,
+     "h": 114
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "3ba69db0b69e4961.png",
+     "w": 97,
+     "h": 98
+    },
+    "1": {
+     "file": "41ae4bfe4ee79e49.png",
+     "w": 97,
+     "h": 97
+    },
+    "2": {
+     "file": "70e947dc730922cd.png",
+     "w": 101,
+     "h": 101
+    },
+    "3": {
+     "file": "d9afe06b947eb3bb.png",
+     "w": 98,
+     "h": 98
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Each of the letters in the word ‘DARKEN’ is arranged in the English alphabetical order. How many letters are there in the English alphabetical series between the letter which is second from the left end and the one which is third from the right end in the new letter-cluster thus formed?",
+   "options": [
+    "Five",
+    "Eight",
+    "Six",
+    "Seven"
+   ],
+   "answer": 2,
+   "qid": "630680327765",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "A sheet of paper is folded along the dotted line successively along the directions shown and is then punched in the last. How would this paper look when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680366397",
+   "figures": [
+    {
+     "file": "843351170cba02a8.png",
+     "w": 315,
+     "h": 96
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "571c79d395f8cd3a.png",
+     "w": 95,
+     "h": 95
+    },
+    "1": {
+     "file": "b713faef86971f65.png",
+     "w": 93,
+     "h": 93
+    },
+    "2": {
+     "file": "763f6ea615b56533.png",
+     "w": 95,
+     "h": 96
+    },
+    "3": {
+     "file": "4381b7041861a62b.png",
+     "w": 93,
+     "h": 95
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the figure given below?",
+   "options": [
+    "8",
+    "10",
+    "12",
+    "14"
+   ],
+   "answer": 1,
+   "qid": "630680296927",
+   "figures": [
+    {
+     "file": "2fcfbc474d3c293f.png",
+     "w": 106,
+     "h": 98
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six numbers 5, 3, 6, 7, 9 and 2 are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the number on the face opposite to the one having 5.",
+   "options": [
+    "2",
+    "9",
+    "3",
+    "6"
+   ],
+   "answer": 0,
+   "qid": "630680382714",
+   "figures": [
+    {
+     "file": "f358fbfc6095258c.png",
+     "w": 133,
+     "h": 61
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘Conceal’ is related to ‘Disclose’ in the same way as ‘Identical’ is related to ‘________’. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)",
+   "options": [
+    "Similar",
+    "Analogous",
+    "Distinct",
+    "Homogeneous"
+   ],
+   "answer": 2,
+   "qid": "630680416704",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number that will come in the place of the question mark(?), if ‘+’ and ‘ – ‘ are interchanged and ‘×’ and ‘÷’ are interchanged 11 ÷ 8 – 78 × 6 + 37 = ?",
+   "options": [
+    "62",
+    "64",
+    "58",
+    "71"
+   ],
+   "answer": 1,
+   "qid": "630680163577",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set. 3 — 20 — 5 4 — 17 — 3 NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+   "options": [
+    "8 — 36 — 11",
+    "5 — 28 — 9",
+    "9 — 77 — 8",
+    "11 — 28 — 5"
+   ],
+   "answer": 2,
+   "qid": "630680313543",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (16, 7, 112) (8, 12, 96)",
+   "options": [
+    "(13, 7, 96)",
+    "(14, 9, 128)",
+    "(12, 5, 65)",
+    "(15, 8, 120)"
+   ],
+   "answer": 3,
+   "qid": "630680338900",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which figure should replace the question mark (?) if the following series were to be continued?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680214429",
+   "figures": [
+    {
+     "file": "0380c3ae96f10441.png",
+     "w": 328,
+     "h": 70
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "270c1aa2c4e9c870.png",
+     "w": 73,
+     "h": 73
+    },
+    "1": {
+     "file": "8c2ada688de2a693.png",
+     "w": 73,
+     "h": 72
+    },
+    "2": {
+     "file": "44df5fa8326a35ee.png",
+     "w": 73,
+     "h": 73
+    },
+    "3": {
+     "file": "5d4e46ed1be908f4.png",
+     "w": 73,
+     "h": 73
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘A + B’ means ‘A is the mother of B’; ‘A − B’ means ‘A is the brother of B’; ‘A × B’ means ‘A is the wife of B’ and ‘A ÷ B’ means ‘A is the father of B’. Based on the above, how is I related to H if ‘B + R × I − T ÷ H’?",
+   "options": [
+    "Brother",
+    "Father’s brother",
+    "Father’s sister",
+    "Father’s father"
+   ],
+   "answer": 1,
+   "qid": "630680324897",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680471500",
+   "figures": [
+    {
+     "file": "221bdd6833efd1b4.png",
+     "w": 328,
+     "h": 68
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "4cab062da3703f7a.png",
+     "w": 83,
+     "h": 83
+    },
+    "1": {
+     "file": "55163a121c75801f.png",
+     "w": 83,
+     "h": 84
+    },
+    "2": {
+     "file": "9f68be463635be9d.png",
+     "w": 84,
+     "h": 84
+    },
+    "3": {
+     "file": "f9dcb272d2310451.png",
+     "w": 84,
+     "h": 84
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different. Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster",
+   "options": [
+    "PRUZ",
+    "ORTU",
+    "MORW",
+    "XZCH"
+   ],
+   "answer": 1,
+   "qid": "63068085566",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "The second number in the given number pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) are followed in all the number pairs except one. Find that odd number pair. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "34 : 44",
+    "23 : 25",
+    "35 : 36",
+    "13 : 16"
+   ],
+   "answer": 0,
+   "qid": "630680412029",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two different positions of the same dice with faces Z, G, M, F, H and S are shown below. Select the letter that will be on the face opposite to the one having G.",
+   "options": [
+    "S",
+    "F",
+    "H",
+    "M"
+   ],
+   "answer": 1,
+   "qid": "630680349071",
+   "figures": [
+    {
+     "file": "88eb96ff95394de7.png",
+     "w": 100,
+     "h": 46
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number result(s) in the second number. Similarly, certain mathematical operation(s) on the second number result(s) in the third number and so on. Which of the given options follows the same set of operations as in the given sets? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) 48 – 50 – 46 – 52; 37 – 39 – 35 – 41",
+   "options": [
+    "26 – 28 – 24 – 30",
+    "21 – 23 – 29 – 27",
+    "19 – 17 – 21 – 25",
+    "15 – 13 – 9 – 19"
+   ],
+   "answer": 0,
+   "qid": "630680814084",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 176,167,156,147,136, ?",
+   "options": [
+    "126",
+    "119",
+    "127",
+    "124"
+   ],
+   "answer": 2,
+   "qid": "630680411900",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the four options will replace the question mark (?) in the following series? FX32, EV38, DT44, CR50, ?",
+   "options": [
+    "BP56",
+    "CR54",
+    "DP55",
+    "CQ55"
+   ],
+   "answer": 0,
+   "qid": "630680416332",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in the place of ‘?’ in the following equation, if ‘÷’ and ‘–‘ are interchanged and ‘×’ and ‘+’ are interchanged? 7 + 4 ÷18 – 3 × 2 = ?",
+   "options": [
+    "18",
+    "16",
+    "24",
+    "20"
+   ],
+   "answer": 2,
+   "qid": "630680339260",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? QGMW, VCPU, AYSS, ? , KQYO",
+   "options": [
+    "FUVQ",
+    "FTUO",
+    "FVQO",
+    "FUXO"
+   ],
+   "answer": 0,
+   "qid": "630680417053",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘D’ is coded as ‘16’, ‘B’ is coded as ‘4’ and ‘T’ is coded as ‘400’. How will ‘H’ be coded in the same language?",
+   "options": [
+    "36",
+    "64",
+    "25",
+    "8"
+   ],
+   "answer": 1,
+   "qid": "630680416272",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘bright colour rainbow’ is coded as ‘mq bj st’ and ‘sunny bright day’ is coded as ‘nv bj fm’. How is ‘bright’ coded in that language?",
+   "options": [
+    "st",
+    "mq",
+    "nv",
+    "bj"
+   ],
+   "answer": 3,
+   "qid": "63068082924",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "At the 36th National Games, Hashika Ramchandra won six gold medals in which of the following sports?",
+   "options": [
+    "Swimming",
+    "Boxing",
+    "Wrestling",
+    "Badminton"
+   ],
+   "answer": 0,
+   "qid": "630680510806",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "Which state in India was the most transformed by the Green Revolution?",
+   "options": [
+    "Kerala",
+    "Maharashtra",
+    "Punjab",
+    "West Bengal"
+   ],
+   "answer": 2,
+   "qid": "630680411101",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Which of the following ports was developed as a Satellite port to relieve the pressure at the Mumbai port?",
+   "options": [
+    "Marmagao Port",
+    "New Mangalore Port",
+    "Deendayal Port Authority",
+    "Jawaharlal Nehru Port"
+   ],
+   "answer": 3,
+   "qid": "630680227941",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Who among the following was the shortest-serving Prime Minister of India?",
+   "options": [
+    "Atal Bihari Vajpayee",
+    "Gulzarilal Nanda",
+    "Chandra Shekhar",
+    "Charan Singh"
+   ],
+   "answer": 1,
+   "qid": "630680305542",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "In the context of Mathura school of Art, during which of the following periods were a number of sculptures of Brahmanical deities, such as Kartikeya, Vishnu and Kubera carved?",
+   "options": [
+    "Satavahana",
+    "Shaka",
+    "Parthian",
+    "Kushana"
+   ],
+   "answer": 3,
+   "qid": "630680412361",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "In which of the following situations does the government run a deficit budget?",
+   "options": [
+    "When the government expenditure and revenue both are zero.",
+    "When the government revenue exceeds expenditure.",
+    "When the government expenditure equals revenue.",
+    "When the government expenditure exceeds revenue."
+   ],
+   "answer": 3,
+   "qid": "630680324425",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "Tsang Po and Jamuna are other names of which river?",
+   "options": [
+    "Narmada",
+    "Indus",
+    "Ganga",
+    "Brahmaputra"
+   ],
+   "answer": 3,
+   "qid": "630680309103",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "Which of the following groups/parties was started in San Francisco, United States of America during the Indian National Movement?",
+   "options": [
+    "Khilafat Committee",
+    "Ghadar Party",
+    "Swaraj Party",
+    "Hindustan Socialist Republican Association"
+   ],
+   "answer": 1,
+   "qid": "630680511504",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "Which of the following organisations is NOT a winner of the $100,000 cash prize as ‘Best Small Business: Good Food for All’, announced by the United Nations for providing inspiring, diverse and impactful solutions in improving access to healthy and sustainable food?",
+   "options": [
+    "Edible Routes Private Limited",
+    "Oorja Development Solutions India Private Limited",
+    "Taru Naturals",
+    "Patanjali"
+   ],
+   "answer": 3,
+   "qid": "630680196012",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "‘Castling’ is related to which of the following sports?",
+   "options": [
+    "Chess",
+    "Billiards",
+    "Tennis",
+    "Table Tennis"
+   ],
+   "answer": 0,
+   "qid": "630680510773",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "What is the cost of the ‘Nand Baba Milk Mission’ scheme launched by the Uttar Pradesh state government in 2023 to provide milk producers the facility of selling their milk at a reasonable price in villages through dairy co-operative societies?",
+   "options": [
+    "₹2,000 crore",
+    "₹1,500 crore",
+    "₹500 crore",
+    "₹1,000 crore"
+   ],
+   "answer": 3,
+   "qid": "630680413086",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "In the context of vernier calliper, an internal jaw is used to measure:",
+   "options": [
+    "the depth of a beaker",
+    "the length correct up to 1 mm",
+    "the length of a rod and diameter of a sphere",
+    "the internal diameter of a hollow cylinder and pipes"
+   ],
+   "answer": 3,
+   "qid": "63068076925",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "",
+   "options": [
+    "i-d, ii-c, iii-b, iv-a",
+    "i-b, ii-d, iii-a, iv-c",
+    "i-a, ii-b, iii-c, iv-d",
+    "i-b, ii-a, iii-d, iv-c"
+   ],
+   "answer": 0,
+   "qid": "630680117896",
+   "figures": [
+    {
+     "file": "0d05851a77349eec.png",
+     "w": 328,
+     "h": 133
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "If a bar magnet is hung from a string, in which direction does its north pole point?",
+   "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+   ],
+   "answer": 0,
+   "qid": "63068094224",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "",
+   "options": [
+    "i-b, ii-a, iii-d, iv-c",
+    "i-d, ii-c, iii-b, iv-a",
+    "i-a, ii-b, iii-c, iv-d",
+    "i-b, ii-c, iii-a, iv-d"
+   ],
+   "answer": 0,
+   "qid": "630680199662",
+   "figures": [
+    {
+     "file": "fc8f7ec4c4eed2e3.png",
+     "w": 321,
+     "h": 120
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "Fugdi dance is associated with which of the following states?",
+   "options": [
+    "Uttar Pradesh",
+    "Goa",
+    "Kerala",
+    "Uttarakhand"
+   ],
+   "answer": 1,
+   "qid": "630680402090",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "The concept of ‘Independence of judiciary’ in the Indian Constitution is taken from the Constitution of:",
+   "options": [
+    "France",
+    "Britain",
+    "Ireland",
+    "The USA"
+   ],
+   "answer": 3,
+   "qid": "630680413056",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Umayalpuram K Sivaraman is an eminent musician associated with which of the following musical instruments?",
+   "options": [
+    "Dhol",
+    "Sitar",
+    "Mridangam",
+    "Guitar"
+   ],
+   "answer": 2,
+   "qid": "630680216239",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Rottela Panduga or the Roti Festival is celebrated in which Indian state?",
+   "options": [
+    "Maharashtra",
+    "Andhra Pradesh",
+    "Tamil Nadu",
+    "Karnataka"
+   ],
+   "answer": 1,
+   "qid": "630680166678",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "Belur Math was founded by which of the following social reformers in British India?",
+   "options": [
+    "KT Telang",
+    "Swami Vivekanand",
+    "VN Mandlik",
+    "RG Bhandarkar"
+   ],
+   "answer": 1,
+   "qid": "630680412366",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "Which of the following parts of the mountain will receive the most rainfall from moisture-laden winds?",
+   "options": [
+    "Leeward side",
+    "Relief side",
+    "Upward side",
+    "Windward side"
+   ],
+   "answer": 3,
+   "qid": "63068094177",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "Which singer from Assam was posthumously awarded the Bharat Ratna in 2019?",
+   "options": [
+    "Rameshwar Pathak",
+    "Padmanav Bordoloi",
+    "Archana Mahanta",
+    "Bhupen Hazarika"
+   ],
+   "answer": 3,
+   "qid": "630680511799",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "Medini Rai of Chanderi, Hasan Khan of Mewat and Mahmud Lodi joined Rana Sanga with their forces to fight against which of the following Mughal rulers?",
+   "options": [
+    "Aurangzeb",
+    "Humayun",
+    "Babur",
+    "Akbar"
+   ],
+   "answer": 2,
+   "qid": "630680412427",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Which writ is issued by a high court or supreme court when a lower court has considered a case going beyond its jurisdiction?",
+   "options": [
+    "Certiorari",
+    "Quo Warrant",
+    "Habeas Corpus",
+    "Prohibition"
+   ],
+   "answer": 3,
+   "qid": "630680408203",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "As per the UNDP, the rank of Sri Lanka in the Human Development Index (2022) is:",
+   "options": [
+    "72/189",
+    "74/189",
+    "75/189",
+    "73/189"
+   ],
+   "answer": 3,
+   "qid": "630680409641",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "6306801048019",
+   "figures": [
+    {
+     "file": "6cf55dec3e403754.png",
+     "w": 206,
+     "h": 28
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "f26c4db98d6d627f.png",
+     "w": 58,
+     "h": 34
+    },
+    "1": {
+     "file": "b6443956c5559326.png",
+     "w": 59,
+     "h": 32
+    },
+    "2": {
+     "file": "3fff80c09f03989a.png",
+     "w": 56,
+     "h": 34
+    },
+    "3": {
+     "file": "48e9080dbeeeb0a3.png",
+     "w": 58,
+     "h": 32
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "6000",
+    "6750",
+    "6500",
+    "6250"
+   ],
+   "answer": 3,
+   "qid": "630680428172",
+   "figures": [
+    {
+     "file": "6eb8815cc608c87b.png",
+     "w": 328,
+     "h": 140
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "The side BC of ∆ABC is produced to a point D. If AC = BC and ∠BAC = 70°, then find the value of 2.5∠ACD − 1.5∠ABC.",
+   "options": [
+    "235°",
+    "245°",
+    "225°",
+    "230°"
+   ],
+   "answer": 1,
+   "qid": "630680379709",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "The marked price of an electronic watch in a store is ₹15,620 and it is available at a discount of 27%. What is the price (in ₹, to the nearest tens) that a customer pays if he buys from the store?",
+   "options": [
+    "11,400",
+    "9,880",
+    "12,500",
+    "10,800"
+   ],
+   "answer": 0,
+   "qid": "630680427949",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "The five-digit number 45yz0 is divisible by 40. What is the maximum possible value of (y + z)?",
+   "options": [
+    "16",
+    "18",
+    "17",
+    "15"
+   ],
+   "answer": 0,
+   "qid": "630680115765",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "22",
+    "35",
+    "42",
+    "97"
+   ],
+   "answer": 3,
+   "qid": "630680413535",
+   "figures": [
+    {
+     "file": "76a6c900c37a937d.png",
+     "w": 328,
+     "h": 26
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "953",
+    "965",
+    "928",
+    "934"
+   ],
+   "answer": 3,
+   "qid": "630680387182",
+   "figures": [
+    {
+     "file": "e1f1aa661e8194b0.png",
+     "w": 328,
+     "h": 280
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "If a ∶ b = c ∶ d = e ∶ f = 5 ∶ 7, then what is the ratio (3a + 5c + 11e) ∶ (3b + 5d + 11f)?",
+   "options": [
+    "11 : 7",
+    "3 : 7",
+    "7 : 11",
+    "5 : 7"
+   ],
+   "answer": 3,
+   "qid": "630680524324",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "Varun and Raju, working together, can complete a job in 40 hours whereas Varun alone can complete the same job in 50 hours. The number of hours required by Raju to complete the job alone is:",
+   "options": [
+    "170",
+    "150",
+    "200",
+    "190"
+   ],
+   "answer": 2,
+   "qid": "630680386147",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "What principal would amount to ₹21,420 in 2 years at the rate of 9.5% p.a. simple interest?",
+   "options": [
+    "₹16,000",
+    "₹12,000",
+    "₹11,273",
+    "₹18,000"
+   ],
+   "answer": 3,
+   "qid": "630680361798",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "Raman fixes the sale price of his goods at 16% above the cost price. He sells his goods at 12% less than the fixed price. Find the profit percentage correct to two places of decimal.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680429029",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "04f56521c8d812b5.png",
+     "w": 38,
+     "h": 13
+    },
+    "1": {
+     "file": "674f1fb8ac11b5fc.png",
+     "w": 38,
+     "h": 15
+    },
+    "2": {
+     "file": "e833907663cc9531.png",
+     "w": 35,
+     "h": 17
+    },
+    "3": {
+     "file": "b8d889ef66beaed1.png",
+     "w": 36,
+     "h": 16
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "61",
+    "65",
+    "67",
+    "63"
+   ],
+   "answer": 3,
+   "qid": "630680413512",
+   "figures": [
+    {
+     "file": "6d6dd89872653328.png",
+     "w": 328,
+     "h": 20
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "3432 cm2",
+    "5212 cm2",
+    "3816 cm2",
+    "4312 cm2"
+   ],
+   "answer": 0,
+   "qid": "630680421517",
+   "figures": [
+    {
+     "file": "dc67d4fbc222c1a9.png",
+     "w": 328,
+     "h": 39
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "If , then is equal to:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680397695",
+   "figures": [
+    {
+     "file": "b55681f63977b0e7.png",
+     "w": 70,
+     "h": 26
+    },
+    {
+     "file": "5e6c3e10e04816e3.png",
+     "w": 48,
+     "h": 26
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "ea9b85d5deacefed.png",
+     "w": 24,
+     "h": 11
+    },
+    "1": {
+     "file": "de996f7b7bc257fb.png",
+     "w": 11,
+     "h": 27
+    },
+    "2": {
+     "file": "f1a86bdfd7132ec5.png",
+     "w": 30,
+     "h": 28
+    },
+    "3": {
+     "file": "11f4767114268839.png",
+     "w": 30,
+     "h": 28
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "Quantitative Aptitude",
+   "question": "A thief takes off on his bike at a certain speed, after seeing a police car at a distance of 250 m. The police car starts chasing the thief and catches him. If the thief runs 1.5 km before being caught and the speed of the police car is 70 km/h, then what is the speed of thief’s bike (in km/h)?",
+   "options": [
+    "65",
+    "50",
+    "55",
+    "60"
+   ],
+   "answer": 3,
+   "qid": "630680428724",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "4,60,000",
+    "4,80,000",
+    "4,70,000",
+    "5,10,000"
+   ],
+   "answer": 2,
+   "qid": "630680428114",
+   "figures": [
+    {
+     "file": "b608c3c899b01c74.png",
+     "w": 328,
+     "h": 123
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "The sum of two consecutive even numbers is 174. Find the smaller number.",
+   "options": [
+    "86",
+    "84",
+    "88",
+    "90"
+   ],
+   "answer": 0,
+   "qid": "630680196644",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "The central angle of a sector is 80° and whose length is 96π. What is the radius of the circle?",
+   "options": [
+    "196 units",
+    "216 units",
+    "204 units",
+    "116 units"
+   ],
+   "answer": 1,
+   "qid": "630680296207",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "Simplify the following expression. (60 + 64 ÷ 4 of 4) × {1000 ÷ ((10 of (3 + 2)) × 2 of 5)} − 28 + (100 × 3 of 3).",
+   "options": [
+    "1000",
+    "100",
+    "500",
+    "600"
+   ],
+   "answer": 0,
+   "qid": "630680421901",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "In a circle with center O, an arc ABC subtends an angle of at the centre of the circle. The chord AB is produced to a point P. Then, the measure of is:",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680397660",
+   "figures": [
+    {
+     "file": "b068836ba8b176df.png",
+     "w": 26,
+     "h": 10
+    },
+    {
+     "file": "11f05c4febfccbfd.png",
+     "w": 35,
+     "h": 11
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "855c158323bcbc3b.png",
+     "w": 20,
+     "h": 10
+    },
+    "1": {
+     "file": "2a8296087d40d137.png",
+     "w": 26,
+     "h": 10
+    },
+    "2": {
+     "file": "77d0a4fc3a00eddb.png",
+     "w": 20,
+     "h": 10
+    },
+    "3": {
+     "file": "8187d3bc4e02f66a.png",
+     "w": 26,
+     "h": 10
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "The given bar graph shows the turnover of five companies (in crores). What is the difference between the average sales turnover of all the companies put together between the years 2018-2019 and 2019-2020?.",
+   "options": [
+    "₹2 crore",
+    "₹5 crore",
+    "₹6.5 crore",
+    "₹3.5 crore"
+   ],
+   "answer": 1,
+   "qid": "630680428230",
+   "figures": [
+    {
+     "file": "081c6e439369e842.png",
+     "w": 328,
+     "h": 147
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "Suresh’s expenditure and savings are in the ratio of 3 : 1. His income increases by 25%. If his savings increase by 20%, then by how much percentage does his expenditure increase?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680397737",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "24b332ff7b45e8e9.png",
+     "w": 34,
+     "h": 24
+    },
+    "1": {
+     "file": "6e9c493c53928b36.png",
+     "w": 34,
+     "h": 24
+    },
+    "2": {
+     "file": "99a7a1cc2fb69b57.png",
+     "w": 34,
+     "h": 24
+    },
+    "3": {
+     "file": "f69a382e257ffb4a.png",
+     "w": 34,
+     "h": 24
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "Half litre of a solution contains 15% of alcohol. To change the alcohol concentration to 50%, find the quantity of alcohol to be mixed.",
+   "options": [
+    "400 ml",
+    "350 ml",
+    "175 ml",
+    "250 ml"
+   ],
+   "answer": 1,
+   "qid": "630680518837",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680526509",
+   "figures": [
+    {
+     "file": "5dc3a6380b5bd31c.png",
+     "w": 328,
+     "h": 33
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "76338c5ea4d8dd98.png",
+     "w": 17,
+     "h": 30
+    },
+    "1": {
+     "file": "1374a840ea8fe061.png",
+     "w": 13,
+     "h": 31
+    },
+    "2": {
+     "file": "6c5b3203ea2bf0e3.png",
+     "w": 19,
+     "h": 30
+    },
+    "3": {
+     "file": "6fa77366e5ecf33a.png",
+     "w": 19,
+     "h": 30
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Accessibility",
+    "Apparatus",
+    "Aptitude",
+    "Atrocios"
+   ],
+   "answer": 3,
+   "qid": "630680409973",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Identify the error in the given sentence. My colleague always works latest than me.",
+   "options": [
+    "My colleague",
+    "latest",
+    "than me.",
+    "always works"
+   ],
+   "answer": 1,
+   "qid": "630680402695",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Loud enough to be heard.",
+   "options": [
+    "Audit",
+    "Audacity",
+    "Audacious",
+    "Audible"
+   ],
+   "answer": 3,
+   "qid": "630680414788",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Identify from the given options the word which is similar in meaning to the following word. Munificent",
+   "options": [
+    "Miserly",
+    "Malicious",
+    "Underappreciated",
+    "Magnanimous"
+   ],
+   "answer": 3,
+   "qid": "630680360069",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. P) once said Q) a wise man R) that action speaks S) louder than words",
+   "options": [
+    "SQPR",
+    "QSRP",
+    "PQRS",
+    "QPRS"
+   ],
+   "answer": 3,
+   "qid": "630680377251",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. Just bite the ______ and tell him the truth.",
+   "options": [
+    "shot",
+    "gun",
+    "dust",
+    "bullet"
+   ],
+   "answer": 3,
+   "qid": "630680123954",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the opposite meaning of the underlined word. In front of the big screen, this behaviour is generally considered taboo.",
+   "options": [
+    "Prescription",
+    "Obedience",
+    "Promotion",
+    "Acceptable"
+   ],
+   "answer": 3,
+   "qid": "630680377997",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined word in the given sentence. Verity is a good virtue for human life.",
+   "options": [
+    "Truth",
+    "Information",
+    "Knowledge",
+    "Cooperation"
+   ],
+   "answer": 0,
+   "qid": "630680161536",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. Founding father / is / of / New Historicism / Greenbalt / considered / the.",
+   "options": [
+    "Greenbelt is the founding father of New Historicism considered.",
+    "Greenbalt is considered the founding father of New Historicism.",
+    "The founding father of New Historicism is considered Greenbalt.",
+    "The founding father is considered Greenbalt of New Historicism."
+   ],
+   "answer": 1,
+   "qid": "63068054130",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate verb / verb phrase to fill in the blank. The team ________________ the championship before their star player got injured.",
+   "options": [
+    "has won",
+    "was won",
+    "win",
+    "had won"
+   ],
+   "answer": 3,
+   "qid": "630680514383",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the correct ANTONYM of the underlined word to fill in the blank and complete the following sentence. He is always active in a party but _______ in the class.",
+   "options": [
+    "angry",
+    "inert",
+    "careless",
+    "naughty"
+   ],
+   "answer": 1,
+   "qid": "630680168029",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can rectify the incorrectly spelt word in the following sentence. In our quest for power, we often fail to acknowlege the existence of other people.",
+   "options": [
+    "acknowledge",
+    "accknowledge",
+    "acknowlede",
+    "acknowledje"
+   ],
+   "answer": 0,
+   "qid": "630680360094",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Money collected from people for a cause.",
+   "options": [
+    "Deposit",
+    "Fund",
+    "Collection",
+    "Savings"
+   ],
+   "answer": 1,
+   "qid": "630680158477",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined idiom. Bincy’s mother kept her cards close to her chest.",
+   "options": [
+    "Kept her plans and thoughts hidden",
+    "Informed that all the cards must be kept safe",
+    "Kept her purse and money by herself",
+    "Decided to show more affection"
+   ],
+   "answer": 0,
+   "qid": "630680366848",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the following sentence in active voice. The issue has been successfully resolved by the customer care team.",
+   "options": [
+    "The customer care team has successfully resolved the issue.",
+    "The issue has successfully resolved the customer care team.",
+    "The customer care team successfully resolves the issue.",
+    "The customer care team successfully resolved the issue."
+   ],
+   "answer": 0,
+   "qid": "630680415162",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. I like bread made up of corn __________.",
+   "options": [
+    "failure",
+    "floor",
+    "flour",
+    "flower"
+   ],
+   "answer": 2,
+   "qid": "630680129336",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph. A.He remembered her as she once was – an eager, glowing girl. B.He had not seen her for nearly thirteen years. C.Mr. Satterthwaite went to meet her. D.And now he saw – a Frozen Lady.",
+   "options": [
+    "CBAD",
+    "ABCD",
+    "DBAC",
+    "DCBA"
+   ],
+   "answer": 0,
+   "qid": "630680375514",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the following sentence in passive voice. Gill scored 3 centuries in Tata IPL 2023",
+   "options": [
+    "3 centuries had been scored by Gill in Tata IPL 2023.",
+    "3 centuries were scored by Gill in Tata IPL 2023.",
+    "3 centuries has been scored by Gill in Tata IPL 2023.",
+    "3 centuries were being scored by Gill in Tata IPL 2023."
+   ],
+   "answer": 1,
+   "qid": "630680415244",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Insert",
+   "options": [
+    "Remove",
+    "Select",
+    "Inject",
+    "Inform"
+   ],
+   "answer": 0,
+   "qid": "630680517558",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Carcass",
+   "options": [
+    "Scrap",
+    "Corpse",
+    "Prison",
+    "Gale"
+   ],
+   "answer": 1,
+   "qid": "630680145487",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .\n\nSelect the most appropriate option to fill in blank no. 1.",
+   "options": [
+    "never",
+    "don’t",
+    "frequently",
+    "seldom"
+   ],
+   "answer": 2,
+   "qid": "630680154515",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .\n\nSelect the most appropriate option to fill in blank no. 2.",
+   "options": [
+    "cannot",
+    "may not be",
+    "should",
+    "shall"
+   ],
+   "answer": 1,
+   "qid": "630680154516",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .\n\nSelect the most appropriate option to fill in blank no. 3.",
+   "options": [
+    "neutral",
+    "alien",
+    "foreign",
+    "common"
+   ],
+   "answer": 3,
+   "qid": "630680154517",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .\n\nSelect the most appropriate option to fill in blank no. 4.",
+   "options": [
+    "can",
+    "were",
+    "that",
+    "have been"
+   ],
+   "answer": 3,
+   "qid": "630680154518",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .\n\nSelect the most appropriate option to fill in blank no. 5.",
+   "options": [
+    "democracy",
+    "election",
+    "justice",
+    "injustice"
+   ],
+   "answer": 3,
+   "qid": "630680154519",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

@@ -1,0 +1,1810 @@
+{
+ "meta": {
+  "layout": "typed",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-09",
+  "shift": 1,
+  "answerSource": "typed-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_Tier_1_Shift_1_Question_Paper_with_Answer_Key_PDF_Sept_9_2024__5c6951ed6a7ba7f34e3c7ebce0222593.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: All pages are diaries. Some diaries are books. All books are notebooks. Conclusions: I. No page is a notebook. II. All pages are notebooks. III. All diaries being notebooks is a possibility.",
+   "options": [
+    "Both conclusion I and II follow",
+    "Only conclusions I and III follow",
+    "Only conclusion III follows",
+    "Only conclusion II follows"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged, if all the letters in the word BINDER are arranged in English alphabetical order?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language: ‘A + B’ means ‘A is the mother of B’; ‘A − B’ means ‘A is the brother of B’; ‘A × B’ means ‘A is the wife of B’; ‘A ÷ B’ means ‘A is the father of B’. Based on the above, how is 4 related to 2 if ‘4 + 3 ÷ 2 ÷ 1 − 5’?",
+   "options": [
+    "Father’s father",
+    "Mother’s mother",
+    "Mother’s father",
+    "Father’s mother"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which when put in place of ‘?’ will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "880173122d928b80.png",
+     "w": 38,
+     "h": 37
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "3846eb95035a520b.png",
+     "w": 436,
+     "h": 83
+    },
+    "1": {
+     "file": "7ca5cdaf18ecb24f.png",
+     "w": 37,
+     "h": 37
+    },
+    "2": {
+     "file": "ffa1f691f55fc766.png",
+     "w": 38,
+     "h": 37
+    },
+    "3": {
+     "file": "d83b6ed8afec86c6.png",
+     "w": 37,
+     "h": 38
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘WISK’ is related to ‘DRHP’ in a certain way based on the English alphabetical order. In the same way, ‘LENT’ is related to ‘OVMG’. To which of the following is ‘BANG’ related, following the same logic?",
+   "options": [
+    "ZYLU",
+    "ZYNS",
+    "YZNU",
+    "YZMT"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number result(s) in the second number. Similarly, certain mathematical operation(s) on the second number result(s) in the third number and so on. Which of the given options follows the same set of operations as in the given sets? (Given Sets: 18 – 36 – 72 – 107; 15 – 30 – 60 – 95)",
+   "options": [
+    "22 – 44 – 88 – 123",
+    "25 – 50 – 100 – 125",
+    "11 – 22 – 66 – 101",
+    "30 – 60 – 90 – 115"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from the given options to complete the series: 25, 30, 40, 55, 75, ___",
+   "options": [
+    "105",
+    "85",
+    "80",
+    "100"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position(s) of how many letters will remain unchanged if all the letters in the word ‘ENTOMB’ are arranged in English alphabetical order?",
+   "options": [
+    "Two",
+    "None",
+    "One",
+    "Three"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "Six words Eat, Cry, Play, Sleep, Run and Bath are written on different faces of a dice. Three positions of this dice are shown in the figure. Find the word on the face opposite to Eat.",
+   "options": [
+    "Play",
+    "Cry",
+    "Sleep",
+    "Run"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [
+    {
+     "file": "a7e5dd11358ea117.png",
+     "w": 424,
+     "h": 98
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two different positions of the same dice with faces T, O, B, L, Y and V are shown below. Select the letter that will be on the face opposite to the one having L.",
+   "options": [
+    "Y",
+    "B",
+    "O",
+    "V"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "952b0711bcd2313e.png",
+     "w": 439,
+     "h": 135
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below. Virus : Parasite",
+   "options": [
+    "Fungus : Jasmine",
+    "Amaltas : Tree",
+    "Fenugreek : Micro organism",
+    "Algae : Flower"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the given sets: (213, 157), (185, 129)",
+   "options": [
+    "(171, 123)",
+    "(189, 141)",
+    "(164, 108)",
+    "(192, 152)"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following four options are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.)",
+   "options": [
+    "540 – 188 – 128",
+    "72 – 284 – 266",
+    "81 – 101 – 92",
+    "90 – 22 – 12"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? IMHP, MPJQ, QSLR, UVNS, ?",
+   "options": [
+    "YYPT",
+    "YYOT",
+    "YXPT",
+    "XYPT"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘FACED’ is written as ‘GZDDE’ and ‘VACAY’ is written as ‘WZDZZ’. How will ‘LABOR’ be written in that language?",
+   "options": [
+    "MZCNS",
+    "MBCPS",
+    "MBDPS",
+    "MADMS"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which two signs should be interchanged to make the following equation correct? 247 ÷ 13 + 16 × 3 − 148 = 119",
+   "options": [
+    "+ and ×",
+    "− and +",
+    "− and ×",
+    "÷ and ×"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the given figure?",
+   "options": [
+    "18",
+    "16",
+    "21",
+    "20"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "fb8726f2b64671f3.png",
+     "w": 182,
+     "h": 136
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "0bd8be10fcab184a.png",
+     "w": 271,
+     "h": 136
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "7649a6aaf9323205.png",
+     "w": 90,
+     "h": 32
+    },
+    "1": {
+     "file": "eb59f06c09753cd5.png",
+     "w": 102,
+     "h": 34
+    },
+    "2": {
+     "file": "ddbd4b258e11539a.png",
+     "w": 85,
+     "h": 32
+    },
+    "3": {
+     "file": "397903cf5bc3d0ed.png",
+     "w": 112,
+     "h": 34
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the figure from the given option that can replace the question mark (?) in the following series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "400aac7b046d3d03.png",
+     "w": 448,
+     "h": 76
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "c9c88c2fabdd9e90.png",
+     "w": 37,
+     "h": 31
+    },
+    "1": {
+     "file": "b180520f0fddb9e8.png",
+     "w": 37,
+     "h": 31
+    },
+    "2": {
+     "file": "d7d7a6f8f6a5bed8.png",
+     "w": 37,
+     "h": 29
+    },
+    "3": {
+     "file": "087c1736a341a984.png",
+     "w": 37,
+     "h": 31
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, 'FIVE' is written as '12184410' and 'FOUR' is written as '12304236'. How will 'THREE' be written in that language?",
+   "options": [
+    "4016361110",
+    "4016361310",
+    "4016361212",
+    "4016361010"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "462395f99744df90.png",
+     "w": 43,
+     "h": 13
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "c5a56bb89137e22f.png",
+     "w": 234,
+     "h": 80
+    },
+    "1": {
+     "file": "1c3cd93b20534f55.png",
+     "w": 71,
+     "h": 15
+    },
+    "2": {
+     "file": "147109d14d75346c.png",
+     "w": 42,
+     "h": 11
+    },
+    "3": {
+     "file": "ce392b3be6370001.png",
+     "w": 52,
+     "h": 12
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "In the following series, only one letter-cluster is incorrect. Select the incorrect letter-cluster: YCG, IMQ, SVZ, CGK, MQU",
+   "options": [
+    "SVZ",
+    "MQU",
+    "CGK",
+    "IMQ"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "Based on the English alphabetical order, three of the following four letter- clusters are alike in a certain way and thus form a group. Which is the one that DOES NOT belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+   "options": [
+    "KJE",
+    "JHD",
+    "FDZ",
+    "AYU"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 342 × 18 + 79 − 45 ÷ 3 = ?",
+   "options": [
+    "65",
+    "85",
+    "75",
+    "55"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "24/7 is related to 12/ 7 following a certain logic. Following the same logic, 11 /15 is related to 11/30 . To which of the following is 9/ 13 related, following the same logic? NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. For example, operations on 13 such as adding, deleting, multiplying, etc., can be performed. However, breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.",
+   "options": [
+    "15/26",
+    "9/39",
+    "9/26",
+    "10/27"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 26,
+   "section": "General Awareness",
+   "question": "Who among the following is the world-renowned exponent of the bamboo flute?",
+   "options": [
+    "MS Subbulakshmi",
+    "Ravi Shankar",
+    "Hariprasad Chaurasia",
+    "Bismillah Khan"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 27,
+   "section": "General Awareness",
+   "question": "What is net investment?",
+   "options": [
+    "Sum of all the investments in a country",
+    "Gross investment + depreciation",
+    "Gross capital investment - indirect taxes",
+    "Gross investment - depreciation"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 28,
+   "section": "General Awareness",
+   "question": "India won the ICC Men Cricket World Cup for the first time in which of the following years?",
+   "options": [
+    "1996",
+    "1992",
+    "1987",
+    "1983"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 29,
+   "section": "General Awareness",
+   "question": "Match the following - Institutes Their respective founder",
+   "options": [
+    "Asiatic Society of Bengal - i. Warren Hastings",
+    "Sanskrit College of Benaras - ii. Lord Wellesley",
+    "Fort William College - iii. Jonathan Duncan",
+    "Calcutta Madrasa - iv. Sir William Jones a. a-ii, b-i, c-iv, d-iii b. a-iii, b-iv, c-i, d-ii c. a-iv, b-iii, c-ii, d-i d. a-i, b-ii, c-iii, d-iv"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 30,
+   "section": "General Awareness",
+   "question": "Kathakali, one of the classical dances of India, is predominantly performed in which of the following states of India?",
+   "options": [
+    "Assam",
+    "Manipur",
+    "Uttar Pradesh",
+    "Kerala"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 31,
+   "section": "General Awareness",
+   "question": "Identify the oldest iron and steel company of India from the following options.",
+   "options": [
+    "Tata Iron & Steel Company (TISCO)",
+    "Visvesvaraya Iron & Steel Works",
+    "Indian Iron & Steel Company (IISCO)",
+    "Mysore Iron & Steel Works"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 32,
+   "section": "General Awareness",
+   "question": "The magnificent Kailasa temple at Ellora was built during the reign of which Rashtrakuta king?",
+   "options": [
+    "Krishna I",
+    "Indra III",
+    "Govinda III",
+    "Amoghavarsha"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 33,
+   "section": "General Awareness",
+   "question": "In which state/UT is the Hemis festival celebrated?",
+   "options": [
+    "Punjab",
+    "Sikkim",
+    "Lakshadweep",
+    "Ladakh"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 34,
+   "section": "General Awareness",
+   "question": "Which of the following is the largest artificial lake of Asia?",
+   "options": [
+    "Naini Lake",
+    "Bhopal Lake",
+    "Dal Lake",
+    "Chilika Lake"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 35,
+   "section": "General Awareness",
+   "question": "In 2002, Zakir Hussain became the youngest percussionist to be honored with which award?",
+   "options": [
+    "Sangeet Natak Akademi Award",
+    "Grammy Award",
+    "Padma Bhushan",
+    "National Heritage Fellowship"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 36,
+   "section": "General Awareness",
+   "question": "Microbes like Rhizobium, Nitrosomonas, and Nitrobacter are used for:",
+   "options": [
+    "nitrogen cycling",
+    "carbon cycling",
+    "water cycling",
+    "sulphur cycling"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 37,
+   "section": "General Awareness",
+   "question": "With reference to the Sepoy Mutiny of 1857, on which of the following dates did the soldiers at Meerut start their journey to Delhi?",
+   "options": [
+    "10 May",
+    "19 April",
+    "2 June",
+    "29 March"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 38,
+   "section": "General Awareness",
+   "question": "Who among the following was selected as the Sherpa for India’s G20 hosted in 2022-23?",
+   "options": [
+    "Piyush Goyal",
+    "Ashwini Vaishnaw",
+    "Shaktikanta Das",
+    "Amitabh Kant"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 39,
+   "section": "General Awareness",
+   "question": "Purvanchal Himalayas does NOT comprise of:",
+   "options": [
+    "Naga hills",
+    "Pir Panjal range",
+    "Manipur hills",
+    "Mizo hills"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 40,
+   "section": "General Awareness",
+   "question": "In which year did India make its Olympic debut in hockey?",
+   "options": [
+    "1936",
+    "1932",
+    "1924",
+    "1928"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 41,
+   "section": "General Awareness",
+   "question": "A student, on his school assignment, is taking a session on how to make compost at home for using it at a park. Which fundamental duty is he performing?",
+   "options": [
+    "To strive towards excellence in all spheres of individual and collective activity",
+    "To safeguard public property and to abjure violence",
+    "To develop the scientific temper, humanism and the spirit of inquiry",
+    "To protect and improve the natural environment"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 42,
+   "section": "General Awareness",
+   "question": "In August 2022, the Ministry of Social Justice and Empowerment launched the ________ scheme, with an aim to provide comprehensive rehabilitation services to people engaged in begging in 75 municipalities.",
+   "options": [
+    "TWINKLE-75",
+    "BEAM-75",
+    "SMILE-75",
+    "RISE-75"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 43,
+   "section": "General Awareness",
+   "question": "Which is the National Mission for Financial Inclusion to ensure access to financial services, namely, a basic savings and deposits account, remittance, credit, insurance, pension in an affordable manner?",
+   "options": [
+    "Deendayal Antyodaya Yojana",
+    "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+    "Swarnjayanti Gram Swarozgar Yojana",
+    "Pradhan Mantri Jan Dhan Yojana"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 44,
+   "section": "General Awareness",
+   "question": "Which of the following plays was NOT written by Harshavardhana?",
+   "options": [
+    "Vikramorvasiyam",
+    "Ratnavali",
+    "Nagananda",
+    "Priyadarshika"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 45,
+   "section": "General Awareness",
+   "question": "The organisms that do not have a defined nucleus or organelles are classified into _______ Kingdom.",
+   "options": [
+    "Fungi",
+    "Protista",
+    "Monera",
+    "Plantae"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 46,
+   "section": "General Awareness",
+   "question": "Which Article of the Constitution of India provides that ‘there shall be a Vice President of India’?",
+   "options": [
+    "Article 61",
+    "Article 63",
+    "Article 65",
+    "Article 62"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 47,
+   "section": "General Awareness",
+   "question": "A javelin thrown by an athlete is in ________ motion.",
+   "options": [
+    "Oscillatory",
+    "Periodic",
+    "Rectilinear",
+    "Curvilinear"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 48,
+   "section": "General Awareness",
+   "question": "The green revolution technology resulted in an increase in the production of cereal crops from 72.4 million tons in 1965-66 to ________ million tons in 1978-79.",
+   "options": [
+    "150.8",
+    "165.9",
+    "131.9",
+    "141.2"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 49,
+   "section": "General Awareness",
+   "question": "Calculate the oxidation number of ‘S’ in H S O . 2 2 7",
+   "options": [
+    "3",
+    "7",
+    "6",
+    "2"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 50,
+   "section": "General Awareness",
+   "question": "Which of the following is NOT an amendment made to the Airport Economic Regulatory Authority (AERA) Amendment Act, 2021?",
+   "options": [
+    "The government can call any airport a major airport just by notification.",
+    "The government will club together profit-making and loss-making airports.",
+    "The government can offer airports as a package in PPP mode to the prospective bidders.",
+    "A major airport is one which has an annual traffic of minimum 35 lakh passengers."
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 51,
+   "section": "Quantitative Aptitude",
+   "question": "Which digits should come in place * and $, respectively, if the number 72864*$ is divisible by both 8 and 5?",
+   "options": [
+    "4 and 0",
+    "2 and 0",
+    "2 and 5",
+    "4 and 5"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 52,
+   "section": "Quantitative Aptitude",
+   "question": "The given table shows the number of soaps sold by four different companies in 4 different months. The total no. of soaps sold by companies Q and S together in May is what percentage more than the no. of soaps sold by company P in July?",
+   "options": [
+    "75%",
+    "90%",
+    "65%",
+    "80%"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "f23bffd9b07032fe.png",
+     "w": 350,
+     "h": 133
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 53,
+   "section": "Quantitative Aptitude",
+   "question": "In a triangle PQR, S is a point on the side QR such that PS⊥QR. Then which of the following options is true? 2 2 2 2",
+   "options": [
+    "PS + PR = PQ + QR 2 2 2 2",
+    "PR + QS = PQ + SR 2 2 2 2",
+    "PQ + PR = QS + SR 2 2 2 2",
+    "PS + QS = PQ + PR"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 54,
+   "section": "Quantitative Aptitude",
+   "question": "Simplify: 15.5 − [3 − {7 − (5 − (14.5 − 13.5))}].",
+   "options": [
+    "15.5",
+    "13.5",
+    "12.5",
+    "14.5"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 55,
+   "section": "Quantitative Aptitude",
+   "question": "The incomes of P, Q, and R are in the ratio 10 : 12 : 9, and their expenditures are in the ratio 12 : 15 : 8. If Q saves 25% of his income, then what is the ratio of the savings of P, Q, and R?",
+   "options": [
+    "15 : 14 : 21",
+    "14 : 15 : 21",
+    "21 : 15 : 14",
+    "21 : 14 : 15"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 56,
+   "section": "Quantitative Aptitude",
+   "question": "The classification of 100 students based on the marks obtained by them in English and Mathematics in an examination is given in the table below. Study the table and answer the question that follows: Physical Student/Subject Maths Physics Chemistry English Education Tarun 65 80 75 85 90 Rohit 69 76 80 88 94 Mohit 73 84 77 90 95 Shobhit 76 85 76 86 78 Sumit 90 88 78 82 68 If at least 40% marks in Mathematics are required for pursuing higher studies in Mathematics, how many students will be eligible to pursue higher studies in Mathematics?",
+   "options": [
+    "55",
+    "65",
+    "70",
+    "50"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 57,
+   "section": "Quantitative Aptitude",
+   "question": "In triangles ABC and DEF, AB = FD and ∠A = ∠D. The two triangles are congruent by SAS criterion if:",
+   "options": [
+    "BC = DE",
+    "AC = DE",
+    "BC = EF",
+    "AC = EF"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 58,
+   "section": "Quantitative Aptitude",
+   "question": "Two pipes, A and B, can fill a tank in 10 minutes and 20 minutes, respectively. The pipe C can empty the tank in 30 minutes. All three pipes are opened at the beginning, but pipe C is closed 2 minutes before the tank is filled. In what time will the tank be full (in minutes)?",
+   "options": [
+    "12",
+    "10",
+    "8",
+    "6"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 59,
+   "section": "Quantitative Aptitude",
+   "question": "A payment of ₹120 is made with ₹10, ₹5, and ₹2 coins. A total of 25 coins are used. Which of the following is the number of ₹10 coins used in the payment?",
+   "options": [
+    "6",
+    "8",
+    "10",
+    "4"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 60,
+   "section": "Quantitative Aptitude",
+   "question": "If 28.9 : x :: x : 36.1, and x > 0, then find the value of x.",
+   "options": [
+    "38.3",
+    "30.4",
+    "32.3",
+    "35"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 61,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given pie chart carefully and answer the question that follows. The given pie chart shows that the number of successful start-ups in different sectors in a particular year. If the total no. of successful start-ups is 2910 the find the number of start-ups in the education and agriculture sectors. (Neglect the decimal part).",
+   "options": [
+    "698",
+    "1048",
+    "1074",
+    "1047 2"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "3f6c7a7d1b0e27c2.png",
+     "w": 441,
+     "h": 285
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 62,
+   "section": "Quantitative Aptitude",
+   "question": "The height of a cylinder is 20 cm. The lateral surface area is 1760 cm . Its volume is: 3",
+   "options": [
+    "12320 cm 3",
+    "12302 cm 3",
+    "12203 cm 3",
+    "7600 cm"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 63,
+   "section": "Quantitative Aptitude",
+   "question": "Raj divides ₹1,200 in the ratio 2 : 1 : 3 among three of his friends. The amount equal to the sum of three times the largest share and two times the smallest share is:",
+   "options": [
+    "₹2,400",
+    "₹1,800",
+    "₹2,200",
+    "₹2,000"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 64,
+   "section": "Quantitative Aptitude",
+   "question": "A shopkeeper marked an article at ₹5,000. The shopkeeper allows successive discounts of 20%, 15%, and 10%. The selling price of the article is:",
+   "options": [
+    "₹2,750",
+    "₹3,000",
+    "₹2,800",
+    "₹3,060"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 65,
+   "section": "Quantitative Aptitude",
+   "question": "The average of 12 numbers is 48. The average of the first 5 numbers is 45, and the average of the next 4 numbers is 52. If the 10th number is 10 less than the 11th number and 5 more than the 12th number, then the average of the 11th and 12th numbers is:",
+   "options": [
+    "50.5",
+    "46.5",
+    "47.5",
+    "48.5"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 66,
+   "section": "Quantitative Aptitude",
+   "question": "Find the value of the following expression.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "c5148d66eb34cfe7.png",
+     "w": 444,
+     "h": 258
+    },
+    {
+     "file": "5edb524f5090a6b5.png",
+     "w": 445,
+     "h": 64
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "2aacbbdced631bb6.png",
+     "w": 95,
+     "h": 18
+    },
+    "1": {
+     "file": "a9bd65064cf8f943.png",
+     "w": 103,
+     "h": 19
+    },
+    "2": {
+     "file": "a99ea35c370cf9b3.png",
+     "w": 100,
+     "h": 14
+    },
+    "3": {
+     "file": "67cbbed4cf8f2349.png",
+     "w": 83,
+     "h": 15
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 67,
+   "section": "Quantitative Aptitude",
+   "question": "a. 2 b. 1 c. 0 d. -1",
+   "options": [],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": true
+  },
+  {
+   "number": 68,
+   "section": "Quantitative Aptitude",
+   "question": "a. 1/5 b. 1 c. 2 d. 1/2",
+   "options": [],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "804ba97d4f54d39b.png",
+     "w": 386,
+     "h": 40
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": true
+  },
+  {
+   "number": 69,
+   "section": "Quantitative Aptitude",
+   "question": "M and N walk along a circular track. They start at 5:00 a.m. from the same point in the opposite directions. M and N walk at a speed of 5 rounds per hour and 2 rounds per hour, respectively. How many times will they cross each other before 6.30 a.m. on the same day?",
+   "options": [
+    "10",
+    "3",
+    "5",
+    "7"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "8d4d78e727bfef93.png",
+     "w": 446,
+     "h": 39
+    },
+    {
+     "file": "16c70e78660ba05e.png",
+     "w": 37,
+     "h": 27
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 70,
+   "section": "Quantitative Aptitude",
+   "question": "a. b. c. d.",
+   "options": [],
+   "answer": 3,
+   "qid": null,
+   "figures": [
+    {
+     "file": "cebd99b1482c6360.png",
+     "w": 37,
+     "h": 23
+    },
+    {
+     "file": "d6115e5a1b8c436c.png",
+     "w": 37,
+     "h": 22
+    },
+    {
+     "file": "e6d041895e513d5c.png",
+     "w": 37,
+     "h": 21
+    },
+    {
+     "file": "d8e4858fc547a774.png",
+     "w": 449,
+     "h": 69
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": true
+  },
+  {
+   "number": 71,
+   "section": "Quantitative Aptitude",
+   "question": "a. - 48/7 b. -22/7 c. 48/7 d. 22/7",
+   "options": [],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": true
+  },
+  {
+   "number": 72,
+   "section": "Quantitative Aptitude",
+   "question": "Study the given table and answer the question that follows. The given table shows the production of different types of refrigerators in a company. In which of the given year(s) was the production of B type refrigerator closest to its average production over the given years?",
+   "options": [
+    "Both 2012 and 2013",
+    "Both 2013 and 2015",
+    "2014",
+    "Only 2012"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "bbc5210992146b74.png",
+     "w": 213,
+     "h": 97
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 73,
+   "section": "Quantitative Aptitude",
+   "question": "The measures of the three angles of a triangle are in the ratio 17 : 13 : 15. Find the positive difference between the greatest and the smallest of these three angles.",
+   "options": [
+    "16°",
+    "24°",
+    "20°",
+    "12°"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 74,
+   "section": "Quantitative Aptitude",
+   "question": "a. (4+52°, -0.5) b. 90° c. 30° d. 75°",
+   "options": [],
+   "answer": 2,
+   "qid": null,
+   "figures": [
+    {
+     "file": "9a90c08885d7b8e8.png",
+     "w": 445,
+     "h": 24
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": true
+  },
+  {
+   "number": 75,
+   "section": "Quantitative Aptitude",
+   "question": "A certain sum of money becomes seven times itself when invested at a certain rate of simple interest, in 14 years. How much time (in years, rounded off to 2 decimal places) will it take to become 18 times itself at the same rate?",
+   "options": [
+    "27.33",
+    "39.67",
+    "42.78",
+    "35.5"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 76,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words: A false idea or belief",
+   "options": [
+    "Reticence",
+    "Atrophy",
+    "Fallacy",
+    "Entropy"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 77,
+   "section": "English Comprehension",
+   "question": "Identify the most appropriate ANTONYM of the given word: Secure",
+   "options": [
+    "Succeed",
+    "Save",
+    "Attack",
+    "Trundle"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 78,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence: Gourav was no good than a foolish person.",
+   "options": [
+    "no better",
+    "not good",
+    "no best",
+    "not best"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 79,
+   "section": "English Comprehension",
+   "question": "Select the option that corrects the error in the given sentence: He ran quick to catch the bus.",
+   "options": [
+    "quiet",
+    "rapid",
+    "insipid",
+    "quickly"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 80,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word: Acquiesce",
+   "options": [
+    "Desist",
+    "Cease",
+    "Thwart",
+    "Concur"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 81,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words: That which cannot be conquered",
+   "options": [
+    "Invisible",
+    "Indelible",
+    "Ineffable",
+    "Invincible"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 82,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym for the underlined word in the given sentence: His ambition in life is to become a happy and satisfied man.",
+   "options": [
+    "Apathy",
+    "Satisfaction",
+    "Eagerness",
+    "Amend"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 83,
+   "section": "English Comprehension",
+   "question": "Read the sentence carefully and select the most suitable idiom to fill in the blank: The renowned publisher decided to withdraw a book from the market. No one was interested in the book as the arguments presented were ____________.",
+   "options": [
+    "high and mighty",
+    "out of the woods",
+    "beside the mark",
+    "under the rose"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 84,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word: Receive",
+   "options": [
+    "Admit",
+    "Exile",
+    "Reward",
+    "Fund"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 85,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the following sentence in passive voice: Sonam does not like bananas.",
+   "options": [
+    "Banana is not liked by Sonam.",
+    "Bananas have not been liked by Sonam.",
+    "Bananas are not liked by Sonam.",
+    "Bananas had not been liked by Sonam."
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 86,
+   "section": "English Comprehension",
+   "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph: A. The genuine beliefs, though not unconsciously acquired by most children; and even if they depart from these beliefs in later life B. Something of them remains deeply implanted, ready to emerge in a time of stress or crisis C. The importance of education in forming character and opinion is very great and well recognized by all D. Education is, as a rule, the strongest force on the side of what exists and against fundamental change",
+   "options": [
+    "DCAB",
+    "DABC",
+    "CBAD",
+    "CABD"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 87,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the underlined group of words: In Indian mythology, most of the Asuras wish to be never able to die.",
+   "options": [
+    "Invincible",
+    "Impervious",
+    "Invisible",
+    "Immortal"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 88,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice: Someone has taken my secret diary.",
+   "options": [
+    "My secret diary had been taken by someone.",
+    "My secret diary has to be taken by someone.",
+    "My secret diary has been taken by someone.",
+    "My secret diary will have been taken by someone."
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 89,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the bracketed word in the following sentence to fill in the blank: During Covid times, many organizations made ________(sentimental) appeals to raise funds for migrant workers.",
+   "options": [
+    "Mawkish",
+    "Sincere",
+    "Cynical",
+    "Practical"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 90,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined word in the given sentence: He is an atheist, although he respects everyone’s belief.",
+   "options": [
+    "One who believes in God",
+    "One who believes in nature",
+    "One who is extremist",
+    "One who does not believe in God"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 91,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the underlined idiom in the following sentence: In my new office, all employees were different, so I felt like a fish out of water.",
+   "options": [
+    "Uncomfortable",
+    "Homeless",
+    "Frustrated",
+    "Disappointed"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 92,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word:",
+   "options": [
+    "Embarrass",
+    "Occurrence",
+    "Exhilerate",
+    "Accommodate"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 93,
+   "section": "English Comprehension",
+   "question": "The following sentence has been divided into four segments. Identify the segment that contains an error: Mrs. Sreelakshmi’s / musical intelligence / is superior than / Mrs. Suma’s.",
+   "options": [
+    "Mrs. Suma’s.",
+    "musical intelligence",
+    "is superior than",
+    "Mrs. Sreelakshmi’s"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 94,
+   "section": "English Comprehension",
+   "question": "Select the option that will improve the underlined part of the given sentence: If I was the queen, I would give a handsome sum towards education.",
+   "options": [
+    "will be the queen",
+    "were the queen",
+    "have been the queen",
+    "would be the queen"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 95,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word:",
+   "options": [
+    "Exceed",
+    "Proceed",
+    "Succeed",
+    "Preceed"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 96,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The beginning of the story is (1)______ in its presentation but (2)______ the style eases out and becomes haunting in its simplicity. The author brings out the human elements in his story. This common element of sympathy and sacrifice is given a new (3)_____ by the old artist who shows by his last desperate act that one can be a hero for one day if only one cares (4)______. O Henry’s treatment of his material is balanced and controlled, a fine (5)______ of humour and pathos. Select the most appropriate option to fill in blank number 1:",
+   "options": [
+    "Prone",
+    "Delectable",
+    "Quaint",
+    "Habitual"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 97,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The beginning of the story is (1)______ in its presentation but (2)______ the style eases out and becomes haunting in its simplicity. The author brings out the human elements in his story. This common element of sympathy and sacrifice is given a new (3)_____ by the old artist who shows by his last desperate act that one can be a hero for one day if only one cares (4)______. O Henry’s treatment of his material is balanced and controlled, a fine (5)______ of humour and pathos. Select the most appropriate option to fill in blank number 2:",
+   "options": [
+    "Hardly",
+    "Recently",
+    "Initially",
+    "Gradually"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 98,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The beginning of the story is (1)______ in its presentation but (2)______ the style eases out and becomes haunting in its simplicity. The author brings out the human elements in his story. This common element of sympathy and sacrifice is given a new (3)_____ by the old artist who shows by his last desperate act that one can be a hero for one day if only one cares (4)______. O Henry’s treatment of his material is balanced and controlled, a fine (5)______ of humour and pathos. Select the most appropriate option to fill in blank number 3:",
+   "options": [
+    "Supervision",
+    "Condition",
+    "Dimension",
+    "Infection"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 99,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The beginning of the story is (1)______ in its presentation but (2)______ the style eases out and becomes haunting in its simplicity. The author brings out the human elements in his story. This common element of sympathy and sacrifice is given a new (3)_____ by the old artist who shows by his last desperate act that one can be a hero for one day if only one cares (4)______. O Henry’s treatment of his material is balanced and controlled, a fine (5)______ of humour and pathos. Select the most appropriate option to fill in blank number 4:",
+   "options": [
+    "Through",
+    "Though",
+    "Tough",
+    "Enough"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 100,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. The beginning of the story is (1)______ in its presentation but (2)______ the style eases out and becomes haunting in its simplicity. The author brings out the human elements in his story. This common element of sympathy and sacrifice is given a new (3)_____ by the old artist who shows by his last desperate act that one can be a hero for one day if only one cares (4)______. O Henry’s treatment of his material is balanced and controlled, a fine (5)______ of humour and pathos. Select the most appropriate option to fill in blank number 5:",
+   "options": [
+    "Legend",
+    "Ascend",
+    "Blend",
+    "Amend Answers"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

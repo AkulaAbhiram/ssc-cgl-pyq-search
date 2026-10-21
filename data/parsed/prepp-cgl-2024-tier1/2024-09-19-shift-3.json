@@ -1,0 +1,2014 @@
+{
+ "meta": {
+  "layout": "response",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-19",
+  "time": "4:00 PM - 5:00 PM",
+  "shift": 3,
+  "answerSource": "ssc-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_September_19_Tier_1_English_Question_Paper_and_Answer_Key_Shift_3__7577dda232e88e3b212e3e0ca1d9e437.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680356664",
+   "figures": [
+    {
+     "file": "240aa1d84c38e29e.png",
+     "w": 102,
+     "h": 91
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "8197cf08fe286e32.png",
+     "w": 81,
+     "h": 18
+    },
+    "1": {
+     "file": "a1e37af82e2e5a26.png",
+     "w": 77,
+     "h": 18
+    },
+    "2": {
+     "file": "c1c9566663076be2.png",
+     "w": 85,
+     "h": 22
+    },
+    "3": {
+     "file": "759662cd662d307b.png",
+     "w": 77,
+     "h": 22
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘CYCLE’ is coded as ‘242241522’ and ‘FINAL’ is coded as ‘2118132615’. How will ‘MUSIC’ be coded in that language?",
+   "options": [
+    "14681824",
+    "1421191824",
+    "146191824",
+    "146192184"
+   ],
+   "answer": 0,
+   "qid": "630680285530",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different. Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster...11",
+   "options": [
+    "TVX",
+    "HJL",
+    "MOP",
+    "NPR"
+   ],
+   "answer": 2,
+   "qid": "63068083311",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the triad in which the numbers are related to each other in the same way as the numbers in the following triads. 4-5-41 2-3-13 (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "7-8-110",
+    "10-11-211",
+    "12-13-213",
+    "5-6-61"
+   ],
+   "answer": 3,
+   "qid": "630680132368",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘PANTHER’ is written as ‘0146283’ and ‘ANOTHER’ is written as ‘2864109’. How will ‘O’ be written in that language?",
+   "options": [
+    "3",
+    "8",
+    "0",
+    "9"
+   ],
+   "answer": 3,
+   "qid": "630680339163",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure in which the given figure (X) is embedded (rotation is NOT allowed).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680296894",
+   "figures": [
+    {
+     "file": "e4e6170056194bec.png",
+     "w": 88,
+     "h": 109
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "ee5e5a4c1d3675f3.png",
+     "w": 82,
+     "h": 82
+    },
+    "1": {
+     "file": "f9b07b3bcb383ae1.png",
+     "w": 82,
+     "h": 82
+    },
+    "2": {
+     "file": "5d22269e653fed95.png",
+     "w": 82,
+     "h": 82
+    },
+    "3": {
+     "file": "ab176a3801a1db5e.png",
+     "w": 82,
+     "h": 82
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "‘MPQO’ is related to ‘KNSQ’ in a certain way based on the English alphabetical order. In the same way, ‘DGHF’ is related to ‘BEJH’. To which of the following is ‘EINW’ related, following the same logic?",
+   "options": [
+    "CHQY",
+    "BHQX",
+    "BGPX",
+    "CGPY"
+   ],
+   "answer": 3,
+   "qid": "630680416364",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the number from the given options to complete the series. 58, 70, 83, 97, ___",
+   "options": [
+    "112",
+    "113",
+    "114",
+    "111"
+   ],
+   "answer": 0,
+   "qid": "630680411905",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, X + Y means ‘X is the sister of Y’, X − Y means ‘X is the wife of Y’, X × Y means ‘X is the mother of Y’, X ÷ Y means ‘X is the father of Y’. Based on the above, how is H related to L if ‘H × I − J ÷ K + L’?",
+   "options": [
+    "Father’s mother",
+    "Mother",
+    "Mother’s mother",
+    "Father’s sister"
+   ],
+   "answer": 2,
+   "qid": "630680261888",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.) Larva : Insect",
+   "options": [
+    "Dog : Animal",
+    "Fawn : Deer",
+    "Fox : Vixen",
+    "Bat : Chick"
+   ],
+   "answer": 1,
+   "qid": "630680416658",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680294953",
+   "figures": [
+    {
+     "file": "7a435313a13fd84d.png",
+     "w": 317,
+     "h": 101
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "dff0c1504fcdeb1b.png",
+     "w": 101,
+     "h": 101
+    },
+    "1": {
+     "file": "34edc2d4a79169b5.png",
+     "w": 100,
+     "h": 100
+    },
+    "2": {
+     "file": "26605926c2f5550b.png",
+     "w": 100,
+     "h": 100
+    },
+    "3": {
+     "file": "3f7386f3c5d6d8a6.png",
+     "w": 101,
+     "h": 102
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged? 69 + 2485 × 5 – 912 ÷ 2 = ?",
+   "options": [
+    "1396",
+    "1936",
+    "1639",
+    "1963"
+   ],
+   "answer": 0,
+   "qid": "630680411724",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which figure should replace the question mark (?) if the following series were to be continued?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680214425",
+   "figures": [
+    {
+     "file": "b4148f69bc5ec2bd.png",
+     "w": 328,
+     "h": 70
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "40a3c1baab851b03.png",
+     "w": 71,
+     "h": 72
+    },
+    "1": {
+     "file": "6b217427450e27ab.png",
+     "w": 73,
+     "h": 72
+    },
+    "2": {
+     "file": "417b10bb81eceb74.png",
+     "w": 73,
+     "h": 72
+    },
+    "3": {
+     "file": "fbd6b0025e056d49.png",
+     "w": 73,
+     "h": 72
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the triad in which the numbers are related in the same way as are the numbers of the given triads. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g., 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (11, 1, 10) (13, 7, 90)",
+   "options": [
+    "(1, 2, 15)",
+    "(4, 5, 19)",
+    "(2, 6, 28)",
+    "(3, 6, 23)"
+   ],
+   "answer": 1,
+   "qid": "630680166391",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three of the following four options are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+   "options": [
+    "88 – 23 – 245",
+    "56 – 31 – 205",
+    "22 – 13 – 85",
+    "18 – 12 – 72"
+   ],
+   "answer": 2,
+   "qid": "630680297318",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option in which the numbers share the same relationship as that shared by the given pair of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) 11 : 62 13 : 64",
+   "options": [
+    "12 : 92",
+    "9 : 59",
+    "14 : 37",
+    "16 : 67"
+   ],
+   "answer": 3,
+   "qid": "630680326560",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged? 49 × 7 – 6 ÷ 8 +13 =",
+   "options": [
+    "42",
+    "37",
+    "43",
+    "32"
+   ],
+   "answer": 0,
+   "qid": "630680337364",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Study the given diagram carefully and answer the question that follows. The numbers in different sections indicate the number of students who like particular subjects. How many students like Hindi and Science both, but NOT Maths?",
+   "options": [
+    "4",
+    "11",
+    "12",
+    "10"
+   ],
+   "answer": 0,
+   "qid": "630680180561",
+   "figures": [
+    {
+     "file": "c4b64707e8540f24.png",
+     "w": 117,
+     "h": 151
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "In this question, three statements are given, followed by two conclusions numbered I and II. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusion(s) logically follows/follow from the statements. Statements: Some shirts are pants. All pants are jackets. All jackets are trousers. Conclusions: I. Some trousers are shirts. II. All jackets are shirts.",
+   "options": [
+    "Only conclusion I follows.",
+    "Only conclusion II follows.",
+    "Both conclusions I and II follow.",
+    "Neither conclusion I nor II follows."
+   ],
+   "answer": 0,
+   "qid": "630680416136",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure from among the given options which when put in place of the question mark (?) will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680296880",
+   "figures": [
+    {
+     "file": "518efd0c45d9aed5.png",
+     "w": 328,
+     "h": 71
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "db1218b369e63b14.png",
+     "w": 82,
+     "h": 82
+    },
+    "1": {
+     "file": "50c32e152013fcf9.png",
+     "w": 81,
+     "h": 82
+    },
+    "2": {
+     "file": "fd1886c3710d5b12.png",
+     "w": 82,
+     "h": 82
+    },
+    "3": {
+     "file": "1e15da71d2281e94.png",
+     "w": 81,
+     "h": 82
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following terms will replace the question mark (?) in the given series? HDLB, LBPZ, PZTX, ? , XVBT",
+   "options": [
+    "TWXC",
+    "TXXV",
+    "TWWV",
+    "TVWC"
+   ],
+   "answer": 1,
+   "qid": "630680416985",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "How many triangles are there in the given figure?",
+   "options": [
+    "5",
+    "4",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "qid": "630680161865",
+   "figures": [
+    {
+     "file": "9bc0a9cdbad242d3.png",
+     "w": 81,
+     "h": 44
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "The sequence of folding a piece of paper and the manner in which the folded paper has been cut is shown in the following figures. How would this paper look when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680105029",
+   "figures": [
+    {
+     "file": "c706ea200dd5a210.png",
+     "w": 328,
+     "h": 95
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "d0f65d422d802f46.png",
+     "w": 110,
+     "h": 105
+    },
+    "1": {
+     "file": "c2da4317ada637c2.png",
+     "w": 112,
+     "h": 104
+    },
+    "2": {
+     "file": "7e983fb02d27024e.png",
+     "w": 113,
+     "h": 107
+    },
+    "3": {
+     "file": "04bcc33cc4fa4689.png",
+     "w": 109,
+     "h": 107
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "The position of how many letters will remain unchanged if each of the letters in the word ‘DRAFTING’ is arranged in the English alphabetical order?",
+   "options": [
+    "None",
+    "One",
+    "Three",
+    "Two"
+   ],
+   "answer": 0,
+   "qid": "630680327759",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that when sequentially placed from left to right in the blanks below will complete the letter series. I _ _ I _ I _ _ I _ J _",
+   "options": [
+    "J I J I J I I",
+    "J I I I J J I",
+    "I J I I J J I",
+    "I I J J J I J"
+   ],
+   "answer": 0,
+   "qid": "630680262380",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "General Awareness",
+   "question": "Which of the following is the largest inhabited riverine island in the world?",
+   "options": [
+    "Lakshadweep",
+    "Peacock",
+    "Majuli",
+    "Bhavani"
+   ],
+   "answer": 2,
+   "qid": "630680309099",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Awareness",
+   "question": "In the Right-Hand Thumb Rule, the thumb is directed towards the direction of:",
+   "options": [
+    "current",
+    "magnetic field",
+    "electric field",
+    "motion of the conductor"
+   ],
+   "answer": 0,
+   "qid": "630680517176",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Awareness",
+   "question": "Which of the following illustrations is related to chloroplasts?",
+   "options": [
+    "c",
+    "b",
+    "d",
+    "a"
+   ],
+   "answer": 0,
+   "qid": "630680305625",
+   "figures": [
+    {
+     "file": "c767d646a0141177.png",
+     "w": 328,
+     "h": 56
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Awareness",
+   "question": "Which is the most important protein component in milk, both quantitatively and nutritionally, that accounts for about 80% of the total protein in bovine milk?",
+   "options": [
+    "Pepsin",
+    "Casein",
+    "Actin",
+    "Albumin"
+   ],
+   "answer": 1,
+   "qid": "630680407428",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Awareness",
+   "question": "Which web portal was launched by the Department of Telecommunications for sharing information on mobile towers and EMF emission compliance?",
+   "options": [
+    "E-Amrit",
+    "Tarang Sanchar",
+    "Namaste",
+    "PM-Daksh"
+   ],
+   "answer": 1,
+   "qid": "630680282834",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Awareness",
+   "question": "Which of the following is Fisher's equation of exchange?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680196517",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "939a74e58bc57c65.png",
+     "w": 61,
+     "h": 17
+    },
+    "1": {
+     "file": "b29d9c1a0b036dde.png",
+     "w": 41,
+     "h": 34
+    },
+    "2": {
+     "file": "dda6d9219d27f26d.png",
+     "w": 63,
+     "h": 20
+    },
+    "3": {
+     "file": "4a4d59cefacfe703.png",
+     "w": 56,
+     "h": 15
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Awareness",
+   "question": "In 1539, the Battle of Chausa was fought between Humayun and ______.",
+   "options": [
+    "Ibrahim Lodhi",
+    "Sikandar Suri",
+    "Sher Shah Suri",
+    "Rana Sanga"
+   ],
+   "answer": 2,
+   "qid": "630680412278",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Awareness",
+   "question": "िन\u0000िल\u0000खत म\u0000 से कौन आमतौर पर मौय\u0000 के अधीन \u0000ांतीय \u0000शासन का नेतृ\u0000 करता था?",
+   "options": [
+    "समाहता\u0000",
+    "कुमार",
+    "दंडपाल",
+    "\u0000श\u0000\u0000"
+   ],
+   "answer": 1,
+   "qid": "630680412436",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Awareness",
+   "question": "Sardhana Christian Fair is held in which of the following states?",
+   "options": [
+    "Haryana",
+    "Uttar Pradesh",
+    "Madhya Pradesh",
+    "West Bengal"
+   ],
+   "answer": 1,
+   "qid": "630680164577",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Awareness",
+   "question": "Ali Akbar Khan was associated with which of the following gharanas?",
+   "options": [
+    "Kirana gharana",
+    "Gwalior gharana",
+    "Agra gharana",
+    "Maihar gharana"
+   ],
+   "answer": 3,
+   "qid": "630680413017",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Awareness",
+   "question": "",
+   "options": [
+    "A-iv, B-i, C-iii, D-ii",
+    "A-i, B-iii, C-ii, D-iv",
+    "A-iii, B-iv, C-i, D-ii",
+    "A-ii, B-i, C-iv, D- iii"
+   ],
+   "answer": 3,
+   "qid": "630680166705",
+   "figures": [
+    {
+     "file": "91104a0b8534f1ed.png",
+     "w": 328,
+     "h": 111
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Awareness",
+   "question": "Which Article of the Indian Constitution mentions that ‘The State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas’?",
+   "options": [
+    "Article 42",
+    "Article 44",
+    "Article 49",
+    "Article 43"
+   ],
+   "answer": 3,
+   "qid": "630680408253",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Awareness",
+   "question": "Which of the following is the most controversial Article in the Indian Constitution, which provides for President’s rule in any state?",
+   "options": [
+    "Article 356",
+    "Article 358",
+    "Article 352",
+    "Article 360"
+   ],
+   "answer": 0,
+   "qid": "630680408186",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "General Awareness",
+   "question": "A dense mass of water drops on smoke or dust particles in the lower atmosphere layers is referred to as:",
+   "options": [
+    "smog",
+    "frost",
+    "blizzard",
+    "mist"
+   ],
+   "answer": 0,
+   "qid": "630680303272",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "General Awareness",
+   "question": "Bhakti Pradeep Kulkarni is associated with ________.",
+   "options": [
+    "cricket",
+    "kabaddi",
+    "chess",
+    "badminton"
+   ],
+   "answer": 2,
+   "qid": "630680309517",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Awareness",
+   "question": "Who among the following was the youngest recipient of the Sangeetha Kalanidhi awarded by the Music Academy in 1947?",
+   "options": [
+    "Bhimsen Joshi",
+    "Ariyakudi Ramanuja Iyengar",
+    "Mallikarjun Bheemarayappa Mansur",
+    "Semmangudi Radhakrishna Srinivasa Iyer"
+   ],
+   "answer": 3,
+   "qid": "630680560764",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Awareness",
+   "question": "In which year was the battle of Buxar fought?",
+   "options": [
+    "1777",
+    "1793",
+    "1764",
+    "1757"
+   ],
+   "answer": 2,
+   "qid": "630680412325",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Awareness",
+   "question": "Which of the following State governments has launched a scheme ‘Ankur’ in May 2021 to promote planting of trees in public, wherein people will be awarded for planting and taking care of the saplings?",
+   "options": [
+    "West Bengal",
+    "Bihar",
+    "Uttarakhand",
+    "Madhya Pradesh"
+   ],
+   "answer": 3,
+   "qid": "630680394944",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Awareness",
+   "question": "Which of the following Acts passed under Warren Hastings was also called ‘half-loaf system’?",
+   "options": [
+    "Pitt’s India Act 1784",
+    "Government of India Act 1858",
+    "Regulating Act 1773",
+    "Charter Act 1813"
+   ],
+   "answer": 0,
+   "qid": "630680511509",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Awareness",
+   "question": "In Newlands’ Octaves, the properties of lithium and ________ were found to be the same.",
+   "options": [
+    "sodium",
+    "beryllium",
+    "aluminium",
+    "magnesium"
+   ],
+   "answer": 0,
+   "qid": "63068094250",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Awareness",
+   "question": "India hosted the Asian Games in which of the following years?",
+   "options": [
+    "1954 and 1982",
+    "1951 and 1986",
+    "1951 and 1982",
+    "1954 and 1986"
+   ],
+   "answer": 2,
+   "qid": "630680510792",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Awareness",
+   "question": "Which of the following movements created regional disparities between large and small farmers in India?",
+   "options": [
+    "Yellow revolution",
+    "Green revolution",
+    "Pink revolution",
+    "Blue revolution"
+   ],
+   "answer": 1,
+   "qid": "630680134788",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Awareness",
+   "question": "What was the main objective of the Second Green Revolution in India?",
+   "options": [
+    "Ensuring food security in the western states",
+    "Focusing on holistic development in agriculture",
+    "Increasing the use of chemical fertilizers and pesticides",
+    "Promoting conventional agricultural practices"
+   ],
+   "answer": 1,
+   "qid": "6306801048048",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Awareness",
+   "question": "Which of the following Articles of the Indian Constitution CANNOT be suspended even during an emergency declared on the grounds of war or external aggression?",
+   "options": [
+    "Articles 15 and 17",
+    "Articles 20 and 21",
+    "Articles 14 and 16",
+    "Articles 30 and 32"
+   ],
+   "answer": 1,
+   "qid": "630680413059",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Awareness",
+   "question": "Elelakkaradi dance of Kerala is performed by which of the following tribes?",
+   "options": [
+    "Mavilan tribe",
+    "Kurumba tribe",
+    "Irular tribe",
+    "Adiyan tribe"
+   ],
+   "answer": 2,
+   "qid": "630680402077",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "Quantitative Aptitude",
+   "question": "Two inlet pipes, P1 and P2, can fill a cistern in 20 hours and 30 hours, respectively. They were opened at the same time, but pipe P1 had to be closed 5 hours before the cistern was full. How many hours in total did it take for the two pipes to fill the cistern?",
+   "options": [
+    "15 hours",
+    "9 hours",
+    "12 hours",
+    "10 hours"
+   ],
+   "answer": 0,
+   "qid": "630680458810",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680397186",
+   "figures": [
+    {
+     "file": "2762d92a124db8e0.png",
+     "w": 204,
+     "h": 12
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "781dba5f07799cc4.png",
+     "w": 12,
+     "h": 9
+    },
+    "1": {
+     "file": "7ed090ee598ca220.png",
+     "w": 22,
+     "h": 9
+    },
+    "2": {
+     "file": "a19bb8b43da1d8be.png",
+     "w": 22,
+     "h": 9
+    },
+    "3": {
+     "file": "a8d6c20bb1a1e61b.png",
+     "w": 12,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "Quantitative Aptitude",
+   "question": "The ratio of boys to girls initial in a college is 5 : 6. If 40 boys leave the college and 50 girls join the college, the ratio will become 8 : 11. Find the number of girls (initial) in the college.",
+   "options": [
+    "740",
+    "640",
+    "720",
+    "860"
+   ],
+   "answer": 2,
+   "qid": "630680428772",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "Quantitative Aptitude",
+   "question": "From a point A, a tangent line is drawn to the circle of radius 7 units. From the same point, a secant is drawn to the circle which cuts the circle at B and C and the point B is near A than C. What is the length of BC in units if the length of the tangent to the circle from point A is 21 units and the length of AB is 14 units?",
+   "options": [
+    "18.5",
+    "16.5",
+    "15.5",
+    "17.5"
+   ],
+   "answer": 3,
+   "qid": "630680297305",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "Quantitative Aptitude",
+   "question": "The given table shows the number of candidates appeared in an interview for different posts (A, B, C, D, E and F). What is the average number of candidates appearing for the posts C, D, E and F?",
+   "options": [
+    "7600",
+    "8000",
+    "7500",
+    "7225"
+   ],
+   "answer": 3,
+   "qid": "630680428138",
+   "figures": [
+    {
+     "file": "565152c55f287c39.png",
+     "w": 166,
+     "h": 180
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "Quantitative Aptitude",
+   "question": "Pranav borrows a sum of ₹598397 at the rate of 20% per annum simple interest. At the end of the first year, he repays ₹24284 towards return of principal amount borrowed. If Pranav clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay (in ₹) at the end of the second year?",
+   "options": [
+    "808615",
+    "812514",
+    "817567",
+    "818513"
+   ],
+   "answer": 0,
+   "qid": "630680809871",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "Quantitative Aptitude",
+   "question": "A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 68. What is the average score of the class?",
+   "options": [
+    "66.6",
+    "63.6",
+    "65.6",
+    "64.6"
+   ],
+   "answer": 2,
+   "qid": "630680566259",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "Quantitative Aptitude",
+   "question": "If the area of a sector of a circle is 462 cm² and the central angle is 120°, then its radius is ____.",
+   "options": [
+    "18 cm",
+    "17 cm",
+    "14 cm",
+    "21 cm"
+   ],
+   "answer": 3,
+   "qid": "630680405655",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "77.5",
+    "75.7",
+    "69.8",
+    "105"
+   ],
+   "answer": 0,
+   "qid": "630680523701",
+   "figures": [
+    {
+     "file": "d669e193b71ab7ff.png",
+     "w": 328,
+     "h": 147
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 2,
+   "qid": "630680397385",
+   "figures": [
+    {
+     "file": "49d70a95a9a9c733.png",
+     "w": 328,
+     "h": 227
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "1e39e434153cf52d.png",
+     "w": 18,
+     "h": 9
+    },
+    "1": {
+     "file": "913e09fe1fa3aa49.png",
+     "w": 12,
+     "h": 9
+    },
+    "2": {
+     "file": "a770ce003b4b5e66.png",
+     "w": 12,
+     "h": 9
+    },
+    "3": {
+     "file": "626bb0c3ef1346dc.png",
+     "w": 18,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680198958",
+   "figures": [
+    {
+     "file": "9f9fefe2f8f195d3.png",
+     "w": 278,
+     "h": 30
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "39027f35904133f2.png",
+     "w": 27,
+     "h": 34
+    },
+    "1": {
+     "file": "f917decb300284dc.png",
+     "w": 23,
+     "h": 32
+    },
+    "2": {
+     "file": "77f378f79c98261d.png",
+     "w": 24,
+     "h": 35
+    },
+    "3": {
+     "file": "ed5d1d33119b8243.png",
+     "w": 26,
+     "h": 34
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "Quantitative Aptitude",
+   "question": "In ΔPQR, if PT is the median, then which of the following is correct?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680198952",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "8285e259f57d63e5.png",
+     "w": 138,
+     "h": 19
+    },
+    "1": {
+     "file": "75df2700343f438f.png",
+     "w": 153,
+     "h": 20
+    },
+    "2": {
+     "file": "fe9127da41471d70.png",
+     "w": 137,
+     "h": 20
+    },
+    "3": {
+     "file": "eba9c888d78e5512.png",
+     "w": 152,
+     "h": 20
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "604",
+    "602",
+    "601",
+    "603"
+   ],
+   "answer": 2,
+   "qid": "630680413525",
+   "figures": [
+    {
+     "file": "ef7b79a13f160cdc.png",
+     "w": 159,
+     "h": 28
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "Quantitative Aptitude",
+   "question": "Which of the following numbers is NOT divisible by 8?",
+   "options": [
+    "5544",
+    "7344",
+    "7497",
+    "4608"
+   ],
+   "answer": 2,
+   "qid": "630680135994",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "600",
+    "240",
+    "480",
+    "360"
+   ],
+   "answer": 2,
+   "qid": "630680523744",
+   "figures": [
+    {
+     "file": "81648a9fbe10f005.png",
+     "w": 328,
+     "h": 239
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "15°",
+    "30°",
+    "45°",
+    "60°"
+   ],
+   "answer": 2,
+   "qid": "630680526472",
+   "figures": [
+    {
+     "file": "90fc6bd419b3e53b.png",
+     "w": 328,
+     "h": 18
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": "630680398084",
+   "figures": [
+    {
+     "file": "446b78eeefcfb943.png",
+     "w": 316,
+     "h": 36
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "def3a99e6d37dcde.png",
+     "w": 44,
+     "h": 9
+    },
+    "1": {
+     "file": "82f7895c83d844a0.png",
+     "w": 32,
+     "h": 9
+    },
+    "2": {
+     "file": "cb3da9fbad7bcec4.png",
+     "w": 33,
+     "h": 9
+    },
+    "3": {
+     "file": "e0145c7822d1307a.png",
+     "w": 30,
+     "h": 9
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "Quantitative Aptitude",
+   "question": "The total surface area of a closed cube is given as 1152 cm2. What is the length (in cm) of each side of the cube?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": "630680421491",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "1cf37efd19851893.png",
+     "w": 40,
+     "h": 18
+    },
+    "1": {
+     "file": "91927155f168da9f.png",
+     "w": 32,
+     "h": 19
+    },
+    "2": {
+     "file": "d7d2128bdb75230c.png",
+     "w": 30,
+     "h": 20
+    },
+    "3": {
+     "file": "d853354014439d2b.png",
+     "w": 31,
+     "h": 20
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "Quantitative Aptitude",
+   "question": "A cooker is marked at ₹12,500. The dealer allows successive discounts of 6%, 6% and 4% on it. What is the net selling price of the cooker?",
+   "options": [
+    "₹12,320.60",
+    "₹10,306",
+    "₹10,603.20",
+    "₹12,230"
+   ],
+   "answer": 2,
+   "qid": "630680217286",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "Quantitative Aptitude",
+   "question": "A thief is spotted by a policeman from a distance of 195 metres. When the policeman starts the chase, the thief also starts running. If the speed of the thief is 22 km/h and that of the policeman is 27 km/h, then how far would the thief have run (in m) before he is overtaken?",
+   "options": [
+    "858",
+    "958",
+    "951",
+    "825"
+   ],
+   "answer": 0,
+   "qid": "630680428653",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "Quantitative Aptitude",
+   "question": "For the equations ax + (a2 + 1)y = 4 and 4x + ay = a2, which of the following statements is TRUE?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": "630680183199",
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "ab349ec7479c13ff.png",
+     "w": 237,
+     "h": 24
+    },
+    "1": {
+     "file": "f50f1d5196ff03d2.png",
+     "w": 258,
+     "h": 26
+    },
+    "2": {
+     "file": "6e405f65b1683746.png",
+     "w": 258,
+     "h": 22
+    },
+    "3": {
+     "file": "9fd7dc91c30d2348.png",
+     "w": 283,
+     "h": 28
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "Quantitative Aptitude",
+   "question": "In a kite ABCD, longer diagonal BD is drawn. If ∠ABD = 54°and ∠ADB = 50°, then what is the measure (in degrees) of the ∠DCB?",
+   "options": [
+    "108",
+    "100",
+    "54",
+    "76"
+   ],
+   "answer": 3,
+   "qid": "630680526543",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "Quantitative Aptitude",
+   "question": "Three candidates X, Y and Z participated in an election. X got 30% more votes than Y, whereas Z got 25% more votes than Y. X also overtook Z by 5000 votes. If 71% of the voters voted and no invalid votes were cast, then what was the total number of voters in the voting list?",
+   "options": [
+    "5,00,000",
+    "4,50,000",
+    "3,55,000",
+    "4,05,000"
+   ],
+   "answer": 0,
+   "qid": "630680428042",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "Quantitative Aptitude",
+   "question": "",
+   "options": [
+    "18",
+    "36",
+    "24",
+    "27"
+   ],
+   "answer": 3,
+   "qid": "630680413548",
+   "figures": [
+    {
+     "file": "736548b3e0f40697.png",
+     "w": 328,
+     "h": 29
+    }
+   ],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 1,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Appreciate",
+   "options": [
+    "Acknowledge",
+    "Depreciate",
+    "Depict",
+    "Esteem"
+   ],
+   "answer": 1,
+   "qid": "630680380477",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "English Comprehension",
+   "question": "Identify the INCORRECTLY spelt word in the following sentence and select its correct spelling from the given options. The occurence of this phenomenon is quite rare.",
+   "options": [
+    "occurrence",
+    "occurance",
+    "occerence",
+    "occurrance"
+   ],
+   "answer": 0,
+   "qid": "630680409942",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. The school will hire new teachers.",
+   "options": [
+    "New teachers will join the school.",
+    "New teachers are hired by the school.",
+    "New teachers will be hired by the school.",
+    "The school will be hiring new teachers."
+   ],
+   "answer": 2,
+   "qid": "630680415220",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Magnificent",
+   "options": [
+    "Sacred",
+    "Scared",
+    "Splendid",
+    "Slow"
+   ],
+   "answer": 2,
+   "qid": "630680130679",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to fill in the blank. The US ________ building was built in the year 1800.",
+   "options": [
+    "captain",
+    "capitol",
+    "capital",
+    "cannibal"
+   ],
+   "answer": 1,
+   "qid": "630680170364",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "English Comprehension",
+   "question": "Parts of the following sentence have been given as options. Select the option that contains an error. In some countries, you are not able to drink until you are 21.",
+   "options": [
+    "until you are 21.",
+    "able to drink",
+    "you are not",
+    "In some countries,"
+   ],
+   "answer": 1,
+   "qid": "630680296377",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "English Comprehension",
+   "question": "Select the term which means the same as the given group of words. A continuing unpleasant situation, created when one problem causes another problem that then makes the first problem worse",
+   "options": [
+    "Round cycle",
+    "Repetitive cycle",
+    "Vicious cycle",
+    "Enclosed cycle"
+   ],
+   "answer": 2,
+   "qid": "630680374334",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "English Comprehension",
+   "question": "Select the option that corrects the error in the given sentence. She sings good.",
+   "options": [
+    "better",
+    "goodly",
+    "best",
+    "well"
+   ],
+   "answer": 3,
+   "qid": "630680514391",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Select the option that arranges the parts in the correct sequence to form a meaningful sentence. (P) society benefits from diversity (Q) enriching cultures and (O) by fostering understanding and empathy (R) perspectives from around the world",
+   "options": [
+    "QPRO",
+    "POQR",
+    "ROQP",
+    "RPOQ"
+   ],
+   "answer": 1,
+   "qid": "630680380984",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Lack of interest, enthusiasm or concern",
+   "options": [
+    "Apathy",
+    "Antipathy",
+    "Sympathy",
+    "Empathy"
+   ],
+   "answer": 0,
+   "qid": "630680414760",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. The study of ancient things such as art, graves, ruins etc.",
+   "options": [
+    "Astrology",
+    "Meteorology",
+    "Archaeology",
+    "Geology"
+   ],
+   "answer": 2,
+   "qid": "630680129473",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence. No sooner did Mr. Piyahri Mishra finish his chemistry lecture that the students began to leave.",
+   "options": [
+    "than the students began to leave.",
+    "then the students began to leave.",
+    "so the students began to leave.",
+    "and the students began to leave."
+   ],
+   "answer": 0,
+   "qid": "630680153520",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. An utter state of confusion",
+   "options": [
+    "Chaos",
+    "Pathos",
+    "Innuendos",
+    "Engross"
+   ],
+   "answer": 0,
+   "qid": "630680405390",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 14,
+   "section": "English Comprehension",
+   "question": "Select the INCORRECTLY spelt word.",
+   "options": [
+    "Cemetery",
+    "Occurrence",
+    "Beggining",
+    "Interrupt"
+   ],
+   "answer": 2,
+   "qid": "630680380997",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 15,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Miraculous",
+   "options": [
+    "Expected",
+    "Average",
+    "Incredible",
+    "Draining"
+   ],
+   "answer": 2,
+   "qid": "630680158622",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. After reflecting on the matter regarding his boss’s selfish attitude, Raju decided to force himself to perform an unpleasant action in a difficult situation in order to resolve the matter.",
+   "options": [
+    "dodge the bullet",
+    "ignore the bullet",
+    "bite the bullet",
+    "shoot the bullet"
+   ],
+   "answer": 2,
+   "qid": "630680316366",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate ANTONYM of the given word. Absolve",
+   "options": [
+    "Appeal",
+    "Accuse",
+    "Excuse",
+    "Commend"
+   ],
+   "answer": 1,
+   "qid": "630680377992",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. Meenakshi could have sent a reply.",
+   "options": [
+    "A reply could have been send by Meenakshi.",
+    "A reply could have be sent by Meenakshi.",
+    "A reply could have been sent by Meenakshi.",
+    "A reply could have sent by Meenakshi."
+   ],
+   "answer": 2,
+   "qid": "630680374746",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Beseech",
+   "options": [
+    "Impart",
+    "Implore",
+    "Bequeath",
+    "Pamper"
+   ],
+   "answer": 1,
+   "qid": "630680295955",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. A person who has supreme power or authority",
+   "options": [
+    "Foreign",
+    "Secular",
+    "Diversity",
+    "Sovereign"
+   ],
+   "answer": 3,
+   "qid": "630680414780",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Augmented reality and virtual reality are two types of reality technologies that either augment or replace a real-world environment with a (1)________ one. In augmented reality, a virtual environment coexists (2)________ the actual world, to be instructive and offer more data about the real world that a user can access without having to search. When a handset is pointed at a piece of malfunctioning (3)________, for example, industrial AR apps might provide rapid troubleshooting information. Virtual reality is a (4)________ environmental simulation that completely replaces the user's surroundings with a totally virtual world. For example, VR may provide a user with a box containing a cartoon (5)________ of Mike Tyson in a virtual boxing ring.\n\nSelect the most appropriate option to fill in blank number 1.",
+   "options": [
+    "revealed",
+    "simulated",
+    "catered",
+    "suffocated"
+   ],
+   "answer": 1,
+   "qid": "630680177223",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Augmented reality and virtual reality are two types of reality technologies that either augment or replace a real-world environment with a (1)________ one. In augmented reality, a virtual environment coexists (2)________ the actual world, to be instructive and offer more data about the real world that a user can access without having to search. When a handset is pointed at a piece of malfunctioning (3)________, for example, industrial AR apps might provide rapid troubleshooting information. Virtual reality is a (4)________ environmental simulation that completely replaces the user's surroundings with a totally virtual world. For example, VR may provide a user with a box containing a cartoon (5)________ of Mike Tyson in a virtual boxing ring.\n\nSelect the most appropriate option to fill in blank number 2.",
+   "options": [
+    "beyond",
+    "with",
+    "along",
+    "behind"
+   ],
+   "answer": 1,
+   "qid": "630680177224",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Augmented reality and virtual reality are two types of reality technologies that either augment or replace a real-world environment with a (1)________ one. In augmented reality, a virtual environment coexists (2)________ the actual world, to be instructive and offer more data about the real world that a user can access without having to search. When a handset is pointed at a piece of malfunctioning (3)________, for example, industrial AR apps might provide rapid troubleshooting information. Virtual reality is a (4)________ environmental simulation that completely replaces the user's surroundings with a totally virtual world. For example, VR may provide a user with a box containing a cartoon (5)________ of Mike Tyson in a virtual boxing ring.\n\nSelect the most appropriate option to fill in blank number 3.",
+   "options": [
+    "equipment",
+    "baggage",
+    "outfit",
+    "arsenal"
+   ],
+   "answer": 0,
+   "qid": "630680177225",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Augmented reality and virtual reality are two types of reality technologies that either augment or replace a real-world environment with a (1)________ one. In augmented reality, a virtual environment coexists (2)________ the actual world, to be instructive and offer more data about the real world that a user can access without having to search. When a handset is pointed at a piece of malfunctioning (3)________, for example, industrial AR apps might provide rapid troubleshooting information. Virtual reality is a (4)________ environmental simulation that completely replaces the user's surroundings with a totally virtual world. For example, VR may provide a user with a box containing a cartoon (5)________ of Mike Tyson in a virtual boxing ring.\n\nSelect the most appropriate option to fill in blank number 4.",
+   "options": [
+    "comprehensive",
+    "transgressive",
+    "conclusive",
+    "reprehensive"
+   ],
+   "answer": 0,
+   "qid": "630680177226",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "English Comprehension",
+   "question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Augmented reality and virtual reality are two types of reality technologies that either augment or replace a real-world environment with a (1)________ one. In augmented reality, a virtual environment coexists (2)________ the actual world, to be instructive and offer more data about the real world that a user can access without having to search. When a handset is pointed at a piece of malfunctioning (3)________, for example, industrial AR apps might provide rapid troubleshooting information. Virtual reality is a (4)________ environmental simulation that completely replaces the user's surroundings with a totally virtual world. For example, VR may provide a user with a box containing a cartoon (5)________ of Mike Tyson in a virtual boxing ring.\n\nSelect the most appropriate option to fill in blank number 5.",
+   "options": [
+    "rendition",
+    "glossary",
+    "network",
+    "resistance"
+   ],
+   "answer": 0,
+   "qid": "630680177227",
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

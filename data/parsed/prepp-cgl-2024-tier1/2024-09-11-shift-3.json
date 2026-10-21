@@ -1,0 +1,1746 @@
+{
+ "meta": {
+  "layout": "typed",
+  "tier": 1,
+  "year": 2024,
+  "date": "2024-09-11",
+  "shift": 3,
+  "answerSource": "typed-key",
+  "exam": "SSC CGL 2024 Tier I",
+  "site": "prepp.in",
+  "url": "https://cdn-images.prepp.in/public/image/SSC_CGL_2024_Tier_1_Shift_3_Question_Paper_with_Answer_Key_PDF_Sept_11_2024__9741a5e706c82ac9ec23eb47c0f02797.pdf"
+ },
+ "questions": [
+  {
+   "number": 1,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the correct mirror image of the given figure when the mirror is placed at MN.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [
+    {
+     "file": "7142a6985a2f0afd.png",
+     "w": 73,
+     "h": 18
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "76dba4eefff00ab1.png",
+     "w": 109,
+     "h": 77
+    },
+    "1": {
+     "file": "4e4eace6f1eecc26.png",
+     "w": 70,
+     "h": 20
+    },
+    "2": {
+     "file": "f195aea5d423b3c6.png",
+     "w": 74,
+     "h": 17
+    },
+    "3": {
+     "file": "184d61f83ff47733.png",
+     "w": 71,
+     "h": 19
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 2,
+   "section": "General Intelligence and Reasoning",
+   "question": "A paper is folded and cut as shown below. How will it appear when unfolded?",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [
+    {
+     "file": "40465e4542b5da91.png",
+     "w": 58,
+     "h": 60
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "c7b2460aa795fb4b.png",
+     "w": 361,
+     "h": 112
+    },
+    "1": {
+     "file": "8a9dfceab4527eef.png",
+     "w": 58,
+     "h": 56
+    },
+    "2": {
+     "file": "43869ac6f49c9f8a.png",
+     "w": 114,
+     "h": 112
+    },
+    "3": {
+     "file": "b84652880a91e38c.png",
+     "w": 114,
+     "h": 113
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 3,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 304 × 19 − 101 + 23 ÷ 5 = ?",
+   "options": [
+    "21",
+    "12",
+    "2",
+    "6"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 4,
+   "section": "General Intelligence and Reasoning",
+   "question": "The same operation(s) are followed in all the given number pairs except one. Find that odd number pair. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.)",
+   "options": [
+    "56 : 9",
+    "44 : 7",
+    "68 : 11",
+    "72 : 12"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 5,
+   "section": "General Intelligence and Reasoning",
+   "question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: Some rats are mouse. No mouse is a rodent. Some rats are kittens. Conclusions: I. No rodent is a kitten. II. Some rats are rodent. III. No kitten is a mouse.",
+   "options": [
+    "Only conclusion III follows",
+    "Only conclusion II follows",
+    "Neither conclusion follows",
+    "Only conclusion I follows"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 6,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two different positions of the same dice with faces R, P, T, S, M, and B are shown below. Select the letter that will be on the face opposite to the one having S.",
+   "options": [
+    "B",
+    "T",
+    "M",
+    "R"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "1a0741046425009b.png",
+     "w": 104,
+     "h": 39
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 7,
+   "section": "General Intelligence and Reasoning",
+   "question": "Four letter-clusters have been given, out of which three are alike in some manner, and one is different. Select the one that is different. Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.",
+   "options": [
+    "ONM",
+    "BCD",
+    "RST",
+    "JKL"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 8,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the combination of letters that, when sequentially placed in the blanks of the given series, will logically complete the series. BYN_J_YNF_X_NFJVY_FJ",
+   "options": [
+    "FZJYN",
+    "FNJYV",
+    "FZYVJ",
+    "FJZNY"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 9,
+   "section": "General Intelligence and Reasoning",
+   "question": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? 164 − 173 ÷ 110 + 140 × 5 = ?",
+   "options": [
+    "19616",
+    "11619",
+    "19166",
+    "11916"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 10,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language: R + T means ‘R is the sister of T’. R − T means ‘R is the father of T’. R * T means ‘R is the wife of T’. R ÷ T means ‘R is the mother of T’. Based on the above, how is M related to Q if M * N − P + Q ÷ R + T?",
+   "options": [
+    "Mother’s mother",
+    "Mother",
+    "Sister",
+    "Mother’s sister"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 11,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, ‘MAN’ is coded as ‘15316’ and ‘SHE’ is coded as ‘21107’. How will ‘OUT’ be coded in that language?",
+   "options": [
+    "152120",
+    "172121",
+    "172322",
+    "152222"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 12,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the Venn diagram that best illustrates the relationship between the following classes: Men, Engineers, and Fathers",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "275e116b7cb45ad1.png",
+     "w": 104,
+     "h": 79
+    },
+    "1": {
+     "file": "15c2a626c15ce88b.png",
+     "w": 99,
+     "h": 77
+    },
+    "2": {
+     "file": "7bdaf9407c939a29.png",
+     "w": 103,
+     "h": 79
+    },
+    "3": {
+     "file": "ec195847b59a1dd1.png",
+     "w": 104,
+     "h": 81
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 13,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the figure from among the given options which, when put in place of the question mark (?), will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "e6d36b9a5b1d6ea8.png",
+     "w": 442,
+     "h": 93
+    },
+    "3": {
+     "file": "fa9cd6971b833965.png",
+     "w": 95,
+     "h": 94
+    }
+   },
+   "incomplete": true
+  },
+  {
+   "number": 14,
+   "section": "General Intelligence and Reasoning",
+   "question": "Identify the figure given in the options which, when put in place of the question mark (?), will logically complete the series.",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "f5bc99b2404e7f70.png",
+     "w": 448,
+     "h": 100
+    }
+   },
+   "incomplete": true
+  },
+  {
+   "number": 15,
+   "section": "General Intelligence and Reasoning",
+   "question": "Which of the following numbers will replace the question mark (?) in the given series? 12, 25, 49, ?, 197, 395",
+   "options": [
+    "100",
+    "121",
+    "99",
+    "96"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 16,
+   "section": "General Intelligence and Reasoning",
+   "question": "All of the letters in the word ‘JUNGLE’ are arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter which is second from the left end and the one which is third from the right end in the new letter-cluster thus formed?",
+   "options": [
+    "Three",
+    "Two",
+    "Five",
+    "Four"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 17,
+   "section": "General Intelligence and Reasoning",
+   "question": "What is the number of triangles in the following figure?",
+   "options": [
+    "10",
+    "11",
+    "8",
+    "9"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {
+    "0": {
+     "file": "0feddd47b033062f.png",
+     "w": 102,
+     "h": 92
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 18,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster. OUR : NPTVQS : : BIG : ACHJFH : : FOR : ?",
+   "options": [
+    "EGNPQS",
+    "GENPRS",
+    "EGNOQR",
+    "GEPNSQ"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 19,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the word pair that best represents a similar relationship to the one expressed in the pair of words given below: Calcium : Osteomalacia",
+   "options": [
+    "Stomach : Blindness",
+    "Iron : Anaemia",
+    "Heart : Cardiovascular",
+    "Lungs : Tuberculosis"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 20,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option in which the numbers share the same relationship as that shared by the given pair of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.) 17 : 253 19 : 271",
+   "options": [
+    "21 : 289",
+    "23 : 207",
+    "31 : 400",
+    "32 : 387"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 21,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option figure in which the given figure (X) is embedded (rotation is NOT allowed).",
+   "options": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [
+    {
+     "file": "d92079fe13c87d77.png",
+     "w": 94,
+     "h": 93
+    }
+   ],
+   "optionFigures": {
+    "0": {
+     "file": "83f6d49941dd2b60.png",
+     "w": 104,
+     "h": 91
+    },
+    "1": {
+     "file": "7329f2e05bfe7eb1.png",
+     "w": 94,
+     "h": 91
+    },
+    "2": {
+     "file": "d6d111ac91c37964.png",
+     "w": 95,
+     "h": 90
+    },
+    "3": {
+     "file": "faa191962de4d8ba.png",
+     "w": 92,
+     "h": 94
+    }
+   },
+   "incomplete": false
+  },
+  {
+   "number": 22,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the set in which the numbers are related in the same way as are the numbers of the following set: (66, 57, 48) (94, 85, 76) (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.)",
+   "options": [
+    "(85, 77, 64)",
+    "(81, 72, 63)",
+    "(98, 90, 83)",
+    "(79, 70, 59)"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 23,
+   "section": "General Intelligence and Reasoning",
+   "question": "In a certain code language, BRING is coded as ‘7149182’ and SMILE is coded as ‘51291319’. What will be the code for FORGIVE?",
+   "options": [
+    "5229179156",
+    "5228717156",
+    "5219717166",
+    "5229718156"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 24,
+   "section": "General Intelligence and Reasoning",
+   "question": "Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number result(s) in the second number. Similarly, certain mathematical operation(s) on the second number result(s) in the third number, and so on. Which of the given options follows the same set of operations as in the given sets? (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits.) 14 – 196 – 186 – 172; 15 – 225 – 215 – 200",
+   "options": [
+    "9 – 81 – 71 – 62",
+    "3 – 9 – 19 – 14",
+    "8 – 64 – 54 – 40",
+    "6 – 36 – 26 – 22"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 25,
+   "section": "General Intelligence and Reasoning",
+   "question": "Select the option that represents the letters that, when sequentially placed from left to right in the blanks below, will complete the letter series: R F _ G T R _ V G _ R F V _ T _ F V G T",
+   "options": [
+    "VFTGR",
+    "VFTGG",
+    "VTTGR",
+    "VFVGR"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 26,
+   "section": "General Awareness",
+   "question": "Who developed the theory of combustion as a chemical reaction with oxygen in the 18th century, that excluded phlogiston theory?",
+   "options": [
+    "Antoine Lavoisier",
+    "Robert Boyle",
+    "Friedrich Wöhler",
+    "Johann Becher"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 27,
+   "section": "General Awareness",
+   "question": "What do we mean by Allen’s rule?",
+   "options": [
+    "Mammals from colder climates generally have shorter ears and limbs to minimise heat loss.",
+    "Desert lizards lack the physiological ability that mammals have to deal with the high temperatures of their habitat.",
+    "Some plants have no leaves – they are reduced to spines – and the photosynthetic function is taken over by the flattened stems.",
+    "The body compensates low oxygen availability by increasing red blood cell production, decreasing the binding affinity of haemoglobin and by increasing the breathing rate."
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 28,
+   "section": "General Awareness",
+   "question": "Which of the following schemes enables students mobility across Higher Education Institutions?",
+   "options": [
+    "National Educational Technology Forum",
+    "PM Umeed scheme",
+    "Structured Assessment for Analysing Learning Levels (SAFAL)",
+    "Academic Bank of Credits"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 29,
+   "section": "General Awareness",
+   "question": "Which of the following Constitutions inspired the law-making process in India?",
+   "options": [
+    "Irish Constitution",
+    "British Constitution",
+    "US Constitution",
+    "Canadian Constitution"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 30,
+   "section": "General Awareness",
+   "question": "Which of the following definitions best describes the concept of microfinance?",
+   "options": [
+    "A microfinance institution is a company registered under the Companies Act, 1956, and engaged in the business of loans and advances and acquisition of shares/stocks/bonds/debentures/securities issued by the government.",
+    "Microfinance is a banking service provided to unemployed or low- income individuals or groups, who otherwise would have no other access to financial services.",
+    "A microfinance institution is a digital-only and mobile-first bank.",
+    "Microfinance refers to providing banking services to individuals living in rural areas."
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 31,
+   "section": "General Awareness",
+   "question": "Ernest Rutherford used about ________ thick gold foil for alpha scattering experiments.",
+   "options": [
+    "500 atoms",
+    "1000 atoms",
+    "900 atoms",
+    "700 atoms"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 32,
+   "section": "General Awareness",
+   "question": "In May 2022, Then President Ram Nath Kovind appointed _________ as the Lieutenant Governor of Delhi.",
+   "options": [
+    "Kiran Bedi",
+    "Anil Baijal",
+    "Vijai Kapoor",
+    "Vinai Kumar Saxena"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 33,
+   "section": "General Awareness",
+   "question": "How many players are there on each side of the Kabaddi Team in the field?",
+   "options": [
+    "9",
+    "7",
+    "8",
+    "10"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 34,
+   "section": "General Awareness",
+   "question": "Which of the following events took place in the United Provinces in February, 1922?",
+   "options": [
+    "Quit India",
+    "Chauri Chaura",
+    "Khilafat Movement",
+    "Kakori Incident"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 35,
+   "section": "General Awareness",
+   "question": "The Mahalanobis model was the basis for which Five-Year Plan?",
+   "options": [
+    "Fourth Five-Year Plan",
+    "Second Five-Year Plan",
+    "Sixth Five-Year Plan",
+    "First Five-Year Plan"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 36,
+   "section": "General Awareness",
+   "question": "In which state of India was the Neeru-Meeru programme introduced for construction of water harvesting structures?",
+   "options": [
+    "Andhra Pradesh",
+    "Rajasthan",
+    "Uttar Pradesh",
+    "Punjab"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 37,
+   "section": "General Awareness",
+   "question": "Lata Mangeshkar was honoured with the Bharat Ratna in the year ________.",
+   "options": [
+    "2001",
+    "2003",
+    "2004",
+    "2002"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 38,
+   "section": "General Awareness",
+   "question": "In which of the following districts of Rajasthan are the ‘Barchans’ found?",
+   "options": [
+    "Udaipur",
+    "Jaisalmer",
+    "Bhilwara",
+    "Alwar"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 39,
+   "section": "General Awareness",
+   "question": "Which of the following types of unemployment is found in India when people are employed for a certain period of a year in tourist resorts and various tourism-related activities in the mountain regions, but are unemployed in off-seasons?",
+   "options": [
+    "Seasonal unemployment",
+    "Under employment",
+    "Disguised unemployment",
+    "Cyclical unemployment"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 40,
+   "section": "General Awareness",
+   "question": "When was the Jawaharlal Nehru Manipur Dance Academy established?",
+   "options": [
+    "1951",
+    "1953",
+    "1954",
+    "1952"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 41,
+   "section": "General Awareness",
+   "question": "‘Poush Mela’ is a unique festival celebrated in which of the following Indian states?",
+   "options": [
+    "Uttar Pradesh",
+    "Himachal Pradesh",
+    "West Bengal",
+    "Madhya Pradesh"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 42,
+   "section": "General Awareness",
+   "question": "According to which of the following foreign travellers, people of Delhi used to write letters containing abuses to the Sultan, therefore, in order to punish them Sultan decided to shift the capital?",
+   "options": [
+    "Isami",
+    "Hasan Nizami",
+    "Ibn Batuta",
+    "Al Biruni"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 43,
+   "section": "General Awareness",
+   "question": "In 2022, which of the following railway stations has been selected for the ‘One Station One Product’ scheme launched by Indian Railways, which identifies Kanchipuram sarees as the chosen product?",
+   "options": [
+    "Howrah",
+    "Visakhapatnam",
+    "Chennai Central",
+    "Patna Jn"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 44,
+   "section": "General Awareness",
+   "question": "With reference to Morley-Minto Reforms of 1909, consider the following statements: a) They are also called the Indian Councils Act, 1909. b) They increased the strength of Legislative Councils. c) The right to separate electorate was given to the Muslims. Which of the above statements is/are correct?",
+   "options": [
+    "b, c",
+    "a, b, c",
+    "c, a",
+    "a, b"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 45,
+   "section": "General Awareness",
+   "question": "How long will a sound wave take to travel 1.5km, which has a frequency of 5 kHz and wavelength of 6 cm?",
+   "options": [
+    "2.5 seconds",
+    "50 seconds",
+    "5 seconds",
+    "25 seconds"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 46,
+   "section": "General Awareness",
+   "question": "Which Article of the Constitution of India deals with the conduct of business of the Government of a state?",
+   "options": [
+    "Article 177",
+    "Article 167",
+    "Article 164",
+    "Article 166"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 47,
+   "section": "General Awareness",
+   "question": "Hariprasad Chaurasia, an Indian flutist in the Hindustani classical tradition, was awarded with which of the following awards in 2000?",
+   "options": [
+    "Padma Shri",
+    "Padma Vibhushan",
+    "Bharat Ratna",
+    "Padma Bhushan"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 48,
+   "section": "General Awareness",
+   "question": "Which of the following terms is NOT related to cricket?",
+   "options": [
+    "Wide Ball",
+    "Wicket",
+    "No Ball",
+    "Deuce"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 49,
+   "section": "General Awareness",
+   "question": "Vasudeva I who issued coins in gold (dinars and quarter dinars) and copper (single denomination) was a _________ king.",
+   "options": [
+    "Shunga",
+    "Vakataka",
+    "Shaka",
+    "Kushana"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 50,
+   "section": "General Awareness",
+   "question": "What is the reason for the similar size of the vascular bundle in monocot leaves?",
+   "options": [
+    "Cubical venation",
+    "Radial venation",
+    "Rectangular venation",
+    "Parallel venation"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 51,
+   "section": "Quantitative Aptitude",
+   "question": "Naman bought few apples for ₹720 from a shop. He negotiated the price and the shopkeeper reduced it by ₹2 per apple. Due to this, Naman could buy four more apples than what he had bought earlier. How many apples did he originally buy?",
+   "options": [
+    "48",
+    "44",
+    "36",
+    "40"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 52,
+   "section": "Quantitative Aptitude",
+   "question": "The tank is filled by three pipes with different uniform flow rates. While the first two pipes are operating simultaneously, they fill the tank in the same duration that the third pipe takes to fill it alone. The second pipe can fill the tank 5 hours quicker than the first pipe, yet 4 hours slower than the third pipe. What is the time (in hours) needed for the first pipe to fill the tank?",
+   "options": [
+    "18",
+    "12",
+    "9",
+    "15 1 1"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 53,
+   "section": "Quantitative Aptitude",
+   "question": "In a △ABC, if ⁄ ∠A + ∠B + ∠C = 120°, then the value of ⁄ ∠A is: 2 4",
+   "options": [
+    "(1) 20°",
+    "(2) 40°",
+    "(3) 60°",
+    "(4) 30°"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 54,
+   "section": "Quantitative Aptitude",
+   "question": "Sohan borrows a sum of ₹1,41,545 at the rate of 11% per annum simple interest. At the end of the first year, he repays ₹25,490 towards return of principal amount borrowed. If Sohan clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay (in ₹) at the end of the second year?",
+   "options": [
+    "1,44,391",
+    "1,36,453",
+    "1,41,222",
+    "1,37,407"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 55,
+   "section": "Quantitative Aptitude",
+   "question": "The table given here represents the distance (in km) travelled by two athletes X and Y in the same direction: Hour Distance Travelled by X (km) Distance Travelled by Y (km) 1st 25 30 2nd 35 45 rd 3 40 40 4th 35 30 5th 50 35 Y's average speed (km/hour) during the first five hours is:",
+   "options": [
+    "33",
+    "31",
+    "34",
+    "32"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 56,
+   "section": "Quantitative Aptitude",
+   "question": "Express sin 74° + tan 74° in terms of trigonometric ratios of angles between 0° and 45°.",
+   "options": [
+    "sec 16° + cot 16°",
+    "cosec 16° + sec 16°",
+    "cosec 16° + cot 16°",
+    "cos 16° + cot 16°"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 57,
+   "section": "Quantitative Aptitude",
+   "question": "A cuboid of dimensions 50 cm, 150 cm, 175 cm can be divided into how many identical largest cubes?",
+   "options": [
+    "75",
+    "84",
+    "85",
+    "90"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 58,
+   "section": "Quantitative Aptitude",
+   "question": "The given table shows the number of bananas produced by five farms over 4 years: Year Farm L Farm M Farm N Farm O Farm P 2020 17,500 14,180 16,300 17,405 15,805 2021 11,200 13,900 14,600 15,304 16,207 2022 12,300 17,652 14,800 15,150 16,404 2023 14,650 15,558 17,465 14,185 15,450 What is the respective ratio of the dozens of bananas produced by farm M to farm P in the year 2022?",
+   "options": [
+    "1471 : 1367",
+    "1230 : 1331",
+    "1367 : 1471",
+    "1331 : 1230"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 59,
+   "section": "Quantitative Aptitude",
+   "question": "If Ram purchases a fan, he gets 8% discount. However, if he purchases three fans, he gets 6% on the first, 10% on the second, and 12% on the third. If the price paid by Ram for three fans is ₹6,800, then what will be the marked price of each fan?",
+   "options": [
+    "₹2,400",
+    "₹2,500",
+    "₹2,450",
+    "₹2,550"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 60,
+   "section": "Quantitative Aptitude",
+   "question": "A boat can go 54 km upstream in 6 hours. If the speed of the stream is 4.8 km/h, then how much time (in hours) will the boat take to cover a distance of 279 km downstream?",
+   "options": [
+    "20",
+    "15",
+    "18",
+    "16"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 61,
+   "section": "Quantitative Aptitude",
+   "question": "P and Q are centres of two circles whose radii are 7 cm and 3 cm, respectively. If the direct common tangents to the circles meet PQ extended at A, then A divides PQ _________.",
+   "options": [
+    "externally in the ratio 3 : 7",
+    "internally in the ratio 3 : 7",
+    "externally in the ratio 7 : 3",
+    "internally in the ratio 7 : 3"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 62,
+   "section": "Quantitative Aptitude",
+   "question": "Consider the given table for total imports of goods of 5 companies over 5 years (in lakhs), and answer the question that follows: Year R S T U V 2012 60 40 15 45 25 2013 30 60 70 15 45 2014 51 25 55 100 110 2015 45 51 20 70 65 2016 24 35 60 55 125 If the total exports of all companies together in the year 2013 is ₹300 lakh, then the profit/loss of all companies together in the year 2013 is: (Assume: Profit = Exports − Imports)",
+   "options": [
+    "loss of ₹27 lakh",
+    "loss of ₹18 lakh",
+    "profit of ₹30 lakh",
+    "profit of ₹35 lakh"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 63,
+   "section": "Quantitative Aptitude",
+   "question": "Simplify the following expression: 3 9 2 ( ⁄ a + 3a)( ⁄ a2 − 9 + 9a ) if a = 1.",
+   "options": [
+    "27",
+    "63",
+    "81",
+    "54"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 64,
+   "section": "Quantitative Aptitude",
+   "question": "The percentage distribution of expenditure over various items of Saloni's monthly income is given in the following table. Study the table carefully and answer the question that follows: Items Percentage Distribution Rent 30% Food 20% Education 25% Bills 20% Miscellaneous 5% If Saloni's monthly income is ₹75,000, how much money (in ₹) does she spend on Rent and Education?",
+   "options": [
+    "42,150",
+    "43,250",
+    "40,150",
+    "41,250 1 2 1"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 65,
+   "section": "Quantitative Aptitude",
+   "question": "If x + ⁄ = 3, then the value of 9x + ⁄ 9x2 is: 9x",
+   "options": [
+    "87",
+    "81",
+    "77",
+    "79"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 66,
+   "section": "Quantitative Aptitude",
+   "question": "Find the gain percentage, given that Siddhi sold her scooter for ₹31,902 1 gaining ⁄ of the selling price. 6",
+   "options": [
+    "20%",
+    "30%",
+    "25%",
+    "5%"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 67,
+   "section": "Quantitative Aptitude",
+   "question": "A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 74. What is the average score of the class?",
+   "options": [
+    "70.2",
+    "69.2",
+    "68.2",
+    "67.2 2 2"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 68,
+   "section": "Quantitative Aptitude",
+   "question": "If p sin A − cos A = 1, then p − (1 + p ) cos A equals:",
+   "options": [
+    "1",
+    "-1",
+    "2",
+    "0"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 69,
+   "section": "Quantitative Aptitude",
+   "question": "What is the ratio of the mean proportional of 1.21 and 0.09 with the mean proportional of 0.16 and 0.36?",
+   "options": [
+    "11 : 8",
+    "13 : 8",
+    "13 : 12",
+    "11 : 13"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 70,
+   "section": "Quantitative Aptitude",
+   "question": "Replace * by the smallest digit so that 723*56* is divisible by 6.",
+   "options": [
+    "4",
+    "3",
+    "2",
+    "1"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 71,
+   "section": "Quantitative Aptitude",
+   "question": "Consider a triangle PQR, right-angled at R, in which PQ = 29 units, QR = 21 2 2 units, and ∠PQR = θ. Find the value of cos θ − sin θ. 21",
+   "options": [
+    "⁄ 841",
+    "1 20",
+    "⁄ 841 41",
+    "⁄ 841"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 72,
+   "section": "Quantitative Aptitude",
+   "question": "In a △LMN, ∠L = 118° and LM = LN. Find ∠N.",
+   "options": [
+    "42°",
+    "31°",
+    "65°",
+    "62° 2"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 73,
+   "section": "Quantitative Aptitude",
+   "question": "A woman spends ⁄ of her income. If her income increases by 18% and 3 her expenditure increases by 24%, then the percentage increase in her savings will be:",
+   "options": [
+    "1.6%",
+    "3%",
+    "5%",
+    "4%"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 74,
+   "section": "Quantitative Aptitude",
+   "question": "In ∆ABC, two medians AD and BE intersect at G at right angles. If AD = 12 cm and BE = 9 cm, then the length of AB is equal to:",
+   "options": [
+    "14 cm",
+    "16 cm",
+    "12 cm",
+    "10 cm 4 3 1 2 4"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 75,
+   "section": "Quantitative Aptitude",
+   "question": "Simplify: ⁄ × ⁄ + (3 ⁄ − ⁄ ) × ⁄ 5 8 2 3 5 15",
+   "options": [
+    "⁄ 77 77",
+    "⁄ 15 3",
+    "⁄ 10 10",
+    "⁄ 3"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 76,
+   "section": "English Comprehension",
+   "question": "Select the correctly spelt word to fill in the blank. All the chefs in the world are famous because of their _____________ skills.",
+   "options": [
+    "kulinary",
+    "kolinary",
+    "culinary",
+    "colinary"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 77,
+   "section": "English Comprehension",
+   "question": "Select the option that will improve the underlined part of the given sentence. When I saw him, I will ask him to return the book he borrowed.",
+   "options": [
+    "shall see him",
+    "have seen him",
+    "had seen him",
+    "see him"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 78,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Paramount",
+   "options": [
+    "inferior",
+    "collateral",
+    "supreme",
+    "trivial"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 79,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the given group of words. Failing to give proper care and attention",
+   "options": [
+    "Lax",
+    "Cautious",
+    "Wild",
+    "Provident"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 80,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate antonym of the given word. Brittle",
+   "options": [
+    "Crunchy",
+    "Resilient",
+    "Delicate",
+    "Aloof"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 81,
+   "section": "English Comprehension",
+   "question": "Select the option that can be used as a one-word substitute for the underlined group of words. Out of those group members, Rohan is the one who opposes others, no matter what they tell him.",
+   "options": [
+    "antagonist",
+    "agonist",
+    "anatomist",
+    "protagonist"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 82,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in active voice. The letter was being typed by the secretary when the phone rang.",
+   "options": [
+    "The secretary will type the letter when the phone rings.",
+    "The secretary types the letter when the phone rings.",
+    "The secretary was typing the letter when the phone rang.",
+    "The secretary is typing the letter when the phone rings."
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 83,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. A dime a dozen",
+   "options": [
+    "Variety of amenities",
+    "Something common and not special",
+    "Very wealthy",
+    "A fair trade"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 84,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the given word. Expertise",
+   "options": [
+    "Proficiency",
+    "Ignorance",
+    "Clumsiness",
+    "Lack"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 85,
+   "section": "English Comprehension",
+   "question": "In the following sentence, four words are underlined out of which one word is misspelt. Identify the INCORRECTLY spelt word. I took out a water tumbler (A) for a drink, but found the water in the metal container (B) had frozen so I couldn't quanch (C) my thirst. I ate some biscuits and offered (D) some to Hillary.",
+   "options": [
+    "C",
+    "D",
+    "B",
+    "A"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 86,
+   "section": "English Comprehension",
+   "question": "Parts of a sentence are given below in jumbled order. Select the option that arranges the parts in the correct sequence to form a meaningful sentence. (P) an open mind (Q) seek it with (O) for personal growth and development (R) knowledge is a powerful tool",
+   "options": [
+    "PQRO",
+    "ORPQ",
+    "QROP",
+    "ROQP"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 87,
+   "section": "English Comprehension",
+   "question": "Parts of the following sentence have been given as options. Select the option that contains an error. Solutions to the country’s interior problems are still a long way away.",
+   "options": [
+    "problems are still",
+    "a long way away.",
+    "Solutions to",
+    "the country’s interior"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 88,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate antonym of the underlined word in the given sentence. Success is not a destination, it’s a journey.",
+   "options": [
+    "Sensation",
+    "Opulence",
+    "Victory",
+    "Failure"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 89,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the bold word in the following sentence. His eloquent speech always persuades people to work for their betterment.",
+   "options": [
+    "Vague",
+    "Inarticulate",
+    "Articulate",
+    "Short"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 90,
+   "section": "English Comprehension",
+   "question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph. A. A big fancy dress ball was arranged to celebrate their homecoming. B. It must have been a terrible shock for a young girl. C. They had been married a month, just home from their honeymoon. D. Just as the guests were starting to arrive, Charnley locked himself into his bedroom and shot himself.",
+   "options": [
+    "BCDA",
+    "ABCD",
+    "BCAD",
+    "DACB"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 91,
+   "section": "English Comprehension",
+   "question": "Select the option that expresses the given sentence in passive voice. He must deliver pizza.",
+   "options": [
+    "Pizza has to be delivered by him.",
+    "Pizza have to be delivered by him.",
+    "Pizza must be delivered by him.",
+    "Pizza can be delivered by him."
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 92,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate synonym of the word in brackets to fill in the blank. The ________(crux) of his argument was that education should continue throughout life.",
+   "options": [
+    "essence",
+    "proposal",
+    "etiquette",
+    "draft"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 93,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate option to substitute the underlined segment in the given sentence. She believed she had been blamed for the mistakes of others for what happened.",
+   "options": [
+    "Made a sceptic",
+    "Made a scapegoat",
+    "Made a spinster",
+    "Made a savage"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 94,
+   "section": "English Comprehension",
+   "question": "Select the most appropriate meaning of the given idiom. Nobody’s fool",
+   "options": [
+    "Not easily deceived",
+    "The wisest person",
+    "A complete fool",
+    "All are fools"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 95,
+   "section": "English Comprehension",
+   "question": "The following sentence has been split into four segments. Identify the segment that contains an error. They secret / decided / to leave / the town.",
+   "options": [
+    "They secret",
+    "decided",
+    "the town",
+    "to leave"
+   ],
+   "answer": 0,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 96,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Now, we have Mr. X as the President of India. It has come as a surprise (1)______ Scheduled Tribes who are (2)______ the most marginalised groups of the country. The Adivasis of India have been (3)______ socially, economically and culturally. Despite various efforts taken by the Government of India, they are still under (4)______ and suffering. Therefore, the (5)______ a leader from a marginalised community or group does not indicate that now the entire community will be uplifted. However, this kind of move may bring certain changes in the status of the Adivasis. Select the most appropriate option to fill in blank no.1.",
+   "options": [
+    "off",
+    "in",
+    "to",
+    "at"
+   ],
+   "answer": 2,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 97,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Now, we have Mr. X as the President of India. It has come as a surprise (1)______ Scheduled Tribes who are (2)______ the most marginalised groups of the country. The Adivasis of India have been (3)______ socially, economically and culturally. Despite various efforts taken by the Government of India, they are still under (4)______ and suffering. Therefore, the (5)______ a leader from a marginalised community or group does not indicate that now the entire community will be uplifted. However, this kind of move may bring certain changes in the status of the Adivasis. Select the most appropriate option to fill in blank no.2.",
+   "options": [
+    "through",
+    "therefore",
+    "onto",
+    "among"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 98,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Now, we have Mr. X as the President of India. It has come as a surprise (1)______ Scheduled Tribes who are (2)______ the most marginalised groups of the country. The Adivasis of India have been (3)______ socially, economically and culturally. Despite various efforts taken by the Government of India, they are still under (4)______ and suffering. Therefore, the (5)______ a leader from a marginalised community or group does not indicate that now the entire community will be uplifted. However, this kind of move may bring certain changes in the status of the Adivasis. Select the most appropriate option to fill in blank no.3.",
+   "options": [
+    "censored",
+    "marginalised",
+    "elevated",
+    "uplifted"
+   ],
+   "answer": 1,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 99,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Now, we have Mr. X as the President of India. It has come as a surprise (1)______ Scheduled Tribes who are (2)______ the most marginalised groups of the country. The Adivasis of India have been (3)______ socially, economically and culturally. Despite various efforts taken by the Government of India, they are still under (4)______ and suffering. Therefore, the (5)______ a leader from a marginalised community or group does not indicate that now the entire community will be uplifted. However, this kind of move may bring certain changes in the status of the Adivasis. Select the most appropriate option to fill in blank no.4.",
+   "options": [
+    "abundance",
+    "forest",
+    "river",
+    "poverty"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  },
+  {
+   "number": 100,
+   "section": "English Comprehension",
+   "question": "Comprehension: In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Now, we have Mr. X as the President of India. It has come as a surprise (1)______ Scheduled Tribes who are (2)______ the most marginalised groups of the country. The Adivasis of India have been (3)______ socially, economically and culturally. Despite various efforts taken by the Government of India, they are still under (4)______ and suffering. Therefore, the (5)______ a leader from a marginalised community or group does not indicate that now the entire community will be uplifted. However, this kind of move may bring certain changes in the status of the Adivasis. Select the most appropriate option to fill in blank no.5.",
+   "options": [
+    "rejection of",
+    "president of",
+    "exclusion of",
+    "elevation of Answers"
+   ],
+   "answer": 3,
+   "qid": null,
+   "figures": [],
+   "optionFigures": {},
+   "incomplete": false
+  }
+ ]
+}

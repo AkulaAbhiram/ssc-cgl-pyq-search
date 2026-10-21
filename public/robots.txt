@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sscpyq.in/sitemap.xml
+Sitemap: https://ssc-cgl-pyq.netlify.app/sitemap.xml

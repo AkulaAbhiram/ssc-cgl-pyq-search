@@ -3,7 +3,7 @@ import { Platform, Pressable, ScrollView, StyleSheet, Text, View, type ViewStyle
 import { Link, router } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { colors, MAX_WIDTH, sectionColors } from '@/theme';
-import { PLAY_URL, SITE_NAME } from '@/config';
+import { SITE_NAME } from '@/config';
 import { sectionLabel } from '@/data/store';
 
 const isWeb = Platform.OS === 'web';
@@ -55,12 +55,12 @@ function WebHeader() {
   );
 }
 
-// Web only: sends visitors to the Play Store listing.
+// Web only: offers the Android app as a direct APK download.
 export function AppBanner() {
   return (
     <View style={styles.banner}>
-      <Text style={styles.bannerText}>Search PYQs faster in the Android app</Text>
-      <Link href={PLAY_URL} target="_blank" style={styles.bannerButton}>
+      <Text style={styles.bannerText}>Search PYQs offline in the free Android app</Text>
+      <Link href="/download" style={styles.bannerButton}>
         Get the app
       </Link>
     </View>
