@@ -1,0 +1,128 @@
+{
+  "sample": true,
+  "count": 35,
+  "firstYear": 2022,
+  "lastYear": 2025,
+  "topics": [
+    {
+      "section": "ga",
+      "slug": "indian-polity",
+      "label": "Indian polity",
+      "count": 3
+    },
+    {
+      "section": "quant",
+      "slug": "speed-time-and-distance",
+      "label": "Speed, time and distance",
+      "count": 3
+    },
+    {
+      "section": "reasoning",
+      "slug": "analogy",
+      "label": "Analogy",
+      "count": 2
+    },
+    {
+      "section": "english",
+      "slug": "antonyms",
+      "label": "Antonyms",
+      "count": 2
+    },
+    {
+      "section": "reasoning",
+      "slug": "coding-decoding",
+      "label": "Coding-decoding",
+      "count": 2
+    },
+    {
+      "section": "ga",
+      "slug": "geography",
+      "label": "Geography",
+      "count": 2
+    },
+    {
+      "section": "ga",
+      "slug": "history",
+      "label": "History",
+      "count": 2
+    },
+    {
+      "section": "english",
+      "slug": "idioms-and-phrases",
+      "label": "Idioms and phrases",
+      "count": 2
+    },
+    {
+      "section": "reasoning",
+      "slug": "number-series",
+      "label": "Number series",
+      "count": 2
+    },
+    {
+      "section": "english",
+      "slug": "one-word-substitution",
+      "label": "One word substitution",
+      "count": 2
+    },
+    {
+      "section": "quant",
+      "slug": "percentage",
+      "label": "Percentage",
+      "count": 2
+    },
+    {
+      "section": "quant",
+      "slug": "profit-and-loss",
+      "label": "Profit and loss",
+      "count": 2
+    },
+    {
+      "section": "english",
+      "slug": "synonyms",
+      "label": "Synonyms",
+      "count": 2
+    },
+    {
+      "section": "reasoning",
+      "slug": "blood-relations",
+      "label": "Blood relations",
+      "count": 1
+    },
+    {
+      "section": "reasoning",
+      "slug": "direction-sense",
+      "label": "Direction sense",
+      "count": 1
+    },
+    {
+      "section": "ga",
+      "slug": "economy",
+      "label": "Economy",
+      "count": 1
+    },
+    {
+      "section": "ga",
+      "slug": "general-science",
+      "label": "General science",
+      "count": 1
+    },
+    {
+      "section": "quant",
+      "slug": "simple-interest",
+      "label": "Simple interest",
+      "count": 1
+    },
+    {
+      "section": "english",
+      "slug": "spelling",
+      "label": "Spelling",
+      "count": 1
+    },
+    {
+      "section": "quant",
+      "slug": "time-and-work",
+      "label": "Time and work",
+      "count": 1
+    }
+  ]
+}

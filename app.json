@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ssc-cgl-search",
+    "name": "SSC CGL PYQ search",
     "slug": "ssc-cgl-search",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,10 +16,17 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "in.sscpyq.app"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/favicon.png",
+      "output": "static",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "sscpyq"
   }
 }
